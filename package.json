@@ -4,10 +4,10 @@
   "homepage": "https://github.com/hipo/university-domains-list",
   "description": "List of allowed university domains",
   "main": "world_universities_and_domains.json",
-  "lisence": "UNLICENSED",
+  "license": "UNLICENSED",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/RyanWhite04/university-domains-list.git"
+    "url": "https://github.com/hipo/university-domains-list.git"
   }
 }
