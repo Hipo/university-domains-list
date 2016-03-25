@@ -1,9 +1,11 @@
-University Domains and Names List
+University Domains and Names API
 =================================
 
-A JSON list that contains domains, names and countries of most of the universities of the world.
+An API and JSON list contains domains, names and countries of most of the universities of the world.
+-----------------------------------
 
-It is very useful if you are building a web service for students.
+
+Provides a search endpoint you can search for an autocomplete for university name or/and filter by country.
 
 You can easily create a validation script that checks the email domain. You can also automatically generate a user's country and university by looking their emails.
 
@@ -11,14 +13,78 @@ NOTE: Some university use a format like '[user]@[department].[domain]', but this
 
 Feel free to update the list.
 
-Example Bundle
---------------
+==================================
 
-```bash
-{
-    "web_page": "http://www.sabanciuniv.edu/",
-    "country": "Turkey",
-    "domain": "sabanciuniv.edu",
-    "name": "Sabancı University"
-}
-```
+API Search Endpoint
+-------------
+
+### Request
+    /search?name=Middle
+
+
+### Response
+    [
+    {
+    web_page: "http://www.meu.edu.jo/",
+    country: "Jordan",
+    domain: "meu.edu.jo",
+    name: "Middle East University"
+    },
+    {
+    web_page: "http://www.odtu.edu.tr/",
+    country: "Turkey",
+    domain: "odtu.edu.tr",
+    name: "Middle East Technical University"
+    },
+    {
+    web_page: "http://www.mtsu.edu/",
+    country: "USA",
+    domain: "mtsu.edu",
+    name: "Middle Tennessee State University"
+    },
+    {
+    web_page: "http://www.mga.edu/",
+    country: "USA",
+    domain: "mga.edu",
+    name: "Middle Georgia State College"
+    },
+    {
+    web_page: "http://www.mdx.ac.uk/",
+    country: "United Kingdom",
+    domain: "mdx.ac.uk",
+    name: "Middlesex University"
+    },
+    {
+    web_page: "http://www.middlebury.edu/",
+    country: "USA",
+    domain: "middlebury.edu",
+    name: "Middlebury College"
+    }
+    ]
+
+### Request
+    /search?name=Middle&country=Turkey
+
+
+### Response
+    [
+    {
+    web_page: "http://www.odtu.edu.tr/",
+    country: "Turkey",
+    domain: "odtu.edu.tr",
+    name: "Middle East Technical University"
+    }
+    ]
+
+
+Run the Project
+----------------
+
+- Clone Project 
+`git clone https://github.com/vargi/university-domains-list.git`
+- Setup and activate your virtual environment
+- Install requirements
+`pip install -r requirements.txt`
+- Run server `python app.py`
+
+-------------------
