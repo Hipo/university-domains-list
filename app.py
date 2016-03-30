@@ -27,6 +27,12 @@ def search():
 
     return json.dumps(filtered)
 
+@app.route('/')
+def index():
+    data = {'author': {'name': 'hipo', 'website': 'http://hipolabs.com'},
+            'example': 'http://universities.hipolabs.com/search?name=middle&country=tr',
+            'github': 'https://github.com/Hipo/university-domains-list'}
+    return json.dumps(data)
 
 if __name__ == "__main__":
     json_data=open("world_universities_and_domains.json").read()
