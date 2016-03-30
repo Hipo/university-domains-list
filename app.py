@@ -30,7 +30,7 @@ def search():
 @app.route('/')
 def index():
     data = {'author': {'name': 'hipo', 'website': 'http://hipolabs.com'},
-            'example': 'http://universities.hipolabs.com/search?name=middle&country=tr',
+            'example': 'http://universities.hipolabs.com/search?name=middle&country=Turkey',
             'github': 'https://github.com/Hipo/university-domains-list'}
     return json.dumps(data)
 
