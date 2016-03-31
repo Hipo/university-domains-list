@@ -15,6 +15,15 @@ Feel free to update the list.
 
 ==================================
 
+SEARCH FROM OUR PUBLIC API
+-----------------
+
+    http://universities.hipolabs.com
+    
+    http://universities.hipolabs.com/search?name=middle
+    
+    http://universities.hipolabs.com/search?name=middle&country=turkey
+    
 API Search Endpoint
 -------------
 

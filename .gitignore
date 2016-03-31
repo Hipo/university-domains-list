@@ -2,3 +2,4 @@
 env/
 .idea
 *.pyc
+.conf
