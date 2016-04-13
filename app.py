@@ -2,6 +2,7 @@ import json
 from collections import defaultdict
 from flask import Flask, request
 from pytrie import Trie
+import uuid
 
 app = Flask(__name__)
 
@@ -42,7 +43,9 @@ def load_data():
     data = json.loads(json_data)
     for i in data:
         country_index[i["country"].lower()].append(i)
-        name_index[i["name"].lower()] = i
+        name_index[i['name'].lower()] = i
+        for splitted_name in i['name'].split(' '):
+            name_index[splitted_name.lower() + str(uuid.uuid1())] = i
     prefix_tree = Trie(**name_index)
 
     data_loaded = True
