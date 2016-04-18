@@ -44,8 +44,10 @@ def load_data():
     for i in data:
         country_index[i["country"].lower()].append(i)
         name_index[i['name'].lower()] = i
-        for splitted_name in i['name'].split(' '):
-            name_index[splitted_name.lower() + str(uuid.uuid1())] = i
+        splitted = i['name'].split(" ")
+        if len(splitted) > 1:
+            for splitted_name in splitted[1:]:
+                name_index[splitted_name.lower() + str(uuid.uuid1())] = i
     prefix_tree = Trie(**name_index)
 
     data_loaded = True
