@@ -9900,13 +9900,6 @@
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "abu.az",
-      "name": "Azerbaijan International University",
-      "web_page": "http://www.abu.az/"
-  },
-  {
-      "alpha_two_code": "AZ",
-      "country": "Azerbaijan",
       "domain": "ada.edu.az",
       "name": "Azerbaijan Diplomatic Academy",
       "web_page": "http://www.ada.edu.az/"
@@ -9914,15 +9907,50 @@
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "adna.jis.az",
-      "name": "Azerbaijan State Oil Academy",
-      "web_page": "http://adna.jis.az/"
+      "domain": "adau.edu.az",
+      "name": "Azerbaijan State Agricultural Academy",
+      "web_page": "http://www.adau.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "ascca.gov.az",
+      "name": "Azerbaijan State Customs Committee Academy",
+      "web_page": "http://www.ascca.gov.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "asoiu.edu.az",
+      "name": "Azerbaijan State University of Oil and Industry",
+      "web_page": "http://www.asoiu.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "adda.edu.az",
+      "name": "Azerbaijan State Marine Academy",
+      "web_page": "http://www.adda.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "adpu.edu.az",
+      "name": "Azerbaijan State Pedagogic University",
+      "web_page": "http://www.adpu.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "azmiu.edu.az",
+      "name": "Azerbaijan University of Architecture and Construction",
+      "web_page": "http://www.azmiu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
       "domain": "adu.edu.az",
-      "name": "Azerbaijan University ol Languages",
+      "name": "Azerbaijan University of Languages",
       "web_page": "http://www.adu.edu.az/"
   },
   {
@@ -9930,14 +9958,21 @@
       "country": "Azerbaijan",
       "domain": "amu.edu.az",
       "name": "Azerbaijan Medical University",
-      "web_page": "http://www.amu.edu.az/"
+      "web_page": "http://amu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "aseu.az",
-      "name": "Azerbaijan State Economic University",
-      "web_page": "http://www.aseu.az/"
+      "domain": "unec.edu.az",
+      "name": "Azerbaijan State University of Economics",
+      "web_page": "http://unec.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "admiu.edu.az",
+      "name": "Azerbaijan State University of Culture and Arts",
+      "web_page": "http://www.admiu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
@@ -9956,30 +9991,30 @@
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "aztu.az",
-      "name": "Azerbaijan Technical University",
-      "web_page": "http://www.aztu.az/"
-  },
-  {
-      "alpha_two_code": "AZ",
-      "country": "Azerbaijan",
       "domain": "aztu.edu.az",
-      "name": "Azerbaijan Technology University",
+      "name": "Azerbaijan Technical University",
       "web_page": "http://www.aztu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
+      "domain": "musicacademy.edu.az",
+      "name": "Baku Academy of Music",
+      "web_page": "http://www.musicacademy.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
       "domain": "bbu.edu.az",
-      "name": "Baki Business University",
+      "name": "Baku Business University",
       "web_page": "http://www.bbu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "bsu.az",
+      "domain": "bsu.edu.az",
       "name": "Baku State University",
-      "web_page": "http://www.bsu.az/"
+      "web_page": "http://bsu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
@@ -9999,15 +10034,15 @@
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
       "domain": "dia.edu.az",
-      "name": "Academy of Public Administration",
+      "name": "The Academy of Public Administration",
       "web_page": "http://www.dia.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "gsu.az",
+      "domain": "gdu.edu.az",
       "name": "Ganja State University",
-      "web_page": "http://www.gsu.az/"
+      "web_page": "http://gdu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
@@ -10022,6 +10057,13 @@
       "domain": "lsu.edu.az",
       "name": "Lankaran State University",
       "web_page": "http://www.lsu.edu.az/"
+  },
+  {
+      "alpha_two_code": "AZ",
+      "country": "Azerbaijan",
+      "domain": "mdu.edu.az",
+      "name": "Mingechevir State University",
+      "web_page": "http://www.mdu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
@@ -10054,16 +10096,16 @@
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
-      "domain": "qafqaz.edu.az",
+      "domain": "qu.edu.az",
       "name": "Qafqaz University",
-      "web_page": "http://www.qafqaz.edu.az/"
+      "web_page": "http://www.qu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
       "country": "Azerbaijan",
       "domain": "sdu.edu.az",
       "name": "Sumgait State University",
-      "web_page": "http://www.sdu.edu.az/"
+        "web_page": "http://www.sdu.edu.az/"
   },
   {
       "alpha_two_code": "AZ",
