@@ -1,99 +1,77 @@
-University Domains and Names API
-=================================
+# University Domains and Names Data List & API
 
-An API and JSON list contains domains, names and countries of most of the universities of the world.
------------------------------------
+Do you need a list of universites and their domain names? You found it! 
+This package includes a JSON file that contains domains, names and countries of most of the universities of the world. 
+You can easily create a validation script that checks the email domain. 
+You can also automatically generate a user's country and university by looking at their emails.
 
-
-Provides a search endpoint you can search for an autocomplete for university name or/and filter by country.
-
-You can easily create a validation script that checks the email domain. You can also automatically generate a user's country and university by looking their emails.
-
-NOTE: Some university use a format like '[user]@[department].[domain]', but this list only contains the [domain] portion. For example, an email address might be [student]@cs.usc.edu, and this list will contain 'usc.edu', the domain for the University of Southern California. Take this into consideration if using this list for email address validation.
-
-Feel free to update the list.
-
-==================================
-
-SEARCH FROM OUR PUBLIC API
------------------
-
-    http://universities.hipolabs.com
-    
-    http://universities.hipolabs.com/search?name=middle
-    
-    http://universities.hipolabs.com/search?name=middle&country=turkey
-    
-API Search Endpoint
--------------
-
-### Request
-    /search?name=Middle
+You can use this data source in three ways:
+ - Use the JSON file as your data source and do whatever you like with your favourite programming language.
+ - Use our free hosted-API.
+ - Use the tiny Python app to serve a superfast API that you can query data.
 
 
-### Response
-    [
-    {
-    web_page: "http://www.meu.edu.jo/",
-    country: "Jordan",
-    domain: "meu.edu.jo",
-    name: "Middle East University"
-    },
-    {
-    web_page: "http://www.odtu.edu.tr/",
-    country: "Turkey",
-    domain: "odtu.edu.tr",
-    name: "Middle East Technical University"
-    },
-    {
-    web_page: "http://www.mtsu.edu/",
-    country: "USA",
-    domain: "mtsu.edu",
-    name: "Middle Tennessee State University"
-    },
-    {
-    web_page: "http://www.mga.edu/",
-    country: "USA",
-    domain: "mga.edu",
-    name: "Middle Georgia State College"
-    },
-    {
-    web_page: "http://www.mdx.ac.uk/",
-    country: "United Kingdom",
-    domain: "mdx.ac.uk",
-    name: "Middlesex University"
-    },
-    {
-    web_page: "http://www.middlebury.edu/",
-    country: "USA",
-    domain: "middlebury.edu",
-    name: "Middlebury College"
-    }
-    ]
+## 1 - Using the Data Source
 
-### Request
-    /search?name=Middle&country=Turkey
+The whole data source is located in the world_universities_and_domains.json file. It is just a list of dictionaries in following format:
+
+	[
+		...
+		{
+		    "alpha_two_code": "TR",
+		    "country": "Turkey",
+		    "domain": "sabanciuniv.edu.tr",
+		    "name": "Sabanci University",
+		    "web_page": "http://www.sabanciuniv.edu.tr/"
+		},
+		...
+	]
 
 
-### Response
-    [
-    {
-    web_page: "http://www.odtu.edu.tr/",
-    country: "Turkey",
-    domain: "odtu.edu.tr",
-    name: "Middle East Technical University"
-    }
-    ]
+NOTE: Some universities use a format like '[user]@[department].[domain].edu', but this list only contains the [domain] portion. 
+For example, an email address might be [student]@cs.usc.edu, and this list will contain 'usc.edu', the domain for the 
+University of Southern California. Take this into consideration if using this list for email address validation.
+
+### 2 - Using our Hosted API
+
+This is the easiest method if you're making a small project or just want to discover the data without any hassle.
+It is sponsored by (Hipo)[www.hipolabs.com] and free. If you have a big project, please host it on your own server.
+
+Some example searches:
+
+http://universities.hipolabs.com
+http://universities.hipolabs.com/search?name=middle
+http://universities.hipolabs.com/search?name=middle&country=turkey
 
 
-Run the Project
-----------------
+## 3 - Using the built-in API on your server
 
-- Clone Project 
-`git clone https://github.com/vargi/university-domains-list.git`
-- Setup and activate your virtual environment
-- Install requirements
-`pip install -r requirements.txt`
-- Run server `python app.py`
+The package also contains a small python project that is fast search endpoint. 
+It provides a search endpoint you can use for an autocomplete for university name or/and filter by country.
 
--------------------
+### Instalation
+	git clone https://github.com/hipo/university-domains-list.git
+	pip install -r requirements.txt
+	python app.py
+
+# Contribution
+Please contribute to this list. It is extremely easy. Just edit the JSON file and open a PR. 
+You can start by checking the universities of your country or the ones that you know and fix it if you see any wrong data.
+
+# Contributors
+
+ - Yiğit Güler
+ - Tuna Vargı
+ - Patrick Michelberger
+ - Barricadenick
+ - Rasim Demirbay
+ - Ryan White
+ - Bilal Arslan
+ - anwilli5
+ - Thomas Bauer
+ - Emin Mastizada
+ - Jai
+ - Jimi Ford
+ - Lars Schwegmann
+
+# Created, and hosted by (Hipo)[www.hipolabs.com]
