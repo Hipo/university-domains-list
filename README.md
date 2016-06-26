@@ -13,9 +13,9 @@ You can use this data source in three ways:
  - Use the tiny Python app to serve a superfast API that you can query data.
 
 
-## 1 - Using the Data Source
+### 1 - Using the Data Source
 
-The whole data source is located in the `world_universities_and_domains.json` file. It is just a list of dictionaries in following format:
+The whole data source is located in the `world_universities_and_domains.json` file. It is just a list of dictionaries in the following format:
 
 	[
 		...
@@ -46,19 +46,19 @@ Some example searches:
  - http://universities.hipolabs.com/search?name=middle&country=turkey
 
 
-## 3 - Using the built-in API on your server
+### 3 - Using the built-in API on your server
 
 The package contains a small python project that provides a fast search endpoint. 
 You can use it for making an autocomplete for university names or filtering them by country.
 
-### Instalation
+#### Instalation
 	git clone https://github.com/hipo/university-domains-list.git
 	pip install -r requirements.txt
 	python app.py
 
 # Contribution
 Please contribute to this list! We need your support to keep this list up-to-date.
-If you see any wrong data, do not hesitate to fix it. It is extremely easy. Just open a PR, or create an issue. 
+Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or create an issue. 
 
 # Contributors
 
@@ -76,4 +76,4 @@ If you see any wrong data, do not hesitate to fix it. It is extremely easy. Just
  - Jimi Ford
  - Lars Schwegmann
 
-# [Hipo](http://www.hipolabs.com)
+### Created and maintained by [Hipo](http://www.hipolabs.com)
