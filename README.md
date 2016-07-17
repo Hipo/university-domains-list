@@ -31,7 +31,7 @@ The whole data source is located in the `world_universities_and_domains.json` fi
 	]
 
 
-NOTE: Some universities use a format like `[user]@[department].[domain].edu`, but this list only contains the `[domain]` portion. 
+NOTE: Some universities use a format like `[user]@[department].[domain]`, but this list only contains the `[domain]` portion. 
 For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the 
 University of Southern California. Take this into consideration if using this list for email address validation.
 
