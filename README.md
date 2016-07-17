@@ -8,7 +8,13 @@ This package includes a JSON file that contains domains, names and countries of 
  - You can automatically generate a user's country and university by looking at their emails.
 
 
-# Using the Data Source
+You can use this data source in three ways:
+ - Use the JSON file as your data source and do whatever you like with your favourite programming language.
+ - Use free hosted-API.
+ - Use the tiny Python app to serve a fast API that you can query data.
+
+
+### 1 - Using the Data Source
 
 The whole data source is located in the `world_universities_and_domains.json` file. It is just a list of dictionaries in the following format:
 
@@ -29,9 +35,23 @@ NOTE: Some universities use a format like `[user]@[department].[domain].edu`, bu
 For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the 
 University of Southern California. Take this into consideration if using this list for email address validation.
 
-# Hosted Python API
+### 2 - Using Hosted API
 
-Please access the hosted python API via [university-domains-list-api](https://github.com/Hipo/university-domains-list-api)
+This is the easiest method if you're making a small project or just want to discover the data without any hassle.
+It is sponsored by [Hipo](http://www.hipolabs.com) and free. If you have a big project, please host it on your own server.
+
+Some example searches:
+
+ - http://universities.hipolabs.com
+ - http://universities.hipolabs.com/search?name=middle
+ - http://universities.hipolabs.com/search?name=middle&country=turkey
+
+The hosted API uses [university-domains-list-api](https://github.com/Hipo/university-domains-list-api) package.
+
+
+### 3 - Using the built-in API on your server
+
+You can access the python API via [university-domains-list-api](https://github.com/Hipo/university-domains-list-api)
 
 # Contribution
 Please contribute to this list! We need your support to keep this list up-to-date.
