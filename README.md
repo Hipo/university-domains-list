@@ -1,7 +1,6 @@
 # University Domains and Names Data List & API
 
-Do you need a list of universites and their domain names? You found it! 
-
+Do you need a list of universities and their domain names? You found it! 
 
 This package includes a JSON file that contains domains, names and countries of most of the universities of the world.
  - You can create a validation script that checks the email domain. 
