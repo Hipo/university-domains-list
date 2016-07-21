@@ -2,6 +2,13 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "tcnj.edu",
+      "name": "The College of New Jersey",
+      "web_page": "http://www.tcnj.edu"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "acu.edu",
       "name": "Abilene Christian University",
       "web_page": "http://www.acu.edu/"
