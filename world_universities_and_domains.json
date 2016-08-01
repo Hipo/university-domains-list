@@ -55353,6 +55353,13 @@
   {
       "alpha_two_code": "TR",
       "country": "Turkey",
+      "domain": "odu.edu.tr",
+      "name": "Ordu University",
+      "web_page": "http://www.odu.edu.tr"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
       "domain": "ozyegin.edu.tr",
       "name": "Ozyegin University",
       "web_page": "http://www.ozyegin.edu.tr/"
