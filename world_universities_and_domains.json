@@ -55066,13 +55066,6 @@
   {
       "alpha_two_code": "TR",
       "country": "Turkey",
-      "domain": "fatih.edu.tr",
-      "name": "Fatih University",
-      "web_page": "http://www.fatih.edu.tr/"
-  },
-  {
-      "alpha_two_code": "TR",
-      "country": "Turkey",
       "domain": "firat.edu.tr",
       "name": "Firat (Euphrates) University",
       "web_page": "http://www.firat.edu.tr/"
@@ -55090,13 +55083,6 @@
       "domain": "gazi.edu.tr",
       "name": "Gazi University Ankara",
       "web_page": "http://www.gazi.edu.tr/"
-  },
-  {
-      "alpha_two_code": "TR",
-      "country": "Turkey",
-      "domain": "gediz.edu.tr",
-      "name": "Gediz University",
-      "web_page": "http://www.gediz.edu.tr/"
   },
   {
       "alpha_two_code": "TR",
@@ -55312,7 +55298,7 @@
       "alpha_two_code": "TR",
       "country": "Turkey",
       "domain": "mu.edu.tr",
-      "name": "Mugla University",
+      "name": "Mugla Sitki Kocman University",
       "web_page": "http://www.mu.edu.tr/"
   },
   {
@@ -55445,7 +55431,7 @@
       "alpha_two_code": "TR",
       "country": "Turkey",
       "domain": "yasar.edu.tr",
-      "name": "Iasar University",
+      "name": "Yasar University",
       "web_page": "http://www.yasar.edu.tr/"
   },
   {
@@ -58604,5 +58590,624 @@
       "domain": "zou.ac.zw",
       "name": "Zimbabwe Open University",
       "web_page": "http://www.zou.ac.zw/"
-  }
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "agu.edu.tr",
+      "name": "Abdullah Gul University",
+      "web_page": "http://www.agu.edu.tr/"
+  },
+    {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "adanabtu.edu.tr",
+      "name": "Adana Science and Technology University",
+      "web_page": "http://www.agu.edu.tr/"
+  },
+    {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "adiyaman.edu.tr",
+      "name": "Adiyaman University",
+      "web_page": "http://www.adiyaman.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "agri.edu.tr",
+      "name": "Agri İbrahim Cecen University",
+      "web_page": "http://www.agri.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "aksaray.edu.tr",
+      "name": "Aksaray University",
+      "web_page": "http://www.aksaray.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "alanyaaku.edu.tr",
+      "name": "Alanya Alaaddin Keykubat University",
+      "web_page": "http://www.alanyaaku.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "amasya.edu.tr",
+      "name": "Amasya University",
+      "web_page": "http://www.amasya.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "asbu.edu.tr",
+      "name": "Ankara Social Science University",
+      "web_page": "http://www.asbu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "ardahan.edu.tr",
+      "name": "Ardahan University",
+      "web_page": "http://www.ardahan.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "artvin.edu.tr",
+      "name": "Artvin Coruh University",
+      "web_page": "http://www.artvin.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bandirma.edu.tr",
+      "name": "Bandirma ONYEDİ Eylul University",
+      "web_page": "http://www.bamdirma.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bartin.edu.tr",
+      "name": "Bartin University",
+      "web_page": "http://www.bartin.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "batman.edu.tr",
+      "name": "Batman University",
+      "web_page": "http://www.batman.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bayburt.edu.tr",
+      "name": "Bayburt University",
+      "web_page": "http://www.bayburt.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bilecik..edu.tr",
+      "name": "Bilecik Seyh Edebali University",
+      "web_page": "http://www.bilecik.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bingol.edu.tr",
+      "name": "Bingol University",
+      "web_page": "http://www.bingol.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "beu.edu.tr",
+      "name": "Bitlis Eren University",
+      "web_page": "http://www.beu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bozok.edu.tr",
+      "name": "Bozok University",
+      "web_page": "http://www.bozok.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "btu.edu.tr",
+      "name": "Bursa Tecnical University",
+      "web_page": "http://www.btu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "karatekin.edu.tr",
+      "name": "Cankiri karatekin University",
+      "web_page": "http://www.karatekin.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "dho.edu.tr",
+      "name": "Naval academy",
+      "web_page": "http://www.dho.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "dpu.edu.tr",
+      "name": "Dumlupinar University",
+      "web_page": "http://www.dpu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "duzce.edu.tr",
+      "name": "Duzce University",
+      "web_page": "http://www.duzce.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "erzincan.edu.tr",
+      "name": "Erzincan University",
+      "web_page": "http://www.erzincan.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "erzurum.edu.tr",
+      "name": "Erzurum Tecnical University",
+      "web_page": "http://www.erzurum.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "gtu.edu.tr",
+      "name": "Gebze Tecnical University",
+      "web_page": "http://www.gtu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "gata.edu.tr",
+      "name": "Gulhane military medical Academy",
+      "web_page": "http://www.gata.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "gumushane.edu.tr",
+      "name": "Gumushane University",
+      "web_page": "http://www.gumushane.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "hakkari.edu.tr",
+      "name": "Hakkari University",
+      "web_page": "http://www.hakkari.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "hho.edu.tr",
+      "name": "Air Force Academy",
+      "web_page": "http://www.hho.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "hitit.edu.tr",
+      "name": "Hitit University",
+      "web_page": "http://www.hitit.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "igdir.edu.tr",
+      "name": "İgdir University",
+      "web_page": "http://www.igdir.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "iste.edu.tr",
+      "name": "İskenderun Tecnical University",
+      "web_page": "http://www.iste.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "medeniyet.edu.tr",
+      "name": "Istanbul Medeniyet University",
+      "web_page": "http://www.medeniyet.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "istanbul.edu.tr",
+      "name": "İstanbul University",
+      "web_page": "http://www.istanbul.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "ikc.edu.tr",
+      "name": "İzmir Katip celebi University",
+      "web_page": "http://www.ikc.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "karabuk.edu.tr",
+      "name": "Karabuk University",
+      "web_page": "http://www.karabuk.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "kmu.edu.tr",
+      "name": "karamanoglu mehmet bey University",
+      "web_page": "http://www.kmu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "kastamonu.edu.tr",
+      "name": "Kastamonu University",
+      "web_page": "http://www.kastamonu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "kirklareli.edu.tr",
+      "name": "Kirklareli University",
+      "web_page": "http://www.kirklareli.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "artuklu.edu.tr",
+      "name": "Mardin Artuklu University",
+      "web_page": "http://www.artuklu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "mehmetakif.edu.tr",
+      "name": "Mehemet Akif Ersoy University",
+      "web_page": "http://www.mehmetakif.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "msgsu.edu.tr",
+      "name": "Mimar Sinan Fine Arts University",
+      "web_page": "http://www.msgsu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "alparslan.edu.tr",
+      "name": "Mus Alparslan University",
+      "web_page": "http://www.alparslan.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "nevsehir.edu.tr",
+      "name": "Nevsehir Haci Bektas Veli University",
+      "web_page": "http://www.nevsehir.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "odtu.edu.tr",
+      "name": "Ortadogu Tecnical University",
+      "web_page": "http://www.odtu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "osmaniye.edu.tr",
+      "name": "Osmaniye Korkut Ata University",
+      "web_page": "http://www.osmaniye.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "erdogan.edu.tr",
+      "name": "Recep Tayip Erdogan University",
+      "web_page": "http://www.erdogan.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "siirt.edu.tr",
+      "name": "Siirt University",
+      "web_page": "http://www.siirt.edu.tr/"
+  },
+
+{
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "sinop.edu.tr",
+      "name": "Sinop University",
+      "web_page": "http://www.sinop.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "sirnak.edu.tr",
+      "name": "Sirnak University",
+      "web_page": "http://www.sirnak.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "tunceli.edu.tr",
+      "name": "Tunceli University",
+      "web_page": "http://www.tunceli.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "sbu.edu.tr",
+      "name": "Health Sciences University",
+      "web_page": "http://www.sbu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "usak.edu.tr",
+      "name": "Usak University",
+      "web_page": "http://www.usak.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "beun.edu.tr",
+      "name": "Bulent Ecevit University",
+      "web_page": "http://www.beun.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "acibadem.edu.tr",
+      "name": "Acibadem University",
+      "web_page": "http://www.acibadem.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "ahap.edu.tr",
+      "name": "Alanya Hamdullah Emin Pasa University",
+      "web_page": "http://www.ahap.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "avrasya.edu.tr",
+      "name": "Avrasya University",
+      "web_page": "http://www.avrasya.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "bezmialem.edu.tr",
+      "name": "Bezmialem Vakif University",
+      "web_page": "http://www.bezmialem.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "biruni.edu.tr",
+      "name": "Biruni University",
+      "web_page": "http://www.biruni.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "fatihsultan.edu.tr",
+      "name": "Fatih Sultan Mehmet University",
+      "web_page": "http://www.fatihsultan.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "gedik.edu.tr",
+      "name": "Gedik University",
+      "web_page": "http://www.gedik.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "hku.edu.tr",
+      "name": "Hasan Kalyoncu University",
+      "web_page": "http://www.hku.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "29mayis.edu.tr",
+      "name": "İstanbul 29Mayis  University",
+      "web_page": "http://www.29mayis.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "aydin.edu.tr",
+      "name": "Istanbul Aydin University",
+      "web_page": "http://www.aydin.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "esenyurt.edu.tr",
+      "name": "Istanbul Esenyurt University",
+      "web_page": "http://www.esenyurt.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "gelisim.edu.tr",
+      "name": "Istanbul Gelisim University",
+      "web_page": "http://www.gelisim.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "kemerburgaz.edu.tr",
+      "name": "Istanbul Kemerburgaz  University",
+      "web_page": "http://www.kemerburgaz.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "medipol.edu.tr",
+      "name": "Istanbul Medipol University",
+      "web_page": "http://www.medipol.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "rumeli.edu.tr",
+      "name": "Istanbul Rumeli University",
+      "web_page": "http://www.rumeli.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "iszu.edu.tr",
+      "name": "Istanbul Sabahattin Zaim University",
+      "web_page": "http://www.iszu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "ieu.edu.tr",
+      "name": "Izmir Economy University",
+      "web_page": "http://www.ieu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "izmir.edu.tr",
+      "name": "İzmir University",
+      "web_page": "http://www.izmir.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "karatay.edu.tr",
+      "name": "Karatay University",
+      "web_page": "http://www.karatay.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "gidatarim.edu.tr",
+      "name": "Konya Gida Tarim University",
+      "web_page": "http://www.gidatarim.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "mef.edu.tr",
+      "name": "MEF University",
+      "web_page": "http://www.mef.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "nisantasi.edu.tr",
+      "name": "Nisantasi University",
+      "web_page": "http://www.nisantasi.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "nny.edu.tr",
+      "name": "Nuh Naci Yazgan University",
+      "web_page": "http://www.nny.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "okan.edu.tr",
+      "name": "Okan University",
+      "web_page": "http://www.okan.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "pirireis.edu.tr",
+      "name": "Piri Reis University",
+      "web_page": "http://www.pirireis.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "sanko.edu.tr",
+      "name": "Sanko University",
+      "web_page": "http://www.sanko.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "tedu.edu.tr",
+      "name": "TED University",
+      "web_page": "http://www.tedu.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "toros.edu.tr",
+      "name": "Toros University",
+      "web_page": "http://www.toros.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "thk.edu.tr",
+      "name": "Turkish Aeronautical Association University",
+      "web_page": "http://www.thk.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "antalya.edu.tr",
+      "name": "Antalya international University",
+      "web_page": "http://www.antalya.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "uskudar.edu.tr",
+      "name": "Uskudar University",
+      "web_page": "http://www.uskudar.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "yeniyuzyil.edu.tr",
+      "name": "Yeni Yuzyil University",
+      "web_page": "http://www.yeniyuzyil.edu.tr/"
+  },
+  {
+      "alpha_two_code": "TR",
+      "country": "Turkey",
+      "domain": "yuksekihtisasuniversitesi.edu.tr",
+      "name": "Yuksek ihtisas University",
+      "web_page": "http://www.yuksekihtisasuniversitesi.edu.tr/"
+  },
 ]
+
+   
