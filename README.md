@@ -71,5 +71,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - Jai
  - Jimi Ford
  - Lars Schwegmann
+ - Sedat Karancı
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
