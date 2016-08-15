@@ -59207,7 +59207,6358 @@
       "domain": "yuksekihtisasuniversitesi.edu.tr",
       "name": "Yuksek ihtisas University",
       "web_page": "http://www.yuksekihtisasuniversitesi.edu.tr/"
-  }
+  },
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ascc.edu",
+      "name": "Alabama Southern Community College",
+      "web_page": "http://www.ascc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bscc.edu",
+      "name": "Bevill State Community College",
+      "web_page": "http://www.bscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bishop.edu",
+      "name": "Bishop State Community College",
+      "web_page": "http://www.bishop.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cacc.edu",
+      "name": "Central Alabama Community College",
+      "web_page": "http://www.cacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cv.edu",
+      "name": "Chattahoochee Valley Community College",
+      "web_page": "http://www.cv.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "escc.edu",
+      "name": "Enterprise State Community College",
+      "web_page": "http://www.escc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gadsdenstate.edu",
+      "name": "Gadsden State Community College",
+      "web_page": "http://www.gadsdenstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wallace.edu",
+      "name": "George C Wallace State Community College-​Dothan",
+      "web_page": "http://www.wallace.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wallacestate.edu",
+      "name": "George C Wallace State Community College-​Hanceville",
+      "web_page": "http://www.wallacestate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wccs.edu",
+      "name": "George C Wallace State Community College-​Selma",
+      "web_page": "http://www.wccs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "trenholmstate.edu",
+      "name": "H Councill Trenholm State Technical College",
+      "web_page": "http://www.trenholmstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "faulknerstate.edu",
+      "name": "James H Faulkner State Community College",
+      "web_page": "http://www.faulknerstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jdcc.edu",
+      "name": "Jefferson Davis Community College",
+      "web_page": "http://www.jdcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jeffstateonline.com",
+      "name": "Jefferson State Community College",
+      "web_page": "http://www.jeffstateonline.com"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "drakestate.edu",
+      "name": "J F Drake State Community and Technical College",
+      "web_page": "http://www.drakestate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "calhoun.edu",
+      "name": "John C Calhoun State Community College",
+      "web_page": "http://www.calhoun.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lbwcc.edu",
+      "name": "Lurleen B Wallace Community College",
+      "web_page": "http://www.lbwcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "marionmilitary.edu",
+      "name": "Marion Military Institute",
+      "web_page": "http://www.marionmilitary.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nacc.edu",
+      "name": "Northeast Alabama Community College",
+      "web_page": "http://www.nacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwscc.edu",
+      "name": "Northwest-​Shoals Community College",
+      "web_page": "http://www.nwscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sheltonstate.edu",
+      "name": "Shelton State Community College",
+      "web_page": "http://www.sheltonstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "snead.edu",
+      "name": "Snead State Community College",
+      "web_page": "http://www.snead.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "suscc.edu",
+      "name": "Southern Union State Community College",
+      "web_page": "http://www.suscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ilisagvik.edu",
+      "name": "Ilisagvik College",
+      "web_page": "http://www.ilisagvik.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pwscc.edu",
+      "name": "Prince William Sound Community College",
+      "web_page": "http://www.pwscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "centralaz.edu",
+      "name": "Central Arizona College",
+      "web_page": "http://www.centralaz.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cgc.maricopa.edu",
+      "name": "Chandler-​Gilbert Community College",
+      "web_page": "http://www.cgc.maricopa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cochise.edu",
+      "name": "Cochise College",
+      "web_page": "http://www.cochise.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coconino.edu",
+      "name": "Coconino Community College",
+      "web_page": "https://www.coconino.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eac.edu",
+      "name": "Eastern Arizona College",
+      "web_page": "http://www.eac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "emc.maricopa.edu",
+      "name": "Estrella Mountain Community College",
+      "web_page": "http://www.emc.maricopa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gatewaycc.edu",
+      "name": "GateWay Community College",
+      "web_page": "http://www.gatewaycc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gccaz.edu",
+      "name": "Glendale Community College",
+      "web_page": "http://www.gccaz.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mesacc.edu",
+      "name": "Mesa Community College",
+      "web_page": "http://www.mesacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mohave.edu",
+      "name": "Mohave Community College",
+      "web_page": "http://www.mohave.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "npc.edu",
+      "name": "Northland Pioneer College",
+      "web_page": "http://www.npc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pvc.maricopa.edu",
+      "name": "Paradise Valley Community College",
+      "web_page": "http://www.pvc.maricopa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "phoenixcollege.edu",
+      "name": "Phoenix College",
+      "web_page": "http://www.phoenixcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pima.edu",
+      "name": "Pima Community College",
+      "web_page": "http://www.pima.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rio.maricopa.edu",
+      "name": "Rio Salado College",
+      "web_page": "http://www.rio.maricopa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "scottsdalecc.edu",
+      "name": "Scottsdale Community College",
+      "web_page": "http://www.scottsdalecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southmountaincc.edu",
+      "name": "South Mountain Community College",
+      "web_page": "http://www.southmountaincc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tocc.edu",
+      "name": "Tohono O'Odham Community College",
+      "web_page": "http://www.tocc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "yc.edu",
+      "name": "Yavapai College",
+      "web_page": "http://www.YC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "anc.edu",
+      "name": "Arkansas Northeastern College",
+      "web_page": "http://www.anc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "asub.edu",
+      "name": "Arkansas State University-​Beebe",
+      "web_page": "http://www.asub.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "asumh.edu",
+      "name": "Arkansas State University-​Mountain Home",
+      "web_page": "http://www.asumh.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "asun.edu",
+      "name": "Arkansas State University-​Newport",
+      "web_page": "http://www.asun.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "blackrivertech.edu",
+      "name": "Black River Technical College",
+      "web_page": "http://www.blackrivertech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coto.edu",
+      "name": "College of the Ouachitas",
+      "web_page": "http://www.coto.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cccua.edu",
+      "name": "Cossatot Community College of the University of Arkansas",
+      "web_page": "http://www.cccua.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.eacc.edu",
+      "name": "East Arkansas Community College",
+      "web_page": "http://WWW.EACC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "midsouthcc.edu",
+      "name": "Mid-​South Community College",
+      "web_page": "http://www.midsouthcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "npcc.edu",
+      "name": "National Park Community College",
+      "web_page": "http://www.npcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northark.edu",
+      "name": "North Arkansas College",
+      "web_page": "http://www.northark.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwacc.edu",
+      "name": "NorthWest Arkansas Community College",
+      "web_page": "http://www.nwacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ozarka.edu",
+      "name": "Ozarka College",
+      "web_page": "http://www.ozarka.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pccua.edu",
+      "name": "Phillips Community College of the University of Arkansas",
+      "web_page": "http://www.pccua.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pulaskitech.edu",
+      "name": "Pulaski Technical College",
+      "web_page": "http://www.pulaskitech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rmcc.edu",
+      "name": "Rich Mountain Community College",
+      "web_page": "http://www.rmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southark.edu",
+      "name": "South Arkansas Community College",
+      "web_page": "http://www.southark.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "seark.edu",
+      "name": "Southeast Arkansas College",
+      "web_page": "http://www.seark.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sautech.edu",
+      "name": "Southern Arkansas University Tech",
+      "web_page": "http://www.sautech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uaccb.edu",
+      "name": "University of Arkansas Community College-​Batesville",
+      "web_page": "http://www.uaccb.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uacch.edu",
+      "name": "University of Arkansas Community College-​Hope",
+      "web_page": "http://www.uacch.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uaccm.edu",
+      "name": "University of Arkansas Community College-​Morrilton",
+      "web_page": "http://www.uaccm.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hancockcollege.edu",
+      "name": "Allan Hancock College",
+      "web_page": "http://www.hancockcollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "arc.losrios.edu",
+      "name": "American River College",
+      "web_page": "http://www.arc.losrios.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "avc.edu",
+      "name": "Antelope Valley College",
+      "web_page": "http://www.avc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bakersfieldcollege.edu",
+      "name": "Bakersfield College",
+      "web_page": "http://www.bakersfieldcollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "barstow.edu",
+      "name": "Barstow Community College",
+      "web_page": "http://www.barstow.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "berkeleycitycollege.edu",
+      "name": "Berkeley City College",
+      "web_page": "http://www.berkeleycitycollege.edu/wp/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "butte.edu",
+      "name": "Butte College",
+      "web_page": "http://www.butte.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cabrillo.edu",
+      "name": "Cabrillo College",
+      "web_page": "http://www.cabrillo.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "canadacollege.edu",
+      "name": "Canada College",
+      "web_page": "http://canadacollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "carrington.edu",
+      "name": "Carrington College California-​Sacramento",
+      "web_page": "http://www.carrington.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cerritos.edu",
+      "name": "Cerritos College",
+      "web_page": "http://www.cerritos.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cerrocoso.edu",
+      "name": "Cerro Coso Community College",
+      "web_page": "http://cerrocoso.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chabotcollege.edu",
+      "name": "Chabot College",
+      "web_page": "http://www.chabotcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chaffey.edu",
+      "name": "Chaffey College",
+      "web_page": "http://www.chaffey.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "citruscollege.edu",
+      "name": "Citrus College",
+      "web_page": "http://www.citruscollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccsf.edu",
+      "name": "City College of San Francisco",
+      "web_page": "http://www.ccsf.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coastline.edu",
+      "name": "Coastline Community College",
+      "web_page": "http://www.coastline.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "peralta.edu",
+      "name": "College of Alameda",
+      "web_page": "http://www.peralta.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "marin.edu",
+      "name": "College of Marin",
+      "web_page": "http://www.marin.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "collegeofsanmateo.edu",
+      "name": "College of San Mateo",
+      "web_page": "http://www.collegeofsanmateo.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "canyons.edu",
+      "name": "College of the Canyons",
+      "web_page": "http://www.canyons.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "collegeofthedesert.edu",
+      "name": "College of the Desert",
+      "web_page": "http://collegeofthedesert.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "redwoods.edu",
+      "name": "College of the Redwoods",
+      "web_page": "http://www.redwoods.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cos.edu",
+      "name": "College of the Sequoias",
+      "web_page": "http://www.cos.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "siskiyous.edu",
+      "name": "College of the Siskiyous",
+      "web_page": "http://www.siskiyous.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gocolumbia.edu",
+      "name": "Columbia College",
+      "web_page": "http://www.gocolumbia.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "contracosta.edu",
+      "name": "Contra Costa College",
+      "web_page": "http://www.contracosta.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cmccd.edu",
+      "name": "Copper Mountain Community College",
+      "web_page": "http://www.cmccd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "crc.losrios.edu",
+      "name": "Cosumnes River College",
+      "web_page": "http://www.crc.losrios.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "craftonhills.edu",
+      "name": "Crafton Hills College",
+      "web_page": "http://www.craftonhills.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.cuesta.edu",
+      "name": "Cuesta College",
+      "web_page": "http://WWW.CUESTA.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cuyamaca.edu",
+      "name": "Cuyamaca College",
+      "web_page": "http://www.cuyamaca.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cypresscollege.edu",
+      "name": "Cypress College",
+      "web_page": "http://www.cypresscollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "deanza.edu",
+      "name": "De Anza College",
+      "web_page": "http://www.deanza.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dvc.edu",
+      "name": "Diablo Valley College",
+      "web_page": "http://www.dvc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "elac.edu",
+      "name": "East Los Angeles College",
+      "web_page": "http://www.elac.edu/index.htm"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "compton.edu",
+      "name": "El Camino College-​Compton Center",
+      "web_page": "http://www.compton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "elcamino.edu",
+      "name": "El Camino Community College District",
+      "web_page": "http://www.elcamino.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "evc.edu",
+      "name": "Evergreen Valley College",
+      "web_page": "http://www.evc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "frc.edu",
+      "name": "Feather River Community College District",
+      "web_page": "http://www.frc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "flc.losrios.edu",
+      "name": "Folsom Lake College",
+      "web_page": "http://www.flc.losrios.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "foothill.edu",
+      "name": "Foothill College",
+      "web_page": "http://www.foothill.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fresnocitycollege.edu",
+      "name": "Fresno City College",
+      "web_page": "http://www.fresnocitycollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fullcoll.edu",
+      "name": "Fullerton College",
+      "web_page": "http://www.fullcoll.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gavilan.edu",
+      "name": "Gavilan College",
+      "web_page": "http://www.gavilan.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "glendale.edu",
+      "name": "Glendale Community College",
+      "web_page": "http://www.glendale.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "goldenwestcollege.edu",
+      "name": "Golden West College",
+      "web_page": "http://www.goldenwestcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "grossmont.edu",
+      "name": "Grossmont College",
+      "web_page": "http://www.grossmont.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hartnell.edu",
+      "name": "Hartnell College",
+      "web_page": "http://www.hartnell.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "imperial.edu",
+      "name": "Imperial Valley College",
+      "web_page": "http://www.imperial.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ltcc.edu",
+      "name": "Lake Tahoe Community College",
+      "web_page": "http://www.ltcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "laney.edu",
+      "name": "Laney College",
+      "web_page": "http://www.laney.edu/wp/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "laspositascollege.edu",
+      "name": "Las Positas College",
+      "web_page": "http://www.laspositascollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lassencollege.edu",
+      "name": "Lassen Community College",
+      "web_page": "http://www.lassencollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lbcc.edu",
+      "name": "Long Beach City College",
+      "web_page": "http://www.lbcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lacitycollege.edu",
+      "name": "Los Angeles City College",
+      "web_page": "http://www.lacitycollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ladhs.org",
+      "name": "Los Angeles County College of Nursing and Allied Health",
+      "web_page": "http://ladhs.org/wps/portal/CollegeofNursing"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lahc.edu",
+      "name": "Los Angeles Harbor College",
+      "web_page": "http://www.lahc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lamission.edu",
+      "name": "Los Angeles Mission College",
+      "web_page": "http://www.lamission.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "piercecollege.edu",
+      "name": "Los Angeles Pierce College",
+      "web_page": "http://www.piercecollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lasc.edu",
+      "name": "Los Angeles Southwest College",
+      "web_page": "http://www.lasc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lattc.edu",
+      "name": "Los Angeles Trade Technical College",
+      "web_page": "http://www.lattc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lavc.edu",
+      "name": "Los Angeles Valley College",
+      "web_page": "http://www.lavc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "losmedanos.edu",
+      "name": "Los Medanos College",
+      "web_page": "http://www.losmedanos.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mendocino.edu",
+      "name": "Mendocino College",
+      "web_page": "http://www.mendocino.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mccd.edu",
+      "name": "Merced College",
+      "web_page": "http://www.mccd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "merritt.edu",
+      "name": "Merritt College",
+      "web_page": "http://www.merritt.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "miracosta.edu",
+      "name": "MiraCosta College",
+      "web_page": "http://www.miracosta.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "missioncollege.edu",
+      "name": "Mission College",
+      "web_page": "http://www.missioncollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mjc.edu",
+      "name": "Modesto Junior College",
+      "web_page": "http://mjc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mpc.edu",
+      "name": "Monterey Peninsula College",
+      "web_page": "http://www.mpc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "moorparkcollege.edu",
+      "name": "Moorpark College",
+      "web_page": "http://www.moorparkcollege.edu/index.shtml"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mvc.edu",
+      "name": "Moreno Valley College",
+      "web_page": "http://www.mvc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sacramento.mticollege.edu",
+      "name": "MTI College",
+      "web_page": "http://sacramento.mticollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mtsac.edu",
+      "name": "Mt San Antonio College",
+      "web_page": "http://www.mtsac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "msjc.edu",
+      "name": "Mt San Jacinto Community College District",
+      "web_page": "http://www.msjc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "napavalley.edu",
+      "name": "Napa Valley College",
+      "web_page": "http://www.napavalley.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rcc.edu",
+      "name": "Norco College",
+      "web_page": "http://www.rcc.edu/norco/index.cfm"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ohlone.edu",
+      "name": "Ohlone College",
+      "web_page": "http://www.ohlone.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "orangecoastcollege.edu",
+      "name": "Orange Coast College",
+      "web_page": "http://www.orangecoastcollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "oxnardcollege.edu",
+      "name": "Oxnard College",
+      "web_page": "http://www.oxnardcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.palomar.edu",
+      "name": "Palomar College",
+      "web_page": "http://WWW.PALOMAR.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "paloverde.edu",
+      "name": "Palo Verde College",
+      "web_page": "http://www.paloverde.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pasadena.edu",
+      "name": "Pasadena City College",
+      "web_page": "http://www.pasadena.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "portervillecollege.edu",
+      "name": "Porterville College",
+      "web_page": "http://www.portervillecollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "reedleycollege.edu",
+      "name": "Reedley College",
+      "web_page": "http://www.reedleycollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "riohondo.edu",
+      "name": "Rio Hondo College",
+      "web_page": "http://www.riohondo.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rcc.edu",
+      "name": "Riverside City College",
+      "web_page": "http://www.rcc.edu/riverside/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "scc.losrios.edu",
+      "name": "Sacramento City College",
+      "web_page": "http://www.scc.losrios.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "saddleback.edu",
+      "name": "Saddleback College",
+      "web_page": "http://www.saddleback.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "valleycollege.edu",
+      "name": "San Bernardino Valley College",
+      "web_page": "http://www.valleycollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sdcity.edu",
+      "name": "San Diego City College",
+      "web_page": "http://www.sdcity.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sdmesa.edu",
+      "name": "San Diego Mesa College",
+      "web_page": "http://www.sdmesa.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sdmiramar.edu",
+      "name": "San Diego Miramar College",
+      "web_page": "http://www.sdmiramar.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "deltacollege.edu",
+      "name": "San Joaquin Delta College",
+      "web_page": "http://www.deltacollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sjvc.edu",
+      "name": "San Joaquin Valley College-​Visalia",
+      "web_page": "http://www.sjvc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sjcc.edu",
+      "name": "San Jose City College",
+      "web_page": "http://www.sjcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sac.edu",
+      "name": "Santa Ana College",
+      "web_page": "http://www.sac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sbcc.edu",
+      "name": "Santa Barbara City College",
+      "web_page": "http://www.sbcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "smc.edu",
+      "name": "Santa Monica College",
+      "web_page": "http://www.smc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "santarosa.edu",
+      "name": "Santa Rosa Junior College",
+      "web_page": "http://www.santarosa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sccollege.edu",
+      "name": "Santiago Canyon College",
+      "web_page": "http://www.sccollege.edu/Pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "shastacollege.edu",
+      "name": "Shasta College",
+      "web_page": "http://www.shastacollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sierracollege.edu",
+      "name": "Sierra College",
+      "web_page": "http://www.sierracollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "skylinecollege.edu",
+      "name": "Skyline College",
+      "web_page": "http://skylinecollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "solano.edu",
+      "name": "Solano Community College",
+      "web_page": "http://www.solano.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swccd.edu",
+      "name": "Southwestern College",
+      "web_page": "http://www.swccd.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "taftcollege.edu",
+      "name": "Taft College",
+      "web_page": "http://www.taftcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "venturacollege.edu",
+      "name": "Ventura College",
+      "web_page": "http://www.venturacollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "vvc.edu",
+      "name": "Victor Valley College",
+      "web_page": "http://www.vvc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westhillscollege.com",
+      "name": "West Hills College-​Coalinga",
+      "web_page": "http://www.westhillscollege.com"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westhillscollege.com",
+      "name": "West Hills College-​Lemoore",
+      "web_page": "http://www.westhillscollege.com"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wlac.edu",
+      "name": "West Los Angeles College",
+      "web_page": "http://www.wlac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westvalley.edu",
+      "name": "West Valley College",
+      "web_page": "http://www.westvalley.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wcc.yccd.edu",
+      "name": "Woodland Community College",
+      "web_page": "http://wcc.yccd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "yc.yccd.edu",
+      "name": "Yuba College",
+      "web_page": "http://yc.yccd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "aims.edu",
+      "name": "Aims Community College",
+      "web_page": "http://www.aims.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "arapahoe.edu",
+      "name": "Arapahoe Community College",
+      "web_page": "http://www.arapahoe.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cncc.edu",
+      "name": "Colorado Northwestern Community College",
+      "web_page": "http://www.cncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccaurora.edu",
+      "name": "Community College of Aurora",
+      "web_page": "http://www.ccaurora.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccd.edu",
+      "name": "Community College of Denver",
+      "web_page": "http://www.ccd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "frontrange.edu",
+      "name": "Front Range Community College",
+      "web_page": "http://www.frontrange.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lamarcc.edu",
+      "name": "Lamar Community College",
+      "web_page": "http://www.lamarcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "morgancc.edu",
+      "name": "Morgan Community College",
+      "web_page": "http://www.morgancc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "njc.edu",
+      "name": "Northeastern Junior College",
+      "web_page": "http://www.njc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.ojc.edu",
+      "name": "Otero Junior College",
+      "web_page": "http://WWW.OJC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ppcc.edu",
+      "name": "Pikes Peak Community College",
+      "web_page": "http://www.ppcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pueblocc.edu",
+      "name": "Pueblo Community College",
+      "web_page": "http://www.pueblocc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rrcc.edu",
+      "name": "Red Rocks Community College",
+      "web_page": "http://www.rrcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "trinidadstate.edu",
+      "name": "Trinidad State Junior College",
+      "web_page": "http://www.trinidadstate.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "asnuntuck.edu",
+      "name": "Asnuntuck Community College",
+      "web_page": "http://www.Asnuntuck.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.commnet.edu",
+      "name": "Capital Community College",
+      "web_page": "http://www.ccc.commnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gwcc.commnet.edu",
+      "name": "Gateway Community College",
+      "web_page": "http://www.gwcc.commnet.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hcc.commnet.edu",
+      "name": "Housatonic Community College",
+      "web_page": "http://www.hcc.commnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mcc.commnet.edu",
+      "name": "Manchester Community College",
+      "web_page": "http://www.mcc.commnet.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mxcc.commnet.edu",
+      "name": "Middlesex Community College",
+      "web_page": "http://www.mxcc.commnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nv.edu",
+      "name": "Naugatuck Valley Community College",
+      "web_page": "http://www.nv.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwcc.commnet.edu",
+      "name": "Northwestern Connecticut Community College",
+      "web_page": "http://www.nwcc.commnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncc.commnet.edu",
+      "name": "Norwalk Community College",
+      "web_page": "http://www.ncc.commnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "qvcc.edu",
+      "name": "Quinebaug Valley Community College",
+      "web_page": "http://www.qvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "trcc.commnet.edu",
+      "name": "Three Rivers Community College",
+      "web_page": "http://www.trcc.commnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tunxis.edu",
+      "name": "Tunxis Community College",
+      "web_page": "http://www.tunxis.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dcad.edu",
+      "name": "Delaware College of Art and Design",
+      "web_page": "http://www.dcad.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dtcc.edu",
+      "name": "Delaware Technical Community College-​Owens",
+      "web_page": "https://www.dtcc.edu/our-campuses/georgetown"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dtcc.edu",
+      "name": "Delaware Technical Community College-​Stanton/​Wilmington",
+      "web_page": "https://www.dtcc.edu/our-campuses/wilmington"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dtcc.edu",
+      "name": "Delaware Technical Community College-​Terry",
+      "web_page": "https://www.dtcc.edu/our-campuses/dover"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fkcc.edu",
+      "name": "Florida Keys Community College",
+      "web_page": "http://www.fkcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hccfl.edu",
+      "name": "Hillsborough Community College",
+      "web_page": "http://www.hccfl.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nfcc.edu",
+      "name": "North Florida Community College",
+      "web_page": "http://www.nfcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "phcc.edu",
+      "name": "Pasco-​Hernando Community College",
+      "web_page": "http://www.phcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tcc.fl.edu",
+      "name": "Tallahassee Community College",
+      "web_page": "https://www.tcc.fl.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "albanytech.edu",
+      "name": "Albany Technical College",
+      "web_page": "http://www.albanytech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coastalpines.edu",
+      "name": "Altamaha Technical College",
+      "web_page": "http://www.coastalpines.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "andrewcollege.edu",
+      "name": "Andrew College",
+      "web_page": "http://www.andrewcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "athenstech.edu",
+      "name": "Athens Technical College",
+      "web_page": "http://www.athenstech.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "atlantatech.edu",
+      "name": "Atlanta Technical College",
+      "web_page": "http://www.atlantatech.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "augustatech.edu",
+      "name": "Augusta Technical College",
+      "web_page": "http://www.augustatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bainbridge.edu",
+      "name": "Bainbridge State College",
+      "web_page": "http://www.bainbridge.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "centralgatech.edu",
+      "name": "Central Georgia Technical College",
+      "web_page": "http://www.centralgatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chattahoocheetech.edu",
+      "name": "Chattahoochee Technical College",
+      "web_page": "http://www.chattahoocheetech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "columbustech.edu",
+      "name": "Columbus Technical College",
+      "web_page": "http://www.columbustech.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "darton.edu",
+      "name": "Darton State College",
+      "web_page": "http://www.darton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "highlands.edu",
+      "name": "Georgia Highlands College",
+      "web_page": "http://www.highlands.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gmc.cc.ga.us",
+      "name": "Georgia Military College",
+      "web_page": "http://www.gmc.cc.ga.us/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gntc.edu",
+      "name": "Georgia Northwestern Technical College",
+      "web_page": "http://www.gntc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gpc.edu",
+      "name": "Georgia Perimeter College",
+      "web_page": "http://www.gpc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gptc.edu",
+      "name": "Georgia Piedmont Technical College",
+      "web_page": "http://www.gptc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gwinnetttech.edu",
+      "name": "Gwinnett Technical College",
+      "web_page": "http://www.GwinnettTech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "laniertech.edu",
+      "name": "Lanier Technical College",
+      "web_page": "http://www.laniertech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "moultrietech.edu",
+      "name": "Moultrie Technical College",
+      "web_page": "http://www.moultrietech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northgatech.edu",
+      "name": "North Georgia Technical College",
+      "web_page": "http://www.northgatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ogeecheetech.edu",
+      "name": "Ogeechee Technical College",
+      "web_page": "http://www.ogeecheetech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coastalpines.edu",
+      "name": "Okefenokee Technical College",
+      "web_page": "http://www.coastalpines.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "savannahtech.edu",
+      "name": "Savannah Technical College",
+      "web_page": "http://www.savannahtech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southeasterntech.edu",
+      "name": "Southeastern Technical College",
+      "web_page": "http://www.southeasterntech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sctech.edu",
+      "name": "Southern Crescent Technical College",
+      "web_page": "http://www.sctech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southgatech.edu",
+      "name": "South Georgia Technical College",
+      "web_page": "http://www.southgatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southwestgatech.edu",
+      "name": "Southwest Georgia Technical College",
+      "web_page": "http://www.southwestgatech.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westgatech.edu",
+      "name": "West Georgia Technical College",
+      "web_page": "http://www.westgatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wiregrass.edu",
+      "name": "Wiregrass Georgia Technical College",
+      "web_page": "http://www.wiregrass.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hawaii.hawaii.edu",
+      "name": "Hawaii Community College",
+      "web_page": "http://hawaii.hawaii.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "honolulu.hawaii.edu",
+      "name": "Honolulu Community College",
+      "web_page": "http://www.honolulu.hawaii.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kapiolani.hawaii.edu",
+      "name": "Kapiolani Community College",
+      "web_page": "http://kapiolani.hawaii.edu/page/home"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kauai.hawaii.edu",
+      "name": "Kauai Community College",
+      "web_page": "http://kauai.hawaii.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "leeward.hawaii.edu",
+      "name": "Leeward Community College",
+      "web_page": "http://www.leeward.hawaii.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "windward.hawaii.edu",
+      "name": "Windward Community College",
+      "web_page": "http://windward.hawaii.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "csi.edu",
+      "name": "College of Southern Idaho",
+      "web_page": "http://www.csi.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cwidaho.cc",
+      "name": "College of Western Idaho",
+      "web_page": "http://cwidaho.cc/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eitc.edu",
+      "name": "Eastern Idaho Technical College",
+      "web_page": "http://www.eitc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nic.edu",
+      "name": "North Idaho College",
+      "web_page": "http://www.nic.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bhc.edu",
+      "name": "Black Hawk College",
+      "web_page": "http://www.bhc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sandburg.edu",
+      "name": "Carl Sandburg College",
+      "web_page": "http://www.sandburg.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Harold Washington College",
+      "web_page": "http://www.ccc.edu/colleges/washington/Pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Harry S Truman College",
+      "web_page": "http://ccc.edu/colleges/truman/pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Kennedy-​King College",
+      "web_page": "http://www.ccc.edu/colleges/kennedy/pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Malcolm X College",
+      "web_page": "http://www.ccc.edu/colleges/malcolm-x/pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Olive-​Harvey College",
+      "web_page": "http://ccc.edu/colleges/olive-harvey/pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Richard J Daley College",
+      "web_page": "http://ccc.edu/colleges/daley/pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccc.edu",
+      "name": "City Colleges of Chicago-​Wilbur Wright College",
+      "web_page": "http://ccc.edu/colleges/wright/pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cod.edu",
+      "name": "College of DuPage",
+      "web_page": "http://www.cod.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.clcillinois.edu",
+      "name": "College of Lake County",
+      "web_page": "http://WWW.CLCILLINOIS.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dacc.edu",
+      "name": "Danville Area Community College",
+      "web_page": "http://www.dacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "elgin.edu",
+      "name": "Elgin Community College",
+      "web_page": "http://www.elgin.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "foxcollege.edu",
+      "name": "Fox College",
+      "web_page": "http://www.foxcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "harpercollege.edu",
+      "name": "Harper College",
+      "web_page": "http://www.harpercollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "heartland.edu",
+      "name": "Heartland Community College",
+      "web_page": "http://www.heartland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "highland.edu",
+      "name": "Highland Community College",
+      "web_page": "http://www.highland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "icc.edu",
+      "name": "Illinois Central College",
+      "web_page": "http://www.icc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ivcc.edu",
+      "name": "Illinois Valley Community College",
+      "web_page": "http://www.ivcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jalc.edu",
+      "name": "John A Logan College",
+      "web_page": "http://www.jalc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jwcc.edu",
+      "name": "John Wood Community College",
+      "web_page": "http://www.jwcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jjc.edu",
+      "name": "Joliet Junior College",
+      "web_page": "http://www.jjc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kcc.edu",
+      "name": "Kankakee Community College",
+      "web_page": "http://www.kcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kaskaskia.edu",
+      "name": "Kaskaskia College",
+      "web_page": "http://www.kaskaskia.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kishwaukeecollege.edu",
+      "name": "Kishwaukee College",
+      "web_page": "http://www.kishwaukeecollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lakeland.cc.il.us",
+      "name": "Lake Land College",
+      "web_page": "http://www.lakeland.cc.il.us"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chefs.edu",
+      "name": "Le Cordon Bleu College of Culinary Arts-​Chicago",
+      "web_page": "http://www.chefs.edu/chicago"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lc.edu",
+      "name": "Lewis and Clark Community College",
+      "web_page": "http://www.lc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "llcc.edu",
+      "name": "Lincoln Land Community College",
+      "web_page": "http://www.llcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "maccormac.edu",
+      "name": "MacCormac College",
+      "web_page": "http://www.maccormac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mchenry.edu",
+      "name": "McHenry County College",
+      "web_page": "http://www.mchenry.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "morainevalley.edu",
+      "name": "Moraine Valley Community College",
+      "web_page": "http://www.morainevalley.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "morton.edu",
+      "name": "Morton College",
+      "web_page": "http://www.morton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northwesterncollege.edu",
+      "name": "Northwestern College-​Chicago Campus",
+      "web_page": "http://www.NorthwesternCollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "oakton.edu",
+      "name": "Oakton Community College",
+      "web_page": "http://www.oakton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "parkland.edu",
+      "name": "Parkland College",
+      "web_page": "http://www.parkland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "prairiestate.edu",
+      "name": "Prairie State College",
+      "web_page": "http://www.prairiestate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rlc.edu",
+      "name": "Rend Lake College",
+      "web_page": "http://www.rlc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "richland.edu",
+      "name": "Richland Community College",
+      "web_page": "http://www.richland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rockvalleycollege.edu",
+      "name": "Rock Valley College",
+      "web_page": "http://www.rockvalleycollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "svcc.edu",
+      "name": "Sauk Valley Community College",
+      "web_page": "http://www.svcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "shawneecc.edu",
+      "name": "Shawnee Community College",
+      "web_page": "http://www.shawneecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sic.edu",
+      "name": "Southeastern Illinois College",
+      "web_page": "http://www.sic.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ssc.edu",
+      "name": "South Suburban College",
+      "web_page": "http://www.ssc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swic.edu",
+      "name": "Southwestern Illinois College",
+      "web_page": "http://www.swic.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "src.edu",
+      "name": "Spoon River College",
+      "web_page": "http://www.src.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "triton.edu",
+      "name": "Triton College",
+      "web_page": "http://www.triton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ancilla.edu",
+      "name": "Ancilla College",
+      "web_page": "http://www.ancilla.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ivytech.edu",
+      "name": "Ivy Tech Community College",
+      "web_page": "http://www.ivytech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dmacc.edu",
+      "name": "Des Moines Area Community College",
+      "web_page": "http://www.dmacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eicc.edu",
+      "name": "Eastern Iowa Community College District",
+      "web_page": "http://www.eicc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hawkeyecollege.edu",
+      "name": "Hawkeye Community College",
+      "web_page": "http://www.hawkeyecollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "indianhills.edu",
+      "name": "Indian Hills Community College",
+      "web_page": "http://www.indianhills.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "iowacentral.edu",
+      "name": "Iowa Central Community College",
+      "web_page": "http://www.iowacentral.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "iowalakes.edu",
+      "name": "Iowa Lakes Community College",
+      "web_page": "http://www.iowalakes.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "iwcc.edu",
+      "name": "Iowa Western Community College",
+      "web_page": "http://www.iwcc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kirkwood.edu",
+      "name": "Kirkwood Community College",
+      "web_page": "http://www.kirkwood.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "iavalley.edu",
+      "name": "Marshalltown Community College",
+      "web_page": "http://www.iavalley.edu/mcc/index.html"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nicc.edu",
+      "name": "Northeast Iowa Community College-​Calmar",
+      "web_page": "http://www.nicc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "niacc.edu",
+      "name": "North Iowa Area Community College",
+      "web_page": "http://www.niacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwicc.edu",
+      "name": "Northwest Iowa Community College",
+      "web_page": "http://www.nwicc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "scciowa.edu",
+      "name": "Southeastern Community College",
+      "web_page": "http://www.scciowa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swcciowa.edu",
+      "name": "Southwestern Community College",
+      "web_page": "http://www.swcciowa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "witcc.edu",
+      "name": "Western Iowa Tech Community College",
+      "web_page": "http://www.witcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "allencc.edu",
+      "name": "Allen County Community College",
+      "web_page": "http://www.allencc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bartonccc.edu",
+      "name": "Barton County Community College",
+      "web_page": "http://www.bartonccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "butlercc.edu",
+      "name": "Butler Community College",
+      "web_page": "http://www.butlercc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cloud.edu",
+      "name": "Cloud County Community College",
+      "web_page": "http://www.cloud.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coffeyville.edu",
+      "name": "Coffeyville Community College",
+      "web_page": "http://www.coffeyville.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "colbycc.edu",
+      "name": "Colby Community College",
+      "web_page": "http://www.colbycc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cowley.edu",
+      "name": "Cowley County Community College",
+      "web_page": "http://www.cowley.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dc3.edu",
+      "name": "Dodge City Community College",
+      "web_page": "http://www.dc3.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fhtc.edu",
+      "name": "Flint Hills Technical College",
+      "web_page": "http://www.fhtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fortscott.edu",
+      "name": "Fort Scott Community College",
+      "web_page": "http://www.fortscott.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gcccks.edu",
+      "name": "Garden City Community College",
+      "web_page": "http://www.gcccks.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "highlandcc.edu",
+      "name": "Highland Community College",
+      "web_page": "http://www.highlandcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hutchcc.edu",
+      "name": "Hutchinson Community College",
+      "web_page": "http://www.hutchcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "indycc.edu",
+      "name": "Independence Community College",
+      "web_page": "http://www.indycc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jccc.edu",
+      "name": "Johnson County Community College",
+      "web_page": "http://www.jccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kckcc.edu",
+      "name": "Kansas City Kansas Community College",
+      "web_page": "http://www.kckcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "labette.edu",
+      "name": "Labette Community College",
+      "web_page": "http://www.labette.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "manhattantech.edu",
+      "name": "Manhattan Area Technical College",
+      "web_page": "http://www.manhattantech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "neosho.edu",
+      "name": "Neosho County Community College",
+      "web_page": "http://www.neosho.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncktc.edu",
+      "name": "North Central Kansas Technical College",
+      "web_page": "http://www.ncktc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwktc.edu",
+      "name": "Northwest Kansas Technical College",
+      "web_page": "http://www.nwktc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "prattcc.edu",
+      "name": "Pratt Community College",
+      "web_page": "http://www.prattcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sccc.edu",
+      "name": "Seward County Community College and Area Technical School",
+      "web_page": "http://www.sccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "watc.edu",
+      "name": "Wichita Area Technical College",
+      "web_page": "http://www.watc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ashland.kctcs.edu",
+      "name": "Ashland Community and Technical College",
+      "web_page": "http://www.ashland.kctcs.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bigsandy.kctcs.edu",
+      "name": "Big Sandy Community and Technical College",
+      "web_page": "http://www.bigsandy.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bluegrass.kctcs.edu",
+      "name": "Bluegrass Community and Technical College",
+      "web_page": "http://www.bluegrass.kctcs.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "elizabethtown.kctcs.edu",
+      "name": "Elizabethtown Community and Technical College",
+      "web_page": "http://www.elizabethtown.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "galencollege.edu",
+      "name": "Galen College of Nursing-​Louisville",
+      "web_page": "http://www.galencollege.edu/louisville"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gateway.kctcs.edu",
+      "name": "Gateway Community and Technical College",
+      "web_page": "http://www.gateway.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hazard.kctcs.edu",
+      "name": "Hazard Community and Technical College",
+      "web_page": "http://www.hazard.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hencc.kctcs.edu",
+      "name": "Henderson Community College",
+      "web_page": "http://www.hencc.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hopkinsville.kctcs.edu",
+      "name": "Hopkinsville Community College",
+      "web_page": "http://hopkinsville.kctcs.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jefferson.kctcs.edu",
+      "name": "Jefferson Community and Technical College",
+      "web_page": "http://www.jefferson.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "madisonville.kctcs.edu",
+      "name": "Madisonville Community College",
+      "web_page": "http://www.madisonville.kctcs.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "maysville.kctcs.edu",
+      "name": "Maysville Community and Technical College",
+      "web_page": "http://maysville.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "owensboro.kctcs.edu",
+      "name": "Owensboro Community and Technical College",
+      "web_page": "http://www.owensboro.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "somerset.kctcs.edu",
+      "name": "Somerset Community College",
+      "web_page": "http://www.somerset.kctcs.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bowlinggreen.kctcs.edu",
+      "name": "Southcentral Kentucky Community and Technical College",
+      "web_page": "http://www.bowlinggreen.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southeast.kctcs.edu",
+      "name": "Southeast Kentucky Community and Technical College",
+      "web_page": "http://www.southeast.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westkentucky.kctcs.edu",
+      "name": "West Kentucky Community and Technical College",
+      "web_page": "http://www.westkentucky.kctcs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mybrcc.edu",
+      "name": "Baton Rouge Community College",
+      "web_page": "http://www.mybrcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bpcc.edu",
+      "name": "Bossier Parish Community College",
+      "web_page": "http://www.bpcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.dcc.edu",
+      "name": "Delgado Community College",
+      "web_page": "http://WWW.DCC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fletcher.edu",
+      "name": "L E Fletcher Technical Community College",
+      "web_page": "http://www.fletcher.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ladelta.edu",
+      "name": "Louisiana Delta Community College",
+      "web_page": "http://www.ladelta.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lsue.edu",
+      "name": "Louisiana State University-​Eunice",
+      "web_page": "http://www.lsue.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nunez.edu",
+      "name": "Nunez Community College",
+      "web_page": "http://www.nunez.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rpcc.edu",
+      "name": "River Parishes Community College",
+      "web_page": "http://www.rpcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "susla.edu",
+      "name": "Southern University at Shreveport",
+      "web_page": "http://www.susla.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "solacc.edu",
+      "name": "South Louisiana Community College",
+      "web_page": "http://www.solacc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sowela.edu",
+      "name": "SOWELA Technical Community College",
+      "web_page": "http://www.sowela.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cmcc.edu",
+      "name": "Central Maine Community College",
+      "web_page": "http://www.cmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cmmccollege.edu",
+      "name": "Central Maine Medical Center College of Nursing and Health Professions",
+      "web_page": "http://www.cmmccollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "emcc.edu",
+      "name": "Eastern Maine Community College",
+      "web_page": "http://www.emcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kvcc.me.edu",
+      "name": "Kennebec Valley Community College",
+      "web_page": "http://www.kvcc.me.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nmcc.edu",
+      "name": "Northern Maine Community College",
+      "web_page": "http://www.nmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "smccme.edu",
+      "name": "Southern Maine Community College",
+      "web_page": "http://www.smccME.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wccc.me.edu",
+      "name": "Washington County Community College",
+      "web_page": "http://www.wccc.me.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "yccc.edu",
+      "name": "York County Community College",
+      "web_page": "http://www.yccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "allegany.edu",
+      "name": "Allegany College of Maryland",
+      "web_page": "http://www.allegany.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bccc.edu",
+      "name": "Baltimore City Community College",
+      "web_page": "http://www.bccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "carrollcc.edu",
+      "name": "Carroll Community College",
+      "web_page": "http://www.carrollcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cecil.edu",
+      "name": "Cecil College",
+      "web_page": "http://www.cecil.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "csmd.edu",
+      "name": "College of Southern Maryland",
+      "web_page": "http://www.csmd.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "garrettcollege.edu",
+      "name": "Garrett College",
+      "web_page": "http://www.garrettcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pgcc.edu",
+      "name": "Prince George's Community College",
+      "web_page": "http://www.pgcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "worwic.edu",
+      "name": "Wor-​Wic Community College",
+      "web_page": "http://www.worwic.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "berkshirecc.edu",
+      "name": "Berkshire Community College",
+      "web_page": "http://www.berkshirecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bristolcc.edu",
+      "name": "Bristol Community College",
+      "web_page": "http://bristolcc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bhcc.mass.edu",
+      "name": "Bunker Hill Community College",
+      "web_page": "http://www.bhcc.mass.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "capecod.edu",
+      "name": "Cape Cod Community College",
+      "web_page": "http://www.capecod.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gcc.mass.edu",
+      "name": "Greenfield Community College",
+      "web_page": "http://www.gcc.mass.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hcc.edu",
+      "name": "Holyoke Community College",
+      "web_page": "http://www.hcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "massbay.edu",
+      "name": "Massachusetts Bay Community College",
+      "web_page": "http://www.massbay.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "massasoit.mass.edu",
+      "name": "Massasoit Community College",
+      "web_page": "http://www.massasoit.mass.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "middlesex.mass.edu",
+      "name": "Middlesex Community College",
+      "web_page": "http://www.middlesex.mass.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mwcc.edu",
+      "name": "Mount Wachusett Community College",
+      "web_page": "http://MWCC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "necc.mass.edu",
+      "name": "Northern Essex Community College",
+      "web_page": "http://www.necc.mass.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northshore.edu",
+      "name": "North Shore Community College",
+      "web_page": "http://www.northshore.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "quincycollege.edu",
+      "name": "Quincy College",
+      "web_page": "http://www.quincycollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "qcc.edu",
+      "name": "Quinsigamond Community College",
+      "web_page": "http://www.qcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rcc.mass.edu",
+      "name": "Roxbury Community College",
+      "web_page": "http://www.rcc.mass.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stcc.edu",
+      "name": "Springfield Technical Community College",
+      "web_page": "http://www.stcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "urbancollege.edu",
+      "name": "Urban College of Boston",
+      "web_page": "http://www.urbancollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alpenacc.edu",
+      "name": "Alpena Community College",
+      "web_page": "http://www.alpenacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "baycollege.edu",
+      "name": "Bay de Noc Community College",
+      "web_page": "http://www.baycollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bmcc.edu",
+      "name": "Bay Mills Community College",
+      "web_page": "http://www.bmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "delta.edu",
+      "name": "Delta College",
+      "web_page": "http://www.delta.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "glenoaks.cc.mi.us",
+      "name": "Glen Oaks Community College",
+      "web_page": "http://www.glenoaks.cc.mi.us/Pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gogebic.edu",
+      "name": "Gogebic Community College",
+      "web_page": "http://www.gogebic.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "grcc.edu",
+      "name": "Grand Rapids Community College",
+      "web_page": "http://www.grcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hfcc.edu",
+      "name": "Henry Ford Community College",
+      "web_page": "http://www.hfcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jccmi.edu",
+      "name": "Jackson College",
+      "web_page": "http://www.jccmi.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kvcc.edu",
+      "name": "Kalamazoo Valley Community College",
+      "web_page": "http://www.kvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kellogg.edu",
+      "name": "Kellogg Community College",
+      "web_page": "http://www.kellogg.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kbocc.org",
+      "name": "Keweenaw Bay Ojibwa Community College",
+      "web_page": "http://www.kbocc.org"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kirtland.edu",
+      "name": "Kirtland Community College",
+      "web_page": "http://www.kirtland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lakemichigancollege.edu",
+      "name": "Lake Michigan College",
+      "web_page": "http://www.lakemichigancollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lcc.edu",
+      "name": "Lansing Community College",
+      "web_page": "http://www.lcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "macomb.edu",
+      "name": "Macomb Community College",
+      "web_page": "http://www.macomb.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "midmich.edu",
+      "name": "Mid Michigan Community College",
+      "web_page": "http://www.midmich.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "monroeccc.edu",
+      "name": "Monroe County Community College",
+      "web_page": "http://www.monroeccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "montcalm.edu",
+      "name": "Montcalm Community College",
+      "web_page": "http://www.montcalm.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "muskegoncc.edu",
+      "name": "Muskegon Community College",
+      "web_page": "http://www.muskegoncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncmich.edu",
+      "name": "North Central Michigan College",
+      "web_page": "http://www.ncmich.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "oaklandcc.edu",
+      "name": "Oakland Community College",
+      "web_page": "http://www.oaklandcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sagchip.edu",
+      "name": "Saginaw Chippewa Tribal College",
+      "web_page": "http://www.sagchip.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "schoolcraft.edu",
+      "name": "Schoolcraft College",
+      "web_page": "http://www.schoolcraft.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swmich.edu",
+      "name": "Southwestern Michigan College",
+      "web_page": "http://www.swmich.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sc4.edu",
+      "name": "St Clair County Community College",
+      "web_page": "http://www.sc4.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wccnet.edu",
+      "name": "Washtenaw Community College",
+      "web_page": "http://www.wccnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wcccd.edu",
+      "name": "Wayne County Community College District",
+      "web_page": "http://www.wcccd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westshore.edu",
+      "name": "West Shore Community College",
+      "web_page": "http://www.westshore.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alextech.edu",
+      "name": "Alexandria Technical & Community College",
+      "web_page": "http://www.alextech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "anokaramsey.edu",
+      "name": "Anoka-​Ramsey Community College",
+      "web_page": "http://www.anokaramsey.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "anokatech.edu",
+      "name": "Anoka Technical College",
+      "web_page": "http://www.anokatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.clcmn.edu",
+      "name": "Central Lakes College-​Brainerd",
+      "web_page": "http://WWW.CLCMN.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "century.edu",
+      "name": "Century College",
+      "web_page": "http://www.century.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dctc.edu",
+      "name": "Dakota County Technical College",
+      "web_page": "http://www.dctc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fdltcc.edu",
+      "name": "Fond du Lac Tribal and Community College",
+      "web_page": "http://www.fdltcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hennepintech.edu",
+      "name": "Hennepin Technical College",
+      "web_page": "http://www.hennepintech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hibbing.edu",
+      "name": "Hibbing Community College",
+      "web_page": "http://www.hibbing.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "inverhills.edu",
+      "name": "Inver Hills Community College",
+      "web_page": "http://www.inverhills.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "itascacc.edu",
+      "name": "Itasca Community College",
+      "web_page": "http://www.itascacc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lltc.edu",
+      "name": "Leech Lake Tribal College",
+      "web_page": "http://www.lltc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mesabirange.edu",
+      "name": "Mesabi Range Community and Technical College",
+      "web_page": "http://www.mesabirange.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "minneapolis.edu",
+      "name": "Minneapolis Community and Technical College",
+      "web_page": "http://www.minneapolis.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southeastmn.edu",
+      "name": "Minnesota State College-​Southeast Technical",
+      "web_page": "http://www.southeastmn.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "minnesota.edu",
+      "name": "Minnesota State Community and Technical College",
+      "web_page": "http://www.minnesota.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mnwest.edu",
+      "name": "Minnesota West Community and Technical College",
+      "web_page": "http://www.mnwest.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "normandale.edu",
+      "name": "Normandale Community College",
+      "web_page": "http://www.normandale.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nhcc.edu",
+      "name": "North Hennepin Community College",
+      "web_page": "http://www.nhcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northlandcollege.edu",
+      "name": "Northland Community and Technical College",
+      "web_page": "http://www.northlandcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ntcmn.edu",
+      "name": "Northwest Technical College",
+      "web_page": "http://www.ntcmn.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pinetech.edu",
+      "name": "Pine Technical College",
+      "web_page": "http://www.pinetech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rrcc.mnscu.edu",
+      "name": "Rainy River Community College",
+      "web_page": "http://www.rrcc.mnscu.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ridgewater.edu",
+      "name": "Ridgewater College",
+      "web_page": "http://www.ridgewater.edu/Pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "riverland.edu",
+      "name": "Riverland Community College",
+      "web_page": "http://www.riverland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rctc.edu",
+      "name": "Rochester Community and Technical College",
+      "web_page": "http://www.rctc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "saintpaul.edu",
+      "name": "Saint Paul College",
+      "web_page": "http://www.saintpaul.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southcentral.edu",
+      "name": "South Central College",
+      "web_page": "http://www.southcentral.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sctcc.edu",
+      "name": "St Cloud Technical and Community College",
+      "web_page": "http://www.sctcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "vcc.edu",
+      "name": "Vermilion Community College",
+      "web_page": "http://www.vcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wetcc.edu",
+      "name": "White Earth Tribal and Community College",
+      "web_page": "http://www.wetcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coahomacc.edu",
+      "name": "Coahoma Community College",
+      "web_page": "http://www.coahomacc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "colin.edu",
+      "name": "Copiah-​Lincoln Community College",
+      "web_page": "http://www.colin.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eccc.edu",
+      "name": "East Central Community College",
+      "web_page": "http://www.eccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eastms.edu",
+      "name": "East Mississippi Community College",
+      "web_page": "http://www.eastms.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hindscc.edu",
+      "name": "Hinds Community College",
+      "web_page": "http://www.hindscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "holmescc.edu",
+      "name": "Holmes Community College",
+      "web_page": "http://www.holmescc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "iccms.edu",
+      "name": "Itawamba Community College",
+      "web_page": "http://www.iccms.edu/Default.aspx?tabid=55"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jcjc.edu",
+      "name": "Jones County Junior College",
+      "web_page": "http://www.jcjc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "meridiancc.edu",
+      "name": "Meridian Community College",
+      "web_page": "http://www.meridiancc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "msdelta.edu",
+      "name": "Mississippi Delta Community College",
+      "web_page": "http://www.msdelta.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mgccc.edu",
+      "name": "Mississippi Gulf Coast Community College",
+      "web_page": "https://www.mgccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nemcc.edu",
+      "name": "Northeast Mississippi Community College",
+      "web_page": "http://www.nemcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northwestms.edu",
+      "name": "Northwest Mississippi Community College",
+      "web_page": "http://www.northwestms.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "prcc.edu",
+      "name": "Pearl River Community College",
+      "web_page": "http://www.prcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "smcc.edu",
+      "name": "Southwest Mississippi Community College",
+      "web_page": "http://www.smcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "crowder.edu",
+      "name": "Crowder College",
+      "web_page": "http://www.crowder.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eastcentral.edu",
+      "name": "East Central College",
+      "web_page": "http://www.eastcentral.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jeffco.edu",
+      "name": "Jefferson College",
+      "web_page": "http://www.jeffco.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "linnstate.edu",
+      "name": "Linn State Technical College",
+      "web_page": "http://www.linnstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mineralarea.edu",
+      "name": "Mineral Area College",
+      "web_page": "http://www.mineralarea.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wp.missouristate.edu",
+      "name": "Missouri State University-​West Plains",
+      "web_page": "http://www.wp.missouristate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "macc.edu",
+      "name": "Moberly Area Community College",
+      "web_page": "http://www.macc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncmissouri.edu",
+      "name": "North Central Missouri College",
+      "web_page": "http://www.ncmissouri.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "otc.edu",
+      "name": "Ozarks Technical Community College",
+      "web_page": "http://www.otc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southeastmissourihospitalcollege.edu",
+      "name": "Southeast Missouri Hospital College of Nursing and Health Sciences",
+      "web_page": "http://www.southeastmissourihospitalcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sfccmo.edu",
+      "name": "State Fair Community College",
+      "web_page": "http://www.sfccmo.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stchas.edu",
+      "name": "St Charles Community College",
+      "web_page": "http://www.stchas.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "trcc.edu",
+      "name": "Three Rivers Community College",
+      "web_page": "http://www.trcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wma.edu",
+      "name": "Wentworth Military Academy & Junior College",
+      "web_page": "http://www.wma.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ancollege.edu",
+      "name": "Aaniiih Nakoda College",
+      "web_page": "http://www.ancollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bfcc.edu",
+      "name": "Blackfeet Community College",
+      "web_page": "http://bfcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cdkc.edu",
+      "name": "Chief Dull Knife College",
+      "web_page": "http://cdkc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dawson.edu",
+      "name": "Dawson Community College",
+      "web_page": "http://www.dawson.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fvcc.edu",
+      "name": "Flathead Valley Community College",
+      "web_page": "http://www.fvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fpcc.edu",
+      "name": "Fort Peck Community College",
+      "web_page": "http://www.fpcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gfcmsu.edu",
+      "name": "Great Falls College Montana State University",
+      "web_page": "http://www.gfcmsu.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "umhelena.edu",
+      "name": "Helena College University of Montana",
+      "web_page": "http://www.umhelena.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lbhc.edu",
+      "name": "Little Big Horn College",
+      "web_page": "http://www.lbhc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "milescc.edu",
+      "name": "Miles Community College",
+      "web_page": "http://milescc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stonechild.edu",
+      "name": "Stone Child College",
+      "web_page": "http://www.stonechild.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cccneb.edu",
+      "name": "Central Community College",
+      "web_page": "http://www.cccneb.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "littlepriest.edu",
+      "name": "Little Priest Tribal College",
+      "web_page": "http://www.littlepriest.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mpcc.edu",
+      "name": "Mid-​Plains Community College",
+      "web_page": "http://www.mpcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncta.unl.edu",
+      "name": "Nebraska College of Technical Agriculture",
+      "web_page": "http://NCTA.UNL.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "thenicc.edu",
+      "name": "Nebraska Indian Community College",
+      "web_page": "http://www.thenicc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northeast.edu",
+      "name": "Northeast Community College",
+      "web_page": "http://www.northeast.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southeast.edu",
+      "name": "Southeast Community College Area",
+      "web_page": "http://www.southeast.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wncc.edu",
+      "name": "Western Nebraska Community College",
+      "web_page": "http://www.wncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tmcc.edu",
+      "name": "Truckee Meadows Community College",
+      "web_page": "http://www.tmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "greatbay.edu",
+      "name": "Great Bay Community College",
+      "web_page": "http://www.greatbay.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lrcc.edu",
+      "name": "Lakes Region Community College",
+      "web_page": "http://www.lrcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mccnh.edu",
+      "name": "Manchester Community College",
+      "web_page": "http://www.mccnh.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nashuacc.edu",
+      "name": "Nashua Community College",
+      "web_page": "http://www.nashuacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nhti.edu",
+      "name": "NHTI-​Concord's Community College",
+      "web_page": "http://www.nhti.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rivervalley.edu",
+      "name": "River Valley Community College",
+      "web_page": "http://www.rivervalley.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wmcc.edu",
+      "name": "White Mountains Community College",
+      "web_page": "http://www.wmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "acs350.org",
+      "name": "Assumption College for Sisters",
+      "web_page": "http://www.acs350.org"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "atlantic.edu",
+      "name": "Atlantic Cape Community College",
+      "web_page": "http://www.atlantic.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bergen.edu",
+      "name": "Bergen Community College",
+      "web_page": "http://www.bergen.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "brookdalecc.edu",
+      "name": "Brookdale Community College",
+      "web_page": "http://www.brookdalecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bcc.edu",
+      "name": "Burlington County College",
+      "web_page": "http://www.bcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "camdencc.edu",
+      "name": "Camden County College",
+      "web_page": "http://www.camdencc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.ccm.edu",
+      "name": "County College of Morris",
+      "web_page": "http://WWW.CCM.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cccnj.edu",
+      "name": "Cumberland County College",
+      "web_page": "http://www.cccnj.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "essex.edu",
+      "name": "Essex County College",
+      "web_page": "http://www.essex.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gccnj.edu",
+      "name": "Gloucester County College",
+      "web_page": "http://www.gccnj.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hccc.edu",
+      "name": "Hudson County Community College",
+      "web_page": "http://www.hccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "middlesexcc.edu",
+      "name": "Middlesex County College",
+      "web_page": "http://www.middlesexcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ocean.edu",
+      "name": "Ocean County College",
+      "web_page": "http://www.ocean.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pccc.edu",
+      "name": "Passaic County Community College",
+      "web_page": "http://www.pccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "raritanval.edu",
+      "name": "Raritan Valley Community College",
+      "web_page": "http://www.raritanval.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "salemcc.edu",
+      "name": "Salem Community College",
+      "web_page": "http://www.salemcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sussex.edu",
+      "name": "Sussex County Community College",
+      "web_page": "http://www.sussex.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ucc.edu",
+      "name": "Union County College",
+      "web_page": "http://www.ucc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "warren.edu",
+      "name": "Warren County Community College",
+      "web_page": "http://www.warren.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cnm.edu",
+      "name": "Central New Mexico Community College",
+      "web_page": "http://www.cnm.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clovis.edu",
+      "name": "Clovis Community College",
+      "web_page": "http://www.clovis.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "roswell.enmu.edu",
+      "name": "Eastern New Mexico University-​Roswell Campus",
+      "web_page": "http://www.roswell.enmu.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "luna.edu",
+      "name": "Luna Community College",
+      "web_page": "http://www.luna.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mesalands.edu",
+      "name": "Mesalands Community College",
+      "web_page": "http://www.mesalands.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nmjc.edu",
+      "name": "New Mexico Junior College",
+      "web_page": "http://www.nmjc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nmmi.edu",
+      "name": "New Mexico Military Institute",
+      "web_page": "http://www.nmmi.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nmsua.edu",
+      "name": "New Mexico State University-​Alamogordo",
+      "web_page": "http://nmsua.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cavern.nmsu.edu",
+      "name": "New Mexico State University-​Carlsbad",
+      "web_page": "http://www.cavern.nmsu.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dabcc.nmsu.edu",
+      "name": "New Mexico State University-​Dona Ana",
+      "web_page": "http://dabcc.nmsu.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sanjuancollege.edu",
+      "name": "San Juan College",
+      "web_page": "http://www.sanjuancollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sfcc.edu",
+      "name": "Santa Fe Community College",
+      "web_page": "http://www.sfcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sipi.edu",
+      "name": "Southwestern Indian Polytechnic Institute",
+      "web_page": "http://www.sipi.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.sunyacc.edu",
+      "name": "Adirondack Community College",
+      "web_page": "http://WWW.SUNYACC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "aada.edu",
+      "name": "American Academy of Dramatic Arts-​New York",
+      "web_page": "http://www.aada.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "asa.edu",
+      "name": "ASA College",
+      "web_page": "http://www.asa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cayuga-cc.edu",
+      "name": "Cayuga County Community College",
+      "web_page": "http://www.cayuga-cc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clinton.edu",
+      "name": "Clinton Community College",
+      "web_page": "http://www.clinton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunycgcc.edu",
+      "name": "Columbia-​Greene Community College",
+      "web_page": "http://www.sunycgcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bmcc.cuny.edu",
+      "name": "CUNY Borough of Manhattan Community College",
+      "web_page": "http://www.bmcc.cuny.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bcc.cuny.edu",
+      "name": "CUNY Bronx Community College",
+      "web_page": "http://www.bcc.cuny.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hostos.cuny.edu",
+      "name": "CUNY Hostos Community College",
+      "web_page": "http://www.hostos.cuny.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kbcc.cuny.edu",
+      "name": "CUNY Kingsborough Community College",
+      "web_page": "http://www.kbcc.cuny.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lagcc.cuny.edu",
+      "name": "CUNY LaGuardia Community College",
+      "web_page": "http://www.lagcc.cuny.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "qcc.cuny.edu",
+      "name": "CUNY Queensborough Community College",
+      "web_page": "http://www.qcc.cuny.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunydutchess.edu",
+      "name": "Dutchess Community College",
+      "web_page": "http://www.sunydutchess.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "flcc.edu",
+      "name": "Finger Lakes Community College",
+      "web_page": "http://www.flcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fmcc.edu",
+      "name": "Fulton-​Montgomery Community College",
+      "web_page": "http://fmcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "genesee.edu",
+      "name": "Genesee Community College",
+      "web_page": "http://www.genesee.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "herkimer.edu",
+      "name": "Herkimer County Community College",
+      "web_page": "http://www.herkimer.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hvcc.edu",
+      "name": "Hudson Valley Community College",
+      "web_page": "http://www.hvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunyjcc.edu",
+      "name": "Jamestown Community College",
+      "web_page": "http://www.sunyjcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunyjefferson.edu",
+      "name": "Jefferson Community College",
+      "web_page": "http://www.sunyjefferson.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mvcc.edu",
+      "name": "Mohawk Valley Community College",
+      "web_page": "http://www.mvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "monroecc.edu",
+      "name": "Monroe Community College",
+      "web_page": "http://www.monroecc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncc.edu",
+      "name": "Nassau Community College",
+      "web_page": "http://www.ncc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "niagaracc.suny.edu",
+      "name": "Niagara County Community College",
+      "web_page": "http://www.niagaracc.suny.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nccc.edu",
+      "name": "North Country Community College",
+      "web_page": "http://www.nccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunyocc.edu",
+      "name": "Onondaga Community College",
+      "web_page": "http://www.sunyocc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunyorange.edu",
+      "name": "Orange County Community College",
+      "web_page": "http://www.sunyorange.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunyrockland.edu",
+      "name": "Rockland Community College",
+      "web_page": "http://www.sunyrockland.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "secon.edu",
+      "name": "Saint Elizabeth College of Nursing",
+      "web_page": "http://www.secon.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunysccc.edu",
+      "name": "Schenectady County Community College",
+      "web_page": "http://www.sunysccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www3.sunysuffolk.edu",
+      "name": "Suffolk County Community College",
+      "web_page": "http://www3.sunysuffolk.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunysullivan.edu",
+      "name": "Sullivan County Community College",
+      "web_page": "http://www.sunysullivan.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.sunybroome.edu",
+      "name": "SUNY Broome Community College",
+      "web_page": "http://WWW.SUNYBROOME.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunywcc.edu",
+      "name": "SUNY Westchester Community College",
+      "web_page": "http://www.sunywcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tcicollege.edu",
+      "name": "Technical Career Institutes",
+      "web_page": "http://www.tcicollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tc3.edu",
+      "name": "Tompkins Cortland Community College",
+      "web_page": "http://www.TC3.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.sunyulster.edu",
+      "name": "Ulster County Community College",
+      "web_page": "http://WWW.SUNYULSTER.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alamancecc.edu",
+      "name": "Alamance Community College",
+      "web_page": "http://www.alamancecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "abtech.edu",
+      "name": "Asheville-​Buncombe Technical Community College",
+      "web_page": "http://www.abtech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "beaufortccc.edu",
+      "name": "Beaufort County Community College",
+      "web_page": "http://www.beaufortccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bladencc.edu",
+      "name": "Bladen Community College",
+      "web_page": "http://www.bladencc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "blueridge.edu",
+      "name": "Blue Ridge Community College",
+      "web_page": "http://www.blueridge.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "brunswickcc.edu",
+      "name": "Brunswick Community College",
+      "web_page": "http://www.brunswickcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cccti.edu",
+      "name": "Caldwell Community College and Technical Institute",
+      "web_page": "http://www.cccti.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cfcc.edu",
+      "name": "Cape Fear Community College",
+      "web_page": "http://www.cfcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "carolinascollege.edu",
+      "name": "Carolinas College of Health Sciences",
+      "web_page": "http://www.carolinascollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "carteret.edu",
+      "name": "Carteret Community College",
+      "web_page": "http://www.carteret.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cvcc.edu",
+      "name": "Catawba Valley Community College",
+      "web_page": "http://www.cvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cccc.edu",
+      "name": "Central Carolina Community College",
+      "web_page": "http://www.cccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cpcc.edu",
+      "name": "Central Piedmont Community College",
+      "web_page": "http://www.cpcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clevelandcc.edu",
+      "name": "Cleveland Community College",
+      "web_page": "http://www.clevelandcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coastalcarolina.edu",
+      "name": "Coastal Carolina Community College",
+      "web_page": "http://www.coastalcarolina.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "albemarle.edu",
+      "name": "College of the Albemarle",
+      "web_page": "http://www.albemarle.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cravencc.edu",
+      "name": "Craven Community College",
+      "web_page": "http://www.cravencc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "davidsonccc.edu",
+      "name": "Davidson County Community College",
+      "web_page": "http://www.davidsonccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "durhamtech.edu",
+      "name": "Durham Technical Community College",
+      "web_page": "http://www.durhamtech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "edgecombe.edu",
+      "name": "Edgecombe Community College",
+      "web_page": "http://www.edgecombe.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "faytechcc.edu",
+      "name": "Fayetteville Technical Community College",
+      "web_page": "http://www.faytechcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "forsythtech.edu",
+      "name": "Forsyth Technical Community College",
+      "web_page": "http://www.forsythtech.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gaston.edu",
+      "name": "Gaston College",
+      "web_page": "http://www.gaston.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gtcc.edu",
+      "name": "Guilford Technical Community College",
+      "web_page": "http://www.gtcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "halifaxcc.edu",
+      "name": "Halifax Community College",
+      "web_page": "http://www.halifaxcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "haywood.edu",
+      "name": "Haywood Community College",
+      "web_page": "http://www.haywood.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "isothermal.edu",
+      "name": "Isothermal Community College",
+      "web_page": "http://www.isothermal.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jamessprunt.edu",
+      "name": "James Sprunt Community College",
+      "web_page": "http://www.jamessprunt.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "johnstoncc.edu",
+      "name": "Johnston Community College",
+      "web_page": "http://www.johnstoncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "louisburg.edu",
+      "name": "Louisburg College",
+      "web_page": "http://www.louisburg.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "martincc.edu",
+      "name": "Martin Community College",
+      "web_page": "http://www.martincc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mayland.edu",
+      "name": "Mayland Community College",
+      "web_page": "http://www.mayland.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mcdowelltech.edu",
+      "name": "McDowell Technical Community College",
+      "web_page": "http://www.mcdowelltech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mitchellcc.edu",
+      "name": "Mitchell Community College",
+      "web_page": "http://www.mitchellcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "montgomery.edu",
+      "name": "Montgomery Community College",
+      "web_page": "http://www.montgomery.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nashcc.edu",
+      "name": "Nash Community College",
+      "web_page": "http://www.nashcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pamlicocc.edu",
+      "name": "Pamlico Community College",
+      "web_page": "http://www.pamlicocc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "piedmontcc.edu",
+      "name": "Piedmont Community College",
+      "web_page": "http://www.piedmontcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pittcc.edu",
+      "name": "Pitt Community College",
+      "web_page": "http://www.pittcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "randolph.edu",
+      "name": "Randolph Community College",
+      "web_page": "http://www.randolph.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "richmondcc.edu",
+      "name": "Richmond Community College",
+      "web_page": "http://www.richmondcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "roanokechowan.edu",
+      "name": "Roanoke-​Chowan Community College",
+      "web_page": "http://www.roanokechowan.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "robeson.edu",
+      "name": "Robeson Community College",
+      "web_page": "http://www.robeson.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rockinghamcc.edu",
+      "name": "Rockingham Community College",
+      "web_page": "http://www.rockinghamcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rccc.edu",
+      "name": "Rowan-​Cabarrus Community College",
+      "web_page": "http://www.rccc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sampsoncc.edu",
+      "name": "Sampson Community College",
+      "web_page": "http://www.sampsoncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sandhills.edu",
+      "name": "Sandhills Community College",
+      "web_page": "http://www.sandhills.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sccnc.edu",
+      "name": "Southeastern Community College",
+      "web_page": "http://www.sccnc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "spcc.edu",
+      "name": "South Piedmont Community College",
+      "web_page": "http://www.spcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southwesterncc.edu",
+      "name": "Southwestern Community College",
+      "web_page": "http://www.southwesterncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stanly.edu",
+      "name": "Stanly Community College",
+      "web_page": "http://www.stanly.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "surry.edu",
+      "name": "Surry Community College",
+      "web_page": "http://www.surry.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tricountycc.edu",
+      "name": "Tri-​County Community College",
+      "web_page": "http://www.tricountycc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "waketech.edu",
+      "name": "Wake Technical Community College",
+      "web_page": "http://www.waketech.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "waynecc.edu",
+      "name": "Wayne Community College",
+      "web_page": "http://www.waynecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wpcc.edu",
+      "name": "Western Piedmont Community College",
+      "web_page": "http://www.wpcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wilkescc.edu",
+      "name": "Wilkes Community College",
+      "web_page": "http://www.wilkescc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wilsoncc.edu",
+      "name": "Wilson Community College",
+      "web_page": "http://www.wilsoncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "littlehoop.edu",
+      "name": "Cankdeska Cikana Community College",
+      "web_page": "http://www.littlehoop.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dakotacollege.edu",
+      "name": "Dakota College at Bottineau",
+      "web_page": "http://www.dakotacollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lrsc.edu",
+      "name": "Lake Region State College",
+      "web_page": "http://www.lrsc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ndscs.edu",
+      "name": "North Dakota State College of Science",
+      "web_page": "http://www.ndscs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "willistonstate.edu",
+      "name": "Williston State College",
+      "web_page": "http://www.willistonstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "belmontcollege.edu",
+      "name": "Belmont College",
+      "web_page": "http://www.belmontcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cotc.edu",
+      "name": "Central Ohio Technical College",
+      "web_page": "http://www.cotc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chatfield.edu",
+      "name": "Chatfield College",
+      "web_page": "http://www.chatfield.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cincinnatistate.edu",
+      "name": "Cincinnati State Technical and Community College",
+      "web_page": "http://www.cincinnatistate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clarkstate.edu",
+      "name": "Clark State Community College",
+      "web_page": "http://www.clarkstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cscc.edu",
+      "name": "Columbus State Community College",
+      "web_page": "http://www.cscc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tri-c.edu",
+      "name": "Cuyahoga Community College District",
+      "web_page": "http://www.tri-c.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "daviscollege.edu",
+      "name": "Davis College",
+      "web_page": "http://www.daviscollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "egcc.edu",
+      "name": "Eastern Gateway Community College",
+      "web_page": "http://www.egcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "edisonohio.edu",
+      "name": "Edison State Community College",
+      "web_page": "http://www.edisonOHIO.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hocking.edu",
+      "name": "Hocking College",
+      "web_page": "http://www.hocking.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rhodesstate.edu",
+      "name": "James A Rhodes State College",
+      "web_page": "http://www.rhodesstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lakelandcc.edu",
+      "name": "Lakeland Community College",
+      "web_page": "http://www.lakelandcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lorainccc.edu",
+      "name": "Lorain County Community College",
+      "web_page": "http://www.lorainccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mtc.edu",
+      "name": "Marion Technical College",
+      "web_page": "http://www.mtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncstatecollege.edu",
+      "name": "North Central State College",
+      "web_page": "http://www.ncstatecollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northweststate.edu",
+      "name": "Northwest State Community College",
+      "web_page": "http://www.northweststate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ati.osu.edu",
+      "name": "Ohio State University Agricultural Technical Institute",
+      "web_page": "http://www.ati.osu.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "owens.edu",
+      "name": "Owens Community College",
+      "web_page": "https://www.owens.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sscc.edu",
+      "name": "Southern State Community College",
+      "web_page": "http://www.sscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "starkstate.edu",
+      "name": "Stark State College",
+      "web_page": "http://www.starkstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "terra.edu",
+      "name": "Terra State Community College",
+      "web_page": "http://www.terra.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wayne.uakron.edu",
+      "name": "University of Akron Wayne College",
+      "web_page": "http://www.wayne.uakron.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wscc.edu",
+      "name": "Washington State Community College",
+      "web_page": "http://www.wscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "zanestate.edu",
+      "name": "Zane State College",
+      "web_page": "http://www.zanestate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "carlalbert.edu",
+      "name": "Carl Albert State College",
+      "web_page": "http://www.carlalbert.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "connorsstate.edu",
+      "name": "Connors State College",
+      "web_page": "http://www.connorsstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eosc.edu",
+      "name": "Eastern Oklahoma State College",
+      "web_page": "http://www.eosc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mscok.edu",
+      "name": "Murray State College",
+      "web_page": "http://www.mscok.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "neo.edu",
+      "name": "Northeastern Oklahoma A&M College",
+      "web_page": "http://www.neo.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "noc.edu",
+      "name": "Northern Oklahoma College",
+      "web_page": "http://www.noc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "occc.edu",
+      "name": "Oklahoma City Community College",
+      "web_page": "http://www.occc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "redlandscc.edu",
+      "name": "Redlands Community College",
+      "web_page": "http://www.redlandscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rose.edu",
+      "name": "Rose State College",
+      "web_page": "http://www.rose.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sscok.edu",
+      "name": "Seminole State College",
+      "web_page": "http://www.sscok.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tulsacc.edu",
+      "name": "Tulsa Community College",
+      "web_page": "http://www.tulsacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wosc.edu",
+      "name": "Western Oklahoma State College",
+      "web_page": "http://www.wosc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bluecc.edu",
+      "name": "Blue Mountain Community College",
+      "web_page": "http://www.bluecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cocc.edu",
+      "name": "Central Oregon Community College",
+      "web_page": "http://www.cocc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chemeketa.edu",
+      "name": "Chemeketa Community College",
+      "web_page": "http://www.chemeketa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clackamas.edu",
+      "name": "Clackamas Community College",
+      "web_page": "http://www.clackamas.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clatsopcc.edu",
+      "name": "Clatsop Community College",
+      "web_page": "http://www.clatsopcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cgcc.cc.or.us",
+      "name": "Columbia Gorge Community College",
+      "web_page": "http://www.cgcc.cc.or.us"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "klamathcc.edu",
+      "name": "Klamath Community College",
+      "web_page": "https://www.klamathcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lanecc.edu",
+      "name": "Lane Community College",
+      "web_page": "http://www.Lanecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "linnbenton.edu",
+      "name": "Linn-​Benton Community College",
+      "web_page": "http://www.linnbenton.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mhcc.edu",
+      "name": "Mt Hood Community College",
+      "web_page": "http://www.mhcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "roguecc.edu",
+      "name": "Rogue Community College",
+      "web_page": "http://www.roguecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "socc.edu",
+      "name": "Southwestern Oregon Community College",
+      "web_page": "http://www.socc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tbcc.cc.or.us",
+      "name": "Tillamook Bay Community College",
+      "web_page": "http://www.tbcc.cc.or.us/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tvcc.cc",
+      "name": "Treasure Valley Community College",
+      "web_page": "http://www.tvcc.cc"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "umpqua.edu",
+      "name": "Umpqua Community College",
+      "web_page": "http://www.umpqua.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bucks.edu",
+      "name": "Bucks County Community College",
+      "web_page": "http://www.bucks.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bc3.edu",
+      "name": "Butler County Community College",
+      "web_page": "http://www.bc3.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccac.edu",
+      "name": "Community College of Allegheny County",
+      "web_page": "http://www.ccac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccbc.edu",
+      "name": "Community College of Beaver County",
+      "web_page": "http://www.ccbc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccp.edu",
+      "name": "Community College of Philadelphia",
+      "web_page": "http://www.ccp.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dccc.edu",
+      "name": "Delaware County Community College",
+      "web_page": "http://www.dccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "harcum.edu",
+      "name": "Harcum College",
+      "web_page": "http://www.harcum.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hacc.edu",
+      "name": "Harrisburg Area Community College-​Harrisburg",
+      "web_page": "http://www.hacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lackawanna.edu",
+      "name": "Lackawanna College",
+      "web_page": "http://www.lackawanna.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lccc.edu",
+      "name": "Lehigh Carbon Community College",
+      "web_page": "http://www.lccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "luzerne.edu",
+      "name": "Luzerne County Community College",
+      "web_page": "http://www.luzerne.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "manor.edu",
+      "name": "Manor College",
+      "web_page": "http://www.manor.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mc3.edu",
+      "name": "Montgomery County Community College",
+      "web_page": "http://www.mc3.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pennhighlands.edu",
+      "name": "Pennsylvania Highlands Community College",
+      "web_page": "http://www.pennhighlands.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pit.edu",
+      "name": "Pennsylvania Institute of Technology",
+      "web_page": "http://www.pit.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pti.edu",
+      "name": "Pittsburgh Technical Institute",
+      "web_page": "http://www.pti.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "racc.edu",
+      "name": "Reading Area Community College",
+      "web_page": "http://www.racc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stevenscollege.edu",
+      "name": "Thaddeus Stevens College of Technology",
+      "web_page": "http://www.stevenscollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "upt.pitt.edu",
+      "name": "University of Pittsburgh-​Titusville",
+      "web_page": "http://www.upt.pitt.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "vfmac.edu",
+      "name": "Valley Forge Military College",
+      "web_page": "http://www.vfmac.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wccc.edu",
+      "name": "Westmoreland County Community College",
+      "web_page": "http://wccc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccri.edu",
+      "name": "Community College of Rhode Island",
+      "web_page": "http://www.ccri.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cctech.edu",
+      "name": "Central Carolina Technical College",
+      "web_page": "http://www.cctech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "denmarktech.edu",
+      "name": "Denmark Technical College",
+      "web_page": "http://www.denmarktech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.fdtc.edu",
+      "name": "Florence-​Darlington Technical College",
+      "web_page": "http://WWW.FDTC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gvltec.edu",
+      "name": "Greenville Technical College",
+      "web_page": "http://www.gvltec.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hgtc.edu",
+      "name": "Horry-​Georgetown Technical College",
+      "web_page": "http://www.hgtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "midlandstech.edu",
+      "name": "Midlands Technical College",
+      "web_page": "http://www.midlandstech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "netc.edu",
+      "name": "Northeastern Technical College",
+      "web_page": "http://www.netc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "octech.edu",
+      "name": "Orangeburg Calhoun Technical College",
+      "web_page": "http://www.octech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ptc.edu",
+      "name": "Piedmont Technical College",
+      "web_page": "http://www.ptc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sccsc.edu",
+      "name": "Spartanburg Community College",
+      "web_page": "http://www.sccsc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "smcsc.edu",
+      "name": "Spartanburg Methodist College",
+      "web_page": "http://www.smcsc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tcl.edu",
+      "name": "Technical College of the Lowcountry",
+      "web_page": "http://www.tcl.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tctc.edu",
+      "name": "Tri-​County Technical College",
+      "web_page": "http://www.tctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tridenttech.edu",
+      "name": "Trident Technical College",
+      "web_page": "http://www.tridenttech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wiltech.edu",
+      "name": "Williamsburg Technical College",
+      "web_page": "http://www.wiltech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "yorktech.edu",
+      "name": "York Technical College",
+      "web_page": "http://www.yorktech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kilian.edu",
+      "name": "Kilian Community College",
+      "web_page": "http://www.kilian.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lakeareatech.edu",
+      "name": "Lake Area Technical Institute",
+      "web_page": "http://www.lakeareatech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mitchelltech.edu",
+      "name": "Mitchell Technical Institute",
+      "web_page": "http://www.mitchelltech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swc.tc",
+      "name": "Sisseton Wahpeton College",
+      "web_page": "http://www.swc.tc"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southeasttech.edu",
+      "name": "Southeast Technical Institute",
+      "web_page": "http://www.southeasttech.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wdt.edu",
+      "name": "Western Dakota Technical Institute",
+      "web_page": "https://www.wdt.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "chattanoogastate.edu",
+      "name": "Chattanooga State Community College",
+      "web_page": "http://www.chattanoogastate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clevelandstatecc.edu",
+      "name": "Cleveland State Community College",
+      "web_page": "http://www.clevelandstatecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "columbiastate.edu",
+      "name": "Columbia State Community College",
+      "web_page": "http://www.columbiastate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dscc.edu",
+      "name": "Dyersburg State Community College",
+      "web_page": "http://www.dscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jscc.edu",
+      "name": "Jackson State Community College",
+      "web_page": "http://www.jscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "guptoncollege.edu",
+      "name": "John A Gupton College",
+      "web_page": "http://www.guptoncollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mscc.edu",
+      "name": "Motlow State Community College",
+      "web_page": "http://www.mscc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northeaststate.edu",
+      "name": "Northeast State Community College",
+      "web_page": "http://www.NortheastState.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pstcc.edu",
+      "name": "Pellissippi State Community College",
+      "web_page": "http://www.pstcc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "roanestate.edu",
+      "name": "Roane State Community College",
+      "web_page": "http://www.roanestate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southwest.tn.edu",
+      "name": "Southwest Tennessee Community College",
+      "web_page": "http://www.southwest.tn.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "volstate.edu",
+      "name": "Volunteer State Community College",
+      "web_page": "http://www.volstate.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ws.edu",
+      "name": "Walters State Community College",
+      "web_page": "http://www.ws.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alvincollege.edu",
+      "name": "Alvin Community College",
+      "web_page": "http://www.alvincollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "actx.edu",
+      "name": "Amarillo College",
+      "web_page": "http://www.actx.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "angelina.edu",
+      "name": "Angelina College",
+      "web_page": "http://www.angelina.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "blinn.edu",
+      "name": "Blinn College",
+      "web_page": "http://www.blinn.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "brookhavencollege.edu",
+      "name": "Brookhaven College",
+      "web_page": "http://www.brookhavencollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cedarvalleycollege.edu",
+      "name": "Cedar Valley College",
+      "web_page": "http://www.cedarvalleycollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ctcd.edu",
+      "name": "Central Texas College",
+      "web_page": "http://www.ctcd.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cisco.edu",
+      "name": "Cisco College",
+      "web_page": "http://www.cisco.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clarendoncollege.edu",
+      "name": "Clarendon College",
+      "web_page": "http://www.clarendoncollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "coastalbend.edu",
+      "name": "Coastal Bend College",
+      "web_page": "http://www.coastalbend.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "com.edu",
+      "name": "College of the Mainland",
+      "web_page": "http://www.com.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "collin.edu",
+      "name": "Collin County Community College District",
+      "web_page": "http://www.collin.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "delmar.edu",
+      "name": "Del Mar College",
+      "web_page": "http://www.delmar.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eastfieldcollege.edu",
+      "name": "Eastfield College",
+      "web_page": "http://www.eastfieldcollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "elcentrocollege.edu",
+      "name": "El Centro College",
+      "web_page": "http://www.elcentrocollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "epcc.edu",
+      "name": "El Paso Community College",
+      "web_page": "http://www.epcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fpctx.edu",
+      "name": "Frank Phillips College",
+      "web_page": "http://www.fpctx.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gc.edu",
+      "name": "Galveston College",
+      "web_page": "http://www.gc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "grayson.edu",
+      "name": "Grayson College",
+      "web_page": "http://www.grayson.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hillcollege.edu",
+      "name": "Hill College",
+      "web_page": "http://www.hillcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hccs.edu",
+      "name": "Houston Community College",
+      "web_page": "http://www.hccs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "howardcollege.edu",
+      "name": "Howard College",
+      "web_page": "http://www.howardcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jacksonville-college.edu",
+      "name": "Jacksonville College-​Main Campus",
+      "web_page": "http://www.jacksonville-college.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kilgore.edu",
+      "name": "Kilgore College",
+      "web_page": "http://www.kilgore.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lit.edu",
+      "name": "Lamar Institute of Technology",
+      "web_page": "http://www.lit.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lsco.edu",
+      "name": "Lamar State College-​Orange",
+      "web_page": "http://www.lsco.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lamarpa.edu",
+      "name": "Lamar State College-​Port Arthur",
+      "web_page": "http://www.lamarpa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "laredo.edu",
+      "name": "Laredo Community College",
+      "web_page": "http://www.laredo.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lee.edu",
+      "name": "Lee College",
+      "web_page": "http://www.lee.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lonestar.edu",
+      "name": "Lone Star College System",
+      "web_page": "http://www.lonestar.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mclennan.edu",
+      "name": "McLennan Community College",
+      "web_page": "http://www.mclennan.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "navarrocollege.edu",
+      "name": "Navarro College",
+      "web_page": "http://www.navarrocollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nctc.edu",
+      "name": "North Central Texas College",
+      "web_page": "http://www.nctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ntcc.edu",
+      "name": "Northeast Texas Community College",
+      "web_page": "http://www.ntcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northlakecollege.edu",
+      "name": "North Lake College",
+      "web_page": "http://www.northlakecollege.edu/Pages/default.aspx"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alamo.edu",
+      "name": "Northwest Vista College",
+      "web_page": "http://www.alamo.edu/nvc/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "odessa.edu",
+      "name": "Odessa College",
+      "web_page": "http://www.odessa.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alamo.edu",
+      "name": "Palo Alto College",
+      "web_page": "http://www.alamo.edu/pac/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "panola.edu",
+      "name": "Panola College",
+      "web_page": "http://www.panola.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "parisjc.edu",
+      "name": "Paris Junior College",
+      "web_page": "http://www.parisjc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rangercollege.edu",
+      "name": "Ranger College",
+      "web_page": "http://www.rangercollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "richlandcollege.edu",
+      "name": "Richland College",
+      "web_page": "http://www.richlandcollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alamo.edu",
+      "name": "San Antonio College",
+      "web_page": "http://www.alamo.edu/sac"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southplainscollege.edu",
+      "name": "South Plains College",
+      "web_page": "http://www.southplainscollege.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swtjc.net",
+      "name": "Southwest Texas Junior College",
+      "web_page": "http://www.swtjc.net"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "alamo.edu",
+      "name": "St Philip's College",
+      "web_page": "http://www.alamo.edu/spc/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "templejc.edu",
+      "name": "Temple College",
+      "web_page": "http://www.templejc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "texarkanacollege.edu",
+      "name": "Texarkana College",
+      "web_page": "http://www.texarkanacollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "harlingen.tstc.edu",
+      "name": "Texas State Technical College-​Harlingen",
+      "web_page": "http://www.harlingen.tstc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "marshall.tstc.edu",
+      "name": "Texas State Technical College-​Marshall",
+      "web_page": "http://www.marshall.tstc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "waco.tstc.edu",
+      "name": "Texas State Technical College-​Waco",
+      "web_page": "http://www.waco.tstc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westtexas.tstc.edu",
+      "name": "Texas State Technical College-​West Texas",
+      "web_page": "http://www.westtexas.tstc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tvcc.edu",
+      "name": "Trinity Valley Community College",
+      "web_page": "http://www.tvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "www.tjc.edu",
+      "name": "Tyler Junior College",
+      "web_page": "http://WWW.TJC.EDU"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "vernoncollege.edu",
+      "name": "Vernon College",
+      "web_page": "http://www.vernoncollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "victoriacollege.edu",
+      "name": "Victoria College",
+      "web_page": "http://www.victoriacollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wc.edu",
+      "name": "Weatherford College",
+      "web_page": "http://www.wc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wtc.edu",
+      "name": "Western Texas College",
+      "web_page": "http://www.wtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wcjc.edu",
+      "name": "Wharton County Junior College",
+      "web_page": "http://www.wcjc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ldsbc.edu",
+      "name": "Latter-​day Saints Business College",
+      "web_page": "http://www.ldsbc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "slcc.edu",
+      "name": "Salt Lake Community College",
+      "web_page": "http://www.slcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccv.edu",
+      "name": "Community College of Vermont",
+      "web_page": "http://www.ccv.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "brcc.edu",
+      "name": "Blue Ridge Community College",
+      "web_page": "http://www.brcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cvcc.vccs.edu",
+      "name": "Central Virginia Community College",
+      "web_page": "http://www.cvcc.vccs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dslcc.edu",
+      "name": "Dabney S Lancaster Community College",
+      "web_page": "http://www.dslcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dcc.vccs.edu",
+      "name": "Danville Community College",
+      "web_page": "http://www.dcc.vccs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "es.vccs.edu",
+      "name": "Eastern Shore Community College",
+      "web_page": "http://www.es.vccs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "germanna.edu",
+      "name": "Germanna Community College",
+      "web_page": "http://www.germanna.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "jtcc.edu",
+      "name": "John Tyler Community College",
+      "web_page": "http://www.jtcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "reynolds.edu",
+      "name": "J Sargeant Reynolds Community College",
+      "web_page": "http://www.reynolds.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lfcc.edu",
+      "name": "Lord Fairfax Community College",
+      "web_page": "http://www.lfcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mecc.edu",
+      "name": "Mountain Empire Community College",
+      "web_page": "http://www.mecc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nr.edu",
+      "name": "New River Community College",
+      "web_page": "http://www.nr.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nvcc.edu",
+      "name": "Northern Virginia Community College",
+      "web_page": "http://www.nvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "patrickhenry.edu",
+      "name": "Patrick Henry Community College",
+      "web_page": "http://www.patrickhenry.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pdc.edu",
+      "name": "Paul D Camp Community College",
+      "web_page": "http://www.pdc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pvcc.edu",
+      "name": "Piedmont Virginia Community College",
+      "web_page": "http://www.pvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rappahannock.edu",
+      "name": "Rappahannock Community College",
+      "web_page": "http://www.rappahannock.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rbc.edu",
+      "name": "Richard Bland College of the College of William and Mary",
+      "web_page": "http://www.rbc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southside.edu",
+      "name": "Southside Virginia Community College",
+      "web_page": "http://www.southside.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sw.edu",
+      "name": "Southwest Virginia Community College",
+      "web_page": "http://www.sw.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tncc.edu",
+      "name": "Thomas Nelson Community College",
+      "web_page": "http://www.tncc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tcc.edu",
+      "name": "Tidewater Community College",
+      "web_page": "http://www.tcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "vhcc.edu",
+      "name": "Virginia Highlands Community College",
+      "web_page": "http://www.vhcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "virginiawestern.edu",
+      "name": "Virginia Western Community College",
+      "web_page": "http://virginiawestern.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wcc.vccs.edu",
+      "name": "Wytheville Community College",
+      "web_page": "http://www.wcc.vccs.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bates.ctc.edu",
+      "name": "Bates Technical College",
+      "web_page": "http://www.bates.ctc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "btc.ctc.edu",
+      "name": "Bellingham Technical College",
+      "web_page": "http://www.btc.ctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bigbend.edu",
+      "name": "Big Bend Community College",
+      "web_page": "http://www.bigbend.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cascadia.edu",
+      "name": "Cascadia Community College",
+      "web_page": "http://www.cascadia.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "clark.edu",
+      "name": "Clark College",
+      "web_page": "http://www.clark.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cptc.edu",
+      "name": "Clover Park Technical College",
+      "web_page": "http://www.cptc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "edcc.edu",
+      "name": "Edmonds Community College",
+      "web_page": "http://www.edcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "everettcc.edu",
+      "name": "Everett Community College",
+      "web_page": "http://www.everettcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ghc.edu",
+      "name": "Grays Harbor College",
+      "web_page": "http://www.ghc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "greenriver.edu",
+      "name": "Green River Community College",
+      "web_page": "http://www.greenriver.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "highline.edu",
+      "name": "Highline Community College",
+      "web_page": "http://www.highline.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lowercolumbia.edu",
+      "name": "Lower Columbia College",
+      "web_page": "http://lowercolumbia.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pierce.ctc.edu",
+      "name": "Pierce College at Puyallup",
+      "web_page": "http://www.pierce.ctc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "rtc.edu",
+      "name": "Renton Technical College",
+      "web_page": "http://www.rtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "shoreline.edu",
+      "name": "Shoreline Community College",
+      "web_page": "http://www.shoreline.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "skagit.edu",
+      "name": "Skagit Valley College",
+      "web_page": "http://www.skagit.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "spscc.ctc.edu",
+      "name": "South Puget Sound Community College",
+      "web_page": "http://www.spscc.ctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "scc.spokane.edu",
+      "name": "Spokane Community College",
+      "web_page": "http://www.scc.spokane.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "spokanefalls.edu",
+      "name": "Spokane Falls Community College",
+      "web_page": "http://www.spokanefalls.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tacomacc.edu",
+      "name": "Tacoma Community College",
+      "web_page": "http://www.tacomacc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wwcc.edu",
+      "name": "Walla Walla Community College",
+      "web_page": "http://www.wwcc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wvc.edu",
+      "name": "Wenatchee Valley College",
+      "web_page": "http://www.wvc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "whatcom.ctc.edu",
+      "name": "Whatcom Community College",
+      "web_page": "http://www.whatcom.ctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "yvcc.edu",
+      "name": "Yakima Valley Community College",
+      "web_page": "http://www.yvcc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "blueridgectc.edu",
+      "name": "Blue Ridge Community and Technical College",
+      "web_page": "http://www.blueridgectc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "bridgemont.edu",
+      "name": "Bridgemont Community and Technical College",
+      "web_page": "http://www.bridgemont.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "eastern.wvnet.edu",
+      "name": "Eastern West Virginia Community and Technical College",
+      "web_page": "http://www.Eastern.wvnet.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "huntingtonjuniorcollege.edu",
+      "name": "Huntington Junior College",
+      "web_page": "http://www.huntingtonjuniorcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "kvctc.edu",
+      "name": "Kanawha Valley Community and Technical College",
+      "web_page": "http://www.kvctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mctc.edu",
+      "name": "Mountwest Community and Technical College",
+      "web_page": "http://www.mctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "newriver.edu",
+      "name": "New River Community and Technical College",
+      "web_page": "http://www.newriver.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "pierpont.edu",
+      "name": "Pierpont Community and Technical College",
+      "web_page": "http://www.pierpont.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "southernwv.edu",
+      "name": "Southern West Virginia Community and Technical College",
+      "web_page": "http://www.southernwv.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wvncc.edu",
+      "name": "West Virginia Northern Community College",
+      "web_page": "http://www.wvncc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "blackhawk.edu",
+      "name": "Blackhawk Technical College",
+      "web_page": "http://www.blackhawk.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cvtc.edu",
+      "name": "Chippewa Valley Technical College",
+      "web_page": "http://www.cvtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fvtc.edu",
+      "name": "Fox Valley Technical College",
+      "web_page": "http://www.fvtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gtc.edu",
+      "name": "Gateway Technical College",
+      "web_page": "http://www.gtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lco.edu",
+      "name": "Lac Courte Oreilles Ojibwa Community College",
+      "web_page": "http://www.lco.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gotoltc.edu",
+      "name": "Lakeshore Technical College",
+      "web_page": "http://www.gotoltc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "madisoncollege.edu",
+      "name": "Madison Area Technical College",
+      "web_page": "http://madisoncollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mstc.edu",
+      "name": "Mid-​State Technical College",
+      "web_page": "http://www.mstc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "matc.edu",
+      "name": "Milwaukee Area Technical College",
+      "web_page": "http://matc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "morainepark.edu",
+      "name": "Moraine Park Technical College",
+      "web_page": "http://www.morainepark.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nicoletcollege.edu",
+      "name": "Nicolet Area Technical College",
+      "web_page": "http://www.nicoletcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ntc.edu",
+      "name": "Northcentral Technical College",
+      "web_page": "http://www.ntc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwtc.edu",
+      "name": "Northeast Wisconsin Technical College",
+      "web_page": "http://www.nwtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swtc.edu",
+      "name": "Southwest Wisconsin Technical College",
+      "web_page": "http://www.swtc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uwc.edu",
+      "name": "University of Wisconsin Colleges",
+      "web_page": "http://www.uwc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wctc.edu",
+      "name": "Waukesha County Technical College",
+      "web_page": "http://www.wctc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "westerntc.edu",
+      "name": "Western Technical College",
+      "web_page": "http://www.westerntc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "witc.edu",
+      "name": "Wisconsin Indianhead Technical College",
+      "web_page": "http://www.witc.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "caspercollege.edu",
+      "name": "Casper College",
+      "web_page": "http://www.caspercollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cwc.edu",
+      "name": "Central Wyoming College",
+      "web_page": "http://www.cwc.edu/"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ewc.wy.edu",
+      "name": "Eastern Wyoming College",
+      "web_page": "http://ewc.wy.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lccc.wy.edu",
+      "name": "Laramie County Community College",
+      "web_page": "http://www.lccc.wy.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "northwestcollege.edu",
+      "name": "Northwest College",
+      "web_page": "http://www.northwestcollege.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sheridan.edu",
+      "name": "Sheridan College",
+      "web_page": "http://www.sheridan.edu"
+},
+{
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wwcc.wy.edu",
+      "name": "Western Wyoming Community College",
+      "web_page": "http://www.wwcc.wy.edu"
+}
+
+  
 ]
 
    
