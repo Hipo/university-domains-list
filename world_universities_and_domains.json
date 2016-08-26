@@ -65556,7 +65556,14 @@
       "domain": "wwcc.wy.edu",
       "name": "Western Wyoming Community College",
       "web_page": "http://www.wwcc.wy.edu"
-}
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "sampsoncc.edu",
+        "name": "Sampson County Community College",
+        "web_page": "http://www.sampsoncc.edu"
+  }
 
   
 ]
