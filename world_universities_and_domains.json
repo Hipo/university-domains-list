@@ -65556,9 +65556,35 @@
       "domain": "wwcc.wy.edu",
       "name": "Western Wyoming Community College",
       "web_page": "http://www.wwcc.wy.edu"
-}
-
-  
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "sampsoncc.edu",
+        "name": "Sampson County Community College",
+        "web_page": "http://www.sampsoncc.edu"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "collegeatsoutheastern.com",
+        "name": "The College At Southeastern",
+        "web_page": "http://www.collegeatsoutheastern.com"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "dmu.edu",
+        "name": "Des Moines University",
+        "web_page": "https://www.dmu.edu"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "sgsc.edu",
+        "name": "South Georgia State College",
+        "web_page": "http://www.sgsc.edu"
+  }
 ]
 
    
