@@ -849,13 +849,6 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
-      "domain": "csus.edu",
-      "name": "California State University, Sacramento",
-      "web_page": "http://www.csus.edu/"
-  },
-  {
-      "alpha_two_code": "US",
-      "country": "United States",
       "domain": "csusb.edu",
       "name": "California State University, San Bernardino",
       "web_page": "http://www.csusb.edu/"
