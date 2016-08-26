@@ -65577,6 +65577,13 @@
         "domain": "dmu.edu",
         "name": "Des Moines University",
         "web_page": "https://www.dmu.edu"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "sgsc.edu",
+        "name": "South Georgia State College",
+        "web_page": "http://www.sgsc.edu"
   }
 ]
 
