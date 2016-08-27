@@ -32223,16 +32223,9 @@
   {
       "alpha_two_code": "IT",
       "country": "Italy",
-      "domain": "uni-bocconi.it",
-      "name": "Universit\u00e0 Bocconi",
-      "web_page": "http://www.uni-bocconi.it/"
-  },
-  {
-      "alpha_two_code": "IT",
-      "country": "Italy",
-      "domain": "uni-bocconi.it",
-      "name": "University of Commerce Luigi Bocconi",
-      "web_page": "http://www.uni-bocconi.it/"
+      "domain": "unibocconi.it",
+      "name": "Bocconi University",
+      "web_page": "http://www.unibocconi.eu/"
   },
   {
       "alpha_two_code": "IT",
@@ -65558,7 +65551,5 @@
       "web_page": "http://www.wwcc.wy.edu"
 }
 
-  
-]
 
-   
+]
