@@ -59092,13 +59092,6 @@
   {
       "alpha_two_code": "TR",
       "country": "Turkey",
-      "domain": "izmir.edu.tr",
-      "name": "İzmir University",
-      "web_page": "http://www.izmir.edu.tr/"
-  },
-  {
-      "alpha_two_code": "TR",
-      "country": "Turkey",
       "domain": "karatay.edu.tr",
       "name": "Karatay University",
       "web_page": "http://www.karatay.edu.tr/"
@@ -65551,4 +65544,3 @@
         "web_page": "http://www.wwcc.wy.edu"
   }
 ]
-  
