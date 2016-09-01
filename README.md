@@ -73,5 +73,8 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - Lars Schwegmann
  - Sedat Karancı
  - Charles Bedrosian
+ - Harrison Lo
+ - mattdfloyd
+ - Ender Ahmet Yurt
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
