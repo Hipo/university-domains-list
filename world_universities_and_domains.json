@@ -2487,13 +2487,6 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
-      "domain": "holycross.edu",
-      "name": "Holy Cross College",
-      "web_page": "http://www.holycross.edu/"
-  },
-  {
-      "alpha_two_code": "US",
-      "country": "United States",
       "domain": "hood.edu",
       "name": "Hood College",
       "web_page": "http://www.hood.edu/"
@@ -14691,13 +14684,6 @@
       "domain": "univ-ndjamena.org",
       "name": "Universit\u00e9 de N'Djamena",
       "web_page": "http://www.univ-ndjamena.org/"
-  },
-  {
-      "alpha_two_code": "CL",
-      "country": "Chile",
-      "domain": "academia.cl",
-      "name": "Universidad Academia de Humanismo Cristiano",
-      "web_page": "http://www.academia.cl/"
   },
   {
       "alpha_two_code": "CL",
@@ -27744,13 +27730,6 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "nbu.ac.in",
-      "name": "North Bengal University",
-      "web_page": "http://www.nbu.ac.in/"
-  },
-  {
-      "alpha_two_code": "IN",
-      "country": "India",
-      "domain": "nbu.ac.in",
       "name": "University of North Bengal",
       "web_page": "http://www.nbu.ac.in/"
   },
@@ -36465,13 +36444,6 @@
   {
       "alpha_two_code": "JP",
       "country": "Japan",
-      "domain": "u-tokai.ac.jp",
-      "name": "Tokai University",
-      "web_page": "http://www.u-tokai.ac.jp/"
-  },
-  {
-      "alpha_two_code": "JP",
-      "country": "Japan",
       "domain": "u-tokyo.ac.jp",
       "name": "Tokyo University",
       "web_page": "http://www.u-tokyo.ac.jp/"
@@ -36677,13 +36649,6 @@
       "country": "Jordan",
       "domain": "bau.edu.jo",
       "name": "Al-Balqa Applied University",
-      "web_page": "http://www.bau.edu.jo/"
-  },
-  {
-      "alpha_two_code": "JO",
-      "country": "Jordan",
-      "domain": "bau.edu.jo",
-      "name": "Balqa Applied University",
       "web_page": "http://www.bau.edu.jo/"
   },
   {
@@ -37937,13 +37902,6 @@
       "country": "Korea, Republic of",
       "domain": "kyongju.ac.kr",
       "name": "Kongju National University",
-      "web_page": "http://www.kyongju.ac.kr/"
-  },
-  {
-      "alpha_two_code": "KR",
-      "country": "Korea, Republic of",
-      "domain": "kyongju.ac.kr",
-      "name": "Kyongju University",
       "web_page": "http://www.kyongju.ac.kr/"
   },
   {
@@ -39484,13 +39442,6 @@
   {
       "alpha_two_code": "MY",
       "country": "Malaysia",
-      "domain": "ipgperlis.edu.my",
-      "name": "Institute of Teachers Education, Perlis",
-      "web_page": "http://www.ipgperlis.edu.my/"
-  },
-  {
-      "alpha_two_code": "MY",
-      "country": "Malaysia",
       "domain": "ipik.edu.my",
       "name": "Institute of Teachers Education, Ilmu Khas",
       "web_page": "http://www.ipik.edu.my/"
@@ -39970,13 +39921,6 @@
       "domain": "psp.edu.my",
       "name": "Seberang Perai Polytechnic",
       "web_page": "http://www.psp.edu.my/"
-  },
-  {
-      "alpha_two_code": "MY",
-      "country": "Malaysia",
-      "domain": "ptpl.edu.my",
-      "name": "PTPL College",
-      "web_page": "http://www.ptpl.edu.my/"
   },
   {
       "alpha_two_code": "MY",
@@ -43797,13 +43741,6 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "gcu.edu.pk",
-      "name": "GC University",
-      "web_page": "http://www.gcu.edu.pk/"
-  },
-  {
-      "alpha_two_code": "PK",
-      "country": "Pakistan",
-      "domain": "gcu.edu.pk",
       "name": "Government College University Lahore",
       "web_page": "http://www.gcu.edu.pk/"
   },
@@ -44113,13 +44050,6 @@
       "country": "Pakistan",
       "domain": "nu.edu.pk",
       "name": "FAST - National University of Computer and Emerging Sciences (NUCES)",
-      "web_page": "http://www.nu.edu.pk/"
-  },
-  {
-      "alpha_two_code": "PK",
-      "country": "Pakistan",
-      "domain": "nu.edu.pk",
-      "name": "National University of Computer &amp; Emerging Sciences",
       "web_page": "http://www.nu.edu.pk/"
   },
   {
@@ -44471,13 +44401,6 @@
       "domain": "uw.edu.pk",
       "name": "University of Wah",
       "web_page": "http://www.uw.edu.pk/"
-  },
-  {
-      "alpha_two_code": "PK",
-      "country": "Pakistan",
-      "domain": "vu.edu.pk",
-      "name": "Pakistan Virtual University",
-      "web_page": "http://www.vu.edu.pk/"
   },
   {
       "alpha_two_code": "PK",
@@ -44938,13 +44861,6 @@
       "alpha_two_code": "PE",
       "country": "Peru",
       "domain": "udch.edu.pe",
-      "name": "Universidad de Chiclayo",
-      "web_page": "http://www.udch.edu.pe/"
-  },
-  {
-      "alpha_two_code": "PE",
-      "country": "Peru",
-      "domain": "udch.edu.pe",
       "name": "Universidad Particular de Chiclayo",
       "web_page": "http://www.udch.edu.pe/"
   },
@@ -45030,13 +44946,6 @@
       "country": "Peru",
       "domain": "unas.edu.pe",
       "name": "Universidad Nacional Agraria de la Selva",
-      "web_page": "http://www.unas.edu.pe/"
-  },
-  {
-      "alpha_two_code": "PE",
-      "country": "Peru",
-      "domain": "unas.edu.pe",
-      "name": "Universidad Nacional Agraria La Selva",
       "web_page": "http://www.unas.edu.pe/"
   },
   {
@@ -46743,13 +46652,6 @@
   {
       "alpha_two_code": "PL",
       "country": "Poland",
-      "domain": "tyszkiewicz.edu.pl",
-      "name": "J\u00f3zef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala",
-      "web_page": "http://www.tyszkiewicz.edu.pl/"
-  },
-  {
-      "alpha_two_code": "PL",
-      "country": "Poland",
       "domain": "ub.edu.pl",
       "name": "University of Bialystok",
       "web_page": "http://www.ub.edu.pl/"
@@ -46963,13 +46865,6 @@
       "domain": "wsp.czest.pl",
       "name": "Pedagogical University of Czestochowa",
       "web_page": "http://www.wsp.czest.pl/"
-  },
-  {
-      "alpha_two_code": "PL",
-      "country": "Poland",
-      "domain": "wspiz.edu.pl",
-      "name": "Leon Kozminski Academy of Entrepreneurship and Mangement",
-      "web_page": "http://www.wspiz.edu.pl/"
   },
   {
       "alpha_two_code": "PL",
@@ -49193,13 +49088,6 @@
   {
       "alpha_two_code": "RU",
       "country": "Russian Federation",
-      "domain": "msu.ru",
-      "name": "Moscow State University M.V. Lomonosov",
-      "web_page": "http://www.msu.ru/"
-  },
-  {
-      "alpha_two_code": "RU",
-      "country": "Russian Federation",
       "domain": "mtuci.ru",
       "name": "Moscow Technical University of Informatics and Communication",
       "web_page": "http://www.mtuci.ru/"
@@ -49616,13 +49504,6 @@
       "domain": "spbgau.spb.ru",
       "name": "St. Petersburg State Agrarian University",
       "web_page": "http://www.spbgau.spb.ru/"
-  },
-  {
-      "alpha_two_code": "RU",
-      "country": "Russian Federation",
-      "domain": "spbguki.ru",
-      "name": "St. Petersburg State University of Culture and Arts",
-      "web_page": "http://www.spbguki.ru/"
   },
   {
       "alpha_two_code": "RU",
@@ -51224,13 +51105,6 @@
       "alpha_two_code": "SK",
       "country": "Slovakia",
       "domain": "ku.sk",
-      "name": "Catholic University in Ru\u017eomberok",
-      "web_page": "http://www.ku.sk/"
-  },
-  {
-      "alpha_two_code": "SK",
-      "country": "Slovakia",
-      "domain": "ku.sk",
       "name": "Catholic University in Ruzomberok",
       "web_page": "http://www.ku.sk/"
   },
@@ -51294,14 +51168,7 @@
       "alpha_two_code": "SK",
       "country": "Slovakia",
       "domain": "ucm.sk",
-      "name": "University of St. Cyril and Methodius in Trnava",
-      "web_page": "http://www.ucm.sk/"
-  },
-  {
-      "alpha_two_code": "SK",
-      "country": "Slovakia",
-      "domain": "ucm.sk",
-      "name": "University of SV Cyril and Methodius in Trnava",
+      "name": "University of SS. Cyril and Methodius in Trnava",
       "web_page": "http://www.ucm.sk/"
   },
   {
@@ -53772,13 +53639,6 @@
       "alpha_two_code": "TW",
       "country": "Taiwan, Province of China",
       "domain": "ntca.edu.tw",
-      "name": "National Taiwan College of Arts",
-      "web_page": "http://www.ntca.edu.tw/"
-  },
-  {
-      "alpha_two_code": "TW",
-      "country": "Taiwan, Province of China",
-      "domain": "ntca.edu.tw",
       "name": "National Taiwan College of the Arts",
       "web_page": "http://www.ntca.edu.tw/"
   },
@@ -55143,13 +55003,6 @@
   {
       "alpha_two_code": "TR",
       "country": "Turkey",
-      "domain": "istanbul.edu.tr",
-      "name": "Istanbul University",
-      "web_page": "http://www.istanbul.edu.tr/"
-  },
-  {
-      "alpha_two_code": "TR",
-      "country": "Turkey",
       "domain": "iticu.edu.tr",
       "name": "Istanbul Ticaret University",
       "web_page": "http://www.iticu.edu.tr/"
@@ -55412,13 +55265,6 @@
       "domain": "yalova.edu.tr",
       "name": "Yalova University",
       "web_page": "http://www.yalova.edu.tr/"
-  },
-  {
-      "alpha_two_code": "TR",
-      "country": "Turkey",
-      "domain": "yasar.edu.tr",
-      "name": "Yasar University",
-      "web_page": "http://www.yasar.edu.tr/"
   },
   {
       "alpha_two_code": "TR",
@@ -55839,13 +55685,6 @@
       "domain": "ma.odessa.ua",
       "name": "Odessa National Maritime Academy",
       "web_page": "http://www.ma.odessa.ua/"
-  },
-  {
-      "alpha_two_code": "UA",
-      "country": "Ukraine",
-      "domain": "meduniv.lviv.ua",
-      "name": "Lviv Medical University",
-      "web_page": "http://www.meduniv.lviv.ua/"
   },
   {
       "alpha_two_code": "UA",
@@ -58720,13 +58559,6 @@
   {
       "alpha_two_code": "TR",
       "country": "Turkey",
-      "domain": "dho.edu.tr",
-      "name": "Naval academy",
-      "web_page": "http://www.dho.edu.tr/"
-  },
-  {
-      "alpha_two_code": "TR",
-      "country": "Turkey",
       "domain": "dpu.edu.tr",
       "name": "Dumlupinar University",
       "web_page": "http://www.dpu.edu.tr/"
@@ -60424,13 +60256,6 @@
         "country": "United States",
         "domain": "westhillscollege.com",
         "name": "West Hills College-​Coalinga",
-        "web_page": "http://www.westhillscollege.com"
-  },
-  {
-        "alpha_two_code": "US",
-        "country": "United States",
-        "domain": "westhillscollege.com",
-        "name": "West Hills College-​Lemoore",
         "web_page": "http://www.westhillscollege.com"
   },
   {
