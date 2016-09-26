@@ -21268,6 +21268,13 @@
   {
       "alpha_two_code": "FR",
       "country": "France",
+      "domain": "centrale-marseille.fr",
+      "name": "Ecole Centrale de Marseille",
+      "web_page": "https://www.centrale-marseille.fr/"
+  },
+  {
+      "alpha_two_code": "FR",
+      "country": "France",
       "domain": "ecoles-idrac.com",
       "name": "IDRAC (Institut de recherche en action commerciale)",
       "web_page": "http://www.ecoles-idrac.com/"
