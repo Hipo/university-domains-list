@@ -52,7 +52,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "aamu.edu",
-      "name": "Alabama A&amp;M University",
+      "name": "Alabama A&M University",
       "web_page": "http://www.aamu.edu/"
   },
   {
@@ -1606,7 +1606,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "dne.wvnet.edu",
-      "name": "Davis &amp; Elkins College",
+      "name": "Davis & Elkins College",
       "web_page": "http://www.dne.wvnet.edu/"
   },
   {
@@ -2761,7 +2761,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "jwu.edu",
-      "name": "Johnson &amp; Wales University",
+      "name": "Johnson & Wales University",
       "web_page": "http://www.jwu.edu/"
   },
   {
@@ -2859,7 +2859,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "kctcs.edu",
-      "name": "Kentucky Community &amp; Technical College System",
+      "name": "Kentucky Community & Technical College System",
       "web_page": "http://www.kctcs.edu/"
   },
   {
@@ -3020,7 +3020,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "lclark.edu",
-      "name": "Lewis &amp; Clark College",
+      "name": "Lewis & Clark College",
       "web_page": "http://www.lclark.edu/"
   },
   {
@@ -3818,7 +3818,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "nmt.edu",
-      "name": "New Mexico Institute of Mining &amp; Technology",
+      "name": "New Mexico Institute of Mining & Technology",
       "web_page": "http://www.nmt.edu/"
   },
   {
@@ -3881,7 +3881,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "ncat.edu",
-      "name": "North Carolina A&amp;T State University",
+      "name": "North Carolina A&T State University",
       "web_page": "http://www.ncat.edu/"
   },
   {
@@ -4385,7 +4385,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "pvamu.edu",
-      "name": "Prairie View A&amp;M University",
+      "name": "Prairie View A&M University",
       "web_page": "http://www.pvamu.edu/"
   },
   {
@@ -5099,7 +5099,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "subr.edu",
-      "name": "Southern University and A&amp;M College",
+      "name": "Southern University and A&M College",
       "web_page": "http://www.subr.edu/"
   },
   {
@@ -5554,35 +5554,35 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "tamiu.edu",
-      "name": "Texas A&amp;M International University",
+      "name": "Texas A&M International University",
       "web_page": "http://www.tamiu.edu/"
   },
   {
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "tamu.edu",
-      "name": "Texas A&amp;M University - College Station",
+      "name": "Texas A&M University - College Station",
       "web_page": "http://www.tamu.edu/"
   },
   {
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "tamuc.edu",
-      "name": "Texas A&amp;M University - Commerce",
+      "name": "Texas A&M University - Commerce",
       "web_page": "http://www.tamuc.edu/"
   },
   {
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "tamucc.edu",
-      "name": "Texas A&amp;M University - Corpus Christi",
+      "name": "Texas A&M University - Corpus Christi",
       "web_page": "http://www.tamucc.edu/"
   },
   {
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "tamuk.edu",
-      "name": "Texas A&amp;M University - Kingsville",
+      "name": "Texas A&M University - Kingsville",
       "web_page": "http://www.tamuk.edu/"
   },
   {
@@ -6793,7 +6793,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "usao.edu",
-      "name": "University of Science &amp; Arts of Oklahoma",
+      "name": "University of Science & Arts of Oklahoma",
       "web_page": "http://usao.edu/"
   },
   {
@@ -7381,7 +7381,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "wlu.edu",
-      "name": "Washington &amp; Lee University",
+      "name": "Washington & Lee University",
       "web_page": "http://www.wlu.edu/"
   },
   {
@@ -7647,7 +7647,7 @@
       "alpha_two_code": "US",
       "country": "United States",
       "domain": "wtamu.edu",
-      "name": "West Texas A&amp;M University",
+      "name": "West Texas A&M University",
       "web_page": "http://www.wtamu.edu/"
   },
   {
@@ -8207,7 +8207,7 @@
       "alpha_two_code": "AL",
       "country": "Albania",
       "domain": "uniel.edu.al",
-      "name": "University of Elbasan &quot;Aleksander Xhuvani&quot;",
+      "name": "University of Elbasan \"Aleksander Xhuvani\"",
       "web_page": "http://www.uniel.edu.al/"
   },
   {
@@ -8221,7 +8221,7 @@
       "alpha_two_code": "AL",
       "country": "Albania",
       "domain": "unishk.edu.al",
-      "name": "University of Shkodra &quot;Luigj Gurakuqi&quot;",
+      "name": "University of Shkodra \"Luigj Gurakuqi\"",
       "web_page": "http://www.unishk.edu.al/"
   },
   {
@@ -8235,14 +8235,14 @@
       "alpha_two_code": "AL",
       "country": "Albania",
       "domain": "univlora.edu.al",
-      "name": "University of Vlora &quot;Ismail Qemali&quot;",
+      "name": "University of Vlora \"Ismail Qemali\"",
       "web_page": "http://www.univlora.edu.al/"
   },
   {
       "alpha_two_code": "AL",
       "country": "Albania",
       "domain": "unkorce.edu.al",
-      "name": "University of Korca &quot;Fan Noli&quot;",
+      "name": "University of Korca \"Fan Noli\"",
       "web_page": "http://www.unkorce.edu.al/"
   },
   {
@@ -8256,7 +8256,7 @@
       "alpha_two_code": "AL",
       "country": "Albania",
       "domain": "uogj.edu.al",
-      "name": "University of Gjirokstra &quot;Eqerem Cabej&quot;",
+      "name": "University of Gjirokstra \"Eqerem Cabej\"",
       "web_page": "http://www.uogj.edu.al/"
   },
   {
@@ -8620,7 +8620,7 @@
       "alpha_two_code": "AR",
       "country": "Argentina",
       "domain": "kennedy.edu.ar",
-      "name": "Universidad Argentina &quot;John F. Kennedy&quot;",
+      "name": "Universidad Argentina \"John F. Kennedy\"",
       "web_page": "http://www.kennedy.edu.ar/"
   },
   {
@@ -8837,7 +8837,7 @@
       "alpha_two_code": "AR",
       "country": "Argentina",
       "domain": "umaza.edu.ar",
-      "name": "Universidad &quot;Juan Agust\u00edn Maza&quot;",
+      "name": "Universidad \"Juan Agust\u00edn Maza\"",
       "web_page": "http://www.umaza.edu.ar/"
   },
   {
@@ -8998,7 +8998,7 @@
       "alpha_two_code": "AR",
       "country": "Argentina",
       "domain": "unlu.edu.ar",
-      "name": "Instituto Nacional de Educaci\u00f3n F\u00edsica &quot;General Manuel Belgrano&quot;",
+      "name": "Instituto Nacional de Educaci\u00f3n F\u00edsica \"General Manuel Belgrano\"",
       "web_page": "http://www.unlu.edu.ar/Belgrano.htm"
   },
   {
@@ -9040,7 +9040,7 @@
       "alpha_two_code": "AR",
       "country": "Argentina",
       "domain": "unp.edu.ar",
-      "name": "Universidad Nacional de la Patagonia &quot;San Juan Bosco&quot;",
+      "name": "Universidad Nacional de la Patagonia \"San Juan Bosco\"",
       "web_page": "http://www.unp.edu.ar/"
   },
   {
@@ -9110,7 +9110,7 @@
       "alpha_two_code": "AR",
       "country": "Argentina",
       "domain": "unsta.edu.ar",
-      "name": "Universidad del Norte &quot;Santo Tom\u00e1s de Aquino&quot;",
+      "name": "Universidad del Norte \"Santo Tom\u00e1s de Aquino\"",
       "web_page": "http://www.unsta.edu.ar/"
   },
   {
@@ -10230,7 +10230,7 @@
       "alpha_two_code": "BD",
       "country": "Bangladesh",
       "domain": "aust.edu",
-      "name": "Ahsanullah University of Science &amp; Technology",
+      "name": "Ahsanullah University of Science & Technology",
       "web_page": "http://www.aust.edu/"
   },
   {
@@ -10286,7 +10286,7 @@
       "alpha_two_code": "BD",
       "country": "Bangladesh",
       "domain": "bubt.edu.bd",
-      "name": "Bangladesh University of Business &amp; Technology",
+      "name": "Bangladesh University of Business & Technology",
       "web_page": "http://www.bubt.edu.bd/"
   },
   {
@@ -10692,7 +10692,7 @@
       "alpha_two_code": "BD",
       "country": "Bangladesh",
       "domain": "uits.edu.bd",
-      "name": "University of Information Technology &amp; Sciences",
+      "name": "University of Information Technology & Sciences",
       "web_page": "http://www.uits.edu.bd/"
   },
   {
@@ -10720,7 +10720,7 @@
       "alpha_two_code": "BD",
       "country": "Bangladesh",
       "domain": "ustc.ac.bd",
-      "name": "University of Science &amp; Technology Chittagong",
+      "name": "University of Science & Technology Chittagong",
       "web_page": "http://www.ustc.ac.bd/"
   },
   {
@@ -11294,7 +11294,7 @@
       "alpha_two_code": "BE",
       "country": "Belgium",
       "domain": "wenk.be",
-      "name": "Hogeschool voor Wetenschap &amp; Kunst",
+      "name": "Hogeschool voor Wetenschap & Kunst",
       "web_page": "http://www.wenk.be/"
   },
   {
@@ -11392,7 +11392,7 @@
       "alpha_two_code": "BO",
       "country": "Bolivia, Plurinational State of",
       "domain": "uabjb.edu.bo",
-      "name": "Universidad Aut\u00f3noma del Beni &quot;Jos\u00e9 Ballivi\u00e1n&quot;",
+      "name": "Universidad Aut\u00f3noma del Beni \"Jos\u00e9 Ballivi\u00e1n\"",
       "web_page": "http://www.uabjb.edu.bo/"
   },
   {
@@ -11658,7 +11658,7 @@
       "alpha_two_code": "BA",
       "country": "Bosnia and Herzegovina",
       "domain": "unmo.ba",
-      "name": "Univerzitet u Mostaru &quot;Dzemal Bijedic&quot;",
+      "name": "Univerzitet u Mostaru \"Dzemal Bijedic\"",
       "web_page": "http://www.unmo.ba/"
   },
   {
@@ -11721,7 +11721,7 @@
       "alpha_two_code": "BW",
       "country": "Botswana",
       "domain": "biust.ac.bw",
-      "name": "Botswana International University of Science &amp; Technology",
+      "name": "Botswana International University of Science & Technology",
       "web_page": "http://www.biust.ac.bw/"
   },
   {
@@ -11742,7 +11742,7 @@
       "alpha_two_code": "BW",
       "country": "Botswana",
       "domain": "neweracollege.ac.bw",
-      "name": "New Era College of Arts, Science &amp; Technology",
+      "name": "New Era College of Arts, Science & Technology",
       "web_page": "http://www.neweracollege.ac.bw/"
   },
   {
@@ -12932,7 +12932,7 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "btu.bg",
-      "name": "Bourgas University &quot;Prof. Assen Zlatarov&quot;",
+      "name": "Bourgas University \"Prof. Assen Zlatarov\"",
       "web_page": "http://www.btu.bg/"
   },
   {
@@ -12960,7 +12960,7 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "mgu.bg",
-      "name": "University of Mining and Geology &quot;St. Ivan Rils&quot;",
+      "name": "University of Mining and Geology \"St. Ivan Rils\"",
       "web_page": "http://www.mgu.bg/"
   },
   {
@@ -12988,7 +12988,7 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "natfiz.bg",
-      "name": "National Academy for Theatre and Film Arts &quot;Krustju Sarafov&quot;",
+      "name": "National Academy for Theatre and Film Arts \"Krustju Sarafov\"",
       "web_page": "http://www.natfiz.bg/"
   },
   {
@@ -13009,7 +13009,7 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "nma.bg",
-      "name": "National Academy of Music &quot;Pantcho Vladigerov&quot;",
+      "name": "National Academy of Music \"Pantcho Vladigerov\"",
       "web_page": "http://www.nma.bg/"
   },
   {
@@ -13037,14 +13037,14 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "shu-bg.net",
-      "name": "Shoumen University &quot;Konstantin Preslavski&quot;",
+      "name": "Shoumen University \"Konstantin Preslavski\"",
       "web_page": "http://www.shu-bg.net/"
   },
   {
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "swu.bg",
-      "name": "South-West University &quot;Neofit Rilski&quot;",
+      "name": "South-West University \"Neofit Rilski\"",
       "web_page": "http://www.swu.bg/"
   },
   {
@@ -13107,14 +13107,14 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "uni-sofia.bg",
-      "name": "Sofia University &quot;St. Kliment Ohridski&quot;",
+      "name": "Sofia University \"St. Kliment Ohridski\"",
       "web_page": "http://www.uni-sofia.bg/"
   },
   {
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "uni-svishtov.bg",
-      "name": "Academy of Economics &quot;Dimitur A. Tscenov&quot;",
+      "name": "Academy of Economics \"Dimitur A. Tscenov\"",
       "web_page": "http://www.uni-svishtov.bg/"
   },
   {
@@ -13128,7 +13128,7 @@
       "alpha_two_code": "BG",
       "country": "Bulgaria",
       "domain": "uni-vt.bg",
-      "name": "Veliko Turnovo University &quot;Cyril and Methodius&quot;",
+      "name": "Veliko Turnovo University \"Cyril and Methodius\"",
       "web_page": "http://www.uni-vt.bg/"
   },
   {
@@ -13569,7 +13569,7 @@
       "alpha_two_code": "CM",
       "country": "Cameroon",
       "domain": "bamendauniversity.com",
-      "name": "Bamenda University of Science &amp; Technology",
+      "name": "Bamenda University of Science & Technology",
       "web_page": "http://www.bamendauniversity.com/"
   },
   {
@@ -13765,7 +13765,7 @@
       "alpha_two_code": "CA",
       "country": "Canada",
       "domain": "ccbc.ca",
-      "name": "Canadian College of Business &amp; Computers",
+      "name": "Canadian College of Business & Computers",
       "web_page": "http://www.ccbc.ca/"
   },
   {
@@ -14738,7 +14738,7 @@
       "alpha_two_code": "CL",
       "country": "Chile",
       "domain": "uai.cl",
-      "name": "Universidad &quot;Adolfo Iba\u00f1ez&quot;",
+      "name": "Universidad \"Adolfo Iba\u00f1ez\"",
       "web_page": "http://www.uai.cl/"
   },
   {
@@ -15004,7 +15004,7 @@
       "alpha_two_code": "CL",
       "country": "Chile",
       "domain": "unap.cl",
-      "name": "Universidad &quot;Arturo Prat&quot;",
+      "name": "Universidad \"Arturo Prat\"",
       "web_page": "http://www.unap.cl/"
   },
   {
@@ -15109,7 +15109,7 @@
       "alpha_two_code": "CL",
       "country": "Chile",
       "domain": "utfsm.cl",
-      "name": "Universidad T\u00e9cnica &quot;Federico Santa Mar\u00eda&quot;",
+      "name": "Universidad T\u00e9cnica \"Federico Santa Mar\u00eda\"",
       "web_page": "http://www.utfsm.cl/"
   },
   {
@@ -15123,7 +15123,7 @@
       "alpha_two_code": "CL",
       "country": "Chile",
       "domain": "uvipro.cl",
-      "name": "Universidad Tecnologica &quot;Vicente Perez Rosales&quot;",
+      "name": "Universidad Tecnologica \"Vicente Perez Rosales\"",
       "web_page": "http://www.uvipro.cl/"
   },
   {
@@ -15781,7 +15781,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "gdrtvu.edu.cn",
-      "name": "Guangdong Radio &amp; TV University",
+      "name": "Guangdong Radio & TV University",
       "web_page": "http://www.gdrtvu.edu.cn/"
   },
   {
@@ -16026,7 +16026,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "hhstu.edu.cn",
-      "name": "Huanghe Science &amp; Technology University",
+      "name": "Huanghe Science & Technology University",
       "web_page": "http://www.hhstu.edu.cn/"
   },
   {
@@ -16124,7 +16124,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "hrbucea.edu.cn",
-      "name": "Harbin University of Civil Engineering &amp; Architecture",
+      "name": "Harbin University of Civil Engineering & Architecture",
       "web_page": "http://www.hrbucea.edu.cn/"
   },
   {
@@ -16600,7 +16600,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "nwau.edu.cn",
-      "name": "Northwest A&amp;F University",
+      "name": "Northwest A&F University",
       "web_page": "http://www.nwau.edu.cn/"
   },
   {
@@ -16691,7 +16691,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "qhrtvu.edu.cn",
-      "name": "Qinghai Radio &amp; Television University",
+      "name": "Qinghai Radio & Television University",
       "web_page": "http://www.qhrtvu.edu.cn/"
   },
   {
@@ -17258,7 +17258,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "tjufe.edu.cn",
-      "name": "Tianjin University of Finance &amp; Economics",
+      "name": "Tianjin University of Finance & Economics",
       "web_page": "http://www.tjufe.edu.cn/"
   },
   {
@@ -17699,7 +17699,7 @@
       "alpha_two_code": "CN",
       "country": "China",
       "domain": "ytet.edu.cn",
-      "name": "Yantai Education Institute &amp; Yantai Television University",
+      "name": "Yantai Education Institute & Yantai Television University",
       "web_page": "http://www.ytet.edu.cn/"
   },
   {
@@ -17951,7 +17951,7 @@
       "alpha_two_code": "CO",
       "country": "Colombia",
       "domain": "escueladepolicia.edu.co",
-      "name": "Escuela de Policia &quot;General Santander&quot;",
+      "name": "Escuela de Policia \"General Santander\"",
       "web_page": "http://www.escueladepolicia.edu.co/"
   },
   {
@@ -18049,7 +18049,7 @@
       "alpha_two_code": "CO",
       "country": "Colombia",
       "domain": "politecjic.edu.co",
-      "name": "Polit\u00e9cnico Columbiano &quot;Jaime Isaza Cadavid&quot;",
+      "name": "Polit\u00e9cnico Columbiano \"Jaime Isaza Cadavid\"",
       "web_page": "http://www.politecjic.edu.co/"
   },
   {
@@ -18203,7 +18203,7 @@
       "alpha_two_code": "CO",
       "country": "Colombia",
       "domain": "udistrital.edu.co",
-      "name": "Universidad Distral &quot;Francisco Jos\u00e9 de Caldas&quot;",
+      "name": "Universidad Distral \"Francisco Jos\u00e9 de Caldas\"",
       "web_page": "http://www.udistrital.edu.co/"
   },
   {
@@ -18441,7 +18441,7 @@
       "alpha_two_code": "CO",
       "country": "Colombia",
       "domain": "unisimonbolivar.edu.co",
-      "name": "Corporaci\u00f3n Educativa Mayor del Desarrollo &quot;Sim\u00f3n Bolivar&quot;",
+      "name": "Corporaci\u00f3n Educativa Mayor del Desarrollo \"Sim\u00f3n Bolivar\"",
       "web_page": "http://www.unisimonbolivar.edu.co/"
   },
   {
@@ -18532,14 +18532,14 @@
       "alpha_two_code": "CO",
       "country": "Colombia",
       "domain": "utadeo.edu.co",
-      "name": "Universidad de Bogot\u00e1 &quot;Jorge Tadeo Lozano&quot;",
+      "name": "Universidad de Bogot\u00e1 \"Jorge Tadeo Lozano\"",
       "web_page": "http://www.utadeo.edu.co/"
   },
   {
       "alpha_two_code": "CO",
       "country": "Colombia",
       "domain": "utch.edu.co",
-      "name": "Universidad Tecnol\u00f3gica del Choco &quot;Diego Luis Cordoba&quot;",
+      "name": "Universidad Tecnol\u00f3gica del Choco \"Diego Luis Cordoba\"",
       "web_page": "http://www.utch.edu.co/"
   },
   {
@@ -18952,14 +18952,14 @@
       "alpha_two_code": "CU",
       "country": "Cuba",
       "domain": "ismm.edu.cu",
-      "name": "Instituto Superior Minero Metal\u00fargico &quot;Dr. Antonio N\u00fa\u00f1ez Jim\u00e9nez&quot;",
+      "name": "Instituto Superior Minero Metal\u00fargico \"Dr. Antonio N\u00fa\u00f1ez Jim\u00e9nez\"",
       "web_page": "http://www.ismm.edu.cu/"
   },
   {
       "alpha_two_code": "CU",
       "country": "Cuba",
       "domain": "ispcmw.rimed.cu",
-      "name": "Universidad Pedag\u00f3gica &quot;Jos\u00e9 Mart\u00ed&quot;, Camag\u00fcey",
+      "name": "Universidad Pedag\u00f3gica \"Jos\u00e9 Mart\u00ed\", Camag\u00fcey",
       "web_page": "http://www.ispcmw.rimed.cu/"
   },
   {
@@ -19673,7 +19673,7 @@
       "alpha_two_code": "DO",
       "country": "Dominican Republic",
       "domain": "udoym.edu.do",
-      "name": "Universidad Dominicana O&amp;M",
+      "name": "Universidad Dominicana O&M",
       "web_page": "http://www.udoym.edu.do/"
   },
   {
@@ -19946,14 +19946,14 @@
       "alpha_two_code": "EC",
       "country": "Ecuador",
       "domain": "ulaicavr.com",
-      "name": "Universidad Laica &quot;Vicente Rocafuerte&quot; de Guayaquil",
+      "name": "Universidad Laica \"Vicente Rocafuerte\" de Guayaquil",
       "web_page": "http://www.ulaicavr.com/"
   },
   {
       "alpha_two_code": "EC",
       "country": "Ecuador",
       "domain": "uleam.edu.ec",
-      "name": "Universidad Laica &quot;Eloy Alfaro&quot; de Manabi",
+      "name": "Universidad Laica \"Eloy Alfaro\" de Manabi",
       "web_page": "http://www.uleam.edu.ec/"
   },
   {
@@ -20037,7 +20037,7 @@
       "alpha_two_code": "EC",
       "country": "Ecuador",
       "domain": "utelvt.edu.ec",
-      "name": "Universidad T\u00e9cnica de Esmeraldas &quot;Luis Vargas Torres&quot;",
+      "name": "Universidad T\u00e9cnica de Esmeraldas \"Luis Vargas Torres\"",
       "web_page": "http://www.utelvt.edu.ec/"
   },
   {
@@ -20086,7 +20086,7 @@
       "alpha_two_code": "EG",
       "country": "Egypt",
       "domain": "aast.edu",
-      "name": "Arab Academy for Science &amp; Technology",
+      "name": "Arab Academy for Science & Technology",
       "web_page": "http://www.aast.edu/"
   },
   {
@@ -20254,7 +20254,7 @@
       "alpha_two_code": "EG",
       "country": "Egypt",
       "domain": "msa.eun.eg",
-      "name": "Modern Sciences &amp; Arts University",
+      "name": "Modern Sciences & Arts University",
       "web_page": "http://www.msa.eun.eg/"
   },
   {
@@ -20401,7 +20401,7 @@
       "alpha_two_code": "SV",
       "country": "El Salvador",
       "domain": "uca.edu.sv",
-      "name": "Universidad Centroamericana &quot;Jos\u00e9 Sime\u00f3n Canas&quot;",
+      "name": "Universidad Centroamericana \"Jos\u00e9 Sime\u00f3n Canas\"",
       "web_page": "http://www.uca.edu.sv/"
   },
   {
@@ -20513,7 +20513,7 @@
       "alpha_two_code": "SV",
       "country": "El Salvador",
       "domain": "usam.edu.sv",
-      "name": "Universidad Salvadorena &quot;Alberto Masferrer&quot;",
+      "name": "Universidad Salvadorena \"Alberto Masferrer\"",
       "web_page": "http://www.usam.edu.sv/"
   },
   {
@@ -20632,7 +20632,7 @@
       "alpha_two_code": "ET",
       "country": "Ethiopia",
       "domain": "aastu.org",
-      "name": "Addis Ababa Science &amp; Technology University",
+      "name": "Addis Ababa Science & Technology University",
       "web_page": "http://www.aastu.org/"
   },
   {
@@ -21234,7 +21234,7 @@
       "alpha_two_code": "FR",
       "country": "France",
       "domain": "ecam.fr",
-      "name": "Ecole Catholique d'Arts &amp; Metiers",
+      "name": "Ecole Catholique d'Arts & Metiers",
       "web_page": "http://www.ecam.fr/"
   },
   {
@@ -24433,7 +24433,7 @@
       "alpha_two_code": "DE",
       "country": "Germany",
       "domain": "rauheshaus.de",
-      "name": "Evangelische Fachhochschule f\u00fcr Sozialp\u00e4dagogik der &quot;Diakonenanstalt des Rauhen Hauses&quot; Hamburg",
+      "name": "Evangelische Fachhochschule f\u00fcr Sozialp\u00e4dagogik der \"Diakonenanstalt des Rauhen Hauses\" Hamburg",
       "web_page": "http://www.rauheshaus.de/fachhochschule/"
   },
   {
@@ -25315,7 +25315,7 @@
       "alpha_two_code": "GR",
       "country": "Greece",
       "domain": "dei.edu.gr",
-      "name": "DEI Bachelor &amp; Master Degrees",
+      "name": "DEI Bachelor & Master Degrees",
       "web_page": "http://www.dei.edu.gr/"
   },
   {
@@ -25364,7 +25364,7 @@
       "alpha_two_code": "GR",
       "country": "Greece",
       "domain": "imese.gr",
-      "name": "Institute of Management &amp; Enteurpreneurship of South East Europe",
+      "name": "Institute of Management & Enteurpreneurship of South East Europe",
       "web_page": "http://www.imese.gr/"
   },
   {
@@ -25875,7 +25875,7 @@
       "alpha_two_code": "HN",
       "country": "Honduras",
       "domain": "upnfm.edu.hn",
-      "name": "Universidad Pedag\u00f3gica Nacional &quot;Francisco Moraz\u00e1n&quot;",
+      "name": "Universidad Pedag\u00f3gica Nacional \"Francisco Moraz\u00e1n\"",
       "web_page": "http://www.upnfm.edu.hn/"
   },
   {
@@ -26456,7 +26456,7 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "aryainstitutejpr.com",
-      "name": "ARYA Institute of Engineering &amp; Technology",
+      "name": "ARYA Institute of Engineering & Technology",
       "web_page": "http://www.aryainstitutejpr.com/"
   },
   {
@@ -26561,7 +26561,7 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "bharathuniv.com",
-      "name": "Bharath Institue Of Higher Education &amp; Research",
+      "name": "Bharath Institue Of Higher Education & Research",
       "web_page": "http://www.bharathuniv.com/"
   },
   {
@@ -28024,7 +28024,7 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "riths.ac.in",
-      "name": "Rajitlal Institute of Technology &amp; Health Sciences (RITHS)",
+      "name": "Rajitlal Institute of Technology & Health Sciences (RITHS)",
       "web_page": "http://www.riths.ac.in/"
   },
   {
@@ -28269,7 +28269,7 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "srmuniv.ac.in",
-      "name": "SRM Institute Of Science &amp; Technology ( Deemed University)",
+      "name": "SRM Institute Of Science & Technology ( Deemed University)",
       "web_page": "http://www.srmuniv.ac.in/"
   },
   {
@@ -28717,7 +28717,7 @@
       "alpha_two_code": "ID",
       "country": "Indonesia",
       "domain": "akprind.ac.id",
-      "name": "Institut Sains &amp; Teknologi Akprind",
+      "name": "Institut Sains & Teknologi Akprind",
       "web_page": "http://www.akprind.ac.id/"
   },
   {
@@ -29844,7 +29844,7 @@
       "alpha_two_code": "ID",
       "country": "Indonesia",
       "domain": "upnjatim.ac.id",
-      "name": "Universitas Pembangunan Nasional &quot;Veteran&quot; East Java",
+      "name": "Universitas Pembangunan Nasional \"Veteran\" East Java",
       "web_page": "http://www.upnjatim.ac.id/"
   },
   {
@@ -29970,7 +29970,7 @@
       "alpha_two_code": "IR",
       "country": "Iran, Islamic Republic of",
       "domain": "acmt.ac.ir",
-      "name": "Amirkabir College of Managmant &amp; Technology",
+      "name": "Amirkabir College of Managmant & Technology",
       "web_page": "http://www.acmt.ac.ir/"
   },
   {
@@ -30173,7 +30173,7 @@
       "alpha_two_code": "IR",
       "country": "Iran, Islamic Republic of",
       "domain": "fsriau.ac.ir",
-      "name": "Islamic Azad University, Fars Science &amp; Research Branch",
+      "name": "Islamic Azad University, Fars Science & Research Branch",
       "web_page": "http://www.fsriau.ac.ir/"
   },
   {
@@ -30537,7 +30537,7 @@
       "alpha_two_code": "IR",
       "country": "Iran, Islamic Republic of",
       "domain": "kamalolmolk.ac.ir",
-      "name": "Kamalolmolk Art &amp; Architecture Higher Education Institute of Noshahr",
+      "name": "Kamalolmolk Art & Architecture Higher Education Institute of Noshahr",
       "web_page": "http://www.kamalolmolk.ac.ir/"
   },
   {
@@ -31048,7 +31048,7 @@
       "alpha_two_code": "IR",
       "country": "Iran, Islamic Republic of",
       "domain": "srbiau.ac.ir",
-      "name": "Islamic Azad University, Tehran Science &amp; Research Branch",
+      "name": "Islamic Azad University, Tehran Science & Research Branch",
       "web_page": "http://www.srbiau.ac.ir/"
   },
   {
@@ -31237,7 +31237,7 @@
       "alpha_two_code": "IR",
       "country": "Iran, Islamic Republic of",
       "domain": "usb.ac.ir",
-      "name": "Sistan &amp; Balouchestan University",
+      "name": "Sistan & Balouchestan University",
       "web_page": "http://www.usb.ac.ir/"
   },
   {
@@ -31251,7 +31251,7 @@
       "alpha_two_code": "IR",
       "country": "Iran, Islamic Republic of",
       "domain": "ustmb.ac.ir",
-      "name": "Mazandaran University of Science &amp; Technology",
+      "name": "Mazandaran University of Science & Technology",
       "web_page": "http://www.ustmb.ac.ir/"
   },
   {
@@ -31937,7 +31937,7 @@
       "alpha_two_code": "IL",
       "country": "Israel",
       "domain": "shenkar.ac.il",
-      "name": "Shenkar School of Engineering &amp; Design",
+      "name": "Shenkar School of Engineering & Design",
       "web_page": "http://www.shenkar.ac.il/"
   },
   {
@@ -32070,7 +32070,7 @@
       "alpha_two_code": "IT",
       "country": "Italy",
       "domain": "liuc.it",
-      "name": "Free University Institute &quot;Carlo Cattaneo&quot;",
+      "name": "Free University Institute \"Carlo Cattaneo\"",
       "web_page": "http://www.liuc.it/"
   },
   {
@@ -32084,7 +32084,7 @@
       "alpha_two_code": "IT",
       "country": "Italy",
       "domain": "lumsa.it",
-      "name": "Free University &quot;Maria Santissima Assunta&quot;",
+      "name": "Free University \"Maria Santissima Assunta\"",
       "web_page": "http://www.lumsa.it/"
   },
   {
@@ -32455,14 +32455,14 @@
       "alpha_two_code": "IT",
       "country": "Italy",
       "domain": "uniroma1.it",
-      "name": "University of Roma &quot;La Sapienza&quot;",
+      "name": "University of Roma \"La Sapienza\"",
       "web_page": "http://www.uniroma1.it/"
   },
   {
       "alpha_two_code": "IT",
       "country": "Italy",
       "domain": "uniroma2.eu",
-      "name": "University of Roma &quot;Tor Vergata&quot;",
+      "name": "University of Roma \"Tor Vergata\"",
       "web_page": "http://www.uniroma2.it/"
   },
   {
@@ -32511,7 +32511,7 @@
       "alpha_two_code": "IT",
       "country": "Italy",
       "domain": "unisob.na.it",
-      "name": "University Institute of Teacher Training &quot;Suor Orsola Benincasa&quot;",
+      "name": "University Institute of Teacher Training \"Suor Orsola Benincasa\"",
       "web_page": "http://www.unisob.na.it/"
   },
   {
@@ -32651,7 +32651,7 @@
       "alpha_two_code": "JP",
       "country": "Japan",
       "domain": "aichi-fam-u.ac.jp",
-      "name": "Aichi Prefectural University of Fine Arts &amp; Music",
+      "name": "Aichi Prefectural University of Fine Arts & Music",
       "web_page": "http://www.aichi-fam-u.ac.jp/"
   },
   {
@@ -32910,7 +32910,7 @@
       "alpha_two_code": "JP",
       "country": "Japan",
       "domain": "chubu-gu.ac.jp",
-      "name": "Chubu Gakuin University &amp; Chubu Women's College",
+      "name": "Chubu Gakuin University & Chubu Women's College",
       "web_page": "http://www.chubu-gu.ac.jp/"
   },
   {
@@ -33911,7 +33911,7 @@
       "alpha_two_code": "JP",
       "country": "Japan",
       "domain": "keiho-u.ac.jp",
-      "name": "Osaka University of Economics &amp; Law",
+      "name": "Osaka University of Economics & Law",
       "web_page": "http://www.keiho-u.ac.jp/"
   },
   {
@@ -35437,7 +35437,7 @@
       "alpha_two_code": "JP",
       "country": "Japan",
       "domain": "seian.ac.jp",
-      "name": "Seian University of Art &amp; Design",
+      "name": "Seian University of Art & Design",
       "web_page": "http://www.seian.ac.jp/"
   },
   {
@@ -36774,7 +36774,7 @@
       "alpha_two_code": "JO",
       "country": "Jordan",
       "domain": "wise.edu.jo",
-      "name": "The World Islamic Sciences &amp; Education University",
+      "name": "The World Islamic Sciences & Education University",
       "web_page": "http://www.wise.edu.jo/"
   },
   {
@@ -37733,7 +37733,7 @@
       "alpha_two_code": "KR",
       "country": "Korea, Republic of",
       "domain": "kaist.ac.kr",
-      "name": "Korea Advanced Institute of Science &amp; Technology",
+      "name": "Korea Advanced Institute of Science & Technology",
       "web_page": "http://www.kaist.ac.kr/"
   },
   {
@@ -38352,7 +38352,7 @@
   {
       "country": "Kosovo",
       "domain": "uni-prizren.com",
-      "name": "University of Prizren &quot;Ukshin Hoti&quot;",
+      "name": "University of Prizren \"Ukshin Hoti\"",
       "web_page": "http://www.uni-prizren.com/"
   },
   {
@@ -38757,7 +38757,7 @@
       "alpha_two_code": "LB",
       "country": "Lebanon",
       "domain": "hu.edu.lb",
-      "name": "Business &amp; Computer University College",
+      "name": "Business & Computer University College",
       "web_page": "http://www.hu.edu.lb/"
   },
   {
@@ -39128,7 +39128,7 @@
       "alpha_two_code": "MK",
       "country": "Macedonia, the Former Yugoslav Republic of",
       "domain": "uist.edu.mk",
-      "name": "University for Information Science and Technology  &quot;St. Paul The Apostle&quot;",
+      "name": "University for Information Science and Technology  \"St. Paul The Apostle\"",
       "web_page": "http://www.uist.edu.mk/"
   },
   {
@@ -39275,7 +39275,7 @@
       "alpha_two_code": "MY",
       "country": "Malaysia",
       "domain": "binary.edu.my",
-      "name": "Binary University College of Managemant &amp; Entrepreneurship",
+      "name": "Binary University College of Managemant & Entrepreneurship",
       "web_page": "http://www.binary.edu.my/"
   },
   {
@@ -40031,7 +40031,7 @@
       "alpha_two_code": "MY",
       "country": "Malaysia",
       "domain": "ucti.edu.my",
-      "name": "University College of Technology &amp; Innovation (UCTI)",
+      "name": "University College of Technology & Innovation (UCTI)",
       "web_page": "http://www.ucti.edu.my/"
   },
   {
@@ -40647,7 +40647,7 @@
       "alpha_two_code": "MX",
       "country": "Mexico",
       "domain": "uaaan.mx",
-      "name": "Universidad Aut\u00f3noma Agraria &quot;Antonio Narro&quot;",
+      "name": "Universidad Aut\u00f3noma Agraria \"Antonio Narro\"",
       "web_page": "http://www.uaaan.mx/"
   },
   {
@@ -40675,7 +40675,7 @@
       "alpha_two_code": "MX",
       "country": "Mexico",
       "domain": "uabjo.mx",
-      "name": "Universidad Aut\u00f3noma &quot;Benito Ju\u00e1rez&quot; de Oaxaca",
+      "name": "Universidad Aut\u00f3noma \"Benito Ju\u00e1rez\" de Oaxaca",
       "web_page": "http://www.uabjo.mx/"
   },
   {
@@ -41480,7 +41480,7 @@
       "alpha_two_code": "MD",
       "country": "Moldova, Republic of",
       "domain": "upm.moldnet.md",
-      "name": "Pedagogical State University &quot;Ion Creanga&quot;",
+      "name": "Pedagogical State University \"Ion Creanga\"",
       "web_page": "http://upm.moldnet.md/"
   },
   {
@@ -41494,14 +41494,14 @@
       "alpha_two_code": "MD",
       "country": "Moldova, Republic of",
       "domain": "usb.md",
-      "name": "Balti State University &quot;Alecu Russo&quot;",
+      "name": "Balti State University \"Alecu Russo\"",
       "web_page": "http://www.usb.md/"
   },
   {
       "alpha_two_code": "MD",
       "country": "Moldova, Republic of",
       "domain": "usmf.md",
-      "name": "Moldova State University of Medicine and Pharmacy &quot;N. Testemitsanu&quot;",
+      "name": "Moldova State University of Medicine and Pharmacy \"N. Testemitsanu\"",
       "web_page": "http://www.usmf.md/"
   },
   {
@@ -42411,7 +42411,7 @@
       "alpha_two_code": "NI",
       "country": "Nicaragua",
       "domain": "unica.edu.ni",
-      "name": "Universidad Catolica &quot;Redemptoris Mater&quot;",
+      "name": "Universidad Catolica \"Redemptoris Mater\"",
       "web_page": "http://www.unica.edu.ni/"
   },
   {
@@ -43482,7 +43482,7 @@
       "alpha_two_code": "OM",
       "country": "Oman",
       "domain": "omancollege.edu.om",
-      "name": "Oman College Of Management &amp; Technology",
+      "name": "Oman College Of Management & Technology",
       "web_page": "http://www.omancollege.edu.om/"
   },
   {
@@ -43615,7 +43615,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "biztek.edu.pk",
-      "name": "Institute of Business &amp; Technology",
+      "name": "Institute of Business & Technology",
       "web_page": "http://www.biztek.edu.pk/"
   },
   {
@@ -43629,7 +43629,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "buitms.edu.pk",
-      "name": "Balochistan University of Information Technology &amp; Management Sciences",
+      "name": "Balochistan University of Information Technology & Management Sciences",
       "web_page": "http://www.buitms.edu.pk/"
   },
   {
@@ -43783,14 +43783,14 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "giki.edu.pk",
-      "name": "Ghulam Ishaq Khan Institute of Science &amp; Technology",
+      "name": "Ghulam Ishaq Khan Institute of Science & Technology",
       "web_page": "http://www.giki.edu.pk/"
   },
   {
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "gist.edu.pk",
-      "name": "Gangdara Institute Of Science &amp; Technology",
+      "name": "Gangdara Institute Of Science & Technology",
       "web_page": "http://www.gist.edu.pk/"
   },
   {
@@ -43986,7 +43986,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "lumhs.edu.pk",
-      "name": "Liaquat University of Medical &amp; Health Sciences Jamshoro",
+      "name": "Liaquat University of Medical & Health Sciences Jamshoro",
       "web_page": "http://www.lumhs.edu.pk/"
   },
   {
@@ -44014,7 +44014,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "muet.edu.pk",
-      "name": "Mehran University of Engineering &amp; Technology",
+      "name": "Mehran University of Engineering & Technology",
       "web_page": "http://www.muet.edu.pk/"
   },
   {
@@ -44042,7 +44042,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "newports.edu.pk",
-      "name": "Newports Institute of Communication &amp; Economics",
+      "name": "Newports Institute of Communication & Economics",
       "web_page": "http://www.newports.edu.pk/"
   },
   {
@@ -44112,7 +44112,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "panasia.org.sg",
-      "name": "Qauid-e-Awam University of Engineering Sciences &amp; Technology",
+      "name": "Qauid-e-Awam University of Engineering Sciences & Technology",
       "web_page": "http://www.panasia.org.sg/tcdc/pakistan/qauid_sindh/index.html"
   },
   {
@@ -44231,7 +44231,7 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "suit.edu.pk",
-      "name": "Sarhad University of Science &amp; Information Technology, Peshawar",
+      "name": "Sarhad University of Science & Information Technology, Peshawar",
       "web_page": "http://www.suit.edu.pk/"
   },
   {
@@ -44392,14 +44392,14 @@
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "ustb.edu.pk",
-      "name": "University of Science &amp; Technology Bannu",
+      "name": "University of Science & Technology Bannu",
       "web_page": "http://www.ustb.edu.pk/"
   },
   {
       "alpha_two_code": "PK",
       "country": "Pakistan",
       "domain": "uvas.edu.pk",
-      "name": "University of Veterinary &amp; Animal Science",
+      "name": "University of Veterinary & Animal Science",
       "web_page": "http://www.uvas.edu.pk/"
   },
   {
@@ -46065,7 +46065,7 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "149.156.19.10",
-      "name": "Fine Arts Academy &quot;Jan Matejko&quot; in Cracow",
+      "name": "Fine Arts Academy \"Jan Matejko\" in Cracow",
       "web_page": "http://149.156.19.10/"
   },
   {
@@ -46135,7 +46135,7 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "am.katowice.pl",
-      "name": "Music Academy &quot;Karol Szymanowski&quot; in Katowice",
+      "name": "Music Academy \"Karol Szymanowski\" in Katowice",
       "web_page": "http://www.am.katowice.pl/"
   },
   {
@@ -46163,14 +46163,14 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "amuz.bydgoszcz.pl",
-      "name": "Music Academy &quot;Felix Nowowiejski&quot; in Bydgoszcz",
+      "name": "Music Academy \"Felix Nowowiejski\" in Bydgoszcz",
       "web_page": "http://www.amuz.bydgoszcz.pl/"
   },
   {
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "amuz.gda.pl",
-      "name": "Music Academy &quot;Stanislaw Moniuszko&quot; in Gdansk",
+      "name": "Music Academy \"Stanislaw Moniuszko\" in Gdansk",
       "web_page": "http://www.amuz.gda.pl/"
   },
   {
@@ -46191,14 +46191,14 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "amuz.poznan.pl",
-      "name": "Music Academy &quot;Ignacy Jana Paderewski&quot; in Poznan",
+      "name": "Music Academy \"Ignacy Jana Paderewski\" in Poznan",
       "web_page": "http://www.amuz.poznan.pl/"
   },
   {
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "amuz.wroc.pl",
-      "name": "Music Academy &quot;Karol Lipinski&quot; in Wroclaw",
+      "name": "Music Academy \"Karol Lipinski\" in Wroclaw",
       "web_page": "http://www.amuz.wroc.pl/"
   },
   {
@@ -46324,14 +46324,14 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "awf.edu.pl",
-      "name": "Physical Education Academy &quot;Jozef Pilsudski&quot; in Warsaw",
+      "name": "Physical Education Academy \"Jozef Pilsudski\" in Warsaw",
       "web_page": "http://www.awf.edu.pl/"
   },
   {
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "awf.gda.pl",
-      "name": "Physical Education Academy &quot;Jedrzej Sniadecki&quot; in Gdansk",
+      "name": "Physical Education Academy \"Jedrzej Sniadecki\" in Gdansk",
       "web_page": "http://www.awf.gda.pl/"
   },
   {
@@ -46352,7 +46352,7 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "awf.poznan.pl",
-      "name": "Physical Education Academy &quot;Eugeniusz Piasecki&quot; in Poznan",
+      "name": "Physical Education Academy \"Eugeniusz Piasecki\" in Poznan",
       "web_page": "http://www.awf.poznan.pl/"
   },
   {
@@ -46366,7 +46366,7 @@
       "alpha_two_code": "PL",
       "country": "Poland",
       "domain": "chopin.edu.pl",
-      "name": "Music Academy &quot;Fryderyk Chopin&quot; in Warszaw",
+      "name": "Music Academy \"Fryderyk Chopin\" in Warszaw",
       "web_page": "http://www.chopin.edu.pl/"
   },
   {
@@ -47612,7 +47612,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "amgd.eu",
-      "name": "Academy of Music &quot;Georghe Dima&quot; Cluj-Napoca",
+      "name": "Academy of Music \"Georghe Dima\" Cluj-Napoca",
       "web_page": "http://www.amgd.eu/"
   },
   {
@@ -47626,7 +47626,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "arteiasi.ro",
-      "name": "Academy of Arts &quot;George Enescu&quot; Iasi",
+      "name": "Academy of Arts \"George Enescu\" Iasi",
       "web_page": "http://www.arteiasi.ro/"
   },
   {
@@ -47654,7 +47654,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "iaim.ro",
-      "name": "Institute of Architecture &quot;Ion Mincu&quot; Bucharest",
+      "name": "Institute of Architecture \"Ion Mincu\" Bucharest",
       "web_page": "http://www.iaim.ro/"
   },
   {
@@ -47759,7 +47759,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "uav.ro",
-      "name": "University &quot;Aurel Vlaicu&quot; Arad",
+      "name": "University \"Aurel Vlaicu\" Arad",
       "web_page": "http://www.uav.ro/"
   },
   {
@@ -47857,7 +47857,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "unitbv.ro",
-      "name": "University &quot;Transilvany&quot; of Brasov",
+      "name": "University \"Transilvany\" of Brasov",
       "web_page": "http://www.unitbv.ro/"
   },
   {
@@ -47913,7 +47913,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "upa.ro",
-      "name": "University &quot;Petre Andrei&quot; Iasi",
+      "name": "University \"Petre Andrei\" Iasi",
       "web_page": "http://www.upa.ro/"
   },
   {
@@ -48004,7 +48004,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "utm.ro",
-      "name": "University &quot;Titu Maiorescu&quot;",
+      "name": "University \"Titu Maiorescu\"",
       "web_page": "http://www.utm.ro/"
   },
   {
@@ -48025,7 +48025,7 @@
       "alpha_two_code": "RO",
       "country": "Romania",
       "domain": "uvvg.ro",
-      "name": "Universitatea de Vest &quot;Vasile Goldi&amp;#351;&quot;",
+      "name": "Universitatea de Vest \"Vasile Goldi&#351;\"",
       "web_page": "http://www.uvvg.ro/"
   },
   {
@@ -50265,7 +50265,7 @@
       "alpha_two_code": "RW",
       "country": "Rwanda",
       "domain": "kist.ac.rw",
-      "name": "Kigali Institute of Science &amp; Technology",
+      "name": "Kigali Institute of Science & Technology",
       "web_page": "http://www.kist.ac.rw/"
   },
   {
@@ -50447,7 +50447,7 @@
       "alpha_two_code": "SA",
       "country": "Saudi Arabia",
       "domain": "cti.edu.sa",
-      "name": "College of Telecommunication &amp; Information",
+      "name": "College of Telecommunication & Information",
       "web_page": "http://www.cti.edu.sa/"
   },
   {
@@ -52218,7 +52218,7 @@
       "alpha_two_code": "LK",
       "country": "Sri Lanka",
       "domain": "kln.ac.lk",
-      "name": "Postgraduate Institute of Pali &amp; Buddhist Studies (University of Kelaniya)",
+      "name": "Postgraduate Institute of Pali & Buddhist Studies (University of Kelaniya)",
       "web_page": "http://www.kln.ac.lk/institutes/pgipbs/"
   },
   {
@@ -52323,7 +52323,7 @@
       "alpha_two_code": "LK",
       "country": "Sri Lanka",
       "domain": "vpa.ac.lk",
-      "name": "University of the Visual &amp; Performing Arts",
+      "name": "University of the Visual & Performing Arts",
       "web_page": "http://www.vpa.ac.lk/"
   },
   {
@@ -52358,7 +52358,7 @@
       "alpha_two_code": "SD",
       "country": "Sudan",
       "domain": "bayantech.edu",
-      "name": "Bayan College for Science &amp; Technology",
+      "name": "Bayan College for Science & Technology",
       "web_page": "http://www.bayantech.edu/"
   },
   {
@@ -52393,7 +52393,7 @@
       "alpha_two_code": "SD",
       "country": "Sudan",
       "domain": "elrazicollege.net",
-      "name": "Elrazi College Of Medical &amp; Technological Sciences",
+      "name": "Elrazi College Of Medical & Technological Sciences",
       "web_page": "http://www.elrazicollege.net/"
   },
   {
@@ -52421,7 +52421,7 @@
       "alpha_two_code": "SD",
       "country": "Sudan",
       "domain": "hibfs.edu.sd",
-      "name": "High Institute for Banking &amp; Financial Studies",
+      "name": "High Institute for Banking & Financial Studies",
       "web_page": "http://www.hibfs.edu.sd/"
   },
   {
@@ -52533,7 +52533,7 @@
       "alpha_two_code": "SD",
       "country": "Sudan",
       "domain": "umst-edu.com",
-      "name": "University Of Medical Sciences &amp; Technology (UMST)",
+      "name": "University Of Medical Sciences & Technology (UMST)",
       "web_page": "http://www.umst-edu.com/"
   },
   {
@@ -52883,14 +52883,14 @@
       "alpha_two_code": "CH",
       "country": "Switzerland",
       "domain": "dct.ch",
-      "name": "DCT International Hotel &amp; Business Management School",
+      "name": "DCT International Hotel & Business Management School",
       "web_page": "http://www.dct.ch/"
   },
   {
       "alpha_two_code": "CH",
       "country": "Switzerland",
       "domain": "egs.edu",
-      "name": "European Graduate School, Media &amp; Communications",
+      "name": "European Graduate School, Media & Communications",
       "web_page": "http://www.egs.edu/"
   },
   {
@@ -53100,7 +53100,7 @@
       "alpha_two_code": "CH",
       "country": "Switzerland",
       "domain": "uccr.edu",
-      "name": "University Center &quot;C\u00e9sar Ritz&quot;",
+      "name": "University Center \"C\u00e9sar Ritz\"",
       "web_page": "http://www.uccr.edu/"
   },
   {
@@ -53247,7 +53247,7 @@
       "alpha_two_code": "SY",
       "country": "Syrian Arab Republic",
       "domain": "iust.edu.sy",
-      "name": "International University for Science &amp; Technology",
+      "name": "International University for Science & Technology",
       "web_page": "http://www.iust.edu.sy/"
   },
   {
@@ -53261,7 +53261,7 @@
       "alpha_two_code": "SY",
       "country": "Syrian Arab Republic",
       "domain": "siust.edu.sy",
-      "name": "Syrian International Private University for Science &amp; Technology",
+      "name": "Syrian International Private University for Science & Technology",
       "web_page": "http://www.siust.edu.sy/"
   },
   {
@@ -53352,7 +53352,7 @@
       "alpha_two_code": "TW",
       "country": "Taiwan, Province of China",
       "domain": "cku.edu.tw",
-      "name": "Ching Kuo Institue of Management &amp; Health",
+      "name": "Ching Kuo Institue of Management & Health",
       "web_page": "http://www.cku.edu.tw/"
   },
   {
@@ -53800,7 +53800,7 @@
       "alpha_two_code": "TW",
       "country": "Taiwan, Province of China",
       "domain": "sjsmit.edu.tw",
-      "name": "St. John's &amp; St. Mary's Institute of Technology",
+      "name": "St. John's & St. Mary's Institute of Technology",
       "web_page": "http://www.sjsmit.edu.tw/"
   },
   {
@@ -53968,7 +53968,7 @@
       "alpha_two_code": "TZ",
       "country": "Tanzania, United Republic of",
       "domain": "imtu.edu",
-      "name": "International Medical &amp; Technological University",
+      "name": "International Medical & Technological University",
       "web_page": "http://www.imtu.edu/index.htm"
   },
   {
@@ -56005,7 +56005,7 @@
       "alpha_two_code": "AE",
       "country": "United Arab Emirates",
       "domain": "ajman.ac.ae",
-      "name": "Ajman University of Science &amp; Technology",
+      "name": "Ajman University of Science & Technology",
       "web_page": "http://www.ajman.ac.ae/"
   },
   {
@@ -56166,7 +56166,7 @@
       "alpha_two_code": "AE",
       "country": "United Arab Emirates",
       "domain": "rakmhsu.com",
-      "name": "Rak Medical &amp; Health Sciences University",
+      "name": "Rak Medical & Health Sciences University",
       "web_page": "http://www.rakmhsu.com/"
   },
   {
@@ -56474,7 +56474,7 @@
       "alpha_two_code": "GB",
       "country": "United Kingdom",
       "domain": "csm.linst.ac.uk",
-      "name": "Central Saint Martins College of Art &amp; Design",
+      "name": "Central Saint Martins College of Art & Design",
       "web_page": "http://www.csm.linst.ac.uk/"
   },
   {
@@ -56747,7 +56747,7 @@
       "alpha_two_code": "GB",
       "country": "United Kingdom",
       "domain": "lcst.ac",
-      "name": "London College of Science &amp; Technology",
+      "name": "London College of Science & Technology",
       "web_page": "http://www.lcst.ac/"
   },
   {
@@ -56824,7 +56824,7 @@
       "alpha_two_code": "GB",
       "country": "United Kingdom",
       "domain": "lsbf.org.uk",
-      "name": "London School of Business &amp; Finance",
+      "name": "London School of Business & Finance",
       "web_page": "http://www.lsbf.org.uk/"
   },
   {
@@ -56838,7 +56838,7 @@
       "alpha_two_code": "GB",
       "country": "United Kingdom",
       "domain": "lshtm.ac.uk",
-      "name": "London School of Hygiene &amp; Tropical Medicine, University of London",
+      "name": "London School of Hygiene & Tropical Medicine, University of London",
       "web_page": "http://www.lshtm.ac.uk/"
   },
   {
@@ -57727,7 +57727,7 @@
       "alpha_two_code": "VE",
       "country": "Venezuela, Bolivarian Republic of",
       "domain": "unefm.edu.ve",
-      "name": "Universidad Nacional Experimental &quot;Francisco de Miranda&quot;",
+      "name": "Universidad Nacional Experimental \"Francisco de Miranda\"",
       "web_page": "http://www.unefm.edu.ve/"
   },
   {
@@ -57741,7 +57741,7 @@
       "alpha_two_code": "VE",
       "country": "Venezuela, Bolivarian Republic of",
       "domain": "unellez.edu.ve",
-      "name": "Universidad Nacional Experimental de los Llanos Occidentales &quot;Ezequiel Zamora&quot;",
+      "name": "Universidad Nacional Experimental de los Llanos Occidentales \"Ezequiel Zamora\"",
       "web_page": "http://www.unellez.edu.ve/"
   },
   {
@@ -57755,21 +57755,21 @@
       "alpha_two_code": "VE",
       "country": "Venezuela, Bolivarian Republic of",
       "domain": "unermb.edu.ve",
-      "name": "Universidad Nacional Experimental &quot;Rafael Maria Baralt&quot;",
+      "name": "Universidad Nacional Experimental \"Rafael Maria Baralt\"",
       "web_page": "http://www.unermb.edu.ve/"
   },
   {
       "alpha_two_code": "VE",
       "country": "Venezuela, Bolivarian Republic of",
       "domain": "unesr.edu.ve",
-      "name": "Universidad Nacional Experimental &quot;Sim\u00f3n Rodriguez&quot;",
+      "name": "Universidad Nacional Experimental \"Sim\u00f3n Rodriguez\"",
       "web_page": "http://www.unesr.edu.ve/"
   },
   {
       "alpha_two_code": "VE",
       "country": "Venezuela, Bolivarian Republic of",
       "domain": "unesur.edu.ve",
-      "name": "Universidad Nacional Experimental Sur del Lago &quot;Jes\u00fas Maria Semprum&quot;",
+      "name": "Universidad Nacional Experimental Sur del Lago \"Jes\u00fas Maria Semprum\"",
       "web_page": "http://www.unesur.edu.ve/"
   },
   {
@@ -57783,7 +57783,7 @@
       "alpha_two_code": "VE",
       "country": "Venezuela, Bolivarian Republic of",
       "domain": "unexpo.edu.ve",
-      "name": "Universidad Nacional Experimental Polit\u00e9cnica &quot;Antonio Jos\u00e9 de Sucre&quot;",
+      "name": "Universidad Nacional Experimental Polit\u00e9cnica \"Antonio Jos\u00e9 de Sucre\"",
       "web_page": "http://www.unexpo.edu.ve/"
   },
   {
@@ -58091,7 +58091,7 @@
       "alpha_two_code": "VN",
       "country": "Viet Nam",
       "domain": "ptit.edu.vn",
-      "name": "Posts &amp; Telecommunications Institute of Technology",
+      "name": "Posts & Telecommunications Institute of Technology",
       "web_page": "http://www.ptit.edu.vn/"
   },
   {
