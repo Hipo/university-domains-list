@@ -27092,9 +27092,65 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "iiitm.ac.in",
+      "name": "Indian Institute of Information Technology and Management - Gwalior",
+      "web_page": "http://www.iiitm.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiitd.ac.in",
+      "name": "Indraprastha Institute of Information Technology, Delhi",
+      "web_page": "http://www.iiitd.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "squareit.ac.in",
+      "name": "International Institute of Information Technology, Pune",
+      "web_page": "www.isquareit.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiit-bh.ac.in",
+      "name": "International Institute of Information Technology, Bhubaneswar",
+      "web_page": "www.iiit-bh.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiitb.ac.in",
+      "name": "International Institute of Information Technology, Bangalore",
+      "web_page": "www.iiitb.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "iimtrichy.ac.in",
       "name": "Indian Institute of Management, Tiruchirappalli",
       "web_page": "http://www.iimtrichy.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiitg.ac.in",
+      "name": "Indian Institute of Information Technology, Guwahati",
+      "web_page": "http://www.iimtrichy.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiitvadodara.ac.in/",
+      "name": "Indian Institute of Information Technology, Vadodara",
+      "web_page": "http://iiitvadodara.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiitkota.ac.in/",
+      "name": "Indian Institute of Information Technology, Kota",
+      "web_page": "http://iiitkota.ac.in/"
   },
   {
       "alpha_two_code": "IN",
@@ -27169,10 +27225,39 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
-      "domain": "iitr.ernet.in",
-      "name": "Indian Institute of Technology, Roorkee",
-      "web_page": "http://www.iitr.ernet.in/"
+      "domain": "iitp.ac.in",
+      "name": "Indian Institute of Technology, Patna",
+      "web_page": "http://www.iitp.ac.in/"
   },
+   {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iiti.ac.in",
+      "name": "Indian Institute of Technology, Indore",
+      "web_page": "http://www.iiti.ac.in/"
+  },
+   {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iith.ac.in",
+      "name": "Indian Institute of Technology, Hyderabad",
+      "web_page": "http://www.iith.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iitg.ac.in",
+      "name": "Indian Institute of Technology, Guwahati",
+      "web_page": "http://www.iitg.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "iitj.ac.in",
+      "name": "Indian Institute of Technology, Jodhpur",
+      "web_page": "http://www.iitj.ac.in/"
+  },
+
   {
       "alpha_two_code": "IN",
       "country": "India",
