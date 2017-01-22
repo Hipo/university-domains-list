@@ -61,7 +61,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - Yiğit Güler
  - Tuna Vargı
  - Patrick Michelberger
- - Barricadenick
  - Rasim Demirbay
  - Ryan White
  - Bilal Arslan

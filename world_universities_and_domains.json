@@ -2,9 +2,429 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "stevenson.edu",
+      "name": "Stevenson University",
+      "web_page": "http://www.stevenson.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mbl.edu",
+      "name": "Marine Biological Laboratory",
+      "web_page": "http://www.mbl.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "maryville.edu",
+      "name": "Maryville University",
+      "web_page": "http://www.maryville.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "aii.edu",
+      "name": "The Art Institutes",
+      "web_page": "http://www.aii.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "umc.edu",
+      "name": "University of Mississippi Medical Center",
+      "web_page": "http://www.umc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uco.edu",
+      "name": "University of Central Oklahoma",
+      "web_page": "http://www.uco.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "hallmarkuniversity.edu",
+      "name": "Hallmark University",
+      "web_page": "http://www.hallmarkuniversity.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "keiseruniversity.edu",
+      "name": "Keiser University",
+      "web_page": "http://www.keiseruniversity.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sjrstate.edu",
+      "name": "St. Johns River State College",
+      "web_page": "http://www.sjrstate.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "irsc.edu",
+      "name": "Indian River State College",
+      "web_page": "http://www.irsc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "barnard.edu",
+      "name": "Barnard College",
+      "web_page": "http://www.barnard.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "tesu.edu",
+      "name": "Thomas Edison State University",
+      "web_page": "http://www.tesu.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "calsouthern.edu",
+      "name": "California Southern University",
+      "web_page": "http://www.calsouthern.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "laverne.edu",
+      "name": "University of La Verne",
+      "web_page": "http://www.laverne.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "washjeff.edu",
+      "name": "Washington &amp; Jefferson College",
+      "web_page": "http://www.washjeff.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uopeople.edu",
+      "name": "University of the People",
+      "web_page": "http://www.uopeople.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "touro.edu",
+      "name": "Touro College",
+      "web_page": "http://www.touro.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "njcu.edu",
+      "name": "New Jersey City University",
+      "web_page": "http://www.njcu.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lander.edu",
+      "name": "Lander University",
+      "web_page": "http://www.lander.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sunymaritime.edu",
+      "name": "SUNY Maritime College",
+      "web_page": "http://www.sunymaritime.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lesley.edu",
+      "name": "Lesley University",
+      "web_page": "http://www.lesley.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lauruscollege.edu",
+      "name": "Laurus College",
+      "web_page": "http://www.lauruscollege.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "np.edu",
+      "name": "National Park College",
+      "web_page": "http://www.np.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "oc.edu",
+      "name": "Oklahoma Christian University",
+      "web_page": "http://www.oc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sdcc.edu",
+      "name": "San Diego Christian College",
+      "web_page": "http://www.sdcc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "sans.edu",
+      "name": "SANS Technology Institute",
+      "web_page": "http://www.sans.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "phsc.edu",
+      "name": "Pasco-Hernando State College",
+      "web_page": "http://www.phsc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ncf.edu",
+      "name": "New College of Florida",
+      "web_page": "http://www.ncf.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "gcu.edu",
+      "name": "Grand Canyon University",
+      "web_page": "http://www.gcu.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cshl.edu",
+      "name": "Cold Spring Harbor Laboratory",
+      "web_page": "http://www.cshl.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "asurams.edu",
+      "name": "Albany State University",
+      "web_page": "http://www.asurams.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lasell.edu",
+      "name": "Lasell College",
+      "web_page": "http://www.lasell.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "4cd.edu",
+      "name": "Contra Costa Community College District",
+      "web_page": "http://www.4cd.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "msmary.edu",
+      "name": "Mount St. Mary's University",
+      "web_page": "http://www.msmary.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "robertmorris.edu",
+      "name": "Robert Morris University Illinois",
+      "web_page": "http://www.robertmorris.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "nwfsc.edu",
+      "name": "Northwest Florida State College",
+      "web_page": "http://www.nwfsc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "wvwc.edu",
+      "name": "West Virginia Wesleyan College",
+      "web_page": "http://www.wvwc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "utica.edu",
+      "name": "Utica College",
+      "web_page": "http://www.utica.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ccnn.edu",
+      "name": "Career College of Northern Nevada",
+      "web_page": "http://www.ccnn.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ung.edu",
+      "name": "University of North Georgia",
+      "web_page": "http://www.ung.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "principia.edu",
+      "name": "The Principia",
+      "web_page": "http://www.principia.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "lynn.edu",
+      "name": "Lynn University",
+      "web_page": "http://www.lynn.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cccs.edu",
+      "name": "Colorado Community College System",
+      "web_page": "http://www.cccs.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "valenciacollege.edu",
+      "name": "Valencia College",
+      "web_page": "http://www.valenciacollege.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "spcollege.edu",
+      "name": "St. Petersburg College",
+      "web_page": "http://www.spcollege.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "msbcollege.edu",
+      "name": "Globe University &amp; Minnesota School of Business",
+      "web_page": "http://www.msbcollege.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "everest.edu",
+      "name": "Everest College",
+      "web_page": "http://www.everest.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "swri.edu",
+      "name": "Southwest Research Institute",
+      "web_page": "http://www.swri.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "apus.edu",
+      "name": "American Public University System",
+      "web_page": "http://www.apus.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "fullsail.edu",
+      "name": "Full Sail University",
+      "web_page": "http://www.fullsail.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "yti.edu",
+      "name": "YTI Career Institute",
+      "web_page": "http://www.yti.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "dliflc.edu",
+      "name": "Defense Language Institute Foreign Language Center",
+      "web_page": "http://www.dliflc.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "columbusstate.edu",
+      "name": "Columbus State University",
+      "web_page": "http://www.columbusstate.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "moreheadstate.edu",
+      "name": "Morehead State University",
+      "web_page": "http://www.moreheadstate.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "csuglobal.edu",
+      "name": "Colorado State University - Global Campus",
+      "web_page": "http://www.csuglobal.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "ndus.edu",
+      "name": "North Dakota University System",
+      "web_page": "http://www.ndus.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "uhd.edu",
+      "name": "University of Houston-Downtown",
+      "web_page": "http://www.uhd.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "stratford.edu",
+      "name": "Stratford University",
+      "web_page": "http://www.stratford.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "cpp.edu",
+      "name": "California Polytechnic State University, Pomona",
+      "web_page": "http://www.cpp.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "baker.edu",
+      "name": "Baker College",
+      "web_page": "http://www.baker.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "tcnj.edu",
       "name": "The College of New Jersey",
-      "web_page": "http://www.tcnj.edu"
+      "web_page": "http://www.tcnj.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -576,9 +996,9 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
-      "domain": "idbsu.edu",
+      "domain": "boisestate.edu",
       "name": "Boise State University",
-      "web_page": "http://www.idbsu.edu/"
+      "web_page": "http://www.boisestate.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -663,6 +1083,13 @@
       "domain": "byu.edu",
       "name": "Brigham Young University",
       "web_page": "http://www.byu.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "byui.edu",
+      "name": "Brigham Young University - Idaho",
+      "web_page": "http://www.byui.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -765,16 +1192,9 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
-      "domain": "csupomona.edu",
-      "name": "California State Polytechnic University, Pomona",
-      "web_page": "http://www.csupomona.edu/"
-  },
-  {
-      "alpha_two_code": "US",
-      "country": "United States",
       "domain": "csubak.edu",
       "name": "California State University, Bakersfield",
-      "web_page": "http://www.csubak.edu/"
+      "web_page": "http://www.csub.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -4097,8 +4517,15 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "ohio.edu",
+      "name": "Ohio University",
+      "web_page": "http://www.ohio.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "ohiou.edu",
-      "name": "Ohio University, Athens",
+      "name": "Ohio University",
       "web_page": "http://www.ohiou.edu/"
   },
   {
@@ -4405,9 +4832,9 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
-      "domain": "asu.edu",
+      "domain": "prescott.edu",
       "name": "Prescott College",
-      "web_page": "http://aztec.asu.edu/prescott.col/"
+      "web_page": "http://www.prescott.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -6778,9 +7205,9 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
-      "domain": "acusd.edu",
+      "domain": "sandiego.edu",
       "name": "University of San Diego",
-      "web_page": "http://www.acusd.edu/"
+      "web_page": "http://www.sandiego.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -7709,9 +8136,16 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "wichita.edu",
+      "name": "Wichita State University",
+      "web_page": "http://www.wichita.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "twsu.edu",
       "name": "Wichita State University",
-      "web_page": "http://www.twsu.edu/"
+      "web_page": "http://www.wichita.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -9420,6 +9854,13 @@
       "domain": "marcusoldham.vic.edu.au",
       "name": "Marcus Oldham College",
       "web_page": "http://www.marcusoldham.vic.edu.au/"
+  },
+  {
+      "alpha_two_code": "AU",
+      "country": "Australia",
+      "domain": "monash.edu",
+      "name": "Monash University",
+      "web_page": "http://www.monash.edu/"
   },
   {
       "alpha_two_code": "AU",
@@ -17568,6 +18009,13 @@
       "domain": "xjtlu.edu.cn",
       "name": "Xi'an Jiaotong-Liverpool University",
       "web_page": "http://www.xjtlu.edu.cn/"
+  },
+  {
+      "alpha_two_code": "CN",
+      "country": "China",
+      "domain": "eurasia.edu",
+      "name": "Xi'an Eurasia University",
+      "web_page": "http://en.eurasia.edu/"
   },
   {
       "alpha_two_code": "CN",
@@ -38417,30 +38865,35 @@
       "web_page": "http://www.yosu.ac.kr/"
   },
   {
+      "alpha_two_code": "XK",
       "country": "Kosovo",
       "domain": "aukonline.org",
       "name": "American University In Kosovo",
       "web_page": "http://www.aukonline.org/"
   },
   {
+      "alpha_two_code": "XK",
       "country": "Kosovo",
       "domain": "uiliria.org",
       "name": "ILIRIA College",
       "web_page": "http://www.uiliria.org/"
   },
   {
+      "alpha_two_code": "XK",
       "country": "Kosovo",
       "domain": "uni-pr.edu",
       "name": "University of Prishtina",
       "web_page": "http://www.uni-pr.edu/"
   },
   {
+      "alpha_two_code": "XK",
       "country": "Kosovo",
       "domain": "uni-prizren.com",
       "name": "University of Prizren \"Ukshin Hoti\"",
       "web_page": "http://www.uni-prizren.com/"
   },
   {
+      "alpha_two_code": "XK",
       "country": "Kosovo",
       "domain": "universum-ks.org",
       "name": "Universum College",
@@ -40979,6 +41432,13 @@
       "domain": "udeh.edu.mx",
       "name": "Universidad de Hermosillo",
       "web_page": "http://www.udeh.edu.mx/"
+  },
+  {
+      "alpha_two_code": "MX",
+      "country": "Mexico",
+      "domain": "udem.edu",
+      "name": "Universidad de Monterrey",
+      "web_page": "http://www.udem.edu/"
   },
   {
       "alpha_two_code": "MX",
@@ -49054,6 +49514,13 @@
   {
       "alpha_two_code": "RU",
       "country": "Russian Federation",
+      "domain": "phystech.edu",
+      "name": "Moscow Institute of Physics and Technology",
+      "web_page": "http://www.phystech.edu/"
+  },
+  {
+      "alpha_two_code": "RU",
+      "country": "Russian Federation",
       "domain": "mipt.ru",
       "name": "Moscow Institute of Physics and Technology",
       "web_page": "http://www.mipt.ru/"
@@ -51115,6 +51582,13 @@
       "domain": "ntu.edu.sg",
       "name": "Nanyang Technological University",
       "web_page": "http://www.ntu.edu.sg/"
+  },
+  {
+      "alpha_two_code": "SG",
+      "country": "Singapore",
+      "domain": "nus.edu",
+      "name": "National University of Singapore",
+      "web_page": "http://www.nus.edu/"
   },
   {
       "alpha_two_code": "SG",
@@ -59751,6 +60225,13 @@
   {
         "alpha_two_code": "US",
         "country": "United States",
+        "domain": "ccis.edu",
+        "name": "Columbia College",
+        "web_page": "http://www.ccis.edu/"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
         "domain": "gocolumbia.edu",
         "name": "Columbia College",
         "web_page": "http://www.gocolumbia.edu/"
@@ -60095,14 +60576,14 @@
         "alpha_two_code": "US",
         "country": "United States",
         "domain": "mtsac.edu",
-        "name": "Mt San Antonio College",
+        "name": "Mt. San Antonio College",
         "web_page": "http://www.mtsac.edu"
   },
   {
         "alpha_two_code": "US",
         "country": "United States",
         "domain": "msjc.edu",
-        "name": "Mt San Jacinto Community College District",
+        "name": "Mt. San Jacinto Community College District",
         "web_page": "http://www.msjc.edu"
   },
   {
@@ -60143,9 +60624,9 @@
   {
         "alpha_two_code": "US",
         "country": "United States",
-        "domain": "www.palomar.edu",
+        "domain": "palomar.edu",
         "name": "Palomar College",
-        "web_page": "http://WWW.PALOMAR.EDU"
+        "web_page": "http://www.palomar.edu"
   },
   {
         "alpha_two_code": "US",
@@ -60958,6 +61439,13 @@
         "domain": "ccc.edu",
         "name": "City Colleges of Chicago-​Wilbur Wright College",
         "web_page": "http://ccc.edu/colleges/wright/pages/default.aspx"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "dupage.edu",
+        "name": "College of DuPage",
+        "web_page": "http://www.dupage.edu"
   },
   {
         "alpha_two_code": "US",
@@ -61893,6 +62381,13 @@
   {
         "alpha_two_code": "US",
         "country": "United States",
+        "domain": "necc.edu",
+        "name": "Northern Essex Community College",
+        "web_page": "http://www.necc.mass.edu/"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
         "domain": "necc.mass.edu",
         "name": "Northern Essex Community College",
         "web_page": "http://www.necc.mass.edu/"
@@ -62498,6 +62993,13 @@
         "domain": "mineralarea.edu",
         "name": "Mineral Area College",
         "web_page": "http://www.mineralarea.edu"
+  },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "missouristate.edu",
+        "name": "Missouri State University",
+        "web_page": "http://www.missouristate.edu"
   },
   {
         "alpha_two_code": "US",
@@ -64001,7 +64503,7 @@
         "alpha_two_code": "US",
         "country": "United States",
         "domain": "mhcc.edu",
-        "name": "Mt Hood Community College",
+        "name": "Mt. Hood Community College",
         "web_page": "http://www.mhcc.edu"
   },
   {
