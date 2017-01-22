@@ -996,6 +996,13 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "idbsu.edu",
+      "name": "Boise State University",
+      "web_page": "http://www.boisestate.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "boisestate.edu",
       "name": "Boise State University",
       "web_page": "http://www.boisestate.edu/"
@@ -1188,6 +1195,13 @@
       "domain": "calpoly.edu",
       "name": "California Polytechnic State University, San Luis Obispo",
       "web_page": "http://www.calpoly.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "csub.edu",
+      "name": "California State University, Bakersfield",
+      "web_page": "http://www.csub.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -3166,6 +3180,13 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "jh.edu",
+      "name": "Johns Hopkins University",
+      "web_page": "http://www.jhu.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "jhu.edu",
       "name": "Johns Hopkins University",
       "web_page": "http://www.jhu.edu/"
@@ -3771,6 +3792,13 @@
       "domain": "mercer.edu",
       "name": "Mercer University",
       "web_page": "http://www.mercer.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "mercymavericks.edu",
+      "name": "Mercy College",
+      "web_page": "http://www.mercy.edu/"
   },
   {
       "alpha_two_code": "US",
@@ -6659,6 +6687,13 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "uiuc.edu",
+      "name": "University of Illinois at Urbana-Champaign",
+      "web_page": "http://www.illinois.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "illinois.edu",
       "name": "University of Illinois at Urbana-Champaign",
       "web_page": "http://www.illinois.edu/"
@@ -7355,6 +7390,13 @@
       "domain": "utb.edu",
       "name": "University of Texas at Brownsville",
       "web_page": "http://www.utb.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
+      "domain": "utd.edu",
+      "name": "University of Texas at Dallas",
+      "web_page": "http://www.utdallas.edu/"
   },
   {
       "alpha_two_code": "US",
