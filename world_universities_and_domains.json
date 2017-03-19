@@ -51642,6 +51642,13 @@
   {
       "alpha_two_code": "SG",
       "country": "Singapore",
+      "domain": "yale-nus.edu.sg",
+      "name": "yale-NUS",
+      "web_page": "http://www.yale-nus.edu.sg/"
+  },
+  {
+      "alpha_two_code": "SG",
+      "country": "Singapore",
       "domain": "sim.edu.sg",
       "name": "Singapore Institute of Management (SIM)",
       "web_page": "http://www.sim.edu.sg/"
