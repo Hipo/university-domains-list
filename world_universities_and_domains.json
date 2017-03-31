@@ -2,6 +2,13 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "calbaptist.edu",
+      "name": "California Baptist University",
+      "web_page": "http://www.calbaptist.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "stevenson.edu",
       "name": "Stevenson University",
       "web_page": "http://www.stevenson.edu/"
