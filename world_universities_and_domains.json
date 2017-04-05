@@ -28528,6 +28528,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitsikkim.ac.in",
+      "name": "National Institute of Technology Sikkim",
+      "web_page": "http://www.nitsikkim.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitk.ac.in",
       "name": "National Institute of Technology Surathkal",
       "web_page": "http://www.nitk.ac.in/"
