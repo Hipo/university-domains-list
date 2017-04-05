@@ -28906,6 +28906,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "svnit.ac.in",
+      "name": "Sardar Vallabhbhai National Institute of Technology",
+      "web_page": "http://www.svnit.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "svimstpt.ap.nic.in",
       "name": "Sri Venkateswara Institute of Medical Sciences",
       "web_page": "http://svimstpt.ap.nic.in/"
