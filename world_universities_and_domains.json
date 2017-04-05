@@ -28444,6 +28444,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nith.ac.in",
+      "name": "National Institute of Technology Hamirpur",
+      "web_page": "http://www.nith.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitjsr.ac.in",
       "name": "National Institute of Technology Jamshedpur",
       "web_page": "http://www.nitjsr.ac.in/"
