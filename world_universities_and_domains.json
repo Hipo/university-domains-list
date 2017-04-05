@@ -28479,6 +28479,20 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitm.ac.in",
+      "name": "National Institute of Technology Meghalaya",
+      "web_page": "http://www.nitm.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitmz.ac.in",
+      "name": "National Institute of Technology Mizoram",
+      "web_page": "http://www.nitmz.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitrkl.ac.in",
       "name": "National Institute of Technology Rourkela",
       "web_page": "http://www.nitrkl.ac.in/"
