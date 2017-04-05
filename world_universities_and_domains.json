@@ -28388,6 +28388,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nita.ac.in",
+      "name": "National Institute of Technology Agartala",
+      "web_page": "http://www.nita.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitc.ac.in",
       "name": "National Institute of Technology Calicut",
       "web_page": "http://www.nitc.ac.in/"
