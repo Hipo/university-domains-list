@@ -28388,6 +28388,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitie.edu",
+      "name": "National Institute of Industrial Engineering",
+      "web_page": "http://www.nitie.edu/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nita.ac.in",
       "name": "National Institute of Technology Agartala",
       "web_page": "http://www.nita.ac.in/"
@@ -28426,13 +28433,6 @@
       "domain": "nitdgp.ac.in",
       "name": "National Institute of Technology Durgapur",
       "web_page": "http://www.nitdgp.ac.in/"
-  },
-  {
-      "alpha_two_code": "IN",
-      "country": "India",
-      "domain": "nitie.edu",
-      "name": "National Institute of Industrial Engineering",
-      "web_page": "http://www.nitie.edu/"
   },
   {
       "alpha_two_code": "IN",
