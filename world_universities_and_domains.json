@@ -28388,6 +28388,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitc.ac.in",
+      "name": "National Institute of Technology Calicut",
+      "web_page": "http://www.nitc.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitdgp.ac.in",
       "name": "National Institute of Technology, Durgapur",
       "web_page": "http://www.nitdgp.ac.in/"
