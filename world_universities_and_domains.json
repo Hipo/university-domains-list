@@ -28507,6 +28507,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitpy.ac.in",
+      "name": "National Institute of Technology Puducherry",
+      "web_page": "http://www.nitpy.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitrkl.ac.in",
       "name": "National Institute of Technology Rourkela",
       "web_page": "http://www.nitrkl.ac.in/"
