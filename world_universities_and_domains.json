@@ -28423,6 +28423,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitk.ac.in",
+      "name": "National Institute of Technology, Surathkal",
+      "web_page": "http://www.nitk.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitt.edu",
       "name": "National Institute of Technology, Trichy",
       "web_page": "http://www.nitt.edu/"
