@@ -28395,6 +28395,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitandhra.ac.in",
+      "name": "National Institute of Technology Andhra Pradesh",
+      "web_page": "http://www.nitandhra.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitc.ac.in",
       "name": "National Institute of Technology Calicut",
       "web_page": "http://www.nitc.ac.in/"
