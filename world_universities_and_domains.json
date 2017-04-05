@@ -28542,6 +28542,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitsri.net",
+      "name": "National Institute of Technology Srinagar",
+      "web_page": "http://www.nitsri.net/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitk.ac.in",
       "name": "National Institute of Technology Surathkal",
       "web_page": "http://www.nitk.ac.in/"
