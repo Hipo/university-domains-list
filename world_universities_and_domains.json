@@ -29109,6 +29109,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "mnit.ac.in",
+      "name": "Malaviya National Institute of Technology Jaipur",
+      "web_page": "http://www.mnit.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "tripurauniv.in",
       "name": "Tripura University",
       "web_page": "http://www.tripurauniv.in/"
