@@ -28402,6 +28402,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitap.in",
+      "name": "National Institute of Technology Arunachal Pradesh",
+      "web_page": "http://www.nitap.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitc.ac.in",
       "name": "National Institute of Technology Calicut",
       "web_page": "http://www.nitc.ac.in/"
@@ -29077,6 +29084,13 @@
       "domain": "tnuniv.ac.in",
       "name": "Mother Teresa Women's University",
       "web_page": "http://www.tnuniv.ac.in/mteresa/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "manit.ac.in",
+      "name": "Maulana Azad National Institute of Technology Bhopal",
+      "web_page": "http://www.manit.ac.in/"
   },
   {
       "alpha_two_code": "IN",
