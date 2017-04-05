@@ -28437,6 +28437,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitgoa.ac.in",
+      "name": "National Institute of Technology Goa",
+      "web_page": "http://www.nitgoa.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitjsr.ac.in",
       "name": "National Institute of Technology Jamshedpur",
       "web_page": "http://www.nitjsr.ac.in/"
