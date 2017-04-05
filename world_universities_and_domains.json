@@ -27141,6 +27141,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitj.ac.in",
+      "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+      "web_page": "http://www.nitj.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "brauagra.com",
       "name": "Dr. Bhim Rao Abdekar University",
       "web_page": "http://www.brauagra.com/"
@@ -28388,13 +28395,6 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
-      "domain": "nitdgp.ac.in",
-      "name": "National Institute of Technology, Durgapur",
-      "web_page": "http://www.nitdgp.ac.in/"
-  },
-  {
-      "alpha_two_code": "IN",
-      "country": "India",
       "domain": "nitie.edu",
       "name": "National Institute of Industrial Engineering",
       "web_page": "http://www.nitie.edu/"
@@ -28402,8 +28402,64 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nita.ac.in",
+      "name": "National Institute of Technology Agartala",
+      "web_page": "http://www.nita.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitandhra.ac.in",
+      "name": "National Institute of Technology Andhra Pradesh",
+      "web_page": "http://www.nitandhra.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitap.in",
+      "name": "National Institute of Technology Arunachal Pradesh",
+      "web_page": "http://www.nitap.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitc.ac.in",
+      "name": "National Institute of Technology Calicut",
+      "web_page": "http://www.nitc.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitdelhi.ac.in",
+      "name": "National Institute of Technology Delhi",
+      "web_page": "http://www.nitdelhi.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitdgp.ac.in",
+      "name": "National Institute of Technology Durgapur",
+      "web_page": "http://www.nitdgp.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitgoa.ac.in",
+      "name": "National Institute of Technology Goa",
+      "web_page": "http://www.nitgoa.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nith.ac.in",
+      "name": "National Institute of Technology Hamirpur",
+      "web_page": "http://www.nith.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitjsr.ac.in",
-      "name": "National Institute of Technology, Jamshedpur",
+      "name": "National Institute of Technology Jamshedpur",
       "web_page": "http://www.nitjsr.ac.in/"
   },
   {
@@ -28416,22 +28472,106 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitmanipur.ac.in",
+      "name": "National Institute of Technology Manipur",
+      "web_page": "http://www.nitmanipur.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitm.ac.in",
+      "name": "National Institute of Technology Meghalaya",
+      "web_page": "http://www.nitm.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitmz.ac.in",
+      "name": "National Institute of Technology Mizoram",
+      "web_page": "http://www.nitmz.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitnagaland.ac.in",
+      "name": "National Institute of Technology Nagaland",
+      "web_page": "http://www.nitnagaland.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitp.ac.in",
+      "name": "National Institute of Technology Patna",
+      "web_page": "http://www.nitp.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitpy.ac.in",
+      "name": "National Institute of Technology Puducherry",
+      "web_page": "http://www.nitpy.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitrr.ac.in",
+      "name": "National Institute of Technology Raipur",
+      "web_page": "http://www.nitrr.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitrkl.ac.in",
-      "name": "National Institute of Technology, Rourkela",
+      "name": "National Institute of Technology Rourkela",
       "web_page": "http://www.nitrkl.ac.in/"
   },
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitsikkim.ac.in",
+      "name": "National Institute of Technology Sikkim",
+      "web_page": "http://www.nitsikkim.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nits.ac.in",
+      "name": "National Institute of Technology Silchar",
+      "web_page": "http://www.nits.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitsri.net",
+      "name": "National Institute of Technology Srinagar",
+      "web_page": "http://www.nitsri.net/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "nitk.ac.in",
+      "name": "National Institute of Technology Surathkal",
+      "web_page": "http://www.nitk.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitt.edu",
-      "name": "National Institute of Technology, Trichy",
+      "name": "National Institute of Technology Trichy",
       "web_page": "http://www.nitt.edu/"
   },
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nituk.ac.in",
+      "name": "National Institute of Technology Uttarakhand",
+      "web_page": "http://www.nituk.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitw.ernet.in",
-      "name": "National Institute of Technology, Warangal",
+      "name": "National Institute of Technology Warangal",
       "web_page": "http://www.nitw.ernet.in/"
   },
   {
@@ -28459,7 +28599,7 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "nsit.ac.in",
-      "name": "Netaji Subhas Inst of Technology",
+      "name": "Netaji Subhas Institute of Technology",
       "web_page": "http://www.nsit.ac.in/"
   },
   {
@@ -28494,7 +28634,7 @@
       "alpha_two_code": "IN",
       "country": "India",
       "domain": "pec.ac.in",
-      "name": "Punjab Engineering College Deemed University",
+      "name": "Punjab Engineering College",
       "web_page": "http://www.pec.ac.in/"
   },
   {
@@ -28906,6 +29046,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "svnit.ac.in",
+      "name": "Sardar Vallabhbhai National Institute of Technology",
+      "web_page": "http://www.svnit.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "svimstpt.ap.nic.in",
       "name": "Sri Venkateswara Institute of Medical Sciences",
       "web_page": "http://svimstpt.ap.nic.in/"
@@ -29035,6 +29182,20 @@
       "domain": "tnuniv.ac.in",
       "name": "Mother Teresa Women's University",
       "web_page": "http://www.tnuniv.ac.in/mteresa/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "manit.ac.in",
+      "name": "Maulana Azad National Institute of Technology Bhopal",
+      "web_page": "http://www.manit.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
+      "domain": "mnit.ac.in",
+      "name": "Malaviya National Institute of Technology Jaipur",
+      "web_page": "http://www.mnit.ac.in/"
   },
   {
       "alpha_two_code": "IN",
