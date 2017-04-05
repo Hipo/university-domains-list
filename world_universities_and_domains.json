@@ -28535,6 +28535,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nits.ac.in",
+      "name": "National Institute of Technology Silchar",
+      "web_page": "http://www.nits.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitk.ac.in",
       "name": "National Institute of Technology Surathkal",
       "web_page": "http://www.nitk.ac.in/"
