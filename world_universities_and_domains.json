@@ -28472,6 +28472,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitmanipur.ac.in",
+      "name": "National Institute of Technology Manipur",
+      "web_page": "http://www.nitmanipur.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitrkl.ac.in",
       "name": "National Institute of Technology Rourkela",
       "web_page": "http://www.nitrkl.ac.in/"
