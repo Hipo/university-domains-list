@@ -28493,6 +28493,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nitnagaland.ac.in",
+      "name": "National Institute of Technology Nagaland",
+      "web_page": "http://www.nitnagaland.ac.in"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitrkl.ac.in",
       "name": "National Institute of Technology Rourkela",
       "web_page": "http://www.nitrkl.ac.in/"
