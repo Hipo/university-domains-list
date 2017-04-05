@@ -5728,6 +5728,13 @@
   {
       "alpha_two_code": "US",
       "country": "United States",
+      "domain": "stonybrookmedicine.edu",
+      "name": "Academic medical center at State University of New York at Stony Brook",
+      "web_page": "http://www.stonybrookmedicine.edu/"
+  },
+  {
+      "alpha_two_code": "US",
+      "country": "United States",
       "domain": "brockport.edu",
       "name": "State University of New York College at Brockport",
       "web_page": "http://www.brockport.edu/"
