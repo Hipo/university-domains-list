@@ -28563,6 +28563,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "nituk.ac.in",
+      "name": "National Institute of Technology Uttarakhand",
+      "web_page": "http://www.nituk.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "nitw.ernet.in",
       "name": "National Institute of Technology Warangal",
       "web_page": "http://www.nitw.ernet.in/"
