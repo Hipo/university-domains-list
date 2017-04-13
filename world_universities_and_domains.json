@@ -41408,7 +41408,7 @@
   {
       "alpha_two_code": "MX",
       "country": "Mexico",
-      "domain": "uaa.mx:8001",
+      "domain": "uaa.mx",
       "name": "Universidad Aut\u00f3noma de Aguascalientes",
       "web_page": "http://www.uaa.mx:8001/"
   },
@@ -49087,7 +49087,7 @@
   {
       "alpha_two_code": "RU",
       "country": "Russian Federation",
-      "domain": "education.ivanovo.ru:8101",
+      "domain": "education.ivanovo.ru",
       "name": "Ivanovo State Textile Academy",
       "web_page": "http://education.ivanovo.ru:8101/IGTA/"
   },
@@ -50410,7 +50410,7 @@
   {
       "alpha_two_code": "RU",
       "country": "Russian Federation",
-      "domain": "ssu.komi.com:8101",
+      "domain": "ssu.komi.com",
       "name": "Syktyvkar State University",
       "web_page": "http://ssu.komi.com:8101/"
   },
