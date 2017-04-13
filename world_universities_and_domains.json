@@ -23032,6 +23032,13 @@
   {
       "alpha_two_code": "FR",
       "country": "France",
+      "domain": "univ-lorraine.fr",
+      "name": "Universit\u00e9 de Lorraine", 
+      "web_page": "http://www.univ-lorraine.fr/"
+  },
+  {
+      "alpha_two_code": "FR",
+      "country": "France",
       "domain": "univ-lr.fr",
       "name": "Universit\u00e9 de La Rochelle",
       "web_page": "http://www.univ-lr.fr/"
