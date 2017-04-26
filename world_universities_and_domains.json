@@ -21625,6 +21625,13 @@
   {
       "alpha_two_code": "FR",
       "country": "France",
+      "domain": "agrosupdijon.fr",
+      "name": "AgroSup Dijon",
+      "web_page": "http://www.agrosupdijon.fr/"
+  },
+  {
+      "alpha_two_code": "FR",
+      "country": "France",
       "domain": "ags.edu",
       "name": "American Graduate School in Paris",
       "web_page": "http://www.ags.edu/"
@@ -22843,9 +22850,9 @@
   {
       "alpha_two_code": "FR",
       "country": "France",
-      "domain": "u-bourgogne.fr",
-      "name": "Universit\u00e9 de Bourgogne",
-      "web_page": "http://www.u-bourgogne.fr/"
+      "domain": "ubfc.fr",
+      "name": "Universit\u00e9 Bourgogne - Franche-Comt\u00e9",
+      "web_page": "http://www.ubfc.fr/"
   },
   {
       "alpha_two_code": "FR",
@@ -22972,13 +22979,6 @@
       "domain": "univ-evry.fr",
       "name": "Universit\u00e9 d'Evry Val d'Essonne",
       "web_page": "http://www.univ-evry.fr/"
-  },
-  {
-      "alpha_two_code": "FR",
-      "country": "France",
-      "domain": "univ-fcomte.fr",
-      "name": "Universit\u00e9 de Franche-Comt\u00e9",
-      "web_page": "http://www.univ-fcomte.fr/"
   },
   {
       "alpha_two_code": "FR",
