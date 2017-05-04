@@ -28094,6 +28094,13 @@
   {
       "alpha_two_code": "IN",
       "country": "India",
+      "domain": "kct.ac.in",
+      "name": "Kumaraguru College of Technology",
+      "web_page": "http://www.kct.ac.in/"
+  },
+  {
+      "alpha_two_code": "IN",
+      "country": "India",
       "domain": "kumaununiversity.org",
       "name": "Kumaun University",
       "web_page": "http://www.kumaununiversity.org/"
