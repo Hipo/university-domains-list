@@ -1,19 +1,23 @@
-import requests
+""" Testing All University Links """
 import json
+import requests
 
-def checkIsAlive(url):
+
+def check_is_alive(url):
+    """ request url then controlling is alive """
     print(url)
-    page = False
     try:
-        page = requests.get(url, allow_redirects=False)
-    except Exception as e:
-        print('Website doesn\'t exists', e)
+        requests.get(url, allow_redirects=False, timeout=10.0)
+    except requests.exceptions.ConnectionError as exc:
+        print('- Website doesn\'t exists: ', exc)
+
 
 def main():
-    with open("world_universities_and_domains.json") as JsonData:
-        universities = json.load(JsonData)
+    with open('world_universities_and_domains.json') as json_raw:
+        universities = json.load(json_raw)
         for university in universities[:]:
-            checkIsAlive(university['web_page'])
+            check_is_alive(university['web_page'])
+
 
 if __name__ == '__main__':
     main()
