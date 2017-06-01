@@ -1,10 +1,9 @@
-""" Testing All University Links """
 import json
 import requests
 
 
 def check_is_alive(url):
-    """ request url then controlling is alive """
+    """ check url then if url isn't alive, add to file """
     print(url)
     try:
         requests.get(url, allow_redirects=False, timeout=10.0)
