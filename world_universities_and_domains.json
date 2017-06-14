@@ -59063,7 +59063,7 @@
         "alpha_two_code": "VN",
         "country": "Viet Nam",
         "domain": "tuaf.edu.vn",
-        "name": "Thainguyen University of Agriculture and Forestry",
+        "name": "Thai Nguyen University of Agriculture and Forestry",
         "web_page": "http://www.tuaf.edu.vn/"
     },
     {
@@ -59114,6 +59114,20 @@
         "domain": "yds.edu.vn",
         "name": "Ho Chi Minh City University of Medicine and Pharmacy",
         "web_page": "http://www.yds.edu.vn/"
+    },    
+    {
+        "alpha_two_code": "VN",
+        "country": "Viet Nam",
+        "domain": "pnt.edu.vn",
+        "name": "Pham Ngoc Thach University of Medicine",
+        "web_page": "http://www.pnt.edu.vn"
+    },
+    {
+        "alpha_two_code": "VN",
+        "country": "Viet Nam",
+        "domain": "vgu.edu.vn",
+        "name": "Vietnamese - German University",
+        "web_page": "http://www.vgu.edu.vn/"
     },
     {
         "alpha_two_code": "VG",
