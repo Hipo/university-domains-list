@@ -57179,6 +57179,13 @@
     {
         "alpha_two_code": "GB",
         "country": "United Kingdom",
+        "domain": "aberdeen.ac.uk",
+        "name": "University of Aberdeen",
+        "web_page": "http://www.abdn.ac.uk/"
+    },
+    {
+        "alpha_two_code": "GB",
+        "country": "United Kingdom",
         "domain": "aber.ac.uk",
         "name": "University of Wales, Aberystwyth",
         "web_page": "http://www.aber.ac.uk/"
