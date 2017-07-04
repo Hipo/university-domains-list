@@ -19,7 +19,7 @@ def main():
     with open('../world_universities_and_domains.json') as json_raw:
         universities = json.load(json_raw)
         for university in universities[:]:
-            check_is_alive(university['web_page'])
+            check_is_alive(university['website'])
 
 
 if __name__ == '__main__':
