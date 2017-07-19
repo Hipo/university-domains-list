@@ -50276,6 +50276,13 @@
     {
         "alpha_two_code": "RU",
         "country": "Russian Federation",
+        "domain": "spbau.ru",
+        "name": "Academic University",
+        "web_page": "http://www.spbau.ru/"
+    },
+    {
+        "alpha_two_code": "RU",
+        "country": "Russian Federation",
         "domain": "spbgasu.ru",
         "name": "St. Petersburg State University of Architecture and Civil Engineering",
         "web_page": "http://www.spbgasu.ru/"
