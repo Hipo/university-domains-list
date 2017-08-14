@@ -1,6 +1,13 @@
 [{
         "alpha_two_code": "US",
         "country": "United States",
+        "domain": "student.42.us.org",
+        "name": "42 US",
+        "web_page": "http://www.42.us.org/"
+    },
+    {
+        "alpha_two_code": "US",
+        "country": "United States",
         "domain": "calbaptist.edu",
         "name": "California Baptist University",
         "web_page": "http://www.calbaptist.edu/"
@@ -21592,6 +21599,13 @@
         "domain": "uwasa.fi",
         "name": "University of Vaasa",
         "web_page": "http://www.uwasa.fi/"
+    },
+    {
+        "alpha_two_code": "FR",
+        "country": "France",
+        "domain": "student.42.fr",
+        "name": "42 FR",
+        "web_page": "http://www.42.fr/"
     },
     {
         "alpha_two_code": "FR",
