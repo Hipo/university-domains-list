@@ -44389,6 +44389,20 @@
     {
         "alpha_two_code": "PK",
         "country": "Pakistan",
+        "domain": "biit.edu.pk",
+        "name": "Barani Institute of Information Technology",
+        "web_page": "http://www.biit.edu.pk/"
+    },
+    {
+        "alpha_two_code": "PK",
+        "country": "Pakistan",
+        "domain": "bims.edu.pk",
+        "name": "Barani Institute of Management Sciences",
+        "web_page": "http://www.bims.edu.pk/"
+    },
+    {
+        "alpha_two_code": "PK",
+        "country": "Pakistan",
         "domain": "baqai.freeyellow.com",
         "name": "Baqai Medical University",
         "web_page": "http://baqai.freeyellow.com/"
