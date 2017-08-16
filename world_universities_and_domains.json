@@ -42637,6 +42637,27 @@
         "web_page": "http://www.uem.mz/"
     },
     {
+        "alpha_two_code": "MZ",
+        "country": "Mozambique",
+        "domain": "up.ac.mz",
+        "name": "Universidade Pedag\u00f3gica",
+        "web_page": "https://www.up.ac.mz/"
+    },
+    {
+      "alpha_two_code": "MZ",
+      "country": "Mozambique",
+      "domain": "unizambeze.ac.mz",
+      "name": "Universidade Zambeze",
+      "web_page": "http://www.unizambeze.ac.mz/"
+    },
+    {
+      "alpha_two_code": "MZ",
+      "country": "Mozambique",
+      "domain": "unilurio.ac.mz",
+      "name": "Universidade L\u00fario",
+      "web_page": "http://www.unilurio.ac.mz/"
+    },
+    {
         "alpha_two_code": "NA",
         "country": "Namibia",
         "domain": "iit.com.na",
