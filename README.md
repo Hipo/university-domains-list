@@ -59,6 +59,7 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
 # Contributors
 
  - Yiğit Güler
+ - Syed Zakawat
  - Tuna Vargı
  - Patrick Michelberger
  - Rasim Demirbay
