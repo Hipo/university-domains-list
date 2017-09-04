@@ -26020,6 +26020,13 @@
     {
         "alpha_two_code": "GR",
         "country": "Greece",
+        "domain": "teiwest.gr",
+        "name": "Technological Education Institute of Western Greece",
+        "web_page": "http://www.teiwest.gr/"
+    },
+    {
+        "alpha_two_code": "GR",
+        "country": "Greece",
         "domain": "tuc.gr",
         "name": "Technical University of Crete",
         "web_page": "http://www.tuc.gr/"
