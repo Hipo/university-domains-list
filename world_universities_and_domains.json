@@ -19386,14 +19386,14 @@
         "country": "Iran, Islamic Republic of",
         "domain": "tabari.ac.ir",
         "name": "Tabari Institute of Higher Education",
-        "web_page": "http://www.tabari.ac.ir/ "
+        "web_page": "http://www.tabari.ac.ir/"
     },
     {
         "alpha_two_code": "PL",
         "country": "Poland",
         "domain": "zut.edu.pl",
         "name": "Zachodniopomorska School of Science and Engineering",
-        "web_page": " http://www.zut.edu.pl/"
+        "web_page": "http://www.zut.edu.pl/"
     },
     {
         "alpha_two_code": "HR",
@@ -32202,9 +32202,9 @@
     {
         "alpha_two_code": "IQ",
         "country": "Iraq",
-        "domain": "iu.edu.iq",
-        "name": "Ishik University",
-        "web_page": "http://www.iu.edu.iq/"
+        "domain": "ishik.edu.iq",
+        "name": "Ishik University (Kurdistan Region)",
+        "web_page": "http://www.ishik.edu.iq/"
     },
     {
         "alpha_two_code": "IQ",
@@ -60885,7 +60885,7 @@
         "country": "United States",
         "domain": "laney.edu",
         "name": "Laney College",
-        "web_page": "http://www.laney.edu/wp/"
+        "web_page": "http://www.laney.edu/"
     },
     {
         "alpha_two_code": "US",
