@@ -1,6 +1,7 @@
 import json
 import requests
 
+import validate_json
 
 def check_is_alive(url):
     """ check url then if url isn't alive, add to file """
@@ -16,6 +17,7 @@ def check_is_alive(url):
 def main():
     with open('result_test.txt', 'w') as result_test:  # Creating result_test.txt file
         result_test.write('### Result Wrong Links\n')
+    validate_json.check_json_is_valid()
     with open('../world_universities_and_domains.json') as json_raw:
         universities = json.load(json_raw)
         for university in universities[:]:
