@@ -66423,5 +66423,12 @@
         "domain": "wwcc.wy.edu",
         "name": "Western Wyoming Community College",
         "web_page": "http://www.wwcc.wy.edu"
+    },
+    {
+        "alpha_two_code": "GE", 
+        "country": "Georgia", 
+        "domain": "freeuni.edu.ge", 
+        "name": "Free University of Tbilisi", 
+        "web_page": "http://freeuni.edu.ge/"
     }
 ]
