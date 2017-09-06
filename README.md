@@ -1,9 +1,9 @@
 # University Domains and Names Data List & API
 
-Do you need a list of universities and their domain names? You found it! 
+Do you need a list of universities and their domain names? You found it!
 
 This package includes a JSON file that contains domains, names and countries of most of the universities of the world.
- - You can create a validation script that checks the email domain. 
+ - You can create a validation script that checks the email domain.
  - You can automatically generate a user's country and university by looking at their emails.
 
 
@@ -30,8 +30,8 @@ The whole data source is located in the `world_universities_and_domains.json` fi
 	]
 
 
-NOTE: Some universities use a format like `[user]@[department].[domain]`, but this list only contains the `[domain]` portion. 
-For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the 
+NOTE: Some universities use a format like `[user]@[department].[domain]`, but this list only contains the `[domain]` portion.
+For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the
 University of Southern California. Take this into consideration if using this list for email address validation.
 
 ### 2 - Using Hosted API
@@ -54,7 +54,7 @@ You can access the python API via [university-domains-list-api](https://github.c
 
 # Contribution
 Please contribute to this list! We need your support to keep this list up-to-date.
-Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or create an issue. 
+Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or create an issue.
 
 # Contributors
 
@@ -76,5 +76,32 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - Harrison Lo
  - mattdfloyd
  - Ender Ahmet Yurt
+ - Enis Behiç Tuysuz
+ - Daksh Shah
+ - Maizer Gomes
+ - Denys Vitali
+ - Ary Wibowo
+ - Matt Floyd
+ - Joris Boquet
+ - Konstantin Ladutenko
+ - Romain Odeval
+ - remediate
+ - Errorific
+ - summerplaybook
+ - hamedty
+ - Sedat
+ - Sotirios Roussis
+ - majilesh
+ - Itay Grudev
+ - luungoc2005
+ - Ajithkumar Sekar
+ - Christopher Chen
+ - Dimitris Karakostas
+ - Chun Fei Lung
+ - Mamat Rahmat
+ - Wisnu Adi Nurcahyo
+ - jvanstraten
+ - Ekin Dursun
+ - Kevin Bohinski
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
