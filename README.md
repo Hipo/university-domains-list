@@ -12,6 +12,9 @@ You can use this data source in three ways:
  - Use free hosted-API.
  - Use the tiny Python app to serve a fast API that you can query data.
 
+### Update - New structure
+
+After September of 2017, we changed our structure to support multiple domains and web pages. With this update, "domain" and "web_page" fields changed as list with "domains" and "web_pages" fields respectively.
 
 ### 1 - Using the Data Source
 
@@ -59,7 +62,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
 # Contributors
 
  - Yiğit Güler
- - Syed Zakawat
  - Tuna Vargı
  - Patrick Michelberger
  - Rasim Demirbay
@@ -77,6 +79,7 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - mattdfloyd
  - Ender Ahmet Yurt
  - Enis Behiç Tuysuz
+ - Syed Zakawat
  - Daksh Shah
  - Maizer Gomes
  - Denys Vitali
