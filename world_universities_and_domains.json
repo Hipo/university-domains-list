@@ -58320,6 +58320,13 @@
     {
         "alpha_two_code": "GB",
         "country": "United Kingdom",
+        "domain": "ulster.ac.uk",
+        "name": "University of Ulster",
+        "web_page": "https://www.ulster.ac.uk/"
+    },
+    {
+        "alpha_two_code": "GB",
+        "country": "United Kingdom",
         "domain": "umds.ac.uk",
         "name": "United Medical and Dental Schools, University of London",
         "web_page": "http://www.umds.ac.uk/"
