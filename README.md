@@ -25,9 +25,16 @@ The whole data source is located in the `world_universities_and_domains.json` fi
 		{
 		    "alpha_two_code": "TR",
 		    "country": "Turkey",
-		    "domain": "sabanciuniv.edu.tr",
+			"state-province": null,
+		    "domains": [
+				"sabanciuniv.edu",
+				"sabanciuniv.edu.tr"
+			],
 		    "name": "Sabanci University",
-		    "web_page": "http://www.sabanciuniv.edu.tr/"
+		    "web_pages": [
+				"http://www.sabanciuniv.edu/",
+				"http://www.sabanciuniv.edu.tr/"
+			],
 		},
 		...
 	]
