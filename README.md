@@ -25,13 +25,13 @@ The whole data source is located in the `world_universities_and_domains.json` fi
 		{
 			"web_pages": [
 				....
-				"http://www.biit.edu.pk/"
+				"http://www.biit.edu.pk/",
 				....
 			],
 			"name": "Barani Institute of Information Technology",
 			"domains": [
 				....
-				"biit.edu.pk"
+				"biit.edu.pk",
 				....
 			],
 			"country": "Pakistan",
