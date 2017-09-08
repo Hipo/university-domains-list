@@ -21,15 +21,23 @@ After September of 2017, we changed our structure to support multiple domains an
 The whole data source is located in the `world_universities_and_domains.json` file. It is just a list of dictionaries in the following format:
 
 	[
-		...
+		....
 		{
-		    "alpha_two_code": "TR",
-		    "country": "Turkey",
-		    "domain": "sabanciuniv.edu.tr",
-		    "name": "Sabanci University",
-		    "web_page": "http://www.sabanciuniv.edu.tr/"
+			"web_pages": [
+				....
+				"http://www.biit.edu.pk/"
+				....
+			],
+			"name": "Barani Institute of Information Technology",
+			"domains": [
+				....
+				"biit.edu.pk"
+				....
+			],
+			"country": "Pakistan",
+			"alpha_two_code": "PK"
 		},
-		...
+		....
 	]
 
 
