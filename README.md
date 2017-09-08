@@ -14,7 +14,7 @@ You can use this data source in three ways:
 
 ### Update - New structure
 
-After September of 2017, we changed our structure to support multiple domains and web pages. With this update, "domain" and "web_page" fields changed as list with "domains" and "web_pages" fields respectively.
+After September of 2017, we changed our structure to support multiple domains and web pages. With this update, we added a State/Province field, "domain" and "web_page" fields changed as list with "domains" and "web_pages" fields respectively.
 
 ### 1 - Using the Data Source
 
