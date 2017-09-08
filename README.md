@@ -27,13 +27,13 @@ The whole data source is located in the `world_universities_and_domains.json` fi
 		    "country": "Turkey",
 		    "state-province": null,
 		    "domains": [
-			    "sabanciuniv.edu",
-			    "sabanciuniv.edu.tr"
+		        "sabanciuniv.edu",
+		        "sabanciuniv.edu.tr"
 		    ],
 		    "name": "Sabanci University",
 		    "web_pages": [
-			    "http://www.sabanciuniv.edu/",
-			    "http://www.sabanciuniv.edu.tr/"
+		        "http://www.sabanciuniv.edu/",
+		        "http://www.sabanciuniv.edu.tr/"
 		    ],
 		},
 		...
