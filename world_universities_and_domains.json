@@ -41437,13 +41437,13 @@
   },
   {
     "web_pages": [
-      "http://www.fh-neu-ulm.de/"
+      "http://www.hs-neu-ulm.de/"
     ],
-    "name": "Fachhochschule Neu-Ulm",
+    "name": "Hochschule Neu-Ulm, Hochschule Neu-Ulm University of applied sciences",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-neu-ulm.de"
+      "hs-neu-ulm.de"
     ],
     "country": "Germany"
   },
@@ -41761,13 +41761,13 @@
   },
   {
     "web_pages": [
-      "http://www.fh-ulm.de/"
+      "http://www.hs-ulm.de/"
     ],
-    "name": "Fachhochschule Ulm, Hochschule für Technik",
+    "name": "Hochschule Ulm, Hochschule für Angewandte Wissenschaft",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-ulm.de"
+      "hs-ulm.de"
     ],
     "country": "Germany"
   },
