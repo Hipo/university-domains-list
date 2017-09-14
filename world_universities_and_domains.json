@@ -40897,13 +40897,14 @@
   },
   {
     "web_pages": [
-      "http://www.fh-bonn-rhein-sieg.de/"
+      "http://www.hochschule-bonn-rhein-sieg.de/"
     ],
-    "name": "Fachhochschule Bonn-Rhein-Sieg",
+    "name": "Hochschule Bonn-Rhein-Sieg",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-bonn-rhein-sieg.de"
+      "hochschule-bonn-rhein-sieg.de",
+	  "h-brs.de"
     ],
     "country": "Germany"
   },
@@ -40945,13 +40946,13 @@
   },
   {
     "web_pages": [
-      "http://www.fh-duesseldorf.de/"
+      "http://www.hs-duesseldorf.de/"
     ],
-    "name": "Fachhochschule Düsseldorf",
+    "name": "Hochschule Düsseldorf",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-duesseldorf.de"
+      "hs-duesseldorf.de"
     ],
     "country": "Germany"
   },
@@ -90061,6 +90062,18 @@
   },
   {
     "web_pages": [
+      "http://www.salleurl.edu/"
+    ],
+    "name": "La Salle - Universitat Rámon Llull",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "salleurl.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
       "http://www.schillermadrid.edu/"
     ],
     "name": "Schiller International University, Madrid",
@@ -99169,13 +99182,13 @@
   },
   {
     "web_pages": [
-      "http://www.livjm.ac.uk/"
+      "https://www.ljmu.ac.uk/"
     ],
     "name": "Liverpool John Moores University",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "livjm.ac.uk"
+      "https://www.ljmu.ac.uk/"
     ],
     "country": "United Kingdom"
   },
