@@ -99169,13 +99169,13 @@
   },
   {
     "web_pages": [
-      "http://www.livjm.ac.uk/"
+      "https://www.ljmu.ac.uk/"
     ],
     "name": "Liverpool John Moores University",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "livjm.ac.uk"
+      "https://www.ljmu.ac.uk/"
     ],
     "country": "United Kingdom"
   },
