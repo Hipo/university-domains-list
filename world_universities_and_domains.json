@@ -90062,6 +90062,18 @@
   },
   {
     "web_pages": [
+      "http://www.salleurl.edu/"
+    ],
+    "name": "La Salle - Universitat Rámon Llull",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "salleurl.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
       "http://www.schillermadrid.edu/"
     ],
     "name": "Schiller International University, Madrid",
