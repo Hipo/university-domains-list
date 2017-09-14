@@ -40897,13 +40897,14 @@
   },
   {
     "web_pages": [
-      "http://www.fh-bonn-rhein-sieg.de/"
+      "http://www.hochschule-bonn-rhein-sieg.de/"
     ],
-    "name": "Fachhochschule Bonn-Rhein-Sieg",
+    "name": "Hochschule Bonn-Rhein-Sieg",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fh-bonn-rhein-sieg.de"
+      "hochschule-bonn-rhein-sieg.de",
+	  "h-brs.de"
     ],
     "country": "Germany"
   },
