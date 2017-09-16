@@ -96447,13 +96447,15 @@
   },
   {
     "web_pages": [
-      "http://www.sabanciuniv.edu.tr/"
+      "http://www.sabanciuniv.edu.tr/",
+      "http://www.sabanciuniv.edu/"
     ],
     "name": "Sabanci University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "sabanciuniv.edu.tr"
+      "sabanciuniv.edu.tr",
+      "sabanciuniv.edu"
     ],
     "country": "Turkey"
   },
