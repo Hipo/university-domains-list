@@ -82094,13 +82094,14 @@
   },
   {
     "web_pages": [
-      "http://www.iplei.pt/"
+      "https://www.ipleiria.pt/"
     ],
     "name": "Instituto Politécnico de Leiria",
     "alpha_two_code": "PT",
     "state-province": null,
     "domains": [
-      "iplei.pt"
+      "ipleiria.pt",
+      "my.ipleiria.pt"
     ],
     "country": "Portugal"
   },
