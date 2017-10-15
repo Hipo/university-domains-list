@@ -90676,13 +90676,14 @@
   },
   {
     "web_pages": [
-      "http://www.uoc.es/"
+      "http://www.uoc.edu/"
     ],
     "name": "Universitat Oberta de Catalunya",
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "uoc.es"
+      "uoc.es",
+      "uoc.edu"
     ],
     "country": "Spain"
   },
@@ -113967,5 +113968,18 @@
       "freeuni.edu.ge"
     ],
     "country": "Georgia"
+  },
+  {
+    "web_pages": [
+      "https://www.ui1.es/"
+    ],
+    "name": "Universidad Internacional Isabel I",
+    "alpha_two_code": "ES",
+    "state-province": "Castilla la mancha",
+    "domains": [
+      "ui1.es",
+      "alumnos.ui1.es"
+    ],
+    "country": "Spain"
   }
 ]
