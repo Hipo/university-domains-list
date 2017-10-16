@@ -65379,6 +65379,66 @@
   },
   {
     "web_pages": [
+      "http://www.acts.ac.kr/"
+    ],
+    "name": "Asian United Theological University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "acts.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.bu.ac.kr"
+    ],
+    "name": "Baekseok University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "bu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.bnue.ac.kr/"
+    ],
+    "name": "Busan National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "bnue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.bpu.ac.kr/"
+    ],
+    "name": "Busan Presbyterian University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "bpu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.bufs.ac.kr"
+    ],
+    "name": "Busan University of Foreign Studies",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "bufs.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
       "http://www.cataegu.ac.kr/"
     ],
     "name": "Catholic University of Taegu-Hyosung",
@@ -65457,7 +65517,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "chinju-e.ac.kr"
+      "chinju-e.ac.kr",
+      "cue.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65469,7 +65530,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "chodang.ac.kr"
+      "chodang.ac.kr",
+      "cdu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65529,7 +65591,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "chonnam.ac.kr"
+      "chonnam.ac.kr",
+      "jnu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65553,7 +65616,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "chungbuk.ac.kr"
+      "chungbuk.ac.kr",
+      "cbnu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65577,7 +65641,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "chungnam.ac.kr"
+      "chungnam.ac.kr",
+      "cnu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65614,6 +65679,114 @@
     "state-province": null,
     "domains": [
       "cup.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.cha.ac.kr"
+    ],
+    "name": "CHA University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cha.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.cju.ac.kr"
+    ],
+    "name": "CHEONGJU UNIVERSITY",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cju.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.cku.ac.kr"
+    ],
+    "name": "Catholic Kwandong University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cku.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.cs.ac.kr/"
+    ],
+    "name": "Changshin University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cs.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.cje.ac.kr/"
+    ],
+    "name": "Cheongju National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cje.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.chongshin.ac.kr"
+    ],
+    "name": "Chongshin University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "chongshin.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.chugye.ac.kr/"
+    ],
+    "name": "Chugye University for the Arts",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "chugye.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.cnue.ac.kr/"
+    ],
+    "name": "Chuncheon National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "cnue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.chungwoon.ac.kr"
+    ],
+    "name": "Chungwoon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "chungwoon.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65685,7 +65858,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "dongguk.ac.kr"
+      "dongguk.ac.kr",
+      "dongguk.edu"
     ],
     "country": "Korea, Republic of"
   },
@@ -65709,7 +65883,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "dongshinu.ac.kr"
+      "dongshinu.ac.kr",
+      "dsu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65739,6 +65914,162 @@
   },
   {
     "web_pages": [
+      "http://www.tau.ac.kr/"
+    ],
+    "name": "Daegu Arts University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "tau.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dgist.ac.kr/"
+    ],
+    "name": "Daegu Gyeongbuk Institute of Science and Technology",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dgist.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dhu.ac.kr"
+    ],
+    "name": "Daegu Haany University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dhu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dnue.ac.kr/"
+    ],
+    "name": "Daegu National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dnue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.daegu.ac.kr/"
+    ],
+    "name": "Daegu University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "daegu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dufs.ac.kr/"
+    ],
+    "name": "Daegu University of Foreign Studies",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dufs.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dcatholic.ac.kr/"
+    ],
+    "name": "Daejeon Catholic University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dcatholic.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.daejeon.ac.kr/"
+    ],
+    "name": "Daejeon Theological University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "daejeon.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dju.ac.kr/"
+    ],
+    "name": "Daejeon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dju.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.daejin.ac.kr"
+    ],
+    "name": "Daejin University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "daejin.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.daeshin.ac.kr/"
+    ],
+    "name": "Daeshin University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "daeshin.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.deu.ac.kr"
+    ],
+    "name": "Dong-Eui University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "deu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.dyu.ac.kr/"
+    ],
+    "name": "Dongyang University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "dyu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
       "http://www.ewha.ac.kr/"
     ],
     "name": "Ewha Women's University",
@@ -65751,13 +66082,170 @@
   },
   {
     "web_pages": [
+      "http://www.eulji.ac.kr/"
+    ],
+    "name": "Eulji University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "eulji.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kdu.ac.kr/"
+    ],
+    "name": "Far East University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kdu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gachon.ac.kr/"
+    ],
+    "name": "Gachon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gachon.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gwnu.ac.kr/"
+    ],
+    "name": "Gangneung-Wonju National University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gwnu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.ggu.ac.kr"
+    ],
+    "name": "Geumgang University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "ggu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gimcheon.ac.kr/"
+    ],
+    "name": "Gimcheon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gimcheon.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gjue.ac.kr"
+    ],
+    "name": "Gongju National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gjue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gjcatholic.ac.kr/"
+    ],
+    "name": "Gwangju Catholic University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gjcatholic.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gist.ac.kr/"
+    ],
+    "name": "Gwangju Institute of Science and Technology",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gist.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gnue.ac.kr/"
+    ],
+    "name": "Gwangju National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gnue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gwangju.ac.kr/"
+    ],
+    "name": "Gwangju University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gwangju.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.ginue.ac.kr/"
+    ],
+    "name": "Gyeongin National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "ginue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.gntech.ac.kr"
+    ],
+    "name": "Gyeongnam National University of Science and Technology",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "gntech.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
       "http://www.gsnu.ac.kr/"
     ],
     "name": "Gyeongsang National University",
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "gsnu.ac.kr"
+      "gsnu.ac.kr",
+      "gnu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65829,7 +66317,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "hanshin.ac.kr"
+      "hanshin.ac.kr",
+      "hs.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -65937,7 +66426,116 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "hyupsung.ac.kr"
+      "hyupsung.ac.kr",
+      "uhs.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.halla.ac.kr/"
+    ],
+    "name": "Halla University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "halla.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.hanbat.ac.kr/"
+    ],
+    "name": "Hanbat National University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "hanbat.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.handong.edu"
+    ],
+    "name": "Handong Global University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "handong.edu"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.hanil.ac.kr/"
+    ],
+    "name": "Hanil University and Presbyterian Theological Seminary",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "hanil.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.hanlyo.ac.kr/"
+    ],
+    "name": "Hanlyo University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "hanlyo.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.hanzhong.ac.kr/"
+    ],
+    "name": "Hanzhong University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "hanzhong.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.htus.ac.kr/"
+    ],
+    "name": "Honam Theological University and Seminary",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "htus.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.iccu.ac.kr/"
+    ],
+    "name": "Incheon Catholic University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "iccu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.iuk.ac.kr/"
+    ],
+    "name": "International University of Korea",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "iuk.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66009,7 +66607,92 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "jeonju.ac.kr"
+      "jeonju.ac.kr",
+      "jj.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.jeju.ac.kr/"
+    ],
+    "name": "Jeju International University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "jeju.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.jejunu.ac.kr"
+    ],
+    "name": "Jeju National University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "jejunu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.jnue.ac.kr/"
+    ],
+    "name": "Jeonju National University of Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "jnue.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.jesus.ac.kr/"
+    ],
+    "name": "Jesus University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "jesus.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.sangha.ac.kr/"
+    ],
+    "name": "Joong-Ang Sangha University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "sangha.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.joongbu.ac.kr"
+    ],
+    "name": "Joongbu University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "joongbu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.jwu.ac.kr"
+    ],
+    "name": "Jungwon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "jwu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66021,7 +66704,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "kaist.ac.kr"
+      "kaist.ac.kr",
+      "kaist.edu"
     ],
     "country": "Korea, Republic of"
   },
@@ -66093,7 +66777,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "keimyung.ac.kr"
+      "keimyung.ac.kr",
+      "kmu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66129,7 +66814,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "knua.ac.kr"
+      "knua.ac.kr",
+      "karts.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66297,7 +66983,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "kwangwoon.ac.kr"
+      "kwangwoon.ac.kr",
+      "kw.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66321,7 +67008,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "kyongju.ac.kr"
+      "kyongju.ac.kr",
+      "kongju.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66345,7 +67033,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "kyungil.ac.kr"
+      "kyungil.ac.kr",
+      "kiu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66381,7 +67070,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "kyungsung.ac.kr"
+      "kyungsung.ac.kr",
+      "ks.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66394,6 +67084,234 @@
     "state-province": null,
     "domains": [
       "kyungwon.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kcu.ac.kr/"
+    ],
+    "name": "KC University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kcu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kkot.ac.kr/"
+    ],
+    "name": "Kkottongnae University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kkot.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kau.ac.kr"
+    ],
+    "name": "Korea Aerospace University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kau.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kafna.ac.kr"
+    ],
+    "name": "Korea Armed Forces Nursing Academy",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kafna.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kbtus.ac.kr/"
+    ],
+    "name": "Korea Baptist Theological University and Seminary",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kbtus.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kmou.ac.kr"
+    ],
+    "name": "Korea Maritime and Ocean University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kmou.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kma.ac.kr/"
+    ],
+    "name": "Korea Military Academy",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kma.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.knsu.ac.kr"
+    ],
+    "name": "Korea National Sport University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "knsu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.nuch.ac.kr"
+    ],
+    "name": "Korea National University of Cultural Heritage",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "nuch.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kornu.ac.kr/"
+    ],
+    "name": "Korea Nazarene University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kornu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kpu.ac.kr/"
+    ],
+    "name": "Korea Polytechnic University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kpu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.koreatech.ac.kr"
+    ],
+    "name": "Korea University of Technology and Education",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "koreatech.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.bible.ac.kr/"
+    ],
+    "name": "Korean Bible University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "bible.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.police.ac.kr/"
+    ],
+    "name": "Korean National Police University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "police.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kwu.ac.kr/"
+    ],
+    "name": "Kwangju Women's University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kwu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kwangshin.ac.kr/"
+    ],
+    "name": "Kwangshin University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kwangshin.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.khu.ac.kr"
+    ],
+    "name": "Kyung Hee University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "khu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.kduniv.ac.kr/"
+    ],
+    "name": "Kyungdong University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "kduniv.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.ikw.ac.kr/"
+    ],
+    "name": "Kyungwoon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "ikw.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66453,7 +67371,92 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "myongji.ac.kr"
+      "myongji.ac.kr",
+      "mju.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.mtu.ac.kr/"
+    ],
+    "name": "Methodist Theological University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "mtu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "https://www.mcu.ac.kr/"
+    ],
+    "name": "Mokpo Catholic University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "mcu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.nambu.ac.kr/"
+    ],
+    "name": "Nambu University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "nambu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.nsu.ac.kr/"
+    ],
+    "name": "Namseoul University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "nsu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.pcu.ac.kr"
+    ],
+    "name": "Pai Chai University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "pcu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.puts.ac.kr/"
+    ],
+    "name": "Presbyterian University and Theological Seminary",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "puts.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.ptu.ac.kr/"
+    ],
+    "name": "Pyeongtaek University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "ptu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66550,6 +67553,30 @@
     "state-province": null,
     "domains": [
       "pwc.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.afa.ac.kr/"
+    ],
+    "name": "Republic of Korea Air Force Academy",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "afa.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.navy.ac.kr/"
+    ],
+    "name": "Republic of Korea Naval Academy",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "navy.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66657,7 +67684,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "seoul-e.ac.kr"
+      "seoul-e.ac.kr",
+      "snue.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66765,7 +67793,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "soongsil.ac.kr"
+      "soongsil.ac.kr",
+      "ssu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66789,7 +67818,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "sunchon.ac.kr"
+      "sunchon.ac.kr",
+      "scnu.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -66874,6 +67904,138 @@
     "state-province": null,
     "domains": [
       "syu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.smu.ac.kr"
+    ],
+    "name": "Sangmyung University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "smu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.sehan.ac.kr/"
+    ],
+    "name": "Sehan University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "sehan.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.scu.ac.kr/"
+    ],
+    "name": "Seoul Christian University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "scu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.hytu.ac.kr/"
+    ],
+    "name": "Seoul Hanyoung University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "hytu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.sjs.ac.kr"
+    ],
+    "name": "Seoul Jangsin University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "sjs.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.seoultech.ac.kr"
+    ],
+    "name": "Seoul National University of Science and Technology",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "seoultech.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.sgu.ac.kr/"
+    ],
+    "name": "Shingyeong University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "sgu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.shinhan.ac.kr/"
+    ],
+    "name": "Shinhan University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "shinhan.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.songwon.ac.kr/"
+    ],
+    "name": "Songwon University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "songwon.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.skhu.ac.kr"
+    ],
+    "name": "Sungkonghoe University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "skhu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.skku.edu/"
+    ],
+    "name": "Sungkyunkwan University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "skku.edu"
     ],
     "country": "Korea, Republic of"
   },
@@ -66987,6 +68149,54 @@
   },
   {
     "web_pages": [
+      "http://www.u1.ac.kr/"
+    ],
+    "name": "U1 University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "u1.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.uu.ac.kr/"
+    ],
+    "name": "Uiduk University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "uu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.unist.ac.kr"
+    ],
+    "name": "Ulsan National Institute of Science and Technology",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "unist.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.wsu.ac.kr/"
+    ],
+    "name": "Woosong University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "wsu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
       "http://www.wonkwang.ac.kr/"
     ],
     "name": "Wonkwang University",
@@ -67042,6 +68252,54 @@
     "state-province": null,
     "domains": [
       "yosu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.yewon.ac.kr/"
+    ],
+    "name": "Yewon Arts University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "www.yewon.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.yongin.ac.kr/"
+    ],
+    "name": "Yong In University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "www.yongin.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.ysu.ac.kr/"
+    ],
+    "name": "Youngsan University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "www.ysu.ac.kr"
+    ],
+    "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "http://www.youngsan.ac.kr"
+    ],
+    "name": "Youngsan University of Son Studies",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": [
+      "www.youngsan.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
