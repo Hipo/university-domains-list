@@ -66959,7 +66959,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "kwangju.ac.kr"
+      "kwangju.ac.kr",
+      "gwangju.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -68203,7 +68204,8 @@
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "wonkwang.ac.kr"
+      "wonkwang.ac.kr",
+      "wku.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
