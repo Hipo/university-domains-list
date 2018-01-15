@@ -40646,13 +40646,13 @@
   },
   {
     "web_pages": [
-      "http://www.efh-darmstadt.de/"
+      "https://www.eh-darmstadt.de/"
     ],
     "name": "Evangelische Fachhochschule Darmstadt",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "efh-darmstadt.de"
+      "eh-darmstadt.de"
     ],
     "country": "Germany"
   },
@@ -42135,13 +42135,13 @@
   },
   {
     "web_pages": [
-      "http://www.hs-darmstadt.de/"
+      "https://www.h-da.de/"
     ],
     "name": "Hochschule Darmstadt",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "hs-darmstadt.de"
+      "h-da.de"
     ],
     "country": "Germany"
   },
@@ -43011,7 +43011,7 @@
   },
   {
     "web_pages": [
-      "http://www.tu-darmstadt.de/"
+      "https://www.tu-darmstadt.de/"
     ],
     "name": "Technische Universität Darmstadt",
     "alpha_two_code": "DE",
