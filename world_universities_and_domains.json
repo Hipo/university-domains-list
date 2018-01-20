@@ -97313,13 +97313,15 @@
   },
   {
     "web_pages": [
-      "http://www.hun.edu.tr/"
+      "http://www.hun.edu.tr/",
+      "http://www.hacettepe.edu.tr/"
     ],
     "name": "Hacettepe University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "hun.edu.tr"
+      "hun.edu.tr",
+      "hacettepe.edu.tr"
     ],
     "country": "Turkey"
   },
