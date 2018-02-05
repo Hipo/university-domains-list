@@ -48316,6 +48316,18 @@
   },
   {
     "web_pages": [
+      "http://www.indusuni.ac.in/"
+    ],
+    "name": "Indus University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "indusuni.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "http://www.integraluniversity.ac.in/"
     ],
     "name": "Integral University",
