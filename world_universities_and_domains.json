@@ -14075,13 +14075,13 @@
   },
   {
     "web_pages": [
-      "http://www.wwc.edu/"
+      "http://www.wallawalla.edu/"
     ],
-    "name": "Walla Walla College",
+    "name": "Walla Walla University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Washington",
     "domains": [
-      "wwc.edu"
+      "wallawalla.edu"
     ],
     "country": "United States"
   },
