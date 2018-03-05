@@ -1,6 +1,20 @@
 [
   {
     "web_pages": [
+      "https://www.cstj.qc.ca",
+      "https://ccmt.cstj.qc.ca",
+      "https://ccml.cstj.qc.ca"
+    ],
+    "name": "Cégep de Saint-Jérôme",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "cstj.qc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
       "http://www.lindenwood.edu/"
     ],
     "name": "Lindenwood University",
