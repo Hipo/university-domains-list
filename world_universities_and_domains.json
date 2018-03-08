@@ -13,6 +13,18 @@
   },
   {
     "web_pages": [
+      "http://www.davietjal.org/"
+    ],
+    "name": "DAV Institute of Engineering & Technology",
+    "alpha_two_code": "IN",
+    "state-province": "Punjab",
+    "domains": [
+      "davietjal.org"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "https://sullivan.edu/"
     ],
     "name": "Sullivan University",
