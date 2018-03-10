@@ -44256,7 +44256,8 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "uni-muenster.de"
+      "uni-muenster.de",
+      "wwu.de"
     ],
     "country": "Germany"
   },
