@@ -44250,13 +44250,15 @@
   },
   {
     "web_pages": [
-      "http://www.uni-muenster.de/"
+      "http://www.uni-muenster.de/",
+      "http://www.wwu.de/"
     ],
     "name": "Westfälische Wilhelms-Universität Münster",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "uni-muenster.de"
+      "uni-muenster.de",
+      "wwu.de"
     ],
     "country": "Germany"
   },
