@@ -101213,12 +101213,14 @@
   },
   {
     "web_pages": [
-      "http://www.man.ac.uk/"
+      "http://www.manchester.ac.uk/"
     ],
     "name": "University of Manchester",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
+      "manchester.ac.uk",
+      "mbs.ac.uk",
       "man.ac.uk"
     ],
     "country": "United Kingdom"
