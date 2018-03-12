@@ -75358,6 +75358,18 @@
   },
   {
     "web_pages": [
+      "https://www.rsm.nl/"
+    ],
+    "name": "Rotterdam School of Management",
+    "alpha_two_code": "NL",
+    "state-province": null,
+    "domains": [
+      "rsm.nl"
+    ],
+    "country": "Netherlands"
+  },
+  {
+    "web_pages": [
       "http://www.europeanopenuniversity.com/"
     ],
     "name": "European Open University",
