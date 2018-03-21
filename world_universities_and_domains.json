@@ -4342,6 +4342,18 @@
   },
   {
     "web_pages": [
+      "http://www.ddu.ac.in/"
+    ],
+    "name": "Dharamsinh Desai University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "ddu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "http://www.dickinson.edu/"
     ],
     "name": "Dickinson College",
