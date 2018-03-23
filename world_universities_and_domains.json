@@ -49820,6 +49820,18 @@
   },
   {
     "web_pages": [
+      "http://www.pdpu.ac.in/"
+    ],
+    "name": "Pandit Deendayal Petroleum University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "pdpu.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "http://www.pau.edu/"
     ],
     "name": "Punjab Agricultural University",
@@ -49839,6 +49851,18 @@
     "state-province": null,
     "domains": [
       "pdkv.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "http://www.paruluniversity.ac.in/"
+    ],
+    "name": "Parul University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "paruluniversity.ac.in"
     ],
     "country": "India"
   },
@@ -66185,6 +66209,18 @@
       "changwon.ac.kr"
     ],
     "country": "Korea, Republic of"
+  },
+  {
+    "web_pages": [
+      "https://www.charusat.ac.in/"
+    ],
+    "name": "Charotar University of Science and Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "charusat.ac.in"
+    ],
+    "country": "India"
   },
   {
     "web_pages": [
@@ -96972,6 +97008,18 @@
       "nida.ac.th"
     ],
     "country": "Thailand"
+  },
+  {
+    "web_pages": [
+      "http://www.nuv.ac.in/"
+    ],
+    "name": "Navrachana University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "nuv.ac.in"
+    ],
+    "country": "India"
   },
   {
     "web_pages": [
