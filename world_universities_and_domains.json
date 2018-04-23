@@ -116023,5 +116023,17 @@
       "alumnos.ui1.es"
     ],
     "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-mannheim.de/"
+    ],
+    "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-mannheim.de"
+    ],
+    "country": "Germany"
   }
 ]
