@@ -15721,6 +15721,18 @@
   },
   {
     "web_pages": [
+      "http://www.epitech.al/"
+    ],
+    "name": "Ecole pour l'Informatique et les nouvelles Technologies - Albania",
+    "alpha_two_code": "AL",
+    "state-province": null,
+    "domains": [
+      "epitech.al"
+    ],
+    "country": "Albania"
+  },
+  {
+    "web_pages": [
       "http://www.lagh-univ.dz/"
     ],
     "name": "Université Amar Telidji",
@@ -40907,6 +40919,79 @@
     "state-province": null,
     "domains": [
       "www-urs.u-strasbg.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.epitech.eu/"
+    ],
+    "name": "Ecole pour l'Informatique et les nouvelles Technologies",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "epitech.eu",
+      "epitech.net"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.epita.fr/"
+    ],
+    "name": "Ecole Pour l'Informatique et les Techniques Avancees",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "epita.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.ipsa.fr/"
+    ],
+    "name": "Institut polytechnique des sciences avancees",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ipsa.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.etna.io/"
+    ],
+    "name": "Ecole des technologies numeriques appliquees",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "etna.io"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.esme.fr/"
+    ],
+    "name": "ESME Sudria",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "esme.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "http://www.supbiotech.fr/"
+    ],
+    "name": "Institut Sup'Biotech de Paris",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "supbiotech.fr"
     ],
     "country": "France"
   },
