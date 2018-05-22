@@ -41688,7 +41688,7 @@
     "state-province": null,
     "domains": [
       "hochschule-bonn-rhein-sieg.de",
-	  "h-brs.de"
+      "h-brs.de"
     ],
     "country": "Germany"
   },
@@ -44191,13 +44191,13 @@
   },
   {
     "web_pages": [
-      "http://www.uni-karlsruhe.de/"
+      "http://www.kit.edu/"
     ],
-    "name": "Universität Fridericana Karlsruhe (Technische Hochschule)",
+    "name": "Karlsruher Institut für Technologie",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "uni-karlsruhe.de"
+      "kit.edu"
     ],
     "country": "Germany"
   },
