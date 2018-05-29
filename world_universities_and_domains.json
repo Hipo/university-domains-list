@@ -98318,7 +98318,9 @@
     "domains": [
       "khas.edu.tr"
     ],
-    "country": "Turkey"
+    "country": "Turkey",
+    "latitude": 41.025451,
+    "longitude": 28.958932
   },
   {
     "web_pages": [
