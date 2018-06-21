@@ -41706,6 +41706,18 @@
   },
   {
     "web_pages": [
+      "http://www.th-brandenburg.de/"
+    ],
+    "name": "Technische Hochschule Brandenburg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "th-brandenburg.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
       "http://www.th-deg.de/"
     ],
     "name": "Technische Hochschule Deggendorf",
