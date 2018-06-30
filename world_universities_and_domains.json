@@ -89665,6 +89665,20 @@
   },
   {
     "web_pages": [
+      "https://synergy.ru/",
+      "http://synergy.university/"
+    ],
+    "name": "Moscow University for Industry and Finance “Synergy”",
+    "alpha_two_code": "RU",
+    "state-province": null,
+    "domains": [
+      "synergy.ru",
+      "synergy.university"
+    ],
+    "country": "Russian Federation"
+  },
+  {
+    "web_pages": [
       "http://www.auca.ac.rw/"
     ],
     "name": "Adventist University of Central Africa",
