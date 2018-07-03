@@ -93328,6 +93328,18 @@
   },
   {
     "web_pages": [
+      "http://www.nsbm.lk/"
+    ],
+    "name": "National School of Business Management",
+    "alpha_two_code": "LK",
+    "state-province": null,
+    "domains": [
+      "nsbm.lk"
+    ],
+    "country": "Sri Lanka"
+  },
+  {
+    "web_pages": [
       "http://www.aau.edu.sd/"
     ],
     "name": "Al-Zaiem Al-Azhari University",
