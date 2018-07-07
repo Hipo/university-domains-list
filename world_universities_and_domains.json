@@ -18469,13 +18469,13 @@
   },
   {
     "web_pages": [
-      "http://www.uni-linz.ac.at/"
+      "https://www.jku.at/"
     ],
-    "name": "Universität Linz",
+    "name": "Johannes Kepler Universität Linz",
     "alpha_two_code": "AT",
     "state-province": null,
     "domains": [
-      "uni-linz.ac.at"
+      "jku.at"
     ],
     "country": "Austria"
   },
