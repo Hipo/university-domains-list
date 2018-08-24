@@ -6552,6 +6552,19 @@
   },
   {
     "web_pages": [
+      "https://www.lambtoncollege.ca"
+    ],
+    "name": "Lambton College",
+    "alpha_two_code": "CA",
+    "state-province": "Sarnia",
+    "domains": [
+      "lambtoncollege.ca",
+      "mylambton.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
       "http://www.langston.edu/"
     ],
     "name": "Langston University",
