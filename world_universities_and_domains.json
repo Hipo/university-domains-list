@@ -116171,5 +116171,18 @@
       "dhbw-mannheim.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-hannover.de/"
+    ],
+    "name": "Hochschule Hannover",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "hs-hannover.de",
+      "stud.hs-hannover.de"
+    ],
+    "country": "Germany"
   }
 ]
