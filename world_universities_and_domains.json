@@ -6552,6 +6552,19 @@
   },
   {
     "web_pages": [
+      "https://www.lambtoncollege.ca"
+    ],
+    "name": "Lambton College",
+    "alpha_two_code": "CA",
+    "state-province": "Sarnia",
+    "domains": [
+      "lambtoncollege.ca",
+      "mylambton.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
       "http://www.langston.edu/"
     ],
     "name": "Langston University",
@@ -116156,6 +116169,19 @@
     "state-province": "null",
     "domains": [
       "dhbw-mannheim.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hs-hannover.de/"
+    ],
+    "name": "Hochschule Hannover",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "hs-hannover.de",
+      "stud.hs-hannover.de"
     ],
     "country": "Germany"
   }
