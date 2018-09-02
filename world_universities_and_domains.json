@@ -12528,7 +12528,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "uml.edu"
+      "uml.edu",
+      "student.uml.edu"
     ],
     "country": "United States"
   },
