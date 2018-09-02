@@ -116197,5 +116197,17 @@
       "trinitybiblecollege.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.umflint.edu"
+    ],
+    "name": "University of Michigan-Flint",
+    "alpha_two_code": "US",
+    "state-province": "MI",
+    "domains": [
+      "umflint.edu"
+    ],
+    "country": "United States"
   }
 ]
