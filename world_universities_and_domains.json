@@ -116209,5 +116209,18 @@
       "umflint.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.torrens.edu.au"
+    ],
+    "name": "Torrens University Australia",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "torrens.edu.au",
+      "tua.edu.au"
+    ],
+    "country": "Australia"
   }
 ]
