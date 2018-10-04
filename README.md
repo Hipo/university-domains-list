@@ -113,5 +113,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - jvanstraten
  - Ekin Dursun
  - Kevin Bohinski
+ - Lachlan Marnham
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
