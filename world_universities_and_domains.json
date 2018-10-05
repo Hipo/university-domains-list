@@ -116235,5 +116235,17 @@
       "tua.edu.au"
     ],
     "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.mmibordeaux.com/"
+    ],
+    "name": "DUT MMI - Université Bordeaux Montaigne",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "mmibordeaux.com"
+    ],
+    "country": "France"
   }
 ]
