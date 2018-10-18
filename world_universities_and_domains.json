@@ -116260,5 +116260,17 @@
       "btu.edu.ge"
     ],
     "country": "Georgia"
+  },
+  {
+    "web_pages": [
+        "http://cic-cairo.com/"
+    ],
+    "name": "CIC - Canadian International College",
+    "alpha_two_code": "EG",
+    "state-province": null,
+    "domains": [
+        "cic-cairo.com"
+    ],
+    "country": "Egypt"
   }
 ]
