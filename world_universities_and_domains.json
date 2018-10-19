@@ -116272,5 +116272,65 @@
         "cic-cairo.com"
     ],
     "country": "Egypt"
+  },
+  {
+    "web_pages": [
+      "http://www.kpc.alaska.edu"
+    ],
+    "name": "Kenai Peninsula College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "kpc.alaska.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://matsu.alaska.edu"
+    ],
+    "name": "Mat-Su College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "matsu.alaska.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://koc.alaska.edu"
+    ],
+    "name": "Kodiak College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "koc.alaska.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.alaskapacific.edu"
+    ],
+    "name": "Alaska Pacific University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "alaskapacific.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.wbu.edu"
+    ],
+    "name": "Wayland Baptist University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "wbu.edu"
+    ],
+    "country": "United States"
   }
 ]
