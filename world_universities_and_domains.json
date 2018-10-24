@@ -116332,5 +116332,17 @@
       "wbu.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://hust.edu.vn"
+    ],
+    "name": "Hanoi University of Science and Technology",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "hust.edu.vn"
+    ],
+    "country": "Vietnam"
   }
 ]
