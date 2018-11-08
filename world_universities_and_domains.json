@@ -56747,6 +56747,18 @@
   },
   {
     "web_pages": [
+      "http://www.jct.ac.il/"
+    ],
+    "name": "JCT Lev Academic Center",
+    "alpha_two_code": "IL",
+    "state-province": null,
+    "domains": [
+      "jct.ac.il"
+    ],
+    "country": "Israel"
+  },
+  {
+    "web_pages": [
       "http://www.ariel.ac.il/"
     ],
     "name": "Ariel University Center of Samaria",
