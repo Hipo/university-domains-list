@@ -84388,13 +84388,14 @@
   },
   {
     "web_pages": [
-      "http://www.iscte.pt/"
+      "http://www.iscte-iul.pt/"
     ],
-    "name": "Instituto Superior de Ciências do Trabalho e da Empresa",
+    "name": "ISCTE - Instituto Universitário de Lisboa",
     "alpha_two_code": "PT",
     "state-province": null,
     "domains": [
-      "iscte.pt"
+      "iscte.pt", 
+      "iscte-iul.pt"
     ],
     "country": "Portugal"
   },
