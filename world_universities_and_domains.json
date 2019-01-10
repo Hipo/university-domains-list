@@ -116371,5 +116371,19 @@
       "boxhill.edu.au"
     ],
     "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "http://www.cust.edu.cn",
+      "http://ieec.cust.edu.cn/"
+    ],
+    "name": "Changchun University of Science and Technology",
+    "alpha_two_code": "CU",
+    "state-province": "JiLin",
+    "domains": [
+      "cust.edu.cn",
+      "ieec.cust.edu.cn/"
+    ],
+    "country": "China"
   }
 ]
