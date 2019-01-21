@@ -7,12 +7,12 @@ class DomainsTests(unittest.TestCase):
         with open("../world_universities_and_domains.json") as json_file:
             valid_json = json.load(json_file)
         for university in valid_json:
-            university["name"]
-            university["domains"]
-            university["web_pages"]
-            university["alpha_two_code"]
-            university["state-province"]
-            university["country"]
+            self.assertIn("name", university)
+            self.assertIn("domains", university)
+            self.assertIn("web_pages", university)
+            self.assertIn("alpha_two_code", university)
+            self.assertIn("state-province", university)
+            self.assertIn("country", university)
 
     def check_is_alive():
         """ check url then if url isn't alive, add to file """
