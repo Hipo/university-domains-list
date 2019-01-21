@@ -78138,7 +78138,7 @@
     ],
     "name": "Abasyn University Peshawar",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "abasyn.edu.pk"
     ],
@@ -78174,7 +78174,7 @@
     ],
     "name": "Aga Khan University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "aku.edu"
     ],
@@ -78184,9 +78184,9 @@
     "web_pages": [
       "http://www.aldirasat.edu.pk/"
     ],
-    "name": "University of Islamic Studies",
+    "name": "Jamia Al Dirasat Ul Islami Karachi",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "aldirasat.edu.pk"
     ],
@@ -78206,37 +78206,13 @@
   },
   {
     "web_pages": [
-      "http://www.alphaomega.edu.pk/"
-    ],
-    "name": "Alpha Omega University",
-    "alpha_two_code": "PK",
-    "state-province": null,
-    "domains": [
-      "alphaomega.edu.pk"
-    ],
-    "country": "Pakistan"
-  },
-  {
-    "web_pages": [
       "http://www.ami.edu.pk/"
     ],
-    "name": "Asian Management Institute",
+    "name": "Ahmed Medical Institute",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "ami.edu.pk"
-    ],
-    "country": "Pakistan"
-  },
-  {
-    "web_pages": [
-      "http://www.apiit.edu.pk/"
-    ],
-    "name": "Asia Pacific Institute of Information Technology Pakistan (APIIT PAK)",
-    "alpha_two_code": "PK",
-    "state-province": null,
-    "domains": [
-      "apiit.edu.pk"
     ],
     "country": "Pakistan"
   },
@@ -78246,7 +78222,7 @@
     ],
     "name": "Air University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "au.edu.pk"
     ],
@@ -78254,23 +78230,11 @@
   },
   {
     "web_pages": [
-      "http://www.auh.edu.pk/"
-    ],
-    "name": "American University of Hawaii, Punjab Campus",
-    "alpha_two_code": "PK",
-    "state-province": null,
-    "domains": [
-      "auh.edu.pk"
-    ],
-    "country": "Pakistan"
-  },
-  {
-    "web_pages": [
       "http://www.aup.edu.pk/"
     ],
-    "name": "North West Frontier Province Agricultural University",
+    "name": "The University of Agriculture, Peshawar",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "aup.edu.pk"
     ],
@@ -78282,7 +78246,7 @@
     ],
     "name": "Bahria University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "bahria.edu.pk"
     ],
@@ -78314,25 +78278,13 @@
   },
   {
     "web_pages": [
-      "http://baqai.freeyellow.com/"
+      "https://baqai.edu.pk/"
     ],
     "name": "Baqai Medical University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
-      "baqai.freeyellow.com"
-    ],
-    "country": "Pakistan"
-  },
-  {
-    "web_pages": [
-      "http://www.biztek.edu.pk/"
-    ],
-    "name": "Institute of Business & Technology",
-    "alpha_two_code": "PK",
-    "state-province": null,
-    "domains": [
-      "biztek.edu.pk"
+      "baqai.edu.pk/"
     ],
     "country": "Pakistan"
   },
@@ -78342,7 +78294,7 @@
     ],
     "name": "Balochistan University of Engineering and Technology Khuzdar",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Balochistan",
     "domains": [
       "buetk.edu.pk"
     ],
@@ -78354,7 +78306,7 @@
     ],
     "name": "Balochistan University of Information Technology & Management Sciences",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Balochistan",
     "domains": [
       "buitms.edu.pk"
     ],
@@ -78366,7 +78318,7 @@
     ],
     "name": "Bahauddin Zakariya University, Multan",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "bzu.edu.pk"
     ],
@@ -78374,13 +78326,13 @@
   },
   {
     "web_pages": [
-      "http://www.cbm.edu.pk/"
+      "https://cbm.iobm.edu.pk/"
     ],
-    "name": "College of Business Management ( CBM )",
+    "name": "College of Business Management (CBM)",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
-      "cbm.edu.pk"
+      "cbm.iobm.edu.pk"
     ],
     "country": "Pakistan"
   },
@@ -78390,7 +78342,7 @@
     ],
     "name": "Cecos Univeristy of Information Technology",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "cecos.edu.pk"
     ],
@@ -78402,7 +78354,7 @@
     ],
     "name": "COMSATS Institute of Information Technology, Abbottabad",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "ciit-atd.edu.pk"
     ],
@@ -78414,7 +78366,7 @@
     ],
     "name": "COMSATS Institute of Information Technology, Attock",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "ciit-attock.edu.pk"
     ],
@@ -78438,7 +78390,7 @@
     ],
     "name": "COMSATS Institute of Information Technology, Lahore",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "ciitlahore.edu.pk"
     ],
@@ -78474,7 +78426,7 @@
     ],
     "name": "Dadabhoy Institute of Higher Education",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "dadabhoy.edu.pk"
     ],
@@ -78486,7 +78438,7 @@
     ],
     "name": "Dawood College of Engineering and Technology",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "dcet.edu.pk"
     ],
@@ -78498,7 +78450,7 @@
     ],
     "name": "Dow University of Health Sciences",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "duhs.edu.pk"
     ],
@@ -78931,7 +78883,7 @@
     ],
     "name": "Karachi School of Art",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "ksa.edu.pk"
     ],
@@ -78943,7 +78895,7 @@
     ],
     "name": "Kohat University of Science and Technology  (KUST)",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "kust.edu.pk"
     ],
@@ -78955,7 +78907,7 @@
     ],
     "name": "Lahore College for Women University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "lcwu.edu.pk"
     ],
@@ -78979,7 +78931,7 @@
     ],
     "name": "Lahore University of Management Sciences",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "lums.edu.pk"
     ],
@@ -79027,7 +78979,7 @@
     ],
     "name": "Minhaj University Lahore",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "mul.edu.pk"
     ],
@@ -79051,7 +79003,7 @@
     ],
     "name": "NED University of Engineering and Technology Karachi",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "neduet.edu.pk"
     ],
@@ -79123,7 +79075,7 @@
     ],
     "name": "University of Engineering and Technology Peshawar",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "nwfpuet.edu.pk"
     ],
@@ -79135,7 +79087,7 @@
     ],
     "name": "Karachi Institute Of Economics And Technology",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "pafkiet.edu.pk"
     ],
@@ -79159,7 +79111,7 @@
     ],
     "name": "Institute of Management Sciences, Lahore (IMS)",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "pakaims.edu.pk"
     ],
@@ -79207,7 +79159,7 @@
     ],
     "name": "Punjab Institute of Computer science",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "pics.edu.pk"
     ],
@@ -79231,7 +79183,7 @@
     ],
     "name": "Preston Institute of Management Sciences and Technology (PIMSAT)",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "pimsat-khi.edu.pk"
     ],
@@ -79267,7 +79219,7 @@
     ],
     "name": "Punjab University College of Information Tecnology",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "pucit.edu.pk"
     ],
@@ -79279,7 +79231,7 @@
     ],
     "name": "University of the Punjab",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "pu.edu.pk"
     ],
@@ -79291,7 +79243,7 @@
     ],
     "name": "University of the Punjab, Gujranwala Campus",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "pugc.edu.pk"
     ],
@@ -79351,7 +79303,7 @@
     ],
     "name": "Sindh Agricultural University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "sau.edu.pk"
     ],
@@ -79363,7 +79315,7 @@
     ],
     "name": "Sir Syed Institute Of Technology Islamabad",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "ssms.edu.pk"
     ],
@@ -79447,7 +79399,7 @@
     ],
     "name": "Arid Agriculture University",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "uaar.edu.pk"
     ],
@@ -79567,7 +79519,7 @@
     ],
     "name": "University of Gujrat",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "uog.edu.pk"
     ],
@@ -79579,7 +79531,7 @@
     ],
     "name": "University of Karachi",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "uok.edu.pk"
     ],
@@ -79591,7 +79543,7 @@
     ],
     "name": "University of Lahore",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "uol.edu.pk"
     ],
@@ -79603,7 +79555,7 @@
     ],
     "name": "University of Malakand",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "uom.edu.pk"
     ],
@@ -79615,7 +79567,7 @@
     ],
     "name": "University of Sargodha",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "uos.edu.pk"
     ],
@@ -79627,7 +79579,7 @@
     ],
     "name": "University of Peshawar",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Khyber Pakhtunkhwa",
     "domains": [
       "upesh.edu"
     ],
@@ -79651,7 +79603,7 @@
     ],
     "name": "University of Sindh",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Sindh",
     "domains": [
       "usindh.edu.pk"
     ],
@@ -79675,7 +79627,7 @@
     ],
     "name": "University of Veterinary & Animal Science",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "uvas.edu.pk"
     ],
@@ -79699,7 +79651,7 @@
     ],
     "name": "Virtual University of Pakistan",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "vu.edu.pk"
     ],
@@ -79711,7 +79663,7 @@
     ],
     "name": "Wah Medical College",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "wahmedicalcollege.edu.pk"
     ],
@@ -79723,7 +79675,7 @@
     ],
     "name": "Zawiya Academy",
     "alpha_two_code": "PK",
-    "state-province": null,
+    "state-province": "Panjab",
     "domains": [
       "zawiya.edu.pk"
     ],
