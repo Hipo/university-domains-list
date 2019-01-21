@@ -78326,13 +78326,13 @@
   },
   {
     "web_pages": [
-      "http://www.cbm.edu.pk/"
+      "https://cbm.iobm.edu.pk/"
     ],
-    "name": "College of Business Management ( CBM )",
+    "name": "College of Business Management (CBM)",
     "alpha_two_code": "PK",
     "state-province": null,
     "domains": [
-      "cbm.edu.pk"
+      "cbm.iobm.edu.pk"
     ],
     "country": "Pakistan"
   },
