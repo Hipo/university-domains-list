@@ -2483,18 +2483,6 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "idbsu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.boisestate.edu/"
-    ],
-    "name": "Boise State University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
       "boisestate.edu"
     ],
     "country": "United States"
