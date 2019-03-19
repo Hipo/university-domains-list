@@ -8229,18 +8229,7 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "neu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.northeastern.edu/"
-    ],
-    "name": "Northeastern University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
+      "neu.edu",
       "northeastern.edu"
     ],
     "country": "United States"
