@@ -2960,18 +2960,6 @@
   },
   {
     "web_pages": [
-      "http://www.sjsu.edu/"
-    ],
-    "name": "California State University, San Jose",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "sjsu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.csusm.edu/"
     ],
     "name": "California State University, San Marcos",
