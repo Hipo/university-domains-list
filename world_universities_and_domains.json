@@ -3452,18 +3452,6 @@
   },
   {
     "web_pages": [
-      "http://www.cityu.edu/"
-    ],
-    "name": "City University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "cityuniversity.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.cuny.edu/"
     ],
     "name": "City University of New York",
