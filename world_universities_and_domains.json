@@ -34810,7 +34810,8 @@
     "alpha_two_code": "DK",
     "state-province": null,
     "domains": [
-      "auc.dk"
+      "auc.dk",
+      "aau.dk"
     ],
     "country": "Denmark"
   },
