@@ -2495,18 +2495,6 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "idbsu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.boisestate.edu/"
-    ],
-    "name": "Boise State University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
       "boisestate.edu"
     ],
     "country": "United States"
@@ -2979,18 +2967,6 @@
     "state-province": null,
     "domains": [
       "csusb.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.sjsu.edu/"
-    ],
-    "name": "California State University, San Jose",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "sjsu.edu"
     ],
     "country": "United States"
   },
@@ -3483,18 +3459,6 @@
     "state-province": null,
     "domains": [
       "cityu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.cityu.edu/"
-    ],
-    "name": "City University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "cityuniversity.edu"
     ],
     "country": "United States"
   },
@@ -5938,18 +5902,6 @@
   },
   {
     "web_pages": [
-      "http://www.illinoisstate.edu/"
-    ],
-    "name": "Illinois State University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "ilstu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.indianatech.edu/"
     ],
     "name": "Indiana Institute of Technology",
@@ -8289,18 +8241,7 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "neu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.northeastern.edu/"
-    ],
-    "name": "Northeastern University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
+      "neu.edu",
       "northeastern.edu"
     ],
     "country": "United States"
@@ -84865,18 +84806,6 @@
     "state-province": null,
     "domains": [
       "pucpr.edu"
-    ],
-    "country": "Puerto Rico"
-  },
-  {
-    "web_pages": [
-      "http://www.pupr.edu/"
-    ],
-    "name": "Universidad Politecnica de Puerto Rico",
-    "alpha_two_code": "PR",
-    "state-province": null,
-    "domains": [
-      "pupr.edu"
     ],
     "country": "Puerto Rico"
   },
