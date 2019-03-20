@@ -1,6 +1,18 @@
 [
   {
     "web_pages": [
+      "http://www.marywood.edu"
+    ],
+    "name": "Marywood University",
+    "alpha_two_code": "PA",
+    "state-province": null,
+    "domains": [
+      "marywood.edu"
+    ],
+    "country": "US"
+  },
+  {
+    "web_pages": [
       "https://www.cstj.qc.ca",
       "https://ccmt.cstj.qc.ca",
       "https://ccml.cstj.qc.ca"
