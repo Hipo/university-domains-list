@@ -38682,13 +38682,15 @@
   },
   {
     "web_pages": [
-      "http://www.ensm-ales.fr/"
+      "https://www.mines-ales.fr/"
     ],
     "name": "Ecole Nationale Supérieure des Mines d'Alès",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "ensm-ales.fr"
+      "ensm-ales.fr",
+      "mines-ales.fr",
+      "mines-ales.org"
     ],
     "country": "France"
   },
