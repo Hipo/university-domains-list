@@ -37470,6 +37470,19 @@
   },
   {
     "web_pages": [
+      "http://www.laurea.fi/"
+    ],
+    "name": Laurea University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "laurea.fi",
+      "student.laurea.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
       "http://www.lut.fi/"
     ],
     "name": "Lappeenranta University of Technology",
