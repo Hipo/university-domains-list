@@ -43958,13 +43958,13 @@
   },
   {
     "web_pages": [
-      "http://www.uni-dortmund.de/"
+      "http://www.tu-dortmund.de/"
     ],
-    "name": "Universität Dortmund",
+    "name": "Technische Universität Dortmund",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "uni-dortmund.de"
+      "tu-dortmund.de"
     ],
     "country": "Germany"
   },
