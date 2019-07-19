@@ -100807,6 +100807,18 @@
   },
   {
     "web_pages": [
+      "http://www.edgehill.ac.uk/"
+    ],
+    "name": "Edge Hill University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "edgehill.ac.uk/"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.ed.ac.uk/"
     ],
     "name": "University of Edinburgh",
