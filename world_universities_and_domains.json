@@ -11634,6 +11634,18 @@
   },
   {
     "web_pages": [
+      "http://www.uafs.edu/"
+    ],
+    "name": "University of Arkansas - Fort Smith",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "uafs.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.uams.edu/"
     ],
     "name": "University of Arkansas for Medical Sciences",
@@ -12914,7 +12926,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "hsc.unt.edu"
+      "hsc.unt.edu",
+      "unthsc.edu"
     ],
     "country": "United States"
   },
