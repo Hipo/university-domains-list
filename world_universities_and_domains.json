@@ -116307,5 +116307,29 @@
       "ieec.cust.edu.cn/"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://www.polk.edu/"
+    ],
+    "name": "Polk State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "polk.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.mohawkcollege.ca/"
+    ],
+    "name": "Mohawk College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "mohawkcollege.ca"
+    ],
+    "country": "Canada"
   }
 ]
