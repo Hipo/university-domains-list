@@ -26562,9 +26562,9 @@
   },
   {
     "web_pages": [
-      "http://www.uwo.ca/brescia/"
+      "http://brescia.uwo.ca/"
     ],
-    "name": "Brescia College",
+    "name": "Brescia University College",
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
@@ -109924,7 +109924,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "massasoit.mass.edu"
+      "massasoit.mass.edu",
+      "massasoit.edu"
     ],
     "country": "United States"
   },
@@ -116329,6 +116330,55 @@
     "state-province": null,
     "domains": [
       "mohawkcollege.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.brescia.edu/"
+    ],
+    "name": "Brescia University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brescia.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.rsu.edu/"
+    ],
+    "name": "Rogers State University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "rsu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.neumann.edu/"
+    ],
+    "name": "Neumann University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "neumann.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.fanshawec.ca/"
+    ],
+    "name": "Fanshawe College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "fanshawec.ca",
+      "fanshaweonline.ca"
     ],
     "country": "Canada"
   }
