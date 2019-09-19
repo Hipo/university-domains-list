@@ -1,6 +1,7 @@
 import json
 import unittest
 import requests
+import validators
 
 class DomainsTests(unittest.TestCase):
     def test_json_is_valid(self):
@@ -9,6 +10,9 @@ class DomainsTests(unittest.TestCase):
         for university in valid_json:
             self.assertIn("name", university)
             self.assertIn("domains", university)
+            self.assertIsInstance(university["domains"], list)
+            for domain in university["domains"]:
+                self.assertTrue(validators.domain(domain))
             self.assertIn("web_pages", university)
             self.assertIn("alpha_two_code", university)
             self.assertIn("state-province", university)
