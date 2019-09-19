@@ -14,9 +14,6 @@ class DomainsTests(unittest.TestCase):
             for domain in university["domains"]:
                 self.assertTrue(validators.domain(domain))
             self.assertIn("web_pages", university)
-            self.assertIsInstance(university["web_pages"], list)
-            for web_page in university["web_pages"]:
-                self.assertTrue(validators.url(web_page))
             self.assertIn("alpha_two_code", university)
             self.assertIn("state-province", university)
             self.assertIn("country", university)
