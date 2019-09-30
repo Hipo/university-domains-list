@@ -116382,5 +116382,17 @@
       "fanshaweonline.ca"
     ],
     "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://www.ashford.edu/"
+    ],
+    "name": "Ashford University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ashford.edu"
+    ],
+    "country": "United States"
   }
 ]
