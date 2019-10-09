@@ -116394,5 +116394,17 @@
       "ashford.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.mcpherson.edu/"
+    ],
+    "name": "McPherson College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mcpherson.edu"
+    ],
+    "country": "United States"
   }
 ]
