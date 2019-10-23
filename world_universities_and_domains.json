@@ -101591,13 +101591,14 @@
   },
   {
     "web_pages": [
-      "http://www.qmw.ac.uk/"
+      "http://www.qmul.ac.uk/"
     ],
-    "name": "Queen Mary and Westfield College, University of London",
+    "name": "Queen Mary, University of London",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "qmw.ac.uk"
+      "qmw.ac.uk",
+      "qmul.ac.uk"
     ],
     "country": "United Kingdom"
   },
