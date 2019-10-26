@@ -17,7 +17,9 @@ if __name__ == "__main__":
         json_data = json.load(in_file)
         
         for school in json_data:
-            school['uuid'] = uuid.uuid4().__str__()
+            uuid_parsed = school.get('uuid', None)
+            if uuid_parsed != None:
+                school['uuid'] = uuid.uuid4().__str__()
         
-        with open(args.output_file, 'wb', encoding='utf-8') as out_file:
+        with open(args.output_file, 'w', encoding='utf-8') as out_file:
             json.dump(json_data, out_file)
