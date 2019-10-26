@@ -5,7 +5,7 @@ import validators
 
 class DomainsTests(unittest.TestCase):
     def test_json_is_valid(self):
-        with open("../world_universities_and_domains.json") as json_file:
+        with open("../world_universities_and_domains.json", encoding='utf-8') as json_file:
             valid_json = json.load(json_file)
         for university in valid_json:
             self.assertIn("name", university)
@@ -20,7 +20,7 @@ class DomainsTests(unittest.TestCase):
 
     def check_is_alive():
         """ check url then if url isn't alive, add to file """
-        with open('../world_universities_and_domains.json') as json_raw:
+        with open('../world_universities_and_domains.json', encoding='utf-8') as json_raw:
             universities = json.load(json_raw)
         for university in universities[:]:
             try:
