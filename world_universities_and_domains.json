@@ -41934,7 +41934,7 @@
     "web_pages": [
       "https://www.thi.de/"
     ],
-    "name": "Fachhochschule Ingolstadt",
+    "name": "Technische Hochschule Ingolstadt",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
@@ -43828,13 +43828,13 @@
   },
   {
     "web_pages": [
-      "http://www.tu-harburg.de/"
+      "http://www.tuhh.de/"
     ],
-    "name": "Technische Universität Hamburg-Harburg",
+    "name": "Technische Universität Hamburg",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "tu-harburg.de"
+      "tuhh.de"
     ],
     "country": "Germany"
   },
@@ -92643,6 +92643,18 @@
   },
   {
     "web_pages": [
+      "https://www.uloyola.es/"
+    ],
+    "name": "Universidad Loyola Andalucía",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uloyola.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
       "http://www.uniactiva.com/"
     ],
     "name": "Universidad Abierta Interactiva",
@@ -100337,18 +100349,6 @@
     "state-province": null,
     "domains": [
       "abdn.ac.uk"
-    ],
-    "country": "United Kingdom"
-  },
-  {
-    "web_pages": [
-      "http://www.abdn.ac.uk/"
-    ],
-    "name": "University of Aberdeen",
-    "alpha_two_code": "GB",
-    "state-province": null,
-    "domains": [
-      "aberdeen.ac.uk"
     ],
     "country": "United Kingdom"
   },
