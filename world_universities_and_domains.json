@@ -98082,6 +98082,18 @@
   },
   {
     "web_pages": [
+      "https://fbu.edu.tr/"
+    ],
+    "name": "Fenerbahce University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "fbu.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
       "http://www.gantep.edu.tr/"
     ],
     "name": "Gaziantep University",
