@@ -116432,5 +116432,17 @@
       "ccsnh.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.vaniercollege.qc.ca/"
+    ],
+    "name": "Vanier College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "vaniercollege.qc.ca"
+    ],
+    "country": "Canada"
   }
 ]
