@@ -34028,6 +34028,30 @@
   },
   {
     "web_pages": [
+      "http://www.vern.hr/"
+    ],
+    "name": "VERN' University of Applied Sciences",
+    "alpha_two_code": "HR",
+    "state-province": null,
+    "domains": [
+      "vern.hr"
+    ],
+    "country": "Croatia"
+  },
+  {
+    "web_pages": [
+      "http://www.tvz.hr/"
+    ],
+    "name": "Zagreb University of Applied Sciences",
+    "alpha_two_code": "HR",
+    "state-province": null,
+    "domains": [
+      "tvz.hr"
+    ],
+    "country": "Croatia"
+  },
+  {
+    "web_pages": [
       "http://www.cujae.edu.cu/"
     ],
     "name": "Instituto Superior Politécnico José Antonio Echeverría",
