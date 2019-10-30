@@ -34050,6 +34050,30 @@
     ],
     "country": "Croatia"
   },
+    {
+    "web_pages": [
+      "http://www.algebra.hr/"
+    ],
+    "name": "Algebra University College",
+    "alpha_two_code": "HR",
+    "state-province": null,
+    "domains": [
+      "algebra.hr"
+    ],
+    "country": "Croatia"
+  },
+  {
+    "web_pages": [
+      "http://www.unin.hr/"
+    ],
+    "name": "University North",
+    "alpha_two_code": "HR",
+    "state-province": null,
+    "domains": [
+      "unin.hr"
+    ],
+    "country": "Croatia"
+  },
   {
     "web_pages": [
       "http://www.cujae.edu.cu/"
