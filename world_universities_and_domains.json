@@ -25290,13 +25290,13 @@
   },
   {
     "web_pages": [
-      "http://www.durhamc.on.ca/"
+      "https://durhamcollege.ca/"
     ],
     "name": "Durham College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
-      "durhamc.on.ca"
+      "dcmail.ca"
     ],
     "country": "Canada"
   },
