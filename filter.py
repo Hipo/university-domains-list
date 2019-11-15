@@ -18,7 +18,7 @@ def _country_filter(src, scope, out):
         else: return False
 
     return [entry for entry in src if filter(entry, scope)]
-json.load
+
 def country_filter(src, scopes):
     """
     Either make multiple data searches or 
