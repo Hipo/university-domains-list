@@ -39,6 +39,14 @@ The whole data source is located in the `world_universities_and_domains.json` fi
 		...
 	]
 
+If you want a smaller final payload and only need a subset of countries, run 
+```bash
+filter.py $country1 [Optional: $country2]
+```
+from the root directory to return
+```
+filtered_world_universities_and_domains.json
+```
 
 NOTE: Some universities use a format like `[user]@[department].[domain]`, but this list only contains the `[domain]` portion.
 For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the
