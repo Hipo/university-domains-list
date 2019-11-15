@@ -1,13 +1,40 @@
-import sys, os, json
+import sys, os, json, string
 
 def _country_filter(src, scope, out):
-    print(scope)
+    """
+    Search the data for a single country
 
-def country_filter(src, scopes, out):
-    if type(scopes) == "list":
-        [_country_filter(src, scope, out) for scope in scopes]
+    :arg src: source dictionary
+    :arg scope: source selector
+    """
+    def filter(entry, item):
+        matching = entry['country']
+        
+        if item == matching or \
+            item == matching.lower() or \
+            item == matching.upper():
+            return True
+        
+        else: return False
+
+    return [entry for entry in src if filter(entry, scope)]
+
+def country_filter(src, scopes):
+    """
+    Either make multiple data searches or 
+    execute one. {NEEDS IMPROVEMENT, O(kN) => O(n)}
+
+    :arg src: source dictionary
+    :arg scopes: source selectors
+    """
+    out = []
+
+    if type(scopes) is list:
+        [out.extend(_country_filter(src, scope, out)) for scope in scopes]
     else:
-        _country_filter(src, scopes, out)
+        out = _country_filter(src, scopes, out)
+    
+    return out
 
 
 def main():
@@ -15,6 +42,7 @@ def main():
     temp_arg = ""
     first_word = True
 
+    # Retrieve our selecting countries (seperated by commas)
     for arg in sys.argv[1:]:
         temp_arg += arg if first_word else " " + arg
         first_word = False
@@ -27,16 +55,17 @@ def main():
     if temp_arg: args.append(temp_arg)
     
     if not args: return
-    out = []
     
+    # Load the source
     src = None
     with open('./world_universities_and_domains.json') as src_file:
         src = json.load(src_file)
-    if src is None: 
-        return
+    
+    if src is None: return
 
+    # Write the filtered result
+    with open('./filtered_world_universities_and_domains.json', 'w') as dest_file:
+        json.dump(country_filter(src, args), dest_file)
 
 if __name__ == "__main__":
     main()
-
-    # print(sys.argv)
