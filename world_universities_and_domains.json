@@ -116480,5 +116480,17 @@
       "vaniercollege.qc.ca"
     ],
     "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.musc.edu/"
+    ],
+    "name": "Medical University of South Carolina",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "musc.edu"
+    ],
+    "country": "United States"
   }
 ]
