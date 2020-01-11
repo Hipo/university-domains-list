@@ -25951,13 +25951,15 @@
   },
   {
     "web_pages": [
-      "http://www.stmarys.ca/"
+      "http://www.stmarys.ca/",
+      "https://smu.ca/"
     ],
     "name": "St. Mary's University",
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "stmarys.ca"
+      "stmarys.ca",
+      "smu.ca"
     ],
     "country": "Canada"
   },
