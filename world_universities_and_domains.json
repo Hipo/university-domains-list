@@ -100410,7 +100410,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "abdn.ac.uk"
+      "abdn.ac.uk",
+      "aberdeen.ac.uk"
     ],
     "country": "United Kingdom"
   },
