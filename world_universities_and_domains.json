@@ -116433,5 +116433,17 @@
       "vaniercollege.qc.ca"
     ],
     "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.defiance.edu/"
+    ],
+    "name": "Defiance College",
+    "alpha_two_code": "US",
+    "state-province": "Ohio",
+    "domains": [
+      "defiance.edu"
+    ],
+    "country": "United States"
   }
 ]
