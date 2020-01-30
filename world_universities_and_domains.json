@@ -116498,6 +116498,18 @@
   },
   {
     "web_pages": [
+      "http://www.defiance.edu/"
+    ],
+    "name": "Defiance College",
+    "alpha_two_code": "US",
+    "state-province": "Ohio",
+    "domains": [
+      "defiance.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.musc.edu/"
     ],
     "name": "Medical University of South Carolina",
