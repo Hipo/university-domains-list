@@ -116519,5 +116519,17 @@
       "musc.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.gulfcoast.edu/"
+    ],
+    "name": "Gulf Coast State College",
+    "alpha_two_code": "US",
+    "state-province": "Florida",
+    "domains": [
+      "gulfcoast.edu"
+    ],
+    "country": "United States"
   }
 ]
