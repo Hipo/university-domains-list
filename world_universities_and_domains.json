@@ -102028,12 +102028,13 @@
   },
   {
     "web_pages": [
-      "http://www.st-and.ac.uk/"
+      "https://www.st-andrews.ac.uk/"
     ],
     "name": "University of St. Andrews",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
+      "st-andrews.ac.uk",
       "st-and.ac.uk"
     ],
     "country": "United Kingdom"
