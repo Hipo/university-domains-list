@@ -42582,13 +42582,14 @@
   },
   {
     "web_pages": [
-      "http://www.fhtw-berlin.de/"
+      "https://www.htw-berlin.de/"
     ],
-    "name": "Fachhochschule für Technik und Wirtschaft Berlin",
+    "name": "Hochschule für Technik und Wirtschaft Berlin",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "fhtw-berlin.de"
+      "fhtw-berlin.de",
+      "htw-berlin.de"
     ],
     "country": "Germany"
   },
