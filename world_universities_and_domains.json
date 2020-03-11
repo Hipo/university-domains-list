@@ -13477,6 +13477,18 @@
   },
   {
     "web_pages": [
+      "http://www.utpb.edu/"
+    ],
+    "name": "University of Texas Permian Basin",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "utpb.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.udc.edu/"
     ],
     "name": "University of the District of Columbia",
