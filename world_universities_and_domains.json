@@ -89368,13 +89368,13 @@
   },
   {
     "web_pages": [
-      "http://www.ustu.ru/"
+      "https://urfu.ru"
     ],
-    "name": "Ural State Technical University",
+    "name": "Ural Federal University",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "ustu.ru"
+      "urfu.ru"
     ],
     "country": "Russian Federation"
   },
