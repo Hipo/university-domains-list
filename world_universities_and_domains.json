@@ -25392,7 +25392,8 @@
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "humber.ca"
+      "humber.ca",
+	  "humbermail.ca"
     ],
     "country": "Canada"
   },
