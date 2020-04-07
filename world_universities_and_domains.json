@@ -105661,7 +105661,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "mesacc.edu"
+      "mesacc.edu",
+	  "maricopa.edu"
     ],
     "country": "United States"
   },
