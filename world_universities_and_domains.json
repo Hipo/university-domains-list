@@ -116558,5 +116558,17 @@
       "gulfcoast.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.springfieldcollege.edu"
+    ],
+    "name": "Springfield College",
+    "alpha_two_code": "US",
+    "state-province": "Massachusetts",
+    "domains": [
+      "springfieldcollege.edu"
+    ],
+    "country": "United States"
   }
 ]

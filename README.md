@@ -122,5 +122,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - Ekin Dursun
  - Kevin Bohinski
  - Lachlan Marnham
+ - [Marko Crnkovic](https://www.github.com/chih98)
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
