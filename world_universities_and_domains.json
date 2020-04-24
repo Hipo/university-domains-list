@@ -25946,7 +25946,9 @@
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "stclairc.on.ca"
+      "stclairc.on.ca",
+	   "stclairconnect.ca",
+	   "myscc.ca"
     ],
     "country": "Canada"
   },
@@ -105661,7 +105663,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "mesacc.edu"
+      "mesacc.edu",
+	  "maricopa.edu"
     ],
     "country": "United States"
   },
