@@ -12819,7 +12819,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "unc.edu"
+      "unc.edu",
+      "ad.unc.edu"
     ],
     "country": "United States"
   },
