@@ -116562,5 +116562,17 @@
       "gulfcoast.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.gcu.edu.cn/"
+    ],
+    "name": "Guangzhou College of South China University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": "Guangzhou",
+    "domains": [
+      "stu.gcu.edu.cn"
+    ],
+    "country": "China"
   }
 ]
