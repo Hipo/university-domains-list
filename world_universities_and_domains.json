@@ -116562,5 +116562,30 @@
       "gulfcoast.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.gcu.edu.cn/"
+    ],
+    "name": "Guangzhou College of South China University of Technology",
+    "alpha_two_code": "CN",
+    "state-province": "Guangzhou",
+    "domains": [
+      "stu.gcu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "http://www.xhu.edu.cn/"
+    ],
+    "name": "Xihua University",
+    "alpha_two_code": "CN",
+    "state-province": "Si Chuan",
+    "domains": [
+      "stu.xhu.edu.cn",
+      "mail.xhu.edu.cn"
+    ],
+    "country": "China"
   }
 ]
