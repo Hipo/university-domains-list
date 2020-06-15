@@ -38608,18 +38608,6 @@
   },
   {
     "web_pages": [
-      "http://www.enserg.fr/"
-    ],
-    "name": "Ecole Nationale Supérieure d'Electronique et de Radioelectricite de Grenoble",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "enserg.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
       "http://www.ens-fcl.fr/"
     ],
     "name": "Ecole Normale Supérieure de Fontenay-Saint Cloud",
@@ -38699,18 +38687,6 @@
     "state-province": null,
     "domains": [
       "ensic.u-nancy.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.ensieg.inpg.fr/"
-    ],
-    "name": "Ecole Nationale Supérieure d'Ingenieurs Electriciens de Grenoble",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "ensieg.inpg.fr"
     ],
     "country": "France"
   },
@@ -38953,18 +38929,6 @@
     "state-province": null,
     "domains": [
       "escem.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.esc-grenoble.fr/"
-    ],
-    "name": "Ecole Supérieure de Commerce de Grenoble",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "esc-grenoble.fr"
     ],
     "country": "France"
   },
@@ -39288,7 +39252,8 @@
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "grenoble-em.com"
+      "grenoble-em.com",
+      "esc-grenoble.fr"
     ],
     "country": "France"
   },
@@ -39325,18 +39290,6 @@
     "state-province": null,
     "domains": [
       "hei.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.hmg.inpg.fr/"
-    ],
-    "name": "Ecole Nationale Supérieure d'Hydraulique et de Mécanique de Grenoble",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "hmg.inpg.fr"
     ],
     "country": "France"
   },
@@ -39453,18 +39406,6 @@
       "http://www.inpg.fr/INPG/fr_see.html"
     ],
     "name": "Ecole Nationale Supérieure d'Electrochimie et d'Electrométallurgie de Gernoble",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "inpg.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.inpg.fr/"
-    ],
-    "name": "Institut National Polytechnique de Grenoble",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
@@ -39992,13 +39933,15 @@
   },
   {
     "web_pages": [
-      "http://www.u-grenoble3.fr/"
+      "https://www.univ-grenoble-alpes.fr/"
     ],
-    "name": "Université Stendhal (Grenoble III)",
+    "name": "Université Grenoble Alpes",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "u-grenoble3.fr"
+      "u-grenoble3.fr",
+      "univ-grenoble-alpes.fr",
+      "ujf-grenoble.fr"
     ],
     "country": "France"
   },
@@ -40023,18 +39966,6 @@
     "state-province": null,
     "domains": [
       "uhp-nancy.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www.ujf-grenoble.fr/"
-    ],
-    "name": "Université Joseph Fourier (Grenoble I)",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "ujf-grenoble.fr"
     ],
     "country": "France"
   },
@@ -40311,6 +40242,18 @@
     "state-province": null,
     "domains": [
       "univ-lyon3.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.cpe.fr/"
+    ],
+    "name": "École supérieure de chimie, physique, électronique de Lyon (CPE Lyon)",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "cpe.fr"
     ],
     "country": "France"
   },
@@ -40736,18 +40679,6 @@
   },
   {
     "web_pages": [
-      "http://www.upmf-grenoble.fr/"
-    ],
-    "name": "Université Pierre Mendes-France (Grenoble II)",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "upmf-grenoble.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
       "http://www.ups-tlse.fr/"
     ],
     "name": "Université Paul Sabatier (Toulouse III)",
@@ -40916,25 +40847,20 @@
   },
   {
     "web_pages": [
-      "http://www-ensimag.imag.fr/"
+      "https://grenoble-inp.fr/",
+      "https://phelma.grenoble-inp.fr/",
+      "https://ensimag.grenoble-inp.fr/",
+      "https://ense3.grenoble-inp.fr/",
+      "https://esisar.grenoble-inp.fr/",
+      "https://genie-industriel.grenoble-inp.fr/",
+      "https://pagora.grenoble-inp.fr/"
     ],
-    "name": "Ecole Nationale Superieure d'Informatique et de Mathematiques Appliquees de Grenoble",
+    "name": "Institut polytechnique de Grenoble",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "www-ensimag.imag.fr"
-    ],
-    "country": "France"
-  },
-  {
-    "web_pages": [
-      "http://www-enspg.inpg.fr/"
-    ],
-    "name": "Ecole Nationale Supérieure de Physique de Grenoble",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": [
-      "www-enspg.inpg.fr"
+      "grenoble-inp.fr",
+      "inpg.fr"
     ],
     "country": "France"
   },

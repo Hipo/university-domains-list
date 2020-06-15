@@ -122,5 +122,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
  - Ekin Dursun
  - Kevin Bohinski
  - Lachlan Marnham
+ - Baptiste Pellarin
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
