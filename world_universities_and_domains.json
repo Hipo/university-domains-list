@@ -22537,7 +22537,8 @@
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": [
-      "ufmg.br"
+      "ufmg.br",
+      "dcc.ufmg.br"
     ],
     "country": "Brazil"
   },
