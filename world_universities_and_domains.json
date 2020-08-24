@@ -38081,6 +38081,18 @@
   },
   {
     "web_pages": [
+      "https://www.imt-atlantique.fr/"
+    ],
+    "name": "IMT Atlantique",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "imt-atlantique.net"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "http://www.ec-lille.fr/"
     ],
     "name": "Ecole Centrale de Lille",
