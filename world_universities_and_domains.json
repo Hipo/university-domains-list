@@ -73575,18 +73575,6 @@
   },
   {
     "web_pages": [
-      "http://www.udem.edu/"
-    ],
-    "name": "Universidad de Monterrey",
-    "alpha_two_code": "MX",
-    "state-province": null,
-    "domains": [
-      "udem.edu"
-    ],
-    "country": "Mexico"
-  },
-  {
-    "web_pages": [
       "http://www.udem.edu.mx/"
     ],
     "name": "Universidad de Monterrey",
@@ -84751,13 +84739,13 @@
   },
   {
     "web_pages": [
-      "http://www.bc.inter.edu/"
+      "http://www.bayamon.inter.edu/"
     ],
     "name": "Universidad Interamericana de Puerto Rico, Bayamón",
     "alpha_two_code": "PR",
     "state-province": null,
     "domains": [
-      "bc.inter.edu"
+      "bayamon.inter.edu"
     ],
     "country": "Puerto Rico"
   },
@@ -84806,18 +84794,6 @@
     "state-province": null,
     "domains": [
       "cuhupr.clu.edu"
-    ],
-    "country": "Puerto Rico"
-  },
-  {
-    "web_pages": [
-      "http://www.bc.inter.edu/"
-    ],
-    "name": "Universidad Interamericana de Puerto Rico, Bayamón",
-    "alpha_two_code": "PR",
-    "state-province": null,
-    "domains": [
-      "interbayamon.edu"
     ],
     "country": "Puerto Rico"
   },
