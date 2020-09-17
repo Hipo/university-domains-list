@@ -929,18 +929,6 @@
   },
   {
     "web_pages": [
-      "http://www.tesu.edu/"
-    ],
-    "name": "Thomas Edison State University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "tesu.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.calsouthern.edu/"
     ],
     "name": "California Southern University",
@@ -1577,18 +1565,6 @@
   },
   {
     "web_pages": [
-      "http://www.afit.af.mil/"
-    ],
-    "name": "Air Force Institute of Technology",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "afit.af.mil"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.afit.edu/"
     ],
     "name": "Air Force Institute of Technology",
@@ -2045,24 +2021,14 @@
   },
   {
     "web_pages": [
-      "http://www.augusta.edu/"
-    ],
-    "name": "Augusta University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "augusta.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
+      "http://www.augusta.edu/",
       "http://www.gru.edu/"
     ],
     "name": "Augusta University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
+      "augusta.edu",
       "gru.edu"
     ],
     "country": "United States"
@@ -3080,24 +3046,14 @@
   },
   {
     "web_pages": [
-      "http://www.capella.edu/"
-    ],
-    "name": "Capella University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "capella.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
+      "http://www.capella.edu/",
       "http://www.capellauniversity.edu/"
     ],
     "name": "Capella University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
+      "capella.edu",
       "capellauniversity.edu"
     ],
     "country": "United States"
@@ -5946,18 +5902,7 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "indiana.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.iub.edu/"
-    ],
-    "name": "Indiana University at Bloomington",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
+      "indiana.edu",
       "iub.edu"
     ],
     "country": "United States"
@@ -10709,18 +10654,6 @@
   },
   {
     "web_pages": [
-      "http://www.stevens-tech.edu/"
-    ],
-    "name": "Stevens Institute of Technology",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "stevens-tech.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.sjca.edu/"
     ],
     "name": "St. John's College - Annapolis",
@@ -11431,24 +11364,14 @@
   },
   {
     "web_pages": [
-      "http://www.usafa.af.mil/"
-    ],
-    "name": "United States Air Force Academy",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "usafa.af.mil"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
+      "http://www.usafa.af.mil/",
       "http://www.usafa.edu/"
     ],
     "name": "United States Air Force Academy",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
+      "usafa.af.mil",
       "usafa.edu"
     ],
     "country": "United States"
@@ -12272,18 +12195,6 @@
   },
   {
     "web_pages": [
-      "http://www.ulaverne.edu/"
-    ],
-    "name": "University of La Verne",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "ulaverne.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
       "http://www.louisiana.edu/"
     ],
     "name": "University of Louisiana at Lafeyette",
@@ -12604,18 +12515,6 @@
     "state-province": null,
     "domains": [
       "olemiss.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.umsmed.edu/"
-    ],
-    "name": "University of Mississippi Medical Center",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "umsmed.edu"
     ],
     "country": "United States"
   },
@@ -14738,18 +14637,6 @@
     "state-province": null,
     "domains": [
       "wichita.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.wichita.edu/"
-    ],
-    "name": "Wichita State University",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
-      "twsu.edu"
     ],
     "country": "United States"
   },
@@ -17701,18 +17588,7 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "monash.edu"
-    ],
-    "country": "Australia"
-  },
-  {
-    "web_pages": [
-      "http://www.monash.edu.au/"
-    ],
-    "name": "Monash University",
-    "alpha_two_code": "AU",
-    "state-province": null,
-    "domains": [
+      "monash.edu",
       "monash.edu.au"
     ],
     "country": "Australia"
@@ -31599,18 +31475,6 @@
   },
   {
     "web_pages": [
-      "http://www.xhu.edu.cn/"
-    ],
-    "name": "Xihua University",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "xhu.edu.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
       "http://www.xidian.edu.cn/"
     ],
     "name": "Xi'an University of Electronic Science and Technology",
@@ -44351,25 +44215,15 @@
   },
   {
     "web_pages": [
+      "http://www.lmu.de/",
       "http://www.uni-muenchen.de/"
     ],
     "name": "Ludwig-Maximilians-Universität München",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "lmu.de",
       "uni-muenchen.de"
-    ],
-    "country": "Germany"
-  },
-  {
-    "web_pages": [
-      "http://www.lmu.de/"
-    ],
-    "name": "Ludwig-Maximilians-Universität München",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "lmu.de"
     ],
     "country": "Germany"
   },
@@ -48313,13 +48167,15 @@
   },
   {
     "web_pages": [
-      "http://www.iitg.ernet.in/"
+      "http://www.iitg.ernet.in/",
+      "http://www.iitg.ac.in/"
     ],
     "name": "Indian Institute of Technology, Guwahati",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "iitg.ernet.in"
+      "iitg.ernet.in",
+      "iitg.ac.in"
     ],
     "country": "India"
   },
@@ -48404,30 +48260,6 @@
     "state-province": null,
     "domains": [
       "iiti.ac.in"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.iith.ac.in/"
-    ],
-    "name": "Indian Institute of Technology, Hyderabad",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "iith.ac.in"
-    ],
-    "country": "India"
-  },
-  {
-    "web_pages": [
-      "http://www.iitg.ac.in/"
-    ],
-    "name": "Indian Institute of Technology, Guwahati",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": [
-      "iitg.ac.in"
     ],
     "country": "India"
   },
@@ -68519,18 +68351,6 @@
   },
   {
     "web_pages": [
-      "http://www.seokyeong.ac.kr/"
-    ],
-    "name": "Seokyeong University",
-    "alpha_two_code": "KR",
-    "state-province": null,
-    "domains": [
-      "seokyeong.ac.kr"
-    ],
-    "country": "Korea, Republic of"
-  },
-  {
-    "web_pages": [
       "http://www.seonam.ac.kr/"
     ],
     "name": "Seonam University",
@@ -68592,13 +68412,15 @@
   },
   {
     "web_pages": [
-      "http://www.skuniv.ac.kr/"
+      "http://www.skuniv.ac.kr/",
+      "http://www.seokyeong.ac.kr/"
     ],
     "name": "Seokyeong University",
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": [
-      "skuniv.ac.kr"
+      "skuniv.ac.kr",
+      "seokyeong.ac.kr"
     ],
     "country": "Korea, Republic of"
   },
@@ -76871,18 +76693,6 @@
     "state-province": null,
     "domains": [
       "gouni.edu.ng"
-    ],
-    "country": "Nigeria"
-  },
-  {
-    "web_pages": [
-      "http://www.go-uni-enugu.net/"
-    ],
-    "name": "Godfrey Okoye University",
-    "alpha_two_code": "NG",
-    "state-province": null,
-    "domains": [
-      "go-uni-enugu.net"
     ],
     "country": "Nigeria"
   },
@@ -87427,25 +87237,15 @@
   },
   {
     "web_pages": [
+      "http://www.mipt.ru/",
       "http://www.phystech.edu/"
     ],
     "name": "Moscow Institute of Physics and Technology",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
+      "mipt.ru",
       "phystech.edu"
-    ],
-    "country": "Russian Federation"
-  },
-  {
-    "web_pages": [
-      "http://www.mipt.ru/"
-    ],
-    "name": "Moscow Institute of Physics and Technology",
-    "alpha_two_code": "RU",
-    "state-province": null,
-    "domains": [
-      "mipt.ru"
     ],
     "country": "Russian Federation"
   },
@@ -91005,24 +90805,14 @@
   },
   {
     "web_pages": [
-      "http://www.nus.edu/"
-    ],
-    "name": "National University of Singapore",
-    "alpha_two_code": "SG",
-    "state-province": null,
-    "domains": [
-      "nus.edu"
-    ],
-    "country": "Singapore"
-  },
-  {
-    "web_pages": [
+      "http://www.nus.edu/",
       "http://www.nus.edu.sg/"
     ],
     "name": "National University of Singapore",
     "alpha_two_code": "SG",
     "state-province": null,
     "domains": [
+      "nus.edu",
       "nus.edu.sg"
     ],
     "country": "Singapore"
@@ -94296,30 +94086,6 @@
   },
   {
     "web_pages": [
-      "http://www.epfl.edu/"
-    ],
-    "name": "EPFL - EPF Lausanne",
-    "alpha_two_code": "CH",
-    "state-province": null,
-    "domains": [
-      "epfl.edu"
-    ],
-    "country": "Switzerland"
-  },
-  {
-    "web_pages": [
-      "http://www.eth.edu/"
-    ],
-    "name": "ETHZ - ETH Zurich",
-    "alpha_two_code": "CH",
-    "state-province": null,
-    "domains": [
-      "eth.edu"
-    ],
-    "country": "Switzerland"
-  },
-  {
-    "web_pages": [
       "http://www.euruni.edu/"
     ],
     "name": "European University",
@@ -94632,25 +94398,29 @@
   },
   {
     "web_pages": [
-      "http://www.epfl.ch/"
+      "http://www.epfl.ch/",
+      "http://www.epfl.edu/"
     ],
     "name": "EPFL - EPF Lausanne",
     "alpha_two_code": "CH",
     "state-province": null,
     "domains": [
-      "epfl.ch"
+      "epfl.ch",
+      "epfl.edu"
     ],
     "country": "Switzerland"
   },
   {
     "web_pages": [
-      "http://www.ethz.ch/"
+      "http://www.ethz.ch/",
+      "http://www.eth.edu/"
     ],
     "name": "ETHZ - ETH Zurich",
     "alpha_two_code": "CH",
     "state-province": null,
     "domains": [
-      "ethz.ch"
+      "ethz.ch",
+      "eth.edu"
     ],
     "country": "Switzerland"
   },
@@ -98040,13 +97810,15 @@
   },
   {
     "web_pages": [
-      "http://www.dumlupinar.edu.tr/"
+      "http://www.dumlupinar.edu.tr/",
+      "http://www.dpu.edu.tr/"
     ],
     "name": "Dumlupinar University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "dumlupinar.edu.tr"
+      "dumlupinar.edu.tr",
+      "dpu.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -104397,18 +104169,6 @@
   },
   {
     "web_pages": [
-      "http://www.dpu.edu.tr/"
-    ],
-    "name": "Dumlupinar University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": [
-      "dpu.edu.tr"
-    ],
-    "country": "Turkey"
-  },
-  {
-    "web_pages": [
       "http://www.duzce.edu.tr/"
     ],
     "name": "Duzce University",
@@ -109973,18 +109733,7 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "necc.edu"
-    ],
-    "country": "United States"
-  },
-  {
-    "web_pages": [
-      "http://www.necc.mass.edu/"
-    ],
-    "name": "Northern Essex Community College",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": [
+      "necc.edu",
       "necc.mass.edu"
     ],
     "country": "United States"
@@ -116498,6 +116247,7 @@
     "alpha_two_code": "CN",
     "state-province": "Si Chuan",
     "domains": [
+      "xhu.edu.cn",
       "stu.xhu.edu.cn",
       "mail.xhu.edu.cn"
     ],
