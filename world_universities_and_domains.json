@@ -17613,7 +17613,8 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "murdoch.edu.au"
+      "murdoch.edu.au",
+      "student.murdoch.edu.au"
     ],
     "country": "Australia"
   },
@@ -17805,7 +17806,8 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "sydney.edu.au"
+      "sydney.edu.au",
+      "uni.sydney.edu.au"
     ],
     "country": "Australia"
   },
@@ -17829,7 +17831,8 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "uts.edu.au"
+      "uts.edu.au",
+      "student.uts.edu.au"
     ],
     "country": "Australia"
   },
@@ -34337,7 +34340,8 @@
     "alpha_two_code": "CZ",
     "state-province": null,
     "domains": [
-      "cvut.cz"
+      "cvut.cz",
+      "fa.cvut.cz"
     ],
     "country": "Czech Republic"
   },
@@ -34686,7 +34690,8 @@
     "state-province": null,
     "domains": [
       "auc.dk",
-      "aau.dk"
+      "aau.dk",
+      "student.aau.dk"
     ],
     "country": "Denmark"
   },
@@ -37398,7 +37403,8 @@
     "alpha_two_code": "FI",
     "state-province": null,
     "domains": [
-      "lamk.fi"
+      "lamk.fi",
+      "student.lamk.fi"
     ],
     "country": "Finland"
   },
@@ -37423,7 +37429,8 @@
     "alpha_two_code": "FI",
     "state-province": null,
     "domains": [
-      "lut.fi"
+      "lut.fi".,
+      "student.lut.fi"
     ],
     "country": "Finland"
   },
@@ -37652,6 +37659,18 @@
     "state-province": null,
     "domains": [
       "uwasa.fi"
+    ],
+    "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "https://www.aalto.fi"
+    ],
+    "name": "Aalto University",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+      "aalto.fi"
     ],
     "country": "Finland"
   },
@@ -42744,7 +42763,8 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "hs-anhalt.de"
+      "hs-anhalt.de",
+      "student.hs-anhalt.de"
     ],
     "country": "Germany"
   },
@@ -75636,7 +75656,8 @@
     "alpha_two_code": "NL",
     "state-province": null,
     "domains": [
-      "tudelft.nl"
+      "tudelft.nl",
+      "student.tudelft.nl"
     ],
     "country": "Netherlands"
   },
@@ -84387,7 +84408,8 @@
     "alpha_two_code": "PT",
     "state-province": null,
     "domains": [
-      "ul.pt"
+      "ul.pt",
+      "campus.ul.pt"
     ],
     "country": "Portugal"
   },
@@ -95812,7 +95834,8 @@
     "alpha_two_code": "TW",
     "state-province": null,
     "domains": [
-      "ntust.edu.tw"
+      "ntust.edu.tw",
+      "gapps.ntust.edu.tw"
     ],
     "country": "Taiwan"
   },
@@ -100751,7 +100774,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "gsa.ac.uk"
+      "gsa.ac.uk",
+      "student.gsa.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -101003,7 +101027,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "lboro.ac.uk"
+      "lboro.ac.uk",
+      "student.lboro.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -101426,7 +101451,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "rca.ac.uk"
+      "rca.ac.uk",
+      "network.rca.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -116127,6 +116153,19 @@
     "state-province": null,
     "domains": [
       "neumann.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.scad.edu/"
+    ],
+    "name": " Savannah College of Art and Design",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "scad.edu",
+      "student.scad.edu"
     ],
     "country": "United States"
   },
