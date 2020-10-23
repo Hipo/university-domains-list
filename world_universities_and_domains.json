@@ -91801,6 +91801,18 @@
   },
   {
     "web_pages": [
+      "http://www.ump.ac.za/"
+    ],
+    "name": "Univerisity of Mpumalanga",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "msa.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
       "http://www.juba.edu.sd/"
     ],
     "name": "University of Juba",
