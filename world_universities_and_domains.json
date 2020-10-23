@@ -91807,7 +91807,19 @@
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "msa.ac.za"
+      "ump.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "http://www.mut.ac.za/"
+    ],
+    "name": "Mangosuthu Univerisity of Technology",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "mut.ac.za"
     ],
     "country": "South Africa"
   },
