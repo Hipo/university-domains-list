@@ -91694,12 +91694,14 @@
   },
   {
     "web_pages": [
+      "http://www.nwu.ac.za/",
       "http://www.uniwest.ac.za/"
     ],
-    "name": "University of North West",
+    "name": "North-West University",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
+      "nwu.ac.za",
       "uniwest.ac.za"
     ],
     "country": "South Africa"
