@@ -91561,13 +91561,14 @@
   },
   {
     "web_pages": [
+      "http://www.mandela.ac.za/",
       "http://www.nmmu.ac.za/"
     ],
-    "name": "Nelson Mandela Metropolitan University",
+    "name": "Nelson Mandela University",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "nmmu.ac.za"
+      "mandela.ac.za"
     ],
     "country": "South Africa"
   },
