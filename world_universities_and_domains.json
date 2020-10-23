@@ -91706,13 +91706,15 @@
   },
   {
     "web_pages": [
-      "http://www.uovs.ac.za/"
+      "http://www.uovs.ac.za/",
+      "http://www.ufs.ac.za/"
     ],
     "name": "University of the Free State",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "uovs.ac.za"
+      "uovs.ac.za",
+      "ufs.ac.za"
     ],
     "country": "South Africa"
   },
