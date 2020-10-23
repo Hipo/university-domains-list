@@ -91837,6 +91837,18 @@
   },
   {
     "web_pages": [
+      "http://www.spu.ac.za/"
+    ],
+    "name": "Sol Plaatje University",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "spu.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
       "http://www.juba.edu.sd/"
     ],
     "name": "University of Juba",
