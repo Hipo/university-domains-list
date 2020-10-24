@@ -91549,24 +91549,26 @@
   },
   {
     "web_pages": [
-      "http://www.dit.ac.za/"
+      "http://www.dut.ac.za/"
     ],
-    "name": "Durban Institute of Technology",
+    "name": "Durban University of Technology",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "dit.ac.za"
+      "dut.ac.za"
     ],
     "country": "South Africa"
   },
   {
     "web_pages": [
+      "http://www.mandela.ac.za/",
       "http://www.nmmu.ac.za/"
     ],
-    "name": "Nelson Mandela Metropolitan University",
+    "name": "Nelson Mandela University",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
+      "mandela.ac.za",
       "nmmu.ac.za"
     ],
     "country": "South Africa"
@@ -91693,25 +91695,29 @@
   },
   {
     "web_pages": [
+      "http://www.nwu.ac.za/",
       "http://www.uniwest.ac.za/"
     ],
-    "name": "University of North West",
+    "name": "North-West University",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
+      "nwu.ac.za",
       "uniwest.ac.za"
     ],
     "country": "South Africa"
   },
   {
     "web_pages": [
-      "http://www.uovs.ac.za/"
+      "http://www.uovs.ac.za/",
+      "http://www.ufs.ac.za/"
     ],
     "name": "University of the Free State",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "uovs.ac.za"
+      "uovs.ac.za",
+      "ufs.ac.za"
     ],
     "country": "South Africa"
   },
@@ -91741,13 +91747,13 @@
   },
   {
     "web_pages": [
-      "http://www.uzulu.ac.za/"
+      "http://www.unizulu.ac.za/"
     ],
     "name": "University of Zululand",
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "uzulu.ac.za"
+      "unizulu.ac.za"
     ],
     "country": "South Africa"
   },
@@ -91796,6 +91802,54 @@
     "state-province": null,
     "domains": [
       "msa.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "http://www.ump.ac.za/"
+    ],
+    "name": "Univerisity of Mpumalanga",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "ump.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "http://www.mut.ac.za/"
+    ],
+    "name": "Mangosuthu Univerisity of Technology",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "mut.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "http://www.smu.ac.za/"
+    ],
+    "name": "Sefako Makgatho Health Sciences University",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "smu.ac.za"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
+      "http://www.spu.ac.za/"
+    ],
+    "name": "Sol Plaatje University",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "spu.ac.za"
     ],
     "country": "South Africa"
   },
