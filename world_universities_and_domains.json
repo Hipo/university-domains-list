@@ -18384,7 +18384,8 @@
     "alpha_two_code": "AT",
     "state-province": null,
     "domains": [
-      "wu-wien.ac.at"
+      "wu-wien.ac.at",
+      "wu.ac.at"
     ],
     "country": "Austria"
   },
