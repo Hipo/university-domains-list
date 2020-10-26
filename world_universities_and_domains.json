@@ -33799,7 +33799,7 @@
     ],
     "name": "Tabari Institute of Higher Education",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "tabari.ac.ir"
     ],
@@ -53398,11 +53398,11 @@
   },
   {
     "web_pages": [
-      "http://www.acmt.ac.ir/"
+      "https://www.acmt.ac.ir/"
     ],
-    "name": "Amirkabir College of Managmant & Technology",
+    "name": "Amirkabir College of Management & Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "acmt.ac.ir"
     ],
@@ -53412,9 +53412,9 @@
     "web_pages": [
       "http://www.adiban.ac.ir/"
     ],
-    "name": "Adiban Higher Education Institue",
+    "name": "Adiban Institute of Higher Education",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "adiban.ac.ir"
     ],
@@ -53422,11 +53422,11 @@
   },
   {
     "web_pages": [
-      "http://www.ajums.ac.ir/"
+      "https://www.ajums.ac.ir/"
     ],
-    "name": "Ahwaz Jondishapour University of Medical Sciences",
+    "name": "Ahvaz Jondishapur University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Khuzestan",
     "domains": [
       "ajums.ac.ir"
     ],
@@ -53434,11 +53434,11 @@
   },
   {
     "web_pages": [
-      "http://www.aliabadiau.ac.ir/"
+      "http://aliabadiau.ac.ir/"
     ],
     "name": "Islamic Azad University, Aliabad",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Golestan",
     "domains": [
       "aliabadiau.ac.ir"
     ],
@@ -53446,13 +53446,13 @@
   },
   {
     "web_pages": [
-      "http://www.almustafaou.ir/"
+      "http://miu.ac.ir/"
     ],
-    "name": "Almustafa Open University",
+    "name": "Al-Mustafa International University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qom",
     "domains": [
-      "almustafaou.ir"
+      "miu.ac.ir"
     ],
     "country": "Iran"
   },
@@ -53462,7 +53462,7 @@
     ],
     "name": "Arak University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "arakmu.ac.ir"
     ],
@@ -53474,7 +53474,7 @@
     ],
     "name": "Arak University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "araku.ac.ir"
     ],
@@ -53486,7 +53486,7 @@
     ],
     "name": "Arak University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "arakut.ac.ir"
     ],
@@ -53498,7 +53498,7 @@
     ],
     "name": "Art University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "art.ac.ir"
     ],
@@ -53510,7 +53510,7 @@
     ],
     "name": "Ardabil University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Ardabil",
     "domains": [
       "arums.ac.ir"
     ],
@@ -53522,7 +53522,7 @@
     ],
     "name": "Allameh Tabatabaie University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "atu.ac.ir"
     ],
@@ -53534,7 +53534,7 @@
     ],
     "name": "Ahvaz University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Khuzestan",
     "domains": [
       "aums.ac.ir"
     ],
@@ -53546,7 +53546,7 @@
     ],
     "name": "Amirkabir University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "aut.ac.ir"
     ],
@@ -53558,7 +53558,7 @@
     ],
     "name": "Islamic Azad University, Tehran South",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "azad.ac.ir"
     ],
@@ -53566,13 +53566,13 @@
   },
   {
     "web_pages": [
-      "http://www.azzahra.ac.ir/"
+      "http://www.alzahra.ac.ir/"
     ],
-    "name": "Azzahra University",
+    "name": "Alzahra University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
-      "azzahra.ac.ir"
+      "alzahra.ac.ir"
     ],
     "country": "Iran"
   },
@@ -53582,7 +53582,7 @@
     ],
     "name": "Bu Ali Sina University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hamedan",
     "domains": [
       "basu.ac.ir"
     ],
@@ -53628,9 +53628,9 @@
     "web_pages": [
       "http://www.bmsu.ac.ir/"
     ],
-    "name": "Baghyatoolah Medical Sciences University",
+    "name": "Baqiyatallah University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "bmsu.ac.ir"
     ],
@@ -53642,7 +53642,7 @@
     ],
     "name": "Islamic Azad University, Bojnourd",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "North Khorasan",
     "domains": [
       "bojnourdiau.ac.ir"
     ],
@@ -53654,7 +53654,7 @@
     ],
     "name": "Bushehr University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Bushehr",
     "domains": [
       "bpums.ac.ir"
     ],
@@ -53666,7 +53666,7 @@
     ],
     "name": "Birjand University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "South Khorasan",
     "domains": [
       "bums.ac.ir"
     ],
@@ -53674,13 +53674,13 @@
   },
   {
     "web_pages": [
-      "http://www.cua.ac.ir/"
+      "http://scu.ac.ir/"
     ],
-    "name": "Shaheed Chamran University",
+    "name": "Shahid Chamran University of Ahvaz",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Khuzestan",
     "domains": [
-      "cua.ac.ir"
+      "scu.ac.ir"
     ],
     "country": "Iran"
   },
@@ -53690,7 +53690,7 @@
     ],
     "name": "Islamic Azad University, Dehaghan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "dehaghan.ac.ir"
     ],
@@ -53702,7 +53702,7 @@
     ],
     "name": "Delijan Payame Noor University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "delijanpnu.ac.ir"
     ],
@@ -53714,7 +53714,7 @@
     ],
     "name": "Deylaman Institute of Higher Education",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Gilan",
     "domains": [
       "deylaman.ac.ir"
     ],
@@ -53722,13 +53722,13 @@
   },
   {
     "web_pages": [
-      "http://www.dubs.ac.ir/"
+      "http://www.du.ac.ir/"
     ],
-    "name": "Damghan University of Basic Sciences",
+    "name": "Damghan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
-      "dubs.ac.ir"
+      "du.ac.ir"
     ],
     "country": "Iran"
   },
@@ -53738,7 +53738,7 @@
     ],
     "name": "Islamic Azad University, Falavarjan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "falavarjan.ac.ir"
     ],
@@ -53750,7 +53750,7 @@
     ],
     "name": "Islamic Azad University, Fars Science & Research Branch",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "fsriau.ac.ir"
     ],
@@ -53762,7 +53762,7 @@
     ],
     "name": "Fasa Faculty of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "fums.ac.ir"
     ],
@@ -53772,9 +53772,9 @@
     "web_pages": [
       "http://www.gau.ac.ir/"
     ],
-    "name": "Gorgan University of Agricultural Sciences and Natural Resources",
+    "name": "Gorgan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Golestan",
     "domains": [
       "gau.ac.ir"
     ],
@@ -53786,7 +53786,7 @@
     ],
     "name": "Gonabad University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "gmu.ac.ir"
     ],
@@ -53798,7 +53798,7 @@
     ],
     "name": "Islamic Azad University, Gorgan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Golestan",
     "domains": [
       "gorganiau.ir"
     ],
@@ -53810,7 +53810,7 @@
     ],
     "name": "Golestan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Golestan",
     "domains": [
       "goums.ac.ir"
     ],
@@ -53820,9 +53820,9 @@
     "web_pages": [
       "http://www.guilan.ac.ir/"
     ],
-    "name": "Guilan University",
+    "name": "University of Guilan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Gilan",
     "domains": [
       "guilan.ac.ir"
     ],
@@ -53834,7 +53834,7 @@
     ],
     "name": "Guilan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Gilan",
     "domains": [
       "gums.ac.ir"
     ],
@@ -53846,7 +53846,7 @@
     ],
     "name": "University of Hormozgan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hormozgan",
     "domains": [
       "hormozgan.ac.ir"
     ],
@@ -53858,7 +53858,7 @@
     ],
     "name": "Hormozgan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hormozgan",
     "domains": [
       "hums.ac.ir"
     ],
@@ -53882,7 +53882,7 @@
     ],
     "name": "Zanjan Institute for Advanced Studies in Basic Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Zanjan",
     "domains": [
       "iasbs.ac.ir"
     ],
@@ -53894,7 +53894,7 @@
     ],
     "name": "Islamic Azad University, Ahar",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "iau-ahar.ac.ir"
     ],
@@ -53906,7 +53906,7 @@
     ],
     "name": "Islamic Azad University, Arak",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "iau-arak.ac.ir"
     ],
@@ -53918,7 +53918,7 @@
     ],
     "name": "Islamic Azad University, Ardabil",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Ardabil",
     "domains": [
       "iauardabil.ac.ir"
     ],
@@ -53930,7 +53930,7 @@
     ],
     "name": "Islamic Azad University, Bandar Abbas",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hormozgan",
     "domains": [
       "iauba.ac.ir"
     ],
@@ -53942,7 +53942,7 @@
     ],
     "name": "Islamic Azad University, Bostanabad",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "iaubos.ac.ir"
     ],
@@ -53954,7 +53954,7 @@
     ],
     "name": "Islamic Azad University, Boukan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "West Azerbaijan",
     "domains": [
       "iau-boukan.ac.ir"
     ],
@@ -53966,7 +53966,7 @@
     ],
     "name": "Islamic Azad University, Central Tehran Branch",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "iauctb.ac.ir"
     ],
@@ -53978,7 +53978,7 @@
     ],
     "name": "Islamic Azad University, Garmsar",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "iau-garmsar.ac.ir"
     ],
@@ -53990,7 +53990,7 @@
     ],
     "name": "Islamic Azad University, Hamedan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hamedan",
     "domains": [
       "iauh.ac.ir"
     ],
@@ -54002,7 +54002,7 @@
     ],
     "name": "Islamic Azad University, Kerman",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kerman",
     "domains": [
       "iauk.ac.ir"
     ],
@@ -54014,7 +54014,7 @@
     ],
     "name": "Islamic Azad University, Karaj",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Alborz",
     "domains": [
       "iaukb.ir"
     ],
@@ -54026,7 +54026,7 @@
     ],
     "name": "Islamic Azad University, Lahijan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Gilan",
     "domains": [
       "iau-lahijan.ac.ir"
     ],
@@ -54038,7 +54038,7 @@
     ],
     "name": "Islamic Azad University, Majlesi",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "iaumajlesi.ac.ir"
     ],
@@ -54050,7 +54050,7 @@
     ],
     "name": "Islamic Azad University, Mehriz",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Yazd",
     "domains": [
       "iaumehriz.com"
     ],
@@ -54060,9 +54060,9 @@
     "web_pages": [
       "http://www.iaun.ac.ir/"
     ],
-    "name": "Islamic Azad University, Najaf Abad",
+    "name": "Islamic Azad University, Najafabad",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "iaun.ac.ir"
     ],
@@ -54074,7 +54074,7 @@
     ],
     "name": "Islamic Azad University, Quchan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "iauq.ac.ir"
     ],
@@ -54098,7 +54098,7 @@
     ],
     "name": "Islamic Azad University, Saveh",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "iau-saveh.ac.ir"
     ],
@@ -54110,7 +54110,7 @@
     ],
     "name": "Islamic Azad University, Sanandaj",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kurdistan",
     "domains": [
       "iausdj.ac.ir"
     ],
@@ -54122,7 +54122,7 @@
     ],
     "name": "Islamic Azad University, Shabestar",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "iaushab.ac.ir"
     ],
@@ -54134,7 +54134,7 @@
     ],
     "name": "Islamic Azad University, Shahrood",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "iau-shahrood.ac.ir"
     ],
@@ -54146,7 +54146,7 @@
     ],
     "name": "Islamic Azad University, Shiraz",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "iaushiraz.ac.ir"
     ],
@@ -54158,7 +54158,7 @@
     ],
     "name": "Islamic Azad University, Shirvan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "North Khorasan",
     "domains": [
       "iau-shirvan.ac.ir"
     ],
@@ -54168,9 +54168,9 @@
     "web_pages": [
       "http://www.iausr.ac.ir/"
     ],
-    "name": "Islamic Azad University, Shahr-e-rey Branch",
+    "name": "Islamic Azad University, Shahr-e-rey",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "iausr.ac.ir"
     ],
@@ -54182,7 +54182,7 @@
     ],
     "name": "Islamic Azad University, Tabriz",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "iaut.ac.ir"
     ],
@@ -54194,7 +54194,7 @@
     ],
     "name": "Islamic Azad University, Tafresh",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "iautb.ac.ir"
     ],
@@ -54204,9 +54204,9 @@
     "web_pages": [
       "http://www.iautmu.ac.ir/"
     ],
-    "name": "Islamic Azad University, Tehran Medical",
+    "name": "Islamic Azad University, Theran Medical",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Theran",
     "domains": [
       "iautmu.ac.ir"
     ],
@@ -54218,7 +54218,7 @@
     ],
     "name": "Islamic Azad University, North Tehran",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "iau-tnb.ac.ir"
     ],
@@ -54230,7 +54230,7 @@
     ],
     "name": "Islamic Azad University, Varamin",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "iauvaramin.ac.ir"
     ],
@@ -54242,7 +54242,7 @@
     ],
     "name": "Islamic Azad University, Yazd",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Yazd",
     "domains": [
       "iauyazd.ac.ir"
     ],
@@ -54254,7 +54254,7 @@
     ],
     "name": "Imam Khomeini International University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qazvin",
     "domains": [
       "ikiu.ac.ir"
     ],
@@ -54266,7 +54266,7 @@
     ],
     "name": "Ilam University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Ilam",
     "domains": [
       "ilam.ac.ir"
     ],
@@ -54278,7 +54278,7 @@
     ],
     "name": "Imam Reza University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "imamreza.ac.ir"
     ],
@@ -54288,9 +54288,9 @@
     "web_pages": [
       "http://www.isu.ac.ir/"
     ],
-    "name": "Imam Sadiq University",
+    "name": "Imam Sadegh University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "isu.ac.ir"
     ],
@@ -54302,7 +54302,7 @@
     ],
     "name": "Iran University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "iums.ac.ir"
     ],
@@ -54314,7 +54314,7 @@
     ],
     "name": "Iran University of Science and Technology Tehran",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "iust.ac.ir"
     ],
@@ -54326,7 +54326,7 @@
     ],
     "name": "Isfahan University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "iut.ac.ir"
     ],
@@ -54338,7 +54338,7 @@
     ],
     "name": "Jami Institute of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "jami.ac.ir"
     ],
@@ -54350,7 +54350,7 @@
     ],
     "name": "Islamic Azad University, Janah",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hormozgan",
     "domains": [
       "janahiau.ac.ir"
     ],
@@ -54362,7 +54362,7 @@
     ],
     "name": "Jahrom University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "jums.ac.ir"
     ],
@@ -54372,9 +54372,9 @@
     "web_pages": [
       "http://www.kamalolmolk.ac.ir/"
     ],
-    "name": "Kamalolmolk Art & Architecture Higher Education Institute of Noshahr",
+    "name": "Kamal-Ol-Molk University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "kamalolmolk.ac.ir"
     ],
@@ -54386,7 +54386,7 @@
     ],
     "name": "Kar University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qazvin",
     "domains": [
       "karuniversity.com"
     ],
@@ -54398,7 +54398,7 @@
     ],
     "name": "Kashan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "kashanu.ac.ir"
     ],
@@ -54408,9 +54408,9 @@
     "web_pages": [
       "http://www.kau.ac.ir/"
     ],
-    "name": "Islamic Azad University, Kazeron",
+    "name": "Islamic Azad University, Kazerun",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "kau.ac.ir"
     ],
@@ -54422,7 +54422,7 @@
     ],
     "name": "Kashan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "kaums.ac.ir"
     ],
@@ -54434,7 +54434,7 @@
     ],
     "name": "Kerman Graduate University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kerman",
     "domains": [
       "kgut.ac.ir"
     ],
@@ -54446,7 +54446,7 @@
     ],
     "name": "Islamic Azad University, Khorasgan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "khuisf.ac.ir"
     ],
@@ -54458,7 +54458,7 @@
     ],
     "name": "Sharif University of Technology, Kish Campus",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hormozgan",
     "domains": [
       "kish.ac.ir"
     ],
@@ -54470,7 +54470,7 @@
     ],
     "name": "Khomeinishahr Payame Noor University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "km.isfpnu.ac.ir"
     ],
@@ -54482,7 +54482,7 @@
     ],
     "name": "Kerman University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kerman",
     "domains": [
       "kmu.ac.ir"
     ],
@@ -54492,9 +54492,9 @@
     "web_pages": [
       "http://www.kntu.ac.ir/"
     ],
-    "name": "K.N.Toosi University of Technology",
+    "name": "Khajeh Nasir Toosi University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "kntu.ac.ir"
     ],
@@ -54506,7 +54506,7 @@
     ],
     "name": "Kermanshah University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kermanshah",
     "domains": [
       "kums.ac.ir"
     ],
@@ -54514,13 +54514,13 @@
   },
   {
     "web_pages": [
-      "http://www.lavasanpnu.ac.ir/"
+      "http://teh-lavasan.pnu.ac.ir/"
     ],
-    "name": "University of Lavasanat Pnu",
+    "name": "Payam Noor University Lavasan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
-      "lavasanpnu.ac.ir"
+      "teh-lavasan.pnu.ac.ir"
     ],
     "country": "Iran"
   },
@@ -54530,7 +54530,7 @@
     ],
     "name": "Lorestan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Lorestan",
     "domains": [
       "lu.ac.ir"
     ],
@@ -54542,7 +54542,7 @@
     ],
     "name": "Lorestan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Lorestan",
     "domains": [
       "lums.ac.ir"
     ],
@@ -54554,7 +54554,7 @@
     ],
     "name": "Islamic Azad University, Mahshar",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Khuzestan",
     "domains": [
       "mahshahriau.ac.ir"
     ],
@@ -54566,7 +54566,7 @@
     ],
     "name": "Malayer University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hamadan",
     "domains": [
       "malayeru.ac.ir"
     ],
@@ -54576,9 +54576,9 @@
     "web_pages": [
       "http://www.malekanpnu.ac.ir/"
     ],
-    "name": "Malekan Payame Nour University",
+    "name": "Malekan Payame Noor University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "malekanpnu.ac.ir"
     ],
@@ -54590,7 +54590,7 @@
     ],
     "name": "Mamasani University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "mamasaniiau.ac.ir"
     ],
@@ -54602,7 +54602,7 @@
     ],
     "name": "Islamic Azad University, Mobarakeh",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "mau.ac.ir"
     ],
@@ -54614,7 +54614,7 @@
     ],
     "name": "Islamic Azad University, Maybod",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Yazd",
     "domains": [
       "maybod.ac.ir"
     ],
@@ -54626,7 +54626,7 @@
     ],
     "name": "Mazandaran University of Medical Science",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "mazums.ac.ir"
     ],
@@ -54638,7 +54638,7 @@
     ],
     "name": "Ilam University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Ilam",
     "domains": [
       "medilam.hbi.ir"
     ],
@@ -54650,21 +54650,9 @@
     ],
     "name": "Sabzevar School of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "medsab.ac.ir"
-    ],
-    "country": "Iran"
-  },
-  {
-    "web_pages": [
-      "http://www.miu.ac.ir/"
-    ],
-    "name": "Mustafa International University",
-    "alpha_two_code": "IR",
-    "state-province": null,
-    "domains": [
-      "miu.ac.ir"
     ],
     "country": "Iran"
   },
@@ -54674,7 +54662,7 @@
     ],
     "name": "Tarbiat Modares University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "modares.ac.ir"
     ],
@@ -54686,7 +54674,7 @@
     ],
     "name": "Mofid University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qom",
     "domains": [
       "mofidu.ac.ir"
     ],
@@ -54698,7 +54686,7 @@
     ],
     "name": "Islamic Azad University, Mashhad",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "mshdiau.ac.ir"
     ],
@@ -54710,7 +54698,7 @@
     ],
     "name": "Babol University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "mubabol.ac.ir"
     ],
@@ -54722,7 +54710,7 @@
     ],
     "name": "Isfahan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "mui.ac.ir"
     ],
@@ -54734,7 +54722,7 @@
     ],
     "name": "Kurdistan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kurdistan",
     "domains": [
       "muk.ac.ir"
     ],
@@ -54746,7 +54734,7 @@
     ],
     "name": "Mashhad University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "mums.ac.ir"
     ],
@@ -54758,7 +54746,7 @@
     ],
     "name": "Qom University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qom",
     "domains": [
       "muq.ac.ir"
     ],
@@ -54770,7 +54758,7 @@
     ],
     "name": "Najaf Abad University of Applied Science and Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "najafabad-uast.ac.ir"
     ],
@@ -54782,21 +54770,9 @@
     ],
     "name": "Babol Noshirvani University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "nit.ac.ir"
-    ],
-    "country": "Iran"
-  },
-  {
-    "web_pages": [
-      "http://www.persianacademy.ir/"
-    ],
-    "name": "Iranian Academy of Persian Language and Literature",
-    "alpha_two_code": "IR",
-    "state-province": null,
-    "domains": [
-      "persianacademy.ir"
     ],
     "country": "Iran"
   },
@@ -54806,7 +54782,7 @@
     ],
     "name": "Persian Gulf University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Bushehr",
     "domains": [
       "pgu.ac.ir"
     ],
@@ -54818,7 +54794,7 @@
     ],
     "name": "Islamic Azad University, Parand",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "piau.ac.ir"
     ],
@@ -54830,7 +54806,7 @@
     ],
     "name": "Payame Noor University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "pnu.ac.ir"
     ],
@@ -54840,9 +54816,9 @@
     "web_pages": [
       "http://www.pnum.ac.ir/"
     ],
-    "name": "University of Mashhad Pnu",
+    "name": "University of Mashhad Payame Noor",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "pnum.ac.ir"
     ],
@@ -54854,7 +54830,7 @@
     ],
     "name": "Payame Noor University, Tafresh",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "pnut.ac.ir"
     ],
@@ -54866,7 +54842,7 @@
     ],
     "name": "Petroleum University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Khuzestan",
     "domains": [
       "put.ac.ir"
     ],
@@ -54890,7 +54866,7 @@
     ],
     "name": "Islamic Azad University, Qazvin",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qazvin",
     "domains": [
       "qiau.ac.ir"
     ],
@@ -54902,7 +54878,7 @@
     ],
     "name": "Qom University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qom",
     "domains": [
       "qom.ac.ir"
     ],
@@ -54914,7 +54890,7 @@
     ],
     "name": "Islamic Azad University, Qom",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qom",
     "domains": [
       "qom-iau.ac.ir"
     ],
@@ -54926,7 +54902,7 @@
     ],
     "name": "Qazvin University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qazvin",
     "domains": [
       "qums.ac.ir"
     ],
@@ -54938,7 +54914,7 @@
     ],
     "name": "Qom University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qom",
     "domains": [
       "qut.ac.ir"
     ],
@@ -54948,9 +54924,9 @@
     "web_pages": [
       "http://www.raghebisf.ac.ir/"
     ],
-    "name": "Raghebe Esfahani University",
+    "name": "Ragheb Esfahani University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "raghebisf.ac.ir"
     ],
@@ -54962,7 +54938,7 @@
     ],
     "name": "Razi University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kermanshah",
     "domains": [
       "razi.ac.ir"
     ],
@@ -54974,7 +54950,7 @@
     ],
     "name": "Islamic Azad University, Roodehen",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "riau.ac.ir"
     ],
@@ -54986,7 +54962,7 @@
     ],
     "name": "Rafsanjan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kerman",
     "domains": [
       "rums.ac.ir"
     ],
@@ -54998,7 +54974,7 @@
     ],
     "name": "Sadjad Institute of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "sadjad.ac.ir"
     ],
@@ -55010,7 +54986,7 @@
     ],
     "name": "Sadra University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "sadra.ac.ir"
     ],
@@ -55020,9 +54996,9 @@
     "web_pages": [
       "http://www.sbmu.ac.ir/"
     ],
-    "name": "Shaheed Beheshti University of Medical Sciences",
+    "name": "Shahid Beheshti University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "sbmu.ac.ir"
     ],
@@ -55032,9 +55008,9 @@
     "web_pages": [
       "http://www.sbu.ac.ir/"
     ],
-    "name": "Shaheed Beheshti University",
+    "name": "Shahid Beheshti University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "sbu.ac.ir"
     ],
@@ -55046,7 +55022,7 @@
     ],
     "name": "Daneshestan Institute of Higher Education",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Markazi",
     "domains": [
       "sdi.ac.ir"
     ],
@@ -55058,7 +55034,7 @@
     ],
     "name": "Semnan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "semnan.ac.ir"
     ],
@@ -55070,7 +55046,7 @@
     ],
     "name": "Islamic Azad University, Semnan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "semnaniau.ac.ir"
     ],
@@ -55082,7 +55058,7 @@
     ],
     "name": "Semnan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "sem-ums.ac.ir"
     ],
@@ -55106,7 +55082,7 @@
     ],
     "name": "Shahed University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "shahed.ac.ir"
     ],
@@ -55118,7 +55094,7 @@
     ],
     "name": "Shahrood University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "shahroodut.ac.ir"
     ],
@@ -55130,7 +55106,7 @@
     ],
     "name": "Islamic Azad University, Shahryar",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "shahryariau.ac.ir"
     ],
@@ -55142,7 +55118,7 @@
     ],
     "name": "Sharif University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "sharif.ac.ir"
     ],
@@ -55152,9 +55128,9 @@
     "web_pages": [
       "http://www.shbu.ac.ir/"
     ],
-    "name": "Sheikhbahaee University",
+    "name": "Sheikh Bahaei University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "shbu.ac.ir"
     ],
@@ -55166,7 +55142,7 @@
     ],
     "name": "Shiraz University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "shirazu.ac.ir"
     ],
@@ -55178,7 +55154,7 @@
     ],
     "name": "Shahrood University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Semnan",
     "domains": [
       "shmu.ac.ir"
     ],
@@ -55190,7 +55166,7 @@
     ],
     "name": "Shomal University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "shomal.ac.ir"
     ],
@@ -55202,7 +55178,7 @@
     ],
     "name": "Shahrekord University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Chaharmahal and Bakhtiari",
     "domains": [
       "sku.ac.ir"
     ],
@@ -55214,7 +55190,7 @@
     ],
     "name": "Shahrekord University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Chaharmahal and Bakhtiari",
     "domains": [
       "skums.ac.ir"
     ],
@@ -55224,9 +55200,9 @@
     "web_pages": [
       "http://www.sowmesaraiau.ac.ir/"
     ],
-    "name": "Islamic Azad University, Sowmesara",
+    "name": "Islamic Azad University, Someh Sara",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Gilan",
     "domains": [
       "sowmesaraiau.ac.ir"
     ],
@@ -55238,7 +55214,7 @@
     ],
     "name": "Shiraz Payamnoor University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "spnu.ac.ir"
     ],
@@ -55250,7 +55226,7 @@
     ],
     "name": "Islamic Azad University, Tehran Science & Research Branch",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "srbiau.ac.ir"
     ],
@@ -55260,9 +55236,9 @@
     "web_pages": [
       "http://www.srttu.edu/"
     ],
-    "name": "Shaheed Rajaei Teacher Training University",
+    "name": "Shahid Rajaee Teacher Training University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "srttu.edu"
     ],
@@ -55274,7 +55250,7 @@
     ],
     "name": "Yazd Medical University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Yazd",
     "domains": [
       "ssu.ac.ir"
     ],
@@ -55286,7 +55262,7 @@
     ],
     "name": "Sabzevar Teacher Training University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "sttu.ac.ir"
     ],
@@ -55298,7 +55274,7 @@
     ],
     "name": "Shiraz University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "sums.ac.ir"
     ],
@@ -55310,7 +55286,7 @@
     ],
     "name": "Sahand University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "sut.ac.ir"
     ],
@@ -55322,7 +55298,7 @@
     ],
     "name": "Shiraz University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Fars",
     "domains": [
       "sutech.ac.ir"
     ],
@@ -55334,7 +55310,7 @@
     ],
     "name": "Tabriz Islamic Art University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "tabriziau.ac.ir"
     ],
@@ -55346,7 +55322,7 @@
     ],
     "name": "Tabriz University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "tabrizu.ac.ir"
     ],
@@ -55358,7 +55334,7 @@
     ],
     "name": "Tabriz University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "tbzmed.ac.ir"
     ],
@@ -55370,7 +55346,7 @@
     ],
     "name": "Tabriz College of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "tct.ac.ir"
     ],
@@ -55382,7 +55358,7 @@
     ],
     "name": "Torbat Heydarieh University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "thums.ac.ir"
     ],
@@ -55394,7 +55370,7 @@
     ],
     "name": "Takestan Islamic Azad University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Qazvin",
     "domains": [
       "tiau.ac.ir"
     ],
@@ -55406,7 +55382,7 @@
     ],
     "name": "Tehran University of Teacher Training",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "tmu.ac.ir"
     ],
@@ -55418,7 +55394,7 @@
     ],
     "name": "Tehran University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "tums.ac.ir"
     ],
@@ -55430,7 +55406,7 @@
     ],
     "name": "University of Applied Science and Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "uast.ac.ir"
     ],
@@ -55442,7 +55418,7 @@
     ],
     "name": "University College of Nabi Akram",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "East Azerbaijan",
     "domains": [
       "ucna.info"
     ],
@@ -55454,7 +55430,7 @@
     ],
     "name": "Isfahan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Isfahan",
     "domains": [
       "ui.ac.ir"
     ],
@@ -55466,7 +55442,7 @@
     ],
     "name": "Shahid Bahonar University of Kerman",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kerman",
     "domains": [
       "uk.ac.ir"
     ],
@@ -55476,9 +55452,9 @@
     "web_pages": [
       "http://www.uma.ac.ir/"
     ],
-    "name": "University of Mohaghegh",
+    "name": "University of Mohaghegh Ardabili",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Ardabili",
     "domains": [
       "uma.ac.ir"
     ],
@@ -55490,7 +55466,7 @@
     ],
     "name": "Ferdowsi University of Mashhad",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Razavi Khorasan",
     "domains": [
       "um.ac.ir"
     ],
@@ -55502,7 +55478,7 @@
     ],
     "name": "Hamadan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Hamadan",
     "domains": [
       "umsha.ac.ir"
     ],
@@ -55514,7 +55490,7 @@
     ],
     "name": "Urmia University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "West Azarbaijan",
     "domains": [
       "umsu.ac.ir"
     ],
@@ -55526,7 +55502,7 @@
     ],
     "name": "Mazandaran University of Iran",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "umz.ac.ir"
     ],
@@ -55538,7 +55514,7 @@
     ],
     "name": "University of Kurdistan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kurdistan",
     "domains": [
       "uok.ac.ir"
     ],
@@ -55550,7 +55526,7 @@
     ],
     "name": "Zabol University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Sistan and Baluchestan",
     "domains": [
       "uoz.ac.ir"
     ],
@@ -55562,7 +55538,7 @@
     ],
     "name": "Urmia University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "West Azerbaijan",
     "domains": [
       "urmia.ac.ir"
     ],
@@ -55572,9 +55548,9 @@
     "web_pages": [
       "http://www.usb.ac.ir/"
     ],
-    "name": "Sistan & Balouchestan University",
+    "name": "Sistan and Baluchestan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Sistan and Baluchestan",
     "domains": [
       "usb.ac.ir"
     ],
@@ -55586,7 +55562,7 @@
     ],
     "name": "University of Science and Culture",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "usc.ac.ir"
     ],
@@ -55598,7 +55574,7 @@
     ],
     "name": "Mazandaran University of Science & Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Mazandaran",
     "domains": [
       "ustmb.ac.ir"
     ],
@@ -55608,9 +55584,9 @@
     "web_pages": [
       "http://www.uswr.ac.ir/"
     ],
-    "name": "University of Social Welfare and Rehabilitation Scinences",
+    "name": "University of Social Welfare and Rehabilitation Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "uswr.ac.ir"
     ],
@@ -55622,7 +55598,7 @@
     ],
     "name": "University of Tehran",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Tehran",
     "domains": [
       "ut.ac.ir"
     ],
@@ -55634,7 +55610,7 @@
     ],
     "name": "Urmia University of Technology",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "West Azerbaijan",
     "domains": [
       "uut.ac.ir"
     ],
@@ -55644,9 +55620,9 @@
     "web_pages": [
       "http://www.vru.ac.ir/"
     ],
-    "name": "Vali-e-Asr University",
+    "name": "Vali-e-Asr University of Rafsanjan",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kerman",
     "domains": [
       "vru.ac.ir"
     ],
@@ -55658,7 +55634,7 @@
     ],
     "name": "Yazd University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Yazd",
     "domains": [
       "yazduni.ac.ir"
     ],
@@ -55670,7 +55646,7 @@
     ],
     "name": "Yasuj University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kohgiluyeh and Boyer-Ahmad",
     "domains": [
       "yu.ac.ir"
     ],
@@ -55682,7 +55658,7 @@
     ],
     "name": "Yasuj University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Kohgiluyeh and Boyer-Ahmad",
     "domains": [
       "yums.ac.ir"
     ],
@@ -55694,7 +55670,7 @@
     ],
     "name": "Zahedan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Sistan and Baluchestan",
     "domains": [
       "zdmu.ac.ir"
     ],
@@ -55706,7 +55682,7 @@
     ],
     "name": "Zanjan University",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Zanjan",
     "domains": [
       "znu.ac.ir"
     ],
@@ -55718,7 +55694,7 @@
     ],
     "name": "Zanjan University of Medical Sciences",
     "alpha_two_code": "IR",
-    "state-province": null,
+    "state-province": "Zanjan",
     "domains": [
       "zums.ac.ir"
     ],
