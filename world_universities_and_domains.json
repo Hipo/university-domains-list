@@ -116335,5 +116335,17 @@
       "art.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.lr.edu/"
+    ],
+    "name": "Lenoir-Rhyne University",
+    "alpha_two_code": "US",
+    "state-province": "North Carolina",
+    "domains": [
+      "lr.edu"
+    ],
+    "country": "United States"
   }
 ]
