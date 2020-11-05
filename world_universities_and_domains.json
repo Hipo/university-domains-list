@@ -116347,5 +116347,17 @@
       "lr.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://pointpark.edu/"
+    ],
+    "name": "Point Park University",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "pointpark.edu"
+    ],
+    "country": "United States"
   }
 ]
