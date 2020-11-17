@@ -91910,7 +91910,8 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "ehu.es"
+      "ehu.es",
+      "ehu.eus"
     ],
     "country": "Spain"
   },
@@ -91982,7 +91983,8 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "muni.es"
+      "muni.es",
+      "mundragon.edu"
     ],
     "country": "Spain"
   },
