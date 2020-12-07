@@ -69302,11 +69302,11 @@
   },
   {
     "web_pages": [
-      "http://www.nuol.edu.la/"
+      "https://www.nuol.edu.la/"
     ],
     "name": "National University of Laos",
     "alpha_two_code": "LA",
-    "state-province": null,
+    "state-province": "Vientiane",
     "domains": [
       "nuol.edu.la"
     ],
@@ -69314,11 +69314,11 @@
   },
   {
     "web_pages": [
-      "http://www.simt.edu.la/"
+      "https://www.scmt.edu.la/"
     ],
-    "name": "Soutsaka Institute of management and Technology",
+    "name": "Soutsaka Institute of Technology",
     "alpha_two_code": "LA",
-    "state-province": null,
+    "state-province": "Vientiane",
     "domains": [
       "simt.edu.la"
     ],
@@ -116099,7 +116099,7 @@
     "domains": [
       "hust.edu.vn"
     ],
-    "country": "Vietnam"
+    "country": "Viet Nam"
   },
   {
     "web_pages": [
