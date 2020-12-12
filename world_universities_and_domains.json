@@ -12876,7 +12876,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "upenn.edu"
+      "upenn.edu",
+      "seas.upenn.edu"
     ],
     "country": "United States"
   },
