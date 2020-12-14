@@ -25829,8 +25829,8 @@
     "state-province": null,
     "domains": [
       "stclairc.on.ca",
-	   "stclairconnect.ca",
-	   "myscc.ca"
+      "stclairconnect.ca",
+      "myscc.ca"
     ],
     "country": "Canada"
   },
@@ -33937,7 +33937,7 @@
     ],
     "country": "Croatia"
   },
-    {
+  {
     "web_pages": [
       "http://www.algebra.hr/"
     ],
@@ -86428,7 +86428,7 @@
     "domains": [
       "ibch.ru"
     ],
-     "country": "Russian Federation"
+    "country": "Russian Federation"
   },
   {
     "web_pages": [
@@ -105399,7 +105399,7 @@
     "state-province": null,
     "domains": [
       "mesacc.edu",
-	  "maricopa.edu"
+      "maricopa.edu"
     ],
     "country": "United States"
   },
@@ -116349,5 +116349,17 @@
       "lr.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.utfpr.edu.br/"
+    ],
+    "name": "Universidade Tecnológica Federal do Paraná",
+    "alpha_two_code": "BR",
+    "country": "Brazil",
+    "state-province": null,
+    "domains": [
+      "utfpr.edu.br"
+    ]
   }
 ]
