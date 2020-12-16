@@ -116349,5 +116349,17 @@
       "lr.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.utfpr.edu.br/"
+    ],
+    "name": "Universidade Tecnológica Federal do Paraná",
+    "alpha_two_code": "BR",
+    "country": "Brazil",
+    "state-province": null,
+    "domains": [
+      "utfpr.edu.br"
+    ]
   }
 ]
