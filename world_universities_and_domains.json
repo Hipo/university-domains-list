@@ -116359,5 +116359,17 @@
       "pointpark.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://langara.ca/"
+    ],
+    "name": "Langara College",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "langara.ca"
+    ],
+    "country": "Canada"
   }
 ]
