@@ -116371,5 +116371,18 @@
       "langara.ca"
     ],
     "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://ontariotechu.ca/"
+    ],
+    "name": "Ontario Tech University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "ontariotechu.ca",
+      "ontariotechu.net"
+    ],
+    "country": "Canada"
   }
 ]
