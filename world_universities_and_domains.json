@@ -25378,13 +25378,15 @@
   },
   {
     "web_pages": [
-      "http://www.langara.bc.ca/"
+      "http://www.langara.bc.ca/",
+      "https://langara.ca/"
     ],
     "name": "Langara College",
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "langara.bc.ca"
+      "langara.bc.ca",
+      "langara.ca"
     ],
     "country": "Canada"
   },
@@ -116398,5 +116400,30 @@
       "nuist.edu.cn"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://pointpark.edu/"
+    ],
+    "name": "Point Park University",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "pointpark.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://ontariotechu.ca/"
+    ],
+    "name": "Ontario Tech University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "ontariotechu.ca",
+      "ontariotechu.net"
+    ],
+    "country": "Canada"
   }
 ]
