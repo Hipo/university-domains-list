@@ -21800,6 +21800,18 @@
   },
   {
     "web_pages": [
+      "http://www.ime.eb.mil.br"
+    ],
+    "name": "Instituto Militar de Engenharia",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ime.eb.mil.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
       "http://www.ita.br/"
     ],
     "name": "Instituto Tecnológico de Aeronáutica",
