@@ -116374,5 +116374,17 @@
     "domains": [
       "utfpr.edu.br"
     ]
+  },
+  {
+    "web_pages": [
+      "https://www.nuist.edu.cn/"
+    ],
+    "name": "Nanjing University of Information Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "nuist.edu.cn"
+    ],
+    "country": "China"
   }
 ]
