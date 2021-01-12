@@ -100534,7 +100534,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "cardiff.ac.uk"
+      "cardiff.ac.uk",
+      "cf.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -100714,7 +100715,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "essex.ac.uk"
+      "essex.ac.uk",
+      "sx.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -101415,6 +101417,7 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
+      "oxford.ac.uk",
       "ox.ac.uk"
     ],
     "country": "United Kingdom"
@@ -101555,13 +101558,15 @@
   },
   {
     "web_pages": [
-      "http://www.rhbnc.ac.uk/"
+      "http://www.royalholloway.ac.uk/"
     ],
     "name": "Royal Holloway and Bedford New College",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "rhbnc.ac.uk"
+      "royalholloway.ac.uk",
+      "rhbnc.ac.uk",
+      "rh.ac.uk"
     ],
     "country": "United Kingdom"
   },
