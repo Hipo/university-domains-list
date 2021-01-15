@@ -48265,6 +48265,18 @@
   },
   {
     "web_pages": [
+      "https://www.mitindia.edu/en/"
+    ],
+    "name": "Madras Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mitindia.edu"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "http://www.iitr.ac.in/"
     ],
     "name": "Indian Institute of Technology, Roorkee",
