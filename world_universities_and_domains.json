@@ -12876,7 +12876,8 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "upenn.edu"
+      "upenn.edu",
+      "seas.upenn.edu"
     ],
     "country": "United States"
   },
@@ -21799,6 +21800,18 @@
   },
   {
     "web_pages": [
+      "http://www.ime.eb.mil.br"
+    ],
+    "name": "Instituto Militar de Engenharia",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ime.eb.mil.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
       "http://www.ita.br/"
     ],
     "name": "Instituto Tecnológico de Aeronáutica",
@@ -25365,13 +25378,15 @@
   },
   {
     "web_pages": [
-      "http://www.langara.bc.ca/"
+      "http://www.langara.bc.ca/",
+      "https://langara.ca/"
     ],
     "name": "Langara College",
     "alpha_two_code": "CA",
     "state-province": null,
     "domains": [
-      "langara.bc.ca"
+      "langara.bc.ca",
+      "langara.ca"
     ],
     "country": "Canada"
   },
@@ -35079,18 +35094,6 @@
       "rossu.edu"
     ],
     "country": "Dominica"
-  },
-  {
-    "web_pages": [
-      "http://66.98.64.31/"
-    ],
-    "name": "Universidad Central Dominicana de Estudio Profesionales",
-    "alpha_two_code": "DO",
-    "state-province": null,
-    "domains": [
-      "66.98.64.31"
-    ],
-    "country": "Dominican Republic"
   },
   {
     "web_pages": [
@@ -46688,13 +46691,13 @@
   },
   {
     "web_pages": [
-      "http://59.163.116.210/"
+      "http://ntruhs.ap.nic.in/"
     ],
     "name": "University of Health Sciences Andhra Pradesh",
     "alpha_two_code": "IN",
     "state-province": "Andhra Pradesh",
     "domains": [
-      "59.163.116.210"
+      "ntruhs.ap.nic.in"
     ],
     "country": "India"
   },
@@ -48257,6 +48260,18 @@
     "state-province": null,
     "domains": [
       "iitm.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.mitindia.edu/en/"
+    ],
+    "name": "Madras Institute of Technology",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "mitindia.edu"
     ],
     "country": "India"
   },
@@ -82278,13 +82293,13 @@
   },
   {
     "web_pages": [
-      "http://149.156.19.10/"
+      "http://www.asp.krakow.pl/"
     ],
     "name": "Fine Arts Academy \"Jan Matejko\" in Cracow",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "149.156.19.10"
+      "asp.krakow.pl"
     ],
     "country": "Poland"
   },
@@ -91923,7 +91938,8 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "ehu.es"
+      "ehu.es",
+      "ehu.eus"
     ],
     "country": "Spain"
   },
@@ -91995,7 +92011,8 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "muni.es"
+      "muni.es",
+      "mundragon.edu"
     ],
     "country": "Spain"
   },
@@ -96461,11 +96478,11 @@
   },
   {
     "web_pages": [
-      "http://www.ait.ac.th/"
+      "https://www.ait.ac.th/"
     ],
     "name": "Asian Institute of Technology",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Pathum Thani",
     "domains": [
       "ait.ac.th"
     ],
@@ -96473,11 +96490,11 @@
   },
   {
     "web_pages": [
-      "http://www.aru.ac.th/"
+      "https://www.aru.ac.th/"
     ],
     "name": "Phranakhon Si Ayutthaya Rajabhat University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Phra Nakhon Si Ayutthaya",
     "domains": [
       "aru.ac.th"
     ],
@@ -96489,7 +96506,7 @@
     ],
     "name": "Asian University of Science and Technology",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chon Buri",
     "domains": [
       "asianust.ac.th"
     ],
@@ -96497,11 +96514,11 @@
   },
   {
     "web_pages": [
-      "http://www.au.edu/"
+      "https://www.au.edu/"
     ],
     "name": "Assumption University of Thailand",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "au.edu"
     ],
@@ -96509,11 +96526,11 @@
   },
   {
     "web_pages": [
-      "http://www.bu.ac.th/"
+      "https://www.bu.ac.th/"
     ],
     "name": "Bangkok University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "bu.ac.th"
     ],
@@ -96521,11 +96538,11 @@
   },
   {
     "web_pages": [
-      "http://www.buu.ac.th/"
+      "https://www.buu.ac.th/"
     ],
     "name": "Burapha University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chon Buri",
     "domains": [
       "buu.ac.th"
     ],
@@ -96533,11 +96550,11 @@
   },
   {
     "web_pages": [
-      "http://www.chiangmai.ac.th/"
+      "https://www.chiangmai.ac.th/"
     ],
     "name": "Chiang Mai University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Mai",
     "domains": [
       "chiangmai.ac.th"
     ],
@@ -96549,7 +96566,7 @@
     ],
     "name": "Rajamangala University of Technology, Lanna Chiang Rai",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Rai",
     "domains": [
       "chiangraicampus.rmutl.ac.th"
     ],
@@ -96557,11 +96574,11 @@
   },
   {
     "web_pages": [
-      "http://www.chula.ac.th/"
+      "https://www.chula.ac.th/"
     ],
     "name": "Chulalongkorn University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "chula.ac.th"
     ],
@@ -96569,11 +96586,11 @@
   },
   {
     "web_pages": [
-      "http://www.cmru.ac.th/"
+      "https://www.cmru.ac.th/"
     ],
     "name": "Chiang Mai Rajabhat University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Mai",
     "domains": [
       "cmru.ac.th"
     ],
@@ -96585,7 +96602,7 @@
     ],
     "name": "Chiang Mai Vocational College",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Mai",
     "domains": [
       "cmvc.ac.th"
     ],
@@ -96597,7 +96614,7 @@
     ],
     "name": "Chaopraya University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Sawan",
     "domains": [
       "cpu.ac.th"
     ],
@@ -96605,11 +96622,11 @@
   },
   {
     "web_pages": [
-      "http://www.dpu.ac.th/"
+      "https://www.dpu.ac.th/"
     ],
     "name": "Dhurakijpundit University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "dpu.ac.th"
     ],
@@ -96621,7 +96638,7 @@
     ],
     "name": "Suan Dusit Rajabhat University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "dusit.ac.th"
     ],
@@ -96629,11 +96646,11 @@
   },
   {
     "web_pages": [
-      "http://www.eau.ac.th/"
+      "https://www.eau.ac.th/"
     ],
     "name": "Eastern Asia University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Pathum Thani",
     "domains": [
       "eau.ac.th"
     ],
@@ -96641,11 +96658,11 @@
   },
   {
     "web_pages": [
-      "http://www.efau.org/"
+      "http://www.asianu.ac.th/"
     ],
-    "name": "Engineering Faculty of Asian University",
+    "name": "Asian University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chon Buri",
     "domains": [
       "efau.org"
     ],
@@ -96653,11 +96670,11 @@
   },
   {
     "web_pages": [
-      "http://www.hcu.ac.th/"
+      "https://www.hcu.ac.th/"
     ],
     "name": "Huachiew Chalermprakiet University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Samut Prakarn",
     "domains": [
       "hcu.ac.th"
     ],
@@ -96669,7 +96686,7 @@
     ],
     "name": "Hatyai University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Songkhla",
     "domains": [
       "hu.ac.th"
     ],
@@ -96677,11 +96694,11 @@
   },
   {
     "web_pages": [
-      "http://www.ibc.ac.th/"
+      "https://www.ibc.ac.th/"
     ],
     "name": "International Buddhist College",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "SongKhla",
     "domains": [
       "ibc.ac.th"
     ],
@@ -96689,11 +96706,11 @@
   },
   {
     "web_pages": [
-      "http://www.kbu.ac.th/"
+      "https://www.kbu.ac.th/"
     ],
     "name": "Kasem Bundit University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "kbu.ac.th"
     ],
@@ -96701,11 +96718,11 @@
   },
   {
     "web_pages": [
-      "http://www.kku.ac.th/"
+      "https://www.kku.ac.th/"
     ],
     "name": "Khon Kaen University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Khon Kaen",
     "domains": [
       "kku.ac.th"
     ],
@@ -96717,7 +96734,7 @@
     ],
     "name": "King Mongkut's University of Technology Ladkrabang",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "kmitl.ac.th"
     ],
@@ -96725,11 +96742,11 @@
   },
   {
     "web_pages": [
-      "http://www.kmutnb.ac.th/"
+      "https://www.kmutnb.ac.th/"
     ],
     "name": "King Mongkut's University of Technology North Bangkok",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "kmutnb.ac.th"
     ],
@@ -96737,11 +96754,11 @@
   },
   {
     "web_pages": [
-      "http://www.kmutt.ac.th/"
+      "https://www.kmutt.ac.th/"
     ],
     "name": "King Mongkut's University of Technology Thonburi",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "kmutt.ac.th"
     ],
@@ -96749,11 +96766,11 @@
   },
   {
     "web_pages": [
-      "http://www.krirk.ac.th/"
+      "https://www.krirk.ac.th/"
     ],
     "name": "Krirk University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "krirk.ac.th"
     ],
@@ -96761,11 +96778,11 @@
   },
   {
     "web_pages": [
-      "http://www.ku.ac.th/"
+      "https://www.ku.ac.th/"
     ],
     "name": "Kasetsart University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "ku.ac.th"
     ],
@@ -96777,7 +96794,7 @@
     ],
     "name": "Lampang Vocational College",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Lampang",
     "domains": [
       "lampangvc.ac.th"
     ],
@@ -96789,7 +96806,7 @@
     ],
     "name": "Lamphun College of Agriculture and Technology",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Lamphun",
     "domains": [
       "lcat.ac.th"
     ],
@@ -96801,7 +96818,7 @@
     ],
     "name": "Lampang College of Commerce and Technology",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Lampang",
     "domains": [
       "lcct.ac.th"
     ],
@@ -96809,11 +96826,11 @@
   },
   {
     "web_pages": [
-      "http://www.lpru.ac.th/"
+      "https://www.lpru.ac.th/"
     ],
     "name": "Lampang Rajabhat University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Lampang",
     "domains": [
       "lpru.ac.th"
     ],
@@ -96821,11 +96838,11 @@
   },
   {
     "web_pages": [
-      "http://www.mahidol.ac.th/"
+      "https://www.mahidol.ac.th/"
     ],
     "name": "Mahidol University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Pathom",
     "domains": [
       "mahidol.ac.th"
     ],
@@ -96837,7 +96854,7 @@
     ],
     "name": "Mahamakut Buddhist University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Pathom",
     "domains": [
       "mbu.ac.th"
     ],
@@ -96845,11 +96862,11 @@
   },
   {
     "web_pages": [
-      "http://www.mcu.ac.th/"
+      "https://www.mcu.ac.th/"
     ],
     "name": "Mahachulalongkorn Buddhist University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "mcu.ac.th"
     ],
@@ -96857,11 +96874,11 @@
   },
   {
     "web_pages": [
-      "http://www.mfu.ac.th/"
+      "https://www.mfu.ac.th/"
     ],
     "name": "Mae Fah Luang University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Rai",
     "domains": [
       "mfu.ac.th"
     ],
@@ -96869,11 +96886,11 @@
   },
   {
     "web_pages": [
-      "http://www.mju.ac.th/"
+      "https://www.mju.ac.th/"
     ],
     "name": "Maejo University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Mai",
     "domains": [
       "mju.ac.th"
     ],
@@ -96885,7 +96902,7 @@
     ],
     "name": "Mahasarakham University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Mahasarakham",
     "domains": [
       "msu.ac.th"
     ],
@@ -96893,11 +96910,11 @@
   },
   {
     "web_pages": [
-      "http://www.muic.mahidol.ac.th/"
+      "https://www.muic.mahidol.ac.th/"
     ],
     "name": "Mahidol University International College",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Pathom",
     "domains": [
       "muic.mahidol.ac.th"
     ],
@@ -96909,7 +96926,7 @@
     ],
     "name": "Mahanakorn University of Technology",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "mut.ac.th"
     ],
@@ -96917,11 +96934,11 @@
   },
   {
     "web_pages": [
-      "http://www.nan.rmutl.ac.th/"
+      "https://www.nan.rmutl.ac.th/"
     ],
     "name": "Rajamangala University of Technology, Lanna Nan",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nan",
     "domains": [
       "nan.rmutl.ac.th"
     ],
@@ -96933,7 +96950,7 @@
     ],
     "name": "National Institute of Development Administration",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "nida.ac.th"
     ],
@@ -96941,11 +96958,11 @@
   },
   {
     "web_pages": [
-      "http://www.nuv.ac.in/"
+      "https://www.nuv.ac.in/"
     ],
     "name": "Navrachana University",
     "alpha_two_code": "IN",
-    "state-province": null,
+    "state-province": "Gujarat",
     "domains": [
       "nuv.ac.in"
     ],
@@ -96957,7 +96974,7 @@
     ],
     "name": "Nivadhana University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Lamphun",
     "domains": [
       "nivadhana.ac.th"
     ],
@@ -96965,11 +96982,11 @@
   },
   {
     "web_pages": [
-      "http://www.nu.ac.th/"
+      "https://www.nu.ac.th/"
     ],
     "name": "Naresuan University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Phitsanulok",
     "domains": [
       "nu.ac.th"
     ],
@@ -96977,11 +96994,11 @@
   },
   {
     "web_pages": [
-      "http://www.payap.ac.th/"
+      "https://www.payap.ac.th/"
     ],
     "name": "Payap University Chaiang Mai",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Chiang Mai",
     "domains": [
       "payap.ac.th"
     ],
@@ -96989,11 +97006,11 @@
   },
   {
     "web_pages": [
-      "http://www.psu.ac.th/"
+      "https://www.psu.ac.th/"
     ],
     "name": "Prince of Songkla University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Songkhla",
     "domains": [
       "psu.ac.th"
     ],
@@ -97001,11 +97018,11 @@
   },
   {
     "web_pages": [
-      "http://www.ptu.ac.th/"
+      "https://www.ptu.ac.th/"
     ],
     "name": "Pathumthani University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Pathum Thani",
     "domains": [
       "ptu.ac.th"
     ],
@@ -97013,11 +97030,11 @@
   },
   {
     "web_pages": [
-      "http://www.rmutp.ac.th/"
+      "https://www.rmutp.ac.th/"
     ],
     "name": "Rajamangala University of Technology, Phra Nakhon",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "rmutp.ac.th"
     ],
@@ -97025,11 +97042,11 @@
   },
   {
     "web_pages": [
-      "http://www.rsu.ac.th/"
+      "https://www2.rsu.ac.th/"
     ],
     "name": "Rangsit University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Pathum Thani",
     "domains": [
       "rsu.ac.th"
     ],
@@ -97037,11 +97054,11 @@
   },
   {
     "web_pages": [
-      "http://www.ru.ac.th/"
+      "https://www.ru.ac.th/"
     ],
     "name": "Ramkhamhaeng University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "ru.ac.th"
     ],
@@ -97049,11 +97066,11 @@
   },
   {
     "web_pages": [
-      "http://www.sau.ac.th/"
+      "https://www.sau.ac.th/"
     ],
     "name": "South-East Asia University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "sau.ac.th"
     ],
@@ -97065,7 +97082,7 @@
     ],
     "name": "Shinawatra University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Pathum Thani",
     "domains": [
       "shinawatra.ac.th"
     ],
@@ -97073,11 +97090,11 @@
   },
   {
     "web_pages": [
-      "http://www.siam.edu/"
+      "https://www.siam.edu/"
     ],
     "name": "Siam University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "siam.edu"
     ],
@@ -97085,11 +97102,11 @@
   },
   {
     "web_pages": [
-      "http://www.spu.ac.th/"
+      "https://www.spu.ac.th/"
     ],
     "name": "Sripatum University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "spu.ac.th"
     ],
@@ -97097,11 +97114,11 @@
   },
   {
     "web_pages": [
-      "http://www.stamford.edu/"
+      "https://www.stamford.edu/"
     ],
     "name": "Stamford International University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "stamford.edu"
     ],
@@ -97109,11 +97126,11 @@
   },
   {
     "web_pages": [
-      "http://www.stjohn.ac.th/"
+      "https://www.stjohn.ac.th/"
     ],
     "name": "St. John's University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "stjohn.ac.th"
     ],
@@ -97121,11 +97138,11 @@
   },
   {
     "web_pages": [
-      "http://www.stou.ac.th/"
+      "https://www.stou.ac.th/"
     ],
     "name": "Sukhothai Thammathirat Open University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nonthaburi",
     "domains": [
       "stou.ac.th"
     ],
@@ -97133,11 +97150,11 @@
   },
   {
     "web_pages": [
-      "http://www.su.ac.th/"
+      "https://www.su.ac.th/"
     ],
     "name": "Silpakorn University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "su.ac.th"
     ],
@@ -97149,7 +97166,7 @@
     ],
     "name": "Suranaree University of Technology",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Ratchasima",
     "domains": [
       "sut.ac.th"
     ],
@@ -97157,11 +97174,11 @@
   },
   {
     "web_pages": [
-      "http://www.swu.ac.th/"
+      "https://www.swu.ac.th/"
     ],
     "name": "Srinakharinwirot University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "swu.ac.th"
     ],
@@ -97169,11 +97186,11 @@
   },
   {
     "web_pages": [
-      "http://www.tsu.ac.th/"
+      "https://www.tsu.ac.th/"
     ],
     "name": "Thaksin University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Songkhla",
     "domains": [
       "tsu.ac.th"
     ],
@@ -97181,11 +97198,11 @@
   },
   {
     "web_pages": [
-      "http://www.tu.ac.th/"
+      "https://www.tu.ac.th/"
     ],
     "name": "Thammasat University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "tu.ac.th"
     ],
@@ -97193,11 +97210,11 @@
   },
   {
     "web_pages": [
-      "http://www.ubu.ac.th/"
+      "https://www.ubu.ac.th/"
     ],
     "name": "Ubonratchathani University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Ubonratchathani",
     "domains": [
       "ubu.ac.th"
     ],
@@ -97205,11 +97222,11 @@
   },
   {
     "web_pages": [
-      "http://www.utcc.ac.th/"
+      "https://www.utcc.ac.th/"
     ],
     "name": "University of the Thai Chamber of Commerce",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Bangkok",
     "domains": [
       "utcc.ac.th"
     ],
@@ -97217,11 +97234,11 @@
   },
   {
     "web_pages": [
-      "http://www.vu.ac.th/"
+      "https://www.vu.ac.th/"
     ],
     "name": "Vongchavalitkul University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Ratchasima",
     "domains": [
       "vu.ac.th"
     ],
@@ -97229,11 +97246,11 @@
   },
   {
     "web_pages": [
-      "http://www.webster.ac.th/"
+      "https://www.webster.ac.th/"
     ],
     "name": "Webster University, Thailand",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Petchaburi",
     "domains": [
       "webster.ac.th"
     ],
@@ -97241,11 +97258,11 @@
   },
   {
     "web_pages": [
-      "http://www.wu.ac.th/"
+      "https://www.wu.ac.th/"
     ],
     "name": "Walailak University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Nakhon Si Thammarat",
     "domains": [
       "wu.ac.th"
     ],
@@ -97253,13 +97270,13 @@
   },
   {
     "web_pages": [
-      "http://www.yonok.ac.th/"
+      "http://www.nation.ac.th/"
     ],
-    "name": "Yonok University",
+    "name": "Nation University",
     "alpha_two_code": "TH",
-    "state-province": null,
+    "state-province": "Lampang",
     "domains": [
-      "yonok.ac.th"
+      "nation.ac.th"
     ],
     "country": "Thailand"
   },
@@ -100530,7 +100547,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "cardiff.ac.uk"
+      "cardiff.ac.uk",
+      "cf.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -100710,7 +100728,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "essex.ac.uk"
+      "essex.ac.uk",
+      "sx.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -100746,7 +100765,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "gcal.ac.uk"
+      "gcal.ac.uk",
+      "gcu.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -100921,12 +100941,13 @@
   },
   {
     "web_pages": [
-      "http://www.ic.ac.uk/"
+      "http://www.imperial.ac.uk/"
     ],
     "name": "Imperial College London",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
+      "imperial.ac.uk",
       "ic.ac.uk"
     ],
     "country": "United Kingdom"
@@ -101410,6 +101431,7 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
+      "oxford.ac.uk",
       "ox.ac.uk"
     ],
     "country": "United Kingdom"
@@ -101550,13 +101572,15 @@
   },
   {
     "web_pages": [
-      "http://www.rhbnc.ac.uk/"
+      "http://www.royalholloway.ac.uk/"
     ],
     "name": "Royal Holloway and Bedford New College",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "rhbnc.ac.uk"
+      "royalholloway.ac.uk",
+      "rhbnc.ac.uk",
+      "rh.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -116204,7 +116228,7 @@
     "web_pages": [
       "http://www.scad.edu/"
     ],
-    "name": " Savannah College of Art and Design",
+    "name": "Savannah College of Art and Design",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -116360,5 +116384,54 @@
       "lr.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.utfpr.edu.br/"
+    ],
+    "name": "Universidade Tecnológica Federal do Paraná",
+    "alpha_two_code": "BR",
+    "country": "Brazil",
+    "state-province": null,
+    "domains": [
+      "utfpr.edu.br"
+    ]
+  },
+  {
+    "web_pages": [
+      "https://www.nuist.edu.cn/"
+    ],
+    "name": "Nanjing University of Information Science and Technology",
+    "alpha_two_code": "CN",
+    "state-province": "Jiangsu",
+    "domains": [
+      "nuist.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
+      "https://pointpark.edu/"
+    ],
+    "name": "Point Park University",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": [
+      "pointpark.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://ontariotechu.ca/"
+    ],
+    "name": "Ontario Tech University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "ontariotechu.ca",
+      "ontariotechu.net"
+    ],
+    "country": "Canada"
   }
 ]
