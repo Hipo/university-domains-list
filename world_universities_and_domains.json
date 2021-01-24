@@ -116432,5 +116432,17 @@
       "ontariotechu.net"
     ],
     "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.hsu.edu.hk/"
+    ],
+    "name": "The Hang Seng University of Hong Kong",
+    "alpha_two_code": "HK",
+    "state-province": null,
+    "domains": [
+      "hsu.edu.hk"
+    ],
+    "country": "Hong Kong"
   }
 ]
