@@ -99784,6 +99784,18 @@
   },
   {
     "web_pages": [
+      "https://www.lnu.edu.ua/"
+    ],
+    "name": "Lviv University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "lnu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
       "http://www.acd.ac.ae/"
     ],
     "name": "American College Of Dubai",
