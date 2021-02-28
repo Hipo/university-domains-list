@@ -92324,7 +92324,15 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "uhu.es"
+      "uhu.es",
+      "alu.uhu.es",
+      "dti.uhu.es",
+      "dci.uhu.es",
+      "sacu.uhu.es",
+      "caruh.uhu.es",
+      "dcqm.uhu.es",
+      "inv.uhu.es",
+      "sc.uhu.es"
     ],
     "country": "Spain"
   },
