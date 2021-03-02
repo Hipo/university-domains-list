@@ -116457,5 +116457,13 @@
       "hsu.edu.hk"
     ],
     "country": "Hong Kong"
+  },
+  {
+    "web_pages": ["https://www.htl-villach.at/"],
+    "name": "HTL Villach",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": ["htl-villach.at", "edu.htl-villach.at"],
+    "country": "Austria"
   }
 ]
