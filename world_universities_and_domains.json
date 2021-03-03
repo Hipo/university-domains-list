@@ -25844,8 +25844,8 @@
     "state-province": null,
     "domains": [
       "stclairc.on.ca",
-	   "stclairconnect.ca",
-	   "myscc.ca"
+      "stclairconnect.ca",
+      "myscc.ca"
     ],
     "country": "Canada"
   },
@@ -33964,7 +33964,7 @@
     ],
     "country": "Croatia"
   },
-    {
+  {
     "web_pages": [
       "http://www.algebra.hr/"
     ],
@@ -41194,6 +41194,18 @@
     "state-province": null,
     "domains": [
       "cbs.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://code.berlin/"
+    ],
+    "name": "CODE University of Applied Sciences Berlin",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "code.berlin"
     ],
     "country": "Germany"
   },
@@ -86456,7 +86468,7 @@
     "domains": [
       "ibch.ru"
     ],
-     "country": "Russian Federation"
+    "country": "Russian Federation"
   },
   {
     "web_pages": [
@@ -105446,7 +105458,7 @@
     "state-province": null,
     "domains": [
       "mesacc.edu",
-	  "maricopa.edu"
+      "maricopa.edu"
     ],
     "country": "United States"
   },
@@ -116459,11 +116471,16 @@
     "country": "Hong Kong"
   },
   {
-    "web_pages": ["https://www.htl-villach.at/"],
+    "web_pages": [
+      "https://www.htl-villach.at/"
+    ],
     "name": "HTL Villach",
     "alpha_two_code": "AT",
     "state-province": null,
-    "domains": ["htl-villach.at", "edu.htl-villach.at"],
+    "domains": [
+      "htl-villach.at",
+      "edu.htl-villach.at"
+    ],
     "country": "Austria"
   }
 ]
