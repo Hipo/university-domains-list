@@ -26658,13 +26658,13 @@
   },
   {
     "web_pages": [
-      "http://www.puc.cl/"
+      "https://www.uc.cl/"
     ],
     "name": "Pontificia Universidad Catolica de Chile",
     "alpha_two_code": "CL",
     "state-province": null,
     "domains": [
-      "puc.cl"
+      "uc.cl"
     ],
     "country": "Chile"
   },
