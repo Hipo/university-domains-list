@@ -90628,13 +90628,17 @@
   },
   {
     "web_pages": [
-      "http://www.megatrend-edu.net/"
+      "http://www.megatrend-edu.net/",
+      "http://megatrend.edu.rs/",
+      "http://xz.edu.rs/"
     ],
     "name": "Megatrend University of Applied Sciences",
     "alpha_two_code": "RS",
     "state-province": null,
     "domains": [
-      "megatrend-edu.net"
+      "megatrend-edu.net",
+      "megatrend.edu.rs",
+      "xz.edu.rs"
     ],
     "country": "Serbia"
   },
