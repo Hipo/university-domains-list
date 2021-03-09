@@ -87692,7 +87692,8 @@
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "nsu.ru"
+      "nsu.ru",
+      "g.nsu.ru"
     ],
     "country": "Russian Federation"
   },
