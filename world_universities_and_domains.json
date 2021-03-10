@@ -21825,6 +21825,18 @@
   },
   {
     "web_pages": [
+      "https://www.insper.edu.br"
+    ],
+    "name": "Insper Instituto de Ensino e Pesquisa",
+    "alpha_two_code": "BR",
+    "state-province": "SP",
+    "domains": [
+      "insper.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
       "http://www.italo.br/"
     ],
     "name": "Faculdade Italo Brasileira",
