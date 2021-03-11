@@ -40208,13 +40208,16 @@
   },
   {
     "web_pages": [
-      "http://www.univ-mlv.fr/"
+      "http://www.univ-mlv.fr/",
+      "http://www.u-pem.fr/"
     ],
-    "name": "Université de Marne la Vallée",
+    "name": "Université Paris-Est Marne-la-Vallée",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "univ-mlv.fr"
+      "univ-mlv.fr",
+      "u-pem.fr",
+      "etud.u-pem.fr"
     ],
     "country": "France"
   },
