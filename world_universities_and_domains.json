@@ -70385,7 +70385,7 @@
     "domains": [
       "fon.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
@@ -70397,7 +70397,7 @@
     "domains": [
       "seeu.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
@@ -70409,7 +70409,7 @@
     "domains": [
       "ugd.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
@@ -70421,7 +70421,7 @@
     "domains": [
       "uist.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
@@ -70431,9 +70431,12 @@
     "alpha_two_code": "MK",
     "state-province": null,
     "domains": [
-      "ukim.edu.mk"
+      "ukim.edu.mk",
+      "ukim.mk",
+      "finki.ukim.mk",
+      "students.finki.ukim.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
@@ -70445,7 +70448,7 @@
     "domains": [
       "uklo.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
@@ -70457,7 +70460,7 @@
     "domains": [
       "unite.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "Macedonia"
   },
   {
     "web_pages": [
