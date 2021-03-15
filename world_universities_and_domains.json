@@ -86536,13 +86536,16 @@
   },
   {
     "web_pages": [
-      "http://www.ifmo.ru/"
+      "http://www.ifmo.ru/",
+      "https://itmo.ru/"
     ],
     "name": "ITMO University",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "ifmo.ru"
+      "ifmo.ru",
+      "itmo.ru",
+      "niuitmo.ru"
     ],
     "country": "Russian Federation"
   },
