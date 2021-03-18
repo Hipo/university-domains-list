@@ -11846,13 +11846,13 @@
   },
   {
     "web_pages": [
-      "http://www.cudenver.edu/"
+      "http://www.ucdenver.edu/"
     ],
     "name": "University of Colorado at Denver",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "cudenver.edu"
+      "ucdenver.edu"
     ],
     "country": "United States"
   },
@@ -19178,7 +19178,8 @@
     "alpha_two_code": "BD",
     "state-province": null,
     "domains": [
-      "daffodilvarsity.edu.bd"
+      "daffodilvarsity.edu.bd",
+      "diu.edu.bd"
     ],
     "country": "Bangladesh"
   },
@@ -21819,6 +21820,18 @@
     "state-province": null,
     "domains": [
       "ita.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.insper.edu.br"
+    ],
+    "name": "Insper Instituto de Ensino e Pesquisa",
+    "alpha_two_code": "BR",
+    "state-province": "SP",
+    "domains": [
+      "insper.edu.br"
     ],
     "country": "Brazil"
   },
@@ -25844,8 +25857,8 @@
     "state-province": null,
     "domains": [
       "stclairc.on.ca",
-	   "stclairconnect.ca",
-	   "myscc.ca"
+      "stclairconnect.ca",
+      "myscc.ca"
     ],
     "country": "Canada"
   },
@@ -26658,13 +26671,13 @@
   },
   {
     "web_pages": [
-      "http://www.puc.cl/"
+      "https://www.uc.cl/"
     ],
     "name": "Pontificia Universidad Catolica de Chile",
     "alpha_two_code": "CL",
     "state-province": null,
     "domains": [
-      "puc.cl"
+      "uc.cl"
     ],
     "country": "Chile"
   },
@@ -33979,7 +33992,7 @@
     ],
     "country": "Croatia"
   },
-    {
+  {
     "web_pages": [
       "http://www.algebra.hr/"
     ],
@@ -40210,13 +40223,16 @@
   },
   {
     "web_pages": [
-      "http://www.univ-mlv.fr/"
+      "http://www.univ-mlv.fr/",
+      "http://www.u-pem.fr/"
     ],
-    "name": "Université de Marne la Vallée",
+    "name": "Université Paris-Est Marne-la-Vallée",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "univ-mlv.fr"
+      "univ-mlv.fr",
+      "u-pem.fr",
+      "etud.u-pem.fr"
     ],
     "country": "France"
   },
@@ -41209,6 +41225,18 @@
     "state-province": null,
     "domains": [
       "cbs.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://code.berlin/"
+    ],
+    "name": "CODE University of Applied Sciences Berlin",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "code.berlin"
     ],
     "country": "Germany"
   },
@@ -70372,7 +70400,7 @@
     "domains": [
       "fon.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70384,7 +70412,7 @@
     "domains": [
       "seeu.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70396,7 +70424,7 @@
     "domains": [
       "ugd.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70408,7 +70436,7 @@
     "domains": [
       "uist.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70418,9 +70446,12 @@
     "alpha_two_code": "MK",
     "state-province": null,
     "domains": [
-      "ukim.edu.mk"
+      "ukim.edu.mk",
+      "ukim.mk",
+      "finki.ukim.mk",
+      "students.finki.ukim.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70432,7 +70463,7 @@
     "domains": [
       "uklo.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -70444,7 +70475,7 @@
     "domains": [
       "unite.edu.mk"
     ],
-    "country": "Macedonia, the Former Yugoslav Republic of"
+    "country": "North Macedonia"
   },
   {
     "web_pages": [
@@ -86471,7 +86502,7 @@
     "domains": [
       "ibch.ru"
     ],
-     "country": "Russian Federation"
+    "country": "Russian Federation"
   },
   {
     "web_pages": [
@@ -86523,13 +86554,16 @@
   },
   {
     "web_pages": [
-      "http://www.ifmo.ru/"
+      "http://www.ifmo.ru/",
+      "https://itmo.ru/"
     ],
     "name": "ITMO University",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "ifmo.ru"
+      "ifmo.ru",
+      "itmo.ru",
+      "niuitmo.ru"
     ],
     "country": "Russian Federation"
   },
@@ -87695,7 +87729,8 @@
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "nsu.ru"
+      "nsu.ru",
+      "g.nsu.ru"
     ],
     "country": "Russian Federation"
   },
@@ -89723,7 +89758,7 @@
     ],
     "name": "College of Technology at Abha",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Abha",
     "domains": [
       "act.gotevot.edu.sa"
     ],
@@ -89735,7 +89770,7 @@
     ],
     "name": "Alfaisal University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "alfaisal.edu"
     ],
@@ -89747,7 +89782,7 @@
     ],
     "name": "Knowledge International University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "almaarifah.com"
     ],
@@ -89759,7 +89794,7 @@
     ],
     "name": "Al-Yamamah College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "alyamamah.edu.sa"
     ],
@@ -89767,13 +89802,13 @@
   },
   {
     "web_pages": [
-      "http://www.arabou.org.sa/"
+      "http://www.arabou.edu.sa/"
     ],
     "name": "Arab Open University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
-      "arabou.org.sa"
+      "arabou.edu.sa"
     ],
     "country": "Saudi Arabia"
   },
@@ -89783,21 +89818,9 @@
     ],
     "name": "Batterjee Medical College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah",
     "domains": [
       "bmc.edu.sa"
-    ],
-    "country": "Saudi Arabia"
-  },
-  {
-    "web_pages": [
-      "http://www.bmcmedcollege.com/"
-    ],
-    "name": "Al-Batterjee Medical College",
-    "alpha_two_code": "SA",
-    "state-province": null,
-    "domains": [
-      "bmcmedcollege.com"
     ],
     "country": "Saudi Arabia"
   },
@@ -89807,7 +89830,7 @@
     ],
     "name": "Buraydah College for Applied Medical Sciences",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Buraidah",
     "domains": [
       "bpc.edu.sa"
     ],
@@ -89819,7 +89842,7 @@
     ],
     "name": "Al-baha University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Abha",
     "domains": [
       "bu.edu.sa"
     ],
@@ -89831,7 +89854,7 @@
     ],
     "name": "College of Busniess Admnistration",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah",
     "domains": [
       "cba.edu.sa"
     ],
@@ -89843,7 +89866,7 @@
     ],
     "name": "College of Telecommunication & Information",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "cti.edu.sa"
     ],
@@ -89851,13 +89874,13 @@
   },
   {
     "web_pages": [
-      "http://www.daralhekma.edu.sa/"
+      "http://www.dah.edu.sa"
     ],
     "name": "Dar al Hekma College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah",
     "domains": [
-      "daralhekma.edu.sa"
+      "dah.edu.sa"
     ],
     "country": "Saudi Arabia"
   },
@@ -89867,7 +89890,7 @@
     ],
     "name": "Dar Al-Uloom Colleges",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "dau.edu.sa"
     ],
@@ -89879,7 +89902,7 @@
     ],
     "name": "Dammam Community College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Dammam",
     "domains": [
       "dcc.edu.sa"
     ],
@@ -89891,7 +89914,7 @@
     ],
     "name": "College of Technology at Dammam",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Dammam",
     "domains": [
       "dct.gotevot.edu.sa"
     ],
@@ -89903,7 +89926,7 @@
     ],
     "name": "Effat College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah",
     "domains": [
       "effatcollege.edu.sa"
     ],
@@ -89915,7 +89938,7 @@
     ],
     "name": "Fahad Bin Sultan University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Tabuk",
     "domains": [
       "fbsc.edu.sa"
     ],
@@ -89927,7 +89950,7 @@
     ],
     "name": "Ibn Sina National College for Medical Studies",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah ",
     "domains": [
       "ibnsina.edu.sa"
     ],
@@ -89939,7 +89962,7 @@
     ],
     "name": "Al-Imam Mohamed Ibn Saud Islamic University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "imamu.edu.sa"
     ],
@@ -89951,7 +89974,7 @@
     ],
     "name": "Institute of Public Administration",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Dammam",
     "domains": [
       "ipa.edu.sa"
     ],
@@ -89963,7 +89986,7 @@
     ],
     "name": "Islamic University of Medinah",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Medinah",
     "domains": [
       "iu.edu.sa"
     ],
@@ -89975,7 +89998,7 @@
     ],
     "name": "Jazan University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jazan",
     "domains": [
       "jazanu.edu.sa"
     ],
@@ -89987,7 +90010,7 @@
     ],
     "name": "College of Technology at Jeddah",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah",
     "domains": [
       "jct.edu.sa"
     ],
@@ -89999,7 +90022,7 @@
     ],
     "name": "Jubail Industrial College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jubail",
     "domains": [
       "jic.edu.sa"
     ],
@@ -90011,7 +90034,7 @@
     ],
     "name": "Aljouf University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Aljouf",
     "domains": [
       "ju.edu.sa"
     ],
@@ -90023,7 +90046,7 @@
     ],
     "name": "King Abdul Aziz University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jeddah",
     "domains": [
       "kau.edu.sa"
     ],
@@ -90035,7 +90058,7 @@
     ],
     "name": "King Abdullah University of Science and Technology",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Aljouf",
     "domains": [
       "kaust.edu.sa"
     ],
@@ -90047,7 +90070,7 @@
     ],
     "name": "College of Technology at Kharj",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Al-Kharj",
     "domains": [
       "kct.gotevot.edu.sa"
     ],
@@ -90059,7 +90082,7 @@
     ],
     "name": "King Fahd Security College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "kfsc.edu.sa"
     ],
@@ -90071,7 +90094,7 @@
     ],
     "name": "King Faisal University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Al-Ahsa",
     "domains": [
       "kfu.edu.sa"
     ],
@@ -90083,7 +90106,7 @@
     ],
     "name": "King Fahad University of Petroleum and Minerals",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Dhahran",
     "domains": [
       "kfupm.edu.sa"
     ],
@@ -90095,7 +90118,7 @@
     ],
     "name": "King Khaled University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Abha",
     "domains": [
       "kku.edu.sa"
     ],
@@ -90107,7 +90130,7 @@
     ],
     "name": "King Saud bin Abdulaziz University for Health Sciences",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "ksau-hs.edu.sa"
     ],
@@ -90119,7 +90142,7 @@
     ],
     "name": "King Saud University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "ksu.edu.sa"
     ],
@@ -90131,7 +90154,7 @@
     ],
     "name": "Alkharj University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Al-kharj",
     "domains": [
       "ku.edu.sa"
     ],
@@ -90143,7 +90166,7 @@
     ],
     "name": "Knowledge College for Science and Technology",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "mcst.edu.sa"
     ],
@@ -90155,7 +90178,7 @@
     ],
     "name": "Majmaah University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Al Majma'ah",
     "domains": [
       "mu.edu.sa"
     ],
@@ -90167,7 +90190,7 @@
     ],
     "name": "Naif Arab University for Security Sciences",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "nauss.edu.sa"
     ],
@@ -90179,7 +90202,7 @@
     ],
     "name": "Northern Border University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Arar",
     "domains": [
       "nbu.edu.sa"
     ],
@@ -90191,7 +90214,7 @@
     ],
     "name": "College of Nursing and Allied Health Scinces",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "ngha.med.sa"
     ],
@@ -90203,7 +90226,7 @@
     ],
     "name": "Najran University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Najran",
     "domains": [
       "nu.edu.sa"
     ],
@@ -90215,7 +90238,7 @@
     ],
     "name": "Private College of Dentistry and Pharmacy",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "pcdp.edu.sa"
     ],
@@ -90227,7 +90250,7 @@
     ],
     "name": "Prince Mohammad Bin Fahd University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Khobar",
     "domains": [
       "pmu.edu.sa"
     ],
@@ -90251,7 +90274,7 @@
     ],
     "name": "Prince Sultan University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "psu.edu.sa"
     ],
@@ -90263,7 +90286,7 @@
     ],
     "name": "Qassim Private College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Qassim",
     "domains": [
       "qc.edu.sa"
     ],
@@ -90275,7 +90298,7 @@
     ],
     "name": "Qassim University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Qassim",
     "domains": [
       "qu.edu.sa"
     ],
@@ -90287,7 +90310,7 @@
     ],
     "name": "College of Technology at Riyadh",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "rct.edu.sa"
     ],
@@ -90299,7 +90322,7 @@
     ],
     "name": "Riyadh College of Dentistry and Pharmacy",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "riyadh.edu.sa"
     ],
@@ -90311,7 +90334,7 @@
     ],
     "name": "Princess Nora Bint Abdulrahman University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Riyadh",
     "domains": [
       "rug.edu.sa"
     ],
@@ -90323,7 +90346,7 @@
     ],
     "name": "Saad College of Nursing and Allied Health Sciences",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": " Al-Khobar",
     "domains": [
       "saadcollege.com"
     ],
@@ -90335,7 +90358,7 @@
     ],
     "name": "Shaqra University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Shaqra",
     "domains": [
       "su.edu.sa"
     ],
@@ -90347,7 +90370,7 @@
     ],
     "name": "Taibah University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Medina",
     "domains": [
       "taibahu.edu.sa"
     ],
@@ -90359,7 +90382,7 @@
     ],
     "name": "College of Technology at Jazan",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jazan",
     "domains": [
       "tnmeyah.net"
     ],
@@ -90371,7 +90394,7 @@
     ],
     "name": "Taif University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Taif",
     "domains": [
       "tu.edu.sa"
     ],
@@ -90383,7 +90406,7 @@
     ],
     "name": "Jubail University College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Jubail",
     "domains": [
       "ucj.edu.sa"
     ],
@@ -90395,7 +90418,7 @@
     ],
     "name": "University of Dammam",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Dammam",
     "domains": [
       "ud.edu.sa"
     ],
@@ -90407,7 +90430,7 @@
     ],
     "name": "University of Hail",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Hail",
     "domains": [
       "uoh.edu.sa"
     ],
@@ -90419,7 +90442,7 @@
     ],
     "name": "Umm Al-Qura University",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Mecca",
     "domains": [
       "uqu.edu.sa"
     ],
@@ -90431,7 +90454,7 @@
     ],
     "name": "University of Tabuk",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Tabuk",
     "domains": [
       "ut.edu.sa"
     ],
@@ -90443,7 +90466,7 @@
     ],
     "name": "Yanbu Industrial College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Yanbu",
     "domains": [
       "yic.edu.sa"
     ],
@@ -90455,7 +90478,7 @@
     ],
     "name": "Yanbu Technical Institute",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Yanbu",
     "domains": [
       "yti.edu.sa"
     ],
@@ -90467,7 +90490,7 @@
     ],
     "name": "Yanbu University College",
     "alpha_two_code": "SA",
-    "state-province": null,
+    "state-province": "Yanbu",
     "domains": [
       "yuc.edu.sa"
     ],
@@ -90643,13 +90666,17 @@
   },
   {
     "web_pages": [
-      "http://www.megatrend-edu.net/"
+      "http://www.megatrend-edu.net/",
+      "http://megatrend.edu.rs/",
+      "http://xz.edu.rs/"
     ],
     "name": "Megatrend University of Applied Sciences",
     "alpha_two_code": "RS",
     "state-province": null,
     "domains": [
-      "megatrend-edu.net"
+      "megatrend-edu.net",
+      "megatrend.edu.rs",
+      "xz.edu.rs"
     ],
     "country": "Serbia"
   },
@@ -99799,6 +99826,18 @@
   },
   {
     "web_pages": [
+      "https://www.lnu.edu.ua/"
+    ],
+    "name": "Lviv University",
+    "alpha_two_code": "UA",
+    "state-province": null,
+    "domains": [
+      "lnu.edu.ua"
+    ],
+    "country": "Ukraine"
+  },
+  {
+    "web_pages": [
       "http://www.acd.ac.ae/"
     ],
     "name": "American College Of Dubai",
@@ -105449,7 +105488,7 @@
     "state-province": null,
     "domains": [
       "mesacc.edu",
-	  "maricopa.edu"
+      "maricopa.edu"
     ],
     "country": "United States"
   },
@@ -116448,5 +116487,30 @@
       "ontariotechu.net"
     ],
     "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.hsu.edu.hk/"
+    ],
+    "name": "The Hang Seng University of Hong Kong",
+    "alpha_two_code": "HK",
+    "state-province": null,
+    "domains": [
+      "hsu.edu.hk"
+    ],
+    "country": "Hong Kong"
+  },
+  {
+    "web_pages": [
+      "https://www.htl-villach.at/"
+    ],
+    "name": "HTL Villach",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "htl-villach.at",
+      "edu.htl-villach.at"
+    ],
+    "country": "Austria"
   }
 ]

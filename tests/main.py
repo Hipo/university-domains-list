@@ -1,11 +1,15 @@
 import json
 import unittest
+
 import requests
 import validators
 
+
 class DomainsTests(unittest.TestCase):
     def test_json_is_valid(self):
-        with open("../world_universities_and_domains.json", encoding='utf-8') as json_file:
+        with open(
+            "../world_universities_and_domains.json", encoding="utf-8"
+        ) as json_file:
             valid_json = json.load(json_file)
         for university in valid_json:
             self.assertIn("name", university)
@@ -20,7 +24,9 @@ class DomainsTests(unittest.TestCase):
 
     def check_is_alive():
         """ check url then if url isn't alive, add to file """
-        with open('../world_universities_and_domains.json', encoding='utf-8') as json_raw:
+        with open(
+            "../world_universities_and_domains.json", encoding="utf-8"
+        ) as json_raw:
             universities = json.load(json_raw)
         for university in universities[:]:
             try:
@@ -28,8 +34,8 @@ class DomainsTests(unittest.TestCase):
                     print(web_page)
                     requests.get(web_page, allow_redirects=False, timeout=10.0)
             except requests.exceptions.ConnectionError as exc:
-                print('- Website doesn\'t exists: ', exc)
+                print("- Website doesn't exists: ", exc)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     unittest.main(verbosity=2)
