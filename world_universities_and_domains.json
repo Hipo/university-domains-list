@@ -30102,6 +30102,21 @@
   },
   {
     "web_pages": [
+      "http://www.qlu.edu.cn/"
+    ],
+    "name": "Qilu University of Technology",
+    "name_cn": "齐鲁工业大学",
+    "alpha_two_code": "CN",
+    "state-province": "Shan dong",
+    "state-province_cn": "山东",
+    "domains": [
+      "qlu.edu.cn"
+    ],
+    "country": "China",
+    "country_cn": "中国"
+  },
+  {
+    "web_pages": [
       "http://www.qust.edu.cn/"
     ],
     "name": "Qingdao University of Science and Technology",
