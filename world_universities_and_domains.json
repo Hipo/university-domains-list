@@ -45975,13 +45975,15 @@
   },
   {
     "web_pages": [
-      "http://www.usps.edu.hn/"
+      "http://www.usps.edu.hn/",
+      "http://www.usap.edu"
     ],
     "name": "Universidad de San Pedro Sula",
     "alpha_two_code": "HN",
     "state-province": null,
     "domains": [
-      "usps.edu.hn"
+      "usps.edu.hn",
+      "usap.edu"
     ],
     "country": "Honduras"
   },
