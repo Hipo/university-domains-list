@@ -83094,13 +83094,15 @@
   },
   {
     "web_pages": [
-      "http://www.polsl.gliwice.pl/"
+      "http://www.polsl.gliwice.pl/",
+      "http://www.polsl.pl/"
     ],
     "name": "Silesian Technical University of Gliwice",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "polsl.gliwice.pl"
+      "polsl.gliwice.pl",
+      "polsl.pl"
     ],
     "country": "Poland"
   },
