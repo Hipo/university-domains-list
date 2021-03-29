@@ -91651,7 +91651,8 @@
     "alpha_two_code": "ZA",
     "state-province": null,
     "domains": [
-      "uct.ac.za"
+      "uct.ac.za",
+      "myuct.ac.za"
     ],
     "country": "South Africa"
   },
