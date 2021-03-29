@@ -116499,5 +116499,17 @@
       "edu.htl-villach.at"
     ],
     "country": "Austria"
+  },
+  {
+    "web_pages": [
+      "https://udb.ac.id/"
+    ],
+    "name": "Duta Bangsa University",
+    "alpha_two_code": "ID",
+    "state-province": null,
+    "domains": [
+      "udb.ac.id"
+    ],
+    "country": "Indonesia"
   }
 ]
