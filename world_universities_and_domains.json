@@ -90923,6 +90923,18 @@
   },
   {
     "web_pages": [
+      "http://www.tp.edu.sg/"
+    ],
+    "name": "Temasek Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "tp.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
       "http://www.akademiapz.sk/"
     ],
     "name": "Police Academy in Bratislava",
