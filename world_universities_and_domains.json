@@ -20805,6 +20805,18 @@
   },
   {
     "web_pages": [
+      "https://www.odisee.be/"
+    ],
+    "name": "University College Odisee",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "odisee.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
       "http://www.aucmed.edu/"
     ],
     "name": "American University of the Caribbean, School of Medicine",
