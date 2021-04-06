@@ -116180,6 +116180,18 @@
   },
   {
     "web_pages": [
+      "https://www.ba-bautzen.de/"
+    ],
+    "name": "Staatliche Studienakademie Bautzen",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "ba-bautzen.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
       "https://trinitybiblecollege.edu"
     ],
     "name": "Trinity Bible College & Graduate School",
