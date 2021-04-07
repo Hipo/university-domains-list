@@ -5151,6 +5151,20 @@
     "alpha_two_code": "US"
   },
   {
+    "name": "Duke KunShan University",
+    "country": "China",
+    "name_cn": "昆山杜克大学",
+    "state-province": null,
+    "country_cn": "中国",
+    "domains": [
+      "duke.edu"
+    ],
+    "web_pages": [
+      "https://dukekunshan.edu.cn/"
+    ],
+    "alpha_two_code": "CN"
+  },
+  {
     "name": "Duquesne University",
     "country": "United States",
     "name_cn": null,
