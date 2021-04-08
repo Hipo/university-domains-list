@@ -116626,6 +116626,18 @@
   },
   {
     "web_pages": [
+      "https://www.lynu.edu.cn/"
+    ],
+    "name": "Luoyang Normal University",
+    "alpha_two_code": "CN",
+    "state-province": "Henan",
+    "domains": [
+      "lynu.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
       "https://pointpark.edu/"
     ],
     "name": "Point Park University",
