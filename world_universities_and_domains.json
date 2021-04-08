@@ -44320,12 +44320,14 @@
   },
   {
     "web_pages": [
-      "http://www.uni-oldenburg.de/"
+      "https://uol.de",
+      "https://www.uni-oldenburg.de/"
     ],
     "name": "Carl von Ossietzky Universität Oldenburg",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "uol.de",
       "uni-oldenburg.de"
     ],
     "country": "Germany"
