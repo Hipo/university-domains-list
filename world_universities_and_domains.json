@@ -35797,6 +35797,20 @@
     "alpha_two_code": "CN"
   },
   {
+    "name": "Shaanxi University of Technology",
+    "country": "China",
+    "name_cn": "陕西理工大学",
+    "state-province": null,
+    "country_cn": "中国",
+    "domains": [
+      "snut.edu.cn"
+    ],
+    "web_pages": [
+      "http://www.snut.edu.cn/"
+    ],
+    "alpha_two_code": "CN"
+  },
+  {
     "name": "Shaanxi Normal University",
     "country": "China",
     "name_cn": "陕西师范大学",
