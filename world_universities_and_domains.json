@@ -56710,12 +56710,14 @@
   },
   {
     "web_pages": [
+      "https://www.nuigalway.ie/",
       "http://www.ucg.ie/"
     ],
     "name": "National University of Ireland, Galway",
     "alpha_two_code": "IE",
     "state-province": null,
     "domains": [
+      "nuigalway.ie",
       "ucg.ie"
     ],
     "country": "Ireland"
