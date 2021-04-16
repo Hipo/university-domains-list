@@ -20601,12 +20601,14 @@
   },
   {
     "web_pages": [
+      "https://www.ugent.be/",
       "http://www.rug.ac.be/"
     ],
     "name": "Universiteit Gent",
     "alpha_two_code": "BE",
     "state-province": null,
     "domains": [
+      "ugent.be",
       "rug.ac.be"
     ],
     "country": "Belgium"
