@@ -116777,16 +116777,16 @@
   },
   {
     "web_pages": [
-	  "https://www.infnet.edu.br/infnet/",
+      "https://www.infnet.edu.br/infnet/",
       "https://ecdd.infnet.edu.br/",
       "https://www.infnet.edu.br/esti/",
-	  "https://negocios.infnet.edu.br/",
-	  "https://bootcamp.infnet.edu.br/",
-	  "https://training.infnet.edu.br/"
+      "https://negocios.infnet.edu.br/",
+      "https://bootcamp.infnet.edu.br/",
+      "https://training.infnet.edu.br/"
     ],
     "name": "Instituto Infnet",
     "alpha_two_code": "BR",
-    "state-province": null,
+    "state-province": "Rio de Janeiro",
     "domains": [
       "infnet.edu.br",
       "al.infnet.edu.br",
