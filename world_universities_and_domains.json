@@ -30429,6 +30429,18 @@
   },
   {
     "web_pages": [
+      "http://www.sdufe.edu.cn/"
+    ],
+    "name": "Shandong University of Finance and Economics",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+      "sdufe.edu.cn"
+    ],
+    "country": "China"
+  },
+  {
+    "web_pages": [
       "http://www.seu.edu.cn/"
     ],
     "name": "Southeast University",
