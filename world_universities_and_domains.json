@@ -21793,7 +21793,7 @@
     "web_pages": [
       "http://www.furg.br/"
     ],
-    "name": "Universidade do Rio Grande",
+    "name": "Universidade Federal do Rio Grande",
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": [
@@ -22459,6 +22459,54 @@
     "domains": [
       "ufmg.br",
       "dcc.ufmg.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "http://www.ufvjm.edu.br"
+    ],
+    "name": "Universidade Federal dos Vales do Jequitinhonha e Mucuri",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufvjm.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://unifei.edu.br/"
+    ],
+    "name": "Universidade Federal de Itajubá",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "unifei.edu.br"
+    ],
+    "country": "Brazil"
+  },
+   {
+    "web_pages": [
+      "https://www.ufsj.edu.br/"
+    ],
+    "name": "Universidade Federal de São João del-Rei",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufsj.edu.br"
+    ],
+    "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "http://www.uftm.edu.br/"
+    ],
+    "name": "Universidade Federal do Triângulo Mineiro",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "uftm.edu.br"
     ],
     "country": "Brazil"
   },
