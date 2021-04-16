@@ -116749,5 +116749,18 @@
       "udb.ac.id"
     ],
     "country": "Indonesia"
+  },
+  {
+    "web_pages": [
+      "https://jedlik.eu/"
+    ],
+    "name": "Győr Jedlik Ányos Mechanical Engineering and Informatics Technical School",
+    "alpha_two_code": "HU",
+    "state-province": null,
+    "domains": [
+      "jedlik.eu",
+      "students.jedlik.eu"
+    ],
+    "country": "Hungary"
   }
 ]
