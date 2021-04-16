@@ -116762,5 +116762,17 @@
       "students.jedlik.eu"
     ],
     "country": "Hungary"
+  },
+  {
+    "web_pages": [
+      "https://northwood.edu/"
+    ],
+    "name": "Northwood University",
+    "alpha_two_code": "US",
+    "state-province": "Michigan",
+    "domains": [
+      "northwood.edu"
+    ],
+    "country": "United States"
   }
 ]
