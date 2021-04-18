@@ -37767,6 +37767,14 @@
     "country": "Finland"
   },
   {
+    "web_pages": ["https://www.metropolia.fi/"],
+    "name": "Metropolia University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": ["metropolia.fi"],
+    "country": "Finland"
+  },
+  {
     "web_pages": [
       "http://www.42.fr/"
     ],
