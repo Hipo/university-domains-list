@@ -116805,5 +116805,29 @@
       "prof.infnet.edu.br"
     ],
     "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://ssst.edu.ba/"
+    ],
+    "name": "Sarajevo School of Science and Technology",
+    "alpha_two_code": "BA",
+    "state-province": null,
+    "domains": [
+      "ssst.edu.ba"
+    ],
+    "country": "Bosnia and Herzegovina"
+  },
+  {
+    "web_pages": [
+      "www.hbc.edu.cn"
+    ],
+    "name": "Hubei Business College",
+    "alpha_two_code": "CN",
+    "state-province": "Hubei",
+    "domains": [
+      "hbc.edu.cn"
+    ],
+    "country": "China"
   }
 ]
