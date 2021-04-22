@@ -41310,18 +41310,6 @@
   },
   {
     "web_pages": [
-      "http://www.dhbw.de/"
-    ],
-    "name": "Duale Hochschule Baden-Württemberg",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": [
-      "dhbw.de"
-    ],
-    "country": "Germany"
-  },
-  {
-    "web_pages": [
       "http://www.dhv-speyer.de/"
     ],
     "name": "Deutsche Hochschule für Verwaltungswissenschaften Speyer",
@@ -116242,13 +116230,165 @@
   },
   {
     "web_pages": [
-      "http://www.dhbw-mannheim.de/"
+      "http://www.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.heidenheim.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Heidenheim",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "heidenheim.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.cas.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Center for Advanced Studies (CAS)",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "cas.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-loerrach.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Lörrach",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-loerrach.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-mosbach.de/",
+      "https://www.mosbach.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Mosbach",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-mosbach.de",
+      "mosbach.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.ravensburg.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Ravensburg",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "ravensburg.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-stuttgart.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Stuttgart",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-stuttgart.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-vs.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Villingen-Schwenningen",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-vs.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.heilbronn.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Heilbronn",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "heilbronn.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-karlsruhe.de/",
+      "http://www.karlsruhe.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Karlsruhe",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-karlsruhe.de",
+      "karlsruhe.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-mannheim.de/",
+      "http://www.mannheim.dhbw.de/"
     ],
     "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
     "alpha_two_code": "DE",
     "state-province": "null",
     "domains": [
-      "dhbw-mannheim.de"
+      "dhbw-mannheim.de",
+      "mannheim.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.dhbw-mosbach.de/",
+      "http://www.mosbach.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Mosbach / Bad Mergentheim",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "dhbw-mosbach.de",
+      "mosbach.dhbw.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.ravensburg.dhbw.de/"
+    ],
+    "name": "Duale Hochschule Baden-Württemberg Ravensburg / Friedrichshafen",
+    "alpha_two_code": "DE",
+    "state-province": "null",
+    "domains": [
+      "ravensburg.dhbw.de"
     ],
     "country": "Germany"
   },
