@@ -116468,6 +116468,20 @@
   },
   {
     "web_pages": [
+      "https://campus-saint-marc.com/"
+    ],
+    "name": "Campus Saint Marc",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "campus-saint-marc.com",
+      "csmrouen.com",
+      "csmrouen.net"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "http://btu.ge"
     ],
     "name": "Business and Technology University",
