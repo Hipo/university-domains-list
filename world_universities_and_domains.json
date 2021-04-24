@@ -12919,6 +12919,18 @@
   },
   {
     "web_pages": [
+      "https://www.upb.pitt.edu/"
+    ],
+    "name": "University of Pittsburgh at Bradford",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+        "upb.pitt.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.up.edu/"
     ],
     "name": "University of Portland",
