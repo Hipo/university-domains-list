@@ -223,7 +223,7 @@
     ],
     "name": "University of Pittsburgh Medical Center",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "upmc.edu",
       "upmc.com"
@@ -2423,7 +2423,7 @@
     ],
     "name": "Bloomsburg University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "bloomu.edu"
     ],
@@ -2978,7 +2978,7 @@
     ],
     "name": "California University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "cup.edu"
     ],
@@ -3460,7 +3460,7 @@
     ],
     "name": "Clarion University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "clarion.edu"
     ],
@@ -4566,7 +4566,7 @@
     ],
     "name": "East Stroudsburg State University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "esu.edu"
     ],
@@ -4602,7 +4602,7 @@
     ],
     "name": "Edinboro University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "edinboro.edu"
     ],
@@ -5574,7 +5574,7 @@
     ],
     "name": "Haverford College in Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "haverford.edu"
     ],
@@ -5925,7 +5925,7 @@
     ],
     "name": "Indiana University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "iup.edu"
     ],
@@ -6382,7 +6382,7 @@
     ],
     "name": "Kutztown University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "kutztown.edu"
     ],
@@ -6960,7 +6960,7 @@
     ],
     "name": "Mansfield University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "mansfield.edu"
     ],
@@ -7381,7 +7381,7 @@
     ],
     "name": "Millersville University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "millersville.edu"
     ],
@@ -8726,7 +8726,7 @@
     ],
     "name": "Pennsylvania College of Technology",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "pct.edu"
     ],
@@ -8738,7 +8738,7 @@
     ],
     "name": "Pennsylvania State University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "psu.edu"
     ],
@@ -8750,7 +8750,7 @@
     ],
     "name": "Pennsylvania State University - Schuylkill Campus",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "sl.psu.edu"
     ],
@@ -8834,7 +8834,7 @@
     ],
     "name": "Pittsburg State University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "pittstate.edu"
     ],
@@ -9890,7 +9890,7 @@
     ],
     "name": "Shippensburg University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "ship.edu"
     ],
@@ -9974,7 +9974,7 @@
     ],
     "name": "Slippery Rock University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "sru.edu"
     ],
@@ -12874,7 +12874,7 @@
     ],
     "name": "University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "upenn.edu",
       "seas.upenn.edu"
@@ -12899,7 +12899,7 @@
     ],
     "name": "University of Pittsburgh",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "pitt.edu"
     ],
@@ -12911,7 +12911,7 @@
     ],
     "name": "University of Pittsburgh at Johnstown",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "upj.pitt.edu"
     ],
@@ -12923,7 +12923,7 @@
     ],
     "name": "University of Pittsburgh at Bradford",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
         "upb.pitt.edu"
     ],
@@ -14287,7 +14287,7 @@
     ],
     "name": "West Chester University of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "wcupa.edu"
     ],
@@ -14923,7 +14923,7 @@
     ],
     "name": "York College of Pennsylvania",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "ycp.edu"
     ],
@@ -113953,7 +113953,7 @@
     ],
     "name": "Pennsylvania Highlands Community College",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "pennhighlands.edu"
     ],
@@ -113965,7 +113965,7 @@
     ],
     "name": "Pennsylvania Institute of Technology",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "pit.edu"
     ],
@@ -113977,7 +113977,7 @@
     ],
     "name": "Pittsburgh Technical Institute",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "pti.edu"
     ],
@@ -114013,7 +114013,7 @@
     ],
     "name": "University of Pittsburgh-​Titusville",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Pennsylvania",
     "domains": [
       "upt.pitt.edu"
     ],
