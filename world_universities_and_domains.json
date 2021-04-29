@@ -74597,13 +74597,25 @@
   },
   {
     "web_pages": [
-      "http://www-azc.uam.mx/"
+      "https://azc.uam.mx/"
     ],
     "name": "Universidad Autónoma Metropolitana - Azcapotzalco",
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": [
-      "www-azc.uam.mx"
+      "azc.uam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itsoeh.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico de Occidente del Estado de Hidalgo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itsoeh.edu.mx"
     ],
     "country": "Mexico"
   },
