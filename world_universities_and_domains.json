@@ -116926,6 +116926,18 @@
   },
   {
     "web_pages": [
+      "https://www.htl-wels.at/"
+    ],
+    "name": "HTL WELS",
+    "alpha_two_code": "AT",
+    "state-province": null,
+    "domains": [
+      "htl-wels.at"
+    ],
+    "country": "Austria"
+  },
+  {
+    "web_pages": [
       "https://udb.ac.id/"
     ],
     "name": "Duta Bangsa University",
