@@ -102534,6 +102534,19 @@
   },
   {
     "web_pages": [
+      "https://www.mbro.ac.uk/"
+    ],
+    "name": "Middlesbrough College",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "middlesbro.ac.uk",
+      "mbro.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.claeh.edu.uy/"
     ],
     "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
