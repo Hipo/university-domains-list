@@ -83615,6 +83615,18 @@
   },
   {
     "web_pages": [
+      "https://www.wsei.lublin.pl/"
+    ],
+    "name": "University of Economics and Innovation Lublin",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "wsei.lublin.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
       "http://www.uni.lodz.pl/"
     ],
     "name": "University of Lodz",
