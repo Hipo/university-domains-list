@@ -116643,6 +116643,18 @@
   },
   {
     "web_pages": [
+      "https://www.bdeb.qc.ca/"
+    ],
+    "name": "College of Bois-de-Boulogne",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "bdeb.qc.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
       "https://www.brescia.edu/"
     ],
     "name": "Brescia University",
