@@ -4730,6 +4730,18 @@
   },
   {
     "web_pages": [
+      "https://www.etbu.edu/"
+    ],
+    "name": "East Texas Baptist University",
+    "alpha_two_code": "US",
+    "state-province": "TX",
+    "domains": [
+      "etbu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.evergreen.edu/"
     ],
     "name": "Evergreen State College",
@@ -6132,7 +6144,8 @@
     "state-province": null,
     "domains": [
       "jh.edu",
-      "jhu.edu"
+      "jhu.edu",
+      "johnshopkins.edu"
     ],
     "country": "United States"
   },
@@ -8801,6 +8814,18 @@
     "state-province": null,
     "domains": [
       "peru.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.pdfw.edu/"
+    ],
+    "name": "Purdue University Fort Wayne",
+    "alpha_two_code": "US",
+    "state-province": "IN",
+    "domains": [
+      "pfw.edu"
     ],
     "country": "United States"
   },
@@ -11690,6 +11715,18 @@
   },
   {
     "web_pages": [
+      "https://www.ucop.edu/"
+    ],
+    "name": "University of California, Office of the President",
+    "alpha_two_code": "US",
+    "state-province": "CA",
+    "domains": [
+      "ucop.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.ucr.edu/"
     ],
     "name": "University of California, Riverside",
@@ -11781,6 +11818,18 @@
     "state-province": null,
     "domains": [
       "ucmo.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.uchastings.edu/"
+    ],
+    "name": "UC Hastings College of the Law",
+    "alpha_two_code": "US",
+    "state-province": "CA",
+    "domains": [
+      "uchastings.edu"
     ],
     "country": "United States"
   },
@@ -12310,6 +12359,18 @@
     "state-province": null,
     "domains": [
       "umaryland.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.mayo.edu/"
+    ],
+    "name": "Mayo Clinic",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mayo.edu"
     ],
     "country": "United States"
   },
@@ -17820,6 +17881,7 @@
     "state-province": null,
     "domains": [
       "sydney.edu.au",
+      "usyd.edu.au",
       "uni.sydney.edu.au"
     ],
     "country": "Australia"
@@ -28845,6 +28907,18 @@
   },
   {
     "web_pages": [
+      "https://www.hbu.edu/"
+    ],
+    "name": "Houston Baptist University",
+    "alpha_two_code": "US",
+    "state-province": "TX",
+    "domains": [
+      "hbu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.hbu.edu.cn/"
     ],
     "name": "Hebei University",
@@ -35530,6 +35604,18 @@
       "brookdale.edu.ec"
     ],
     "country": "Ecuador"
+  },
+  {
+    "web_pages": [
+      "https://www.brookings.edu/"
+    ],
+    "name": "Brookings Institution",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "brookings.edu"
+    ],
+    "country": "United States"
   },
   {
     "web_pages": [
