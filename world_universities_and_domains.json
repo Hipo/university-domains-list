@@ -117065,5 +117065,17 @@
       "hbc.edu.cn"
     ],
     "country": "China"
+  },
+  {
+    "web_pages": [
+      "www.fom.de"
+    ],
+    "name": "FOM Hochschule für Oekonomie & Management",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "fom-net.de"
+    ],
+    "country": "Germany"
   }
 ]
