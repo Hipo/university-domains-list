@@ -39617,6 +39617,18 @@
   },
   {
     "web_pages": [
+      "http://www.ircam.fr/"
+    ],
+    "name": "Institut de Recherche et Coordination Acoustique/Musique",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ircam.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "http://www.ireste.fr/"
     ],
     "name": "Institut de Recherche et d'Enseignement Supérieur aux Techniques de l'électronique",
