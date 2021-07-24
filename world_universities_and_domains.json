@@ -17560,13 +17560,13 @@
   },
   {
     "web_pages": [
-      "http://www.gu.edu.au/"
+      "https://www.griffith.edu.au/"
     ],
     "name": "Griffith University",
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "gu.edu.au"
+      "griffith.edu.au"
     ],
     "country": "Australia"
   },
