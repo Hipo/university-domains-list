@@ -79295,6 +79295,42 @@
   },
   {
     "web_pages": [
+      "https://www.dsu.edu.pk/"
+    ],
+    "name": "DHA Suffa Uinversity",
+    "alpha_two_code": "PK",
+    "state-province": "Sindh",
+    "domains": [
+      "dsu.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.smiu.edu.pk/"
+    ],
+    "name": "Sindh Madressatul Islam University",
+    "alpha_two_code": "PK",
+    "state-province": "Sindh",
+    "domains": [
+      "smiu.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
+      "https://www.indus.edu.pk/"
+    ],
+    "name": "Indus University",
+    "alpha_two_code": "PK",
+    "state-province": "Sindh",
+    "domains": [
+      "indus.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
       "http://www.newports.edu.pk/"
     ],
     "name": "Newports Institute of Communication & Economics",
