@@ -73531,6 +73531,18 @@
   },
   {
     "web_pages": [
+      "http://itsncg.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico Superior de Nuevo Casas Grandes",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itsncg.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
       "http://www.uacj.mx/"
     ],
     "name": "Universidad Autónoma de Ciudad Juárez",
