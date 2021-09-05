@@ -46220,13 +46220,15 @@
   },
   {
     "web_pages": [
-      "http://www.cityu.edu.hk/"
+      "https://www.cityu.edu.hk/"
     ],
     "name": "City University of Hong Kong",
     "alpha_two_code": "HK",
     "state-province": null,
     "domains": [
-      "cityu.edu.hk"
+      "cityu.edu.hk",
+      "um.cityu.edu.hk",
+      "my.cityu.edu.hk"
     ],
     "country": "Hong Kong"
   },
@@ -46334,7 +46336,8 @@
     "alpha_two_code": "HK",
     "state-province": null,
     "domains": [
-      "polyu.edu.hk"
+      "polyu.edu.hk",
+      "connect.polyu.hk"
     ],
     "country": "Hong Kong"
   },
@@ -46347,6 +46350,19 @@
     "state-province": null,
     "domains": [
       "ust.hk"
+    ],
+    "country": "Hong Kong"
+  },
+  {
+    "web_pages": [
+      "https://www.eduhk.hk"
+    ],
+    "name": "The Education University of Hong Kong",
+    "alpha_two_code": "HK",
+    "state-province": null,
+    "domains": [
+      "s.eduhk.hk",
+      "eduhk.hk"
     ],
     "country": "Hong Kong"
   },
