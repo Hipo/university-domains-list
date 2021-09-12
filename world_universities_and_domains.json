@@ -71045,20 +71045,28 @@
     ],
     "country": "Malawi"
   },
-  {                                                           "web_pages": [
+  {
+    "web_pages": [
       "http://www.luanar.ac.mw/"
-    ],                                                        "name": "Lilongwe University of Agriculture and Natural Resources",                           
+    ],
+    "name": "Lilongwe University of Agriculture and Natural Resources",
     "alpha_two_code": "MW",
     "state-province": null,
-    "domains": [                                                "luanar.ac.mw"
-    ],                                                        "country": "Malawi"                                     },
-    {                                                           "web_pages": [
+    "domains": [
+      "luanar.ac.mw"
+    ],
+    "country": "Malawi"
+  },
+    {
+      "web_pages": [
       "http://www.unima.mw/"
-    ],                                                        "name": "University of Malawi | Old", 
+    ],
+    "name": "University of Malawi | Old",
     "alpha_two_code": "MW",
     "state-province": null,
-    "domains": [                                                "unima.mw"
-    ],                                                  
+    "domains": [
+      "unima.mw"
+    ],
     "country": "Malawi"
     },
     {
