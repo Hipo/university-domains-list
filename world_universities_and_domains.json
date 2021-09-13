@@ -71011,17 +71011,65 @@
   },
   {
     "web_pages": [
-      "http://www.unima.mw/"
+      "http://www.unima.ac.mw/"
     ],
     "name": "University of Malawi",
+    "alpha_two_code": "MW",
+    "state-province": null,
+    "domains": [
+      "unima.ac.mw"
+    ],
+    "country": "Malawi"
+  },
+  {
+    "web_pages": [
+      "http://www.mubas.ac.mw/"
+    ],
+    "name": "Malawi University of Business and Applied Sciences",
+    "alpha_two_code": "MW",
+    "state-province": null,
+    "domains": [
+      "mubas.ac.mw"
+    ],
+    "country": "Malawi"
+  },
+  {
+    "web_pages": [
+      "http://www.must.ac.mw/"
+    ],
+    "name": "Malawi University of Science and Technology",
+    "alpha_two_code": "MW",
+    "state-province": null,
+    "domains": [
+      "must.ac.mw"
+    ],
+    "country": "Malawi"
+  },
+  {
+    "web_pages": [
+      "http://www.luanar.ac.mw/"
+    ],
+    "name": "Lilongwe University of Agriculture and Natural Resources",
+    "alpha_two_code": "MW",
+    "state-province": null,
+    "domains": [
+      "luanar.ac.mw"
+    ],
+    "country": "Malawi"
+  },
+    {
+      "web_pages": [
+      "http://www.unima.mw/"
+    ],
+    "name": "University of Malawi | Old",
     "alpha_two_code": "MW",
     "state-province": null,
     "domains": [
       "unima.mw"
     ],
     "country": "Malawi"
-  },
-  {
+    },
+    {
     "web_pages": [
       "http://www.acms.edu.my/"
     ],
