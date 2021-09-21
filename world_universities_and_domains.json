@@ -117392,5 +117392,17 @@
       "fom-net.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.iiitm.ac.in/"
+    ],
+    "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior",
+    "alpha_two_code": "IN",
+    "state-province": "Madhya Pradesh",
+    "domains": [
+      "iiitm.ac.in"
+    ],
+    "country": "India"
   }
 ]
