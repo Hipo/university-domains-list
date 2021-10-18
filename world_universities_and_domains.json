@@ -117416,5 +117416,17 @@
       "thm.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "www.hwg-lu.de"
+    ],
+    "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hwg-lu.de"
+    ],
+    "country": "Germany"
   }
 ]
