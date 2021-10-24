@@ -5078,6 +5078,18 @@
   },
   {
     "web_pages": [
+      "https://futureworks.ac.uk/"
+    ],
+    "name": "Futureworks",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "futureworks.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.gallaudet.edu/"
     ],
     "name": "Gallaudet University",
@@ -86597,13 +86609,13 @@
   },
   {
     "web_pages": [
-      "http://www.chat.ru/~megu/"
+      "https://mosgu.ru/en/"
     ],
     "name": "Moscow External University of the Humanities",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "chat.ru"
+      "mosgu.ru"
     ],
     "country": "Russian Federation"
   },
@@ -99871,13 +99883,13 @@
   },
   {
     "web_pages": [
-      "http://www.lsmu.com/"
+      "https://www.lsmu.edu.ua/en/"
     ],
     "name": "Luhansk State Medical University",
     "alpha_two_code": "UA",
     "state-province": null,
     "domains": [
-      "lsmu.com"
+      "lsmu.edu.ua"
     ],
     "country": "Ukraine"
   },
@@ -117390,6 +117402,30 @@
     "state-province": null,
     "domains": [
       "fom-net.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "www.thm.de"
+    ],
+    "name": "Technische Hochschule Mittelhessen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "thm.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "www.hwg-lu.de"
+    ],
+    "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "hwg-lu.de"
     ],
     "country": "Germany"
   }
