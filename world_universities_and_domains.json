@@ -86609,13 +86609,13 @@
   },
   {
     "web_pages": [
-      "http://www.chat.ru/~megu/"
+      "https://mosgu.ru/en/"
     ],
     "name": "Moscow External University of the Humanities",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": [
-      "chat.ru"
+      "mosgu.ru"
     ],
     "country": "Russian Federation"
   },
@@ -99883,13 +99883,13 @@
   },
   {
     "web_pages": [
-      "http://www.lsmu.com/"
+      "https://www.lsmu.edu.ua/en/"
     ],
     "name": "Luhansk State Medical University",
     "alpha_two_code": "UA",
     "state-province": null,
     "domains": [
-      "lsmu.com"
+      "lsmu.edu.ua"
     ],
     "country": "Ukraine"
   },
