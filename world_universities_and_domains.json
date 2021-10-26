@@ -117440,5 +117440,17 @@
       "iiitm.ac.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "www.leuphana.de"
+    ],
+    "name": "Leuphana Universität Lüneburg",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "leuphana.de"
+    ],
+    "country": "Germany"
   }
 ]
