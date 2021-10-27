@@ -117452,5 +117452,17 @@
       "leuphana.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.oth-aw.de/"
+    ],
+    "name": "Ostbayerische Technische Hochschule Amberg-Weiden",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": [
+      "oth-aw.de"
+    ],
+    "country": "Germany"
   }
 ]
