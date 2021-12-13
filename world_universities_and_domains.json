@@ -117480,5 +117480,19 @@
       "oth-aw.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://unifatecie.edu.br/",
+      "https://ead.unifatecie.edu.br/",
+      "https://fatecie.edu.br/"
+    ],
+    "name": "Centro Universitário UniFatecie",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "fatecie.edu.br"
+    ],
+    "country": "Brazil"
   }
 ]
