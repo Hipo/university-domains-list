@@ -117498,5 +117498,17 @@
       "fatecie.edu.br"
     ],
     "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.hamk.fi/"
+    ],
+    "name": "Häme University of Applied Sciences",
+    "alpha_two_code": "FI",
+    "state-province": null,
+    "domains": [
+        "hamk.fi"
+    ],
+    "country": "Finland"
   }
 ]
