@@ -39773,13 +39773,17 @@
   },
   {
     "web_pages": [
-      "http://www.jussieu.fr/"
+      "https://sciences.sorbonne-universite.fr/"
     ],
-    "name": "Université Pierre et Marie Curie (Paris VI)",
+    "name": "Sorbonne Université - Faculté des Sciences (Paris VI)",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "jussieu.fr"
+      "jussieu.fr",
+      "etu.upmc.fr",
+      "upmc.fr",
+      "etu.sorbonne-universite.fr",
+      "sorbonne-universite.fr"
     ],
     "country": "France"
   },
