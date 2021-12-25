@@ -117510,5 +117510,17 @@
         "hamk.fi"
     ],
     "country": "Finland"
+  },
+  {
+    "web_pages": [
+      "http://www.ktun.edu.tr/"
+    ],
+    "name": "Konya Technical University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "ktun.edu.tr"
+    ],
+    "country": "Turkey"
   }
 ]
