@@ -4,6 +4,7 @@ Do you need a list of universities and their domain names? You found it!
 
 This package includes a JSON file that contains domains, names and countries of most of the universities of the world.
 
+Example usecases: 
 - You can create a validation script that checks the email domain.
 - You can automatically generate a user's country and university by looking at their emails.
 
@@ -13,9 +14,6 @@ You can use this data source in three ways:
 - Use free hosted-API.
 - Use the tiny Python app to serve a fast API that you can query data.
 
-### Update - New structure
-
-After September of 2017, we changed our structure to support multiple domains and web pages. With this update, we added a State/Province field, "domain" and "web_page" fields changed as list with "domains" and "web_pages" fields respectively.
 
 ### 1 - Using the Data Source
 
@@ -56,7 +54,7 @@ NOTE: Some universities use a format like `[user]@[department].[domain]`, but th
 For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the
 University of Southern California. Take this into consideration if using this list for email address validation.
 
-### 2 - Using Hosted API
+### 2 - Using The Hosted API
 
 This is the easiest method if you're making a small project or just want to discover the data without any hassle.
 It is sponsored by [Hipo](http://www.hipolabs.com) and free. If you have a big project, please host it on your own server.
