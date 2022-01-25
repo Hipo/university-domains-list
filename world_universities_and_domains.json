@@ -117523,5 +117523,17 @@
       "ktun.edu.tr"
     ],
     "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://uet.vnu.edu.vn/"
+    ],
+    "name": "VNU University of Engineering and Technology",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "uet.vnu.edu.vn"
+    ],
+    "country": "Viet Nam"
   }
 ]
