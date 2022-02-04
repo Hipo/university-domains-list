@@ -92169,7 +92169,7 @@
     ],
     "name": "Cape Peninsula University of Technology",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Western Cape Province",
     "domains": [
       "cput.ac.za"
     ],
@@ -92179,9 +92179,9 @@
     "web_pages": [
       "http://www.cut.ac.za/"
     ],
-    "name": "Central University of Technology, Free State",
+    "name": "Central University of Technology",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Free State Province",
     "domains": [
       "cut.ac.za"
     ],
@@ -92193,7 +92193,7 @@
     ],
     "name": "Durban University of Technology",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "KwaZulu-Natal",
     "domains": [
       "dut.ac.za"
     ],
@@ -92206,7 +92206,7 @@
     ],
     "name": "Nelson Mandela University",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Eastern Cape Province",
     "domains": [
       "mandela.ac.za",
       "nmmu.ac.za"
@@ -92219,7 +92219,7 @@
     ],
     "name": "Rhodes University",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Eastern Cape Province",
     "domains": [
       "ru.ac.za"
     ],
@@ -92231,7 +92231,7 @@
     ],
     "name": "University of Stellenbosch",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Western Cape Province",
     "domains": [
       "sun.ac.za"
     ],
@@ -92243,7 +92243,7 @@
     ],
     "name": "Tshwane University of Technology",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "tut.ac.za"
     ],
@@ -92255,7 +92255,7 @@
     ],
     "name": "University of Cape Town",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Western Cape Province",
     "domains": [
       "uct.ac.za",
       "myuct.ac.za"
@@ -92268,7 +92268,7 @@
     ],
     "name": "University of Fort Hare",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Eastern Cape Province",
     "domains": [
       "ufh.ac.za"
     ],
@@ -92280,7 +92280,7 @@
     ],
     "name": "University of Johannesburg",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "uj.ac.za"
     ],
@@ -92292,7 +92292,7 @@
     ],
     "name": "University of KwaZulu-Natal",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "KwaZulu-Natal",
     "domains": [
       "ukzn.ac.za"
     ],
@@ -92304,7 +92304,7 @@
     ],
     "name": "University of Limpopo",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Limpopo Province",
     "domains": [
       "ul.ac.za"
     ],
@@ -92316,7 +92316,7 @@
     ],
     "name": "University of South Africa",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "unisa.ac.za"
     ],
@@ -92328,7 +92328,7 @@
     ],
     "name": "University of Venda",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Limpopo Province",
     "domains": [
       "univen.ac.za"
     ],
@@ -92341,7 +92341,7 @@
     ],
     "name": "North-West University",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "North West Province",
     "domains": [
       "nwu.ac.za",
       "uniwest.ac.za"
@@ -92355,7 +92355,7 @@
     ],
     "name": "University of the Free State",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Free State Province",
     "domains": [
       "uovs.ac.za",
       "ufs.ac.za"
@@ -92368,7 +92368,7 @@
     ],
     "name": "University of Pretoria",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "up.ac.za"
     ],
@@ -92380,7 +92380,7 @@
     ],
     "name": "University of the Western Cape",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Western Cape Province",
     "domains": [
       "uwc.ac.za"
     ],
@@ -92392,7 +92392,7 @@
     ],
     "name": "University of Zululand",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "KwaZulu-Natal",
     "domains": [
       "unizulu.ac.za"
     ],
@@ -92404,7 +92404,7 @@
     ],
     "name": "Vaal University of Technology",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "vut.ac.za"
     ],
@@ -92416,7 +92416,7 @@
     ],
     "name": "University of Witwatersrand",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "wits.ac.za"
     ],
@@ -92428,7 +92428,7 @@
     ],
     "name": "Walter Sisulu University for Technology and Science",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Eastern Cape Province",
     "domains": [
       "wsu.ac.za"
     ],
@@ -92440,7 +92440,7 @@
     ],
     "name": "Monash Univerisity South Africa",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "msa.ac.za"
     ],
@@ -92452,7 +92452,7 @@
     ],
     "name": "Univerisity of Mpumalanga",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Mpumalanga Province",
     "domains": [
       "ump.ac.za"
     ],
@@ -92464,7 +92464,7 @@
     ],
     "name": "Mangosuthu Univerisity of Technology",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "KwaZulu-Natal",
     "domains": [
       "mut.ac.za"
     ],
@@ -92476,7 +92476,7 @@
     ],
     "name": "Sefako Makgatho Health Sciences University",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Gauteng Province",
     "domains": [
       "smu.ac.za"
     ],
@@ -92488,7 +92488,7 @@
     ],
     "name": "Sol Plaatje University",
     "alpha_two_code": "ZA",
-    "state-province": null,
+    "state-province": "Northern Cape Province",
     "domains": [
       "spu.ac.za"
     ],
