@@ -3998,6 +3998,18 @@
   },
   {
     "web_pages": [
+      "https://www.allencollege.edu/"
+    ],
+    "name": "Allen College",
+    "alpha_two_code": "US",
+    "state-province": "Iowa",
+    "domains": [
+      "allencollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.cornell-iowa.edu/"
     ],
     "name": "Cornell College",
@@ -4730,6 +4742,18 @@
   },
   {
     "web_pages": [
+      "https://lecom.edu/"
+    ],
+    "name": "Lake Erie College of Osteopathic Medicine",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "lecom.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "https://www.etbu.edu/"
     ],
     "name": "East Texas Baptist University",
@@ -5200,7 +5224,7 @@
     "web_pages": [
       "http://www.georgian.edu/"
     ],
-    "name": "Georgian Court College",
+    "name": "Georgian Court University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -7289,6 +7313,18 @@
     "state-province": null,
     "domains": [
       "msudenver.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.denvercollegeofnursing.edu/"
+    ],
+    "name": "Denver College of Nursing",
+    "alpha_two_code": "US",
+    "state-province": "Colorado",
+    "domains": [
+      "denvercollegeofnursing.edu"
     ],
     "country": "United States"
   },
@@ -13191,6 +13227,18 @@
     "state-province": null,
     "domains": [
       "sc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://andersonuniversity.edu/"
+    ],
+    "name": "Anderson University",
+    "alpha_two_code": "US",
+    "state-province": "South Carolina",
+    "domains": [
+      "andersonuniversity.edu"
     ],
     "country": "United States"
   },
@@ -114942,6 +114990,18 @@
     "state-province": null,
     "domains": [
       "ctcd.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://schreiner.edu/"
+    ],
+    "name": "Schreiner University",
+    "alpha_two_code": "US",
+    "state-province": "Texas",
+    "domains": [
+      "schreiner.edu"
     ],
     "country": "United States"
   },
