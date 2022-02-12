@@ -48703,6 +48703,18 @@
   },
   {
     "web_pages": [
+      "https://itu.edu.pk/"
+    ],
+    "name": "Information Technology University, Lahore",
+    "alpha_two_code": "PK",
+    "state-province": "Punjab",
+    "domains": [
+      "itu.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
       "https://www.mitindia.edu/en/"
     ],
     "name": "Madras Institute of Technology",
