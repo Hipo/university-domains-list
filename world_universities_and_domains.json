@@ -13,6 +13,18 @@
   },
   {
     "web_pages": [
+    "https://www.upes.ac.in/"
+    ],
+    "name": "University of Petroleum and Energy Studies",
+    "alpha_two_code": "IN",
+    "state-province": "Dehradun",
+    "domains": [
+    "upes.ac.in"
+    ],
+    "country": "India"
+    },
+  {
+    "web_pages": [
       "https://www.cstj.qc.ca",
       "https://ccmt.cstj.qc.ca",
       "https://ccml.cstj.qc.ca"
