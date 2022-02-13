@@ -34669,7 +34669,7 @@
   },
   {
     "web_pages": [
-      "http://www.mendelu.cz/"
+      "https://www.mendelu.cz/"
     ],
     "name": "Mendel University of Agriculture and Forestry",
     "alpha_two_code": "CZ",
@@ -34693,7 +34693,7 @@
   },
   {
     "web_pages": [
-      "http://www.muni.cz/"
+      "https://www.muni.cz/"
     ],
     "name": "Masaryk University",
     "alpha_two_code": "CZ",
@@ -34909,13 +34909,15 @@
   },
   {
     "web_pages": [
-      "http://www.vutbr.cz/"
+      "https://www.vutbr.cz/",
+      "https://www.vut.cz/"
     ],
     "name": "Brno University of Technology",
     "alpha_two_code": "CZ",
     "state-province": null,
     "domains": [
-      "vutbr.cz"
+      "vutbr.cz",
+      "vut.cz"
     ],
     "country": "Czech Republic"
   },
