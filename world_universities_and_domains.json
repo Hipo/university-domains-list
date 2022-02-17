@@ -44227,12 +44227,13 @@
   },
   {
     "web_pages": [
-      "http://www.uni-erlangen.de/"
+      "https://www.fau.de/"
     ],
     "name": "Friedrich-Alexander Universität Erlangen-Nürnberg",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "fau.de",
       "uni-erlangen.de"
     ],
     "country": "Germany"
