@@ -40938,6 +40938,18 @@
   },
   {
     "web_pages": [
+      "http://www.univ-amu.fr/"
+    ],
+    "name": "Université d'Aix-Marseille",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "univ-amu.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "http://www.up.univ-mrs.fr/"
     ],
     "name": "Université de Provence (Aix-Marseille I)",
