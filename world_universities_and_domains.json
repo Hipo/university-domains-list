@@ -3866,6 +3866,18 @@
   },
   {
     "web_pages": [
+      "https://www.cuanschutz.edu/"
+    ],
+    "name": "University of Colorado Anschutz Medical Campus",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "cuanschutz.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.colum.edu/"
     ],
     "name": "Columbia College Chicago",
@@ -17904,6 +17916,7 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
+      "unimelb.edu",
       "unimelb.edu.au"
     ],
     "country": "Australia"
@@ -17940,7 +17953,8 @@
     "alpha_two_code": "AU",
     "state-province": null,
     "domains": [
-      "uow.edu.au"
+      "uow.edu.au",
+      "uowmail.edu.au"
     ],
     "country": "Australia"
   },
@@ -20815,7 +20829,8 @@
     "alpha_two_code": "BE",
     "state-province": null,
     "domains": [
-      "ua.ac.be"
+      "ua.ac.be",
+      "uantwerpen.be"
     ],
     "country": "Belgium"
   },
@@ -34127,6 +34142,18 @@
   },
   {
     "web_pages": [
+      "https://www.vistula.edu.pl/"
+    ],
+    "name": "Vistula University",
+    "alpha_two_code": "PL",
+    "state-province": null,
+    "domains": [
+      "vistula.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
       "http://www.unidu.hr/"
     ],
     "name": "University of Dubrovnik",
@@ -36575,7 +36602,8 @@
     "alpha_two_code": "EG",
     "state-province": null,
     "domains": [
-      "nileu.edu.eg"
+      "nileu.edu.eg",
+      "nu.edu.eg"
     ],
     "country": "Egypt"
   },
@@ -40566,13 +40594,15 @@
   },
   {
     "web_pages": [
-      "http://www.univ-mulhouse.fr/"
+      "http://www.univ-mulhouse.fr/",
+      "https://www.uha.fr/"
     ],
     "name": "Université de Haute-Alsace",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "univ-mulhouse.fr"
+      "univ-mulhouse.fr",
+      "uha.fr"
     ],
     "country": "France"
   },
@@ -47648,6 +47678,18 @@
   },
   {
     "web_pages": [
+      "https://vitbhopal.ac.in/"
+    ],
+    "name": "VIT Bhopal",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "vitbhopal.ac.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "http://www.bundelkhanduniversity.org/"
     ],
     "name": "Bundelkhand University",
@@ -48668,13 +48710,15 @@
   },
   {
     "web_pages": [
-      "http://www.iitd.ernet.in/"
+      "http://www.iitd.ernet.in/",
+      "https://home.iitd.ac.in/"
     ],
     "name": "Indian Institute of Technology, Delhi",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "iitd.ernet.in"
+      "iitd.ernet.in",
+      "iitd.ac.in"
     ],
     "country": "India"
   },
@@ -75691,6 +75735,18 @@
   },
   {
     "web_pages": [
+      "http://www.ump.ma/"
+    ],
+    "name": "Université Mohammed Premier Oujda",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": [
+      "ump.ac.ma"
+    ],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": [
       "http://www.isctem.ac.mz/"
     ],
     "name": "Instituto Superior de Ciênicas e Tecnologia de Moçambique",
@@ -76377,13 +76433,15 @@
   },
   {
     "web_pages": [
-      "http://www.unimaas.nl/"
+      "http://www.unimaas.nl/",
+      "https://www.maastrichtuniversity.nl/"
     ],
     "name": "Maastricht University",
     "alpha_two_code": "NL",
     "state-province": null,
     "domains": [
-      "unimaas.nl"
+      "unimaas.nl",
+      "student.maastrichtuniversity.nl"
     ],
     "country": "Netherlands"
   },
@@ -102519,7 +102577,8 @@
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "shef.ac.uk"
+      "shef.ac.uk",
+      "sheffield.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -103121,7 +103180,8 @@
     "alpha_two_code": "UY",
     "state-province": null,
     "domains": [
-      "universidad.edu.uy"
+      "universidad.edu.uy",
+      "fing.edu.uy"
     ],
     "country": "Uruguay"
   },
