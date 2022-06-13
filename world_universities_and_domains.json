@@ -12679,11 +12679,12 @@
     "web_pages": [
       "http://www.missouri.edu/"
     ],
-    "name": "University of Missouri - Columbia",
+    "name": "University of Missouri",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "missouri.edu"
+      "missouri.edu",
+      "umsystem.edu"
     ],
     "country": "United States"
   },
@@ -71028,6 +71029,18 @@
   },
   {
     "web_pages": [
+      "http://manu.edu.mk/"
+    ],
+    "name": "Macedonian Academy of Sciences and Arts",
+    "alpha_two_code": "MK",
+    "state-province": null,
+    "domains": [
+      "manu.edu.mk"
+    ],
+    "country": "North Macedonia"
+  },
+  {
+    "web_pages": [
       "http://www.ugd.edu.mk/"
     ],
     "name": "University Goce Delcev",
@@ -83928,13 +83941,15 @@
   },
   {
     "web_pages": [
-      "http://www.pwr.wroc.pl/"
+      "http://www.pwr.wroc.pl/",
+      "https://pwr.edu.pl/"
     ],
     "name": "Technical University of Wroclaw",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": [
-      "pwr.wroc.pl"
+      "pwr.wroc.pl",
+      "pwr.edu.pl"
     ],
     "country": "Poland"
   },
