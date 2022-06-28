@@ -46590,7 +46590,7 @@
     "web_pages": [
       "http://www.bme.hu/"
     ],
-    "name": "Technical University of Budapest",
+    "name": "Budapest University of Technology and Economics",
     "alpha_two_code": "HU",
     "state-province": null,
     "domains": [
@@ -117758,5 +117758,41 @@
       "uet.vnu.edu.vn"
     ],
     "country": "Viet Nam"
+  },
+  {
+    "web_pages": [
+      "https://www.uni-corvinus.hu/"
+    ],
+    "name": "Corvinus University of Budapest",
+    "alpha_two_code": "HU",
+    "state-province": null,
+    "domains": [
+      "uni-corvinus.hu"
+    ],
+    "country": "Hungary"
+  },
+  {
+    "web_pages": [
+      "https://uni-obuda.hu/"
+    ],
+    "name": "Óbuda University",
+    "alpha_two_code": "HU",
+    "state-province": null,
+    "domains": [
+      "uni-obuda.hu"
+    ],
+    "country": "Hungary"
+  },
+  {
+    "web_pages": [
+      "https://uni-bge.hu/"
+    ],
+    "name": "Budapest Business School",
+    "alpha_two_code": "HU",
+    "state-province": null,
+    "domains": [
+      "uni-bge.hu"
+    ],
+    "country": "Hungary"
   }
 ]
