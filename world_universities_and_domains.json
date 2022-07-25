@@ -44915,13 +44915,13 @@
   },
   {
     "web_pages": [
-      "http://www.accrapolytechnic.edu.gh/"
+      "https://atu.edu.gh/"
     ],
-    "name": "Accra Polytechnic",
+    "name": "Accra Technical University",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": [
-      "accrapolytechnic.edu.gh"
+      "https://atu.edu.gh/"
     ],
     "country": "Ghana"
   },
@@ -44975,13 +44975,13 @@
   },
   {
     "web_pages": [
-      "http://www.cpoly.edu.gh/"
+      "https://cctu.edu.gh/"
     ],
-    "name": "Cape Coast Polytechnic",
+    "name": "Cape Coast Technical University",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": [
-      "cpoly.edu.gh"
+      "https://cctu.edu.gh/"
     ],
     "country": "Ghana"
   },
@@ -45023,13 +45023,13 @@
   },
   {
     "web_pages": [
-      "http://www.hopoly.edu.gh/"
+      "https://htu.edu.gh/"
     ],
-    "name": "Ho Polytechnic",
+    "name": "Ho Technical University",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": [
-      "hopoly.edu.gh"
+      "https://htu.edu.gh/"
     ],
     "country": "Ghana"
   },
@@ -45059,25 +45059,25 @@
   },
   {
     "web_pages": [
-      "http://www.koforiduapoly.edu.gh/"
+      "https://www.ktu.edu.gh/"
     ],
-    "name": "Koforidua Polytechnic",
+    "name": "Koforidua Technical University",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": [
-      "koforiduapoly.edu.gh"
+      "https://www.ktu.edu.gh/"
     ],
     "country": "Ghana"
   },
   {
     "web_pages": [
-      "http://www.kpoly.edu.gh/"
+      "https://www.kstu.edu.gh/"
     ],
-    "name": "Kumasi Polytechnic",
+    "name": "Kumasi Technical University",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": [
-      "kpoly.edu.gh"
+      "https://www.kstu.edu.gh/"
     ],
     "country": "Ghana"
   },
@@ -45131,13 +45131,13 @@
   },
   {
     "web_pages": [
-      "http://www.tpoly.edu.gh/"
+      "https://www.ttu.edu.gh/"
     ],
-    "name": "Takoradi Polytechnic",
+    "name": "Takoradi Technical University",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": [
-      "tpoly.edu.gh"
+      "https://www.ttu.edu.gh/"
     ],
     "country": "Ghana"
   },
