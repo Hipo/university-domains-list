@@ -45119,6 +45119,18 @@
   },
   {
     "web_pages": [
+      "https://stu.edu.gh/"
+    ],
+    "name": "Sunyani Technical University",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "stu.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
       "https://www.ttu.edu.gh/"
     ],
     "name": "Takoradi Technical University",
