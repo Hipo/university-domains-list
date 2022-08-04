@@ -93581,7 +93581,9 @@
     "alpha_two_code": "ES",
     "state-province": null,
     "domains": [
-      "urjc.es"
+      "urjc.es",
+      "gsyc.es",
+      "libresoft.es"
     ],
     "country": "Spain"
   },
