@@ -117796,5 +117796,17 @@
       "uni-bge.hu"
     ],
     "country": "Hungary"
+  },
+  {
+    "web_pages": [
+      "https://www.ufn.edu.br/"
+    ],
+    "name": "Universidade Franciscana",
+    "alpha_two_code": "BR",
+    "state-province": null,
+    "domains": [
+      "ufn.edu.br"
+    ],
+    "country": "Brazil"
   }
 ]
