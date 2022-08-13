@@ -57761,7 +57761,8 @@
     "alpha_two_code": "IT",
     "state-province": null,
     "domains": [
-      "polimi.it"
+      "polimi.it",
+      "mail.polimi.it"
     ],
     "country": "Italy"
   },
