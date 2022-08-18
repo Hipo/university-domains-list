@@ -118719,5 +118719,17 @@
     "country": "Brazil",
     "alpha_two_code": "BR",
     "state-province": null
+  },
+  {
+    "web_pages": [
+      "https://www.mh-luebeck.de/"
+    ],
+    "name": "Musikhochschule Lübeck",
+    "alpha_two_code": "DE",
+    "state-province": "Schleswig-Holstein",
+    "domains": [
+      "mh-luebeck.de"
+    ],
+    "country": "Germany"
   }
 ]
