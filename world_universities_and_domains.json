@@ -118819,5 +118819,29 @@
       "hmt-leipzig.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hmtm-hannover.de"
+    ],
+    "name": "Hochschule für Musik, Theater und Medien Hannover",
+    "alpha_two_code": "DE",
+    "state-province": "Lower Saxony",
+    "domains": [
+      "hmtm-hannover.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hfm-detmold.de/"
+    ],
+    "name": "Hochschule für Musik Detmold",
+    "alpha_two_code": "DE",
+    "state-province": "Nordrhein-Westfalen",
+    "domains": [
+      "hfm-detmold.de"
+    ],
+    "country": "Germany"
   }
 ]
