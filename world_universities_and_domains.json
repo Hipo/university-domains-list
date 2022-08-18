@@ -118731,5 +118731,93 @@
       "mh-luebeck.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://website.musikhochschule-muenchen.de/",
+      "https://www.hmtm.de/"
+    ],
+    "name": "Hochschule für Musik und Theater München",
+    "alpha_two_code": "DE",
+    "state-province": "Bavaria",
+    "domains": [
+      "musikhochschule-muenchen.de",
+      "hmtm.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.udk-berlin.de/"
+    ],
+    "name": "Universität der Künste Berlin",
+    "alpha_two_code": "DE",
+    "state-province": "Berlin",
+    "domains": [
+      "udk-berlin.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hfmt-koeln.de/"
+    ],
+    "name": "Hochschule für Musik und Tanz Köln",
+    "alpha_two_code": "DE",
+    "state-province": "North Rhine-Westphalia",
+    "domains": [
+      "hfmt-koeln.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hfmdd.de/"
+    ],
+    "name": "Hochschule für Musik Carl Maria von Weber",
+    "alpha_two_code": "DE",
+    "state-province": "Saxony",
+    "domains": [
+      "hfmdd.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hmdk-stuttgart.de/"
+    ],
+    "name": "Hochschule für Musik und Darstellende Kunst Stuttgart",
+    "alpha_two_code": "DE",
+    "state-province": "Baden-Württemberg",
+    "domains": [
+      "hmdk-stuttgart.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hfk-bremen.de/",
+      "https://www.hfk2020.de/"
+    ],
+    "name": "Hochschule für Künste Bremen",
+    "alpha_two_code": "DE",
+    "state-province": "Bremen",
+    "domains": [
+      "hfk-bremen.de",
+      "hfk2020.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.hmt-leipzig.de/"
+    ],
+    "name": "Hochschule für Musik und Theater „Felix Mendelssohn Bartholdy“ Leipzig",
+    "alpha_two_code": "DE",
+    "state-province": "Saxony",
+    "domains": [
+      "hmt-leipzig.de"
+    ],
+    "country": "Germany"
   }
 ]
