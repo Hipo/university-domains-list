@@ -117809,5 +117809,17 @@
       "ufn.edu.br"
     ],
     "country": "Brazil"
+  },
+  {
+    "web_pages": [
+      "https://www.iitbbs.ac.in/"
+    ],
+    "name": "IIT Bhubaneswar",
+    "alpha_two_code": "IN",
+    "state-province": "Odisha",
+    "domains": [
+      "iitbbs.ac.in"
+    ],
+    "country": "India"
   }
 ]
