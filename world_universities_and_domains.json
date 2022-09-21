@@ -98550,13 +98550,15 @@
   },
   {
     "web_pages": [
-      "http://www.bayar.edu.tr/"
+      "http://www.mcbu.edu.tr/",
+      "http://www.cbu.edu.tr/"
     ],
     "name": "Celal Bayar University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "bayar.edu.tr"
+      "mcbu.edu.tr",
+      "cbu.edu.tr"
     ],
     "country": "Turkey"
   },
