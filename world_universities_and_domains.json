@@ -118843,5 +118843,41 @@
       "hfm-detmold.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.ac-orleans-tours.fr/"
+    ],
+    "name": "Académie d'Orléans-Tours",
+    "alpha_two_code": "FR",
+    "state-province": "Centre-Val de Loire",
+    "domains": [
+      "ac-orleans-tours.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.uni-speyer.de/"
+    ],
+    "name": "Deutsche Universität für Verwaltungswissenschaften Speyer",
+    "alpha_two_code": "DE",
+    "state-province": "Rheinland-Pfalz",
+    "domains": [
+      "uni-speyer.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.europa-uni.de"
+    ],
+    "name": "Europa-Universität Viadrina",
+    "alpha_two_code": "DE",
+    "state-province": "Brandenburg",
+    "domains": [
+      "europa-uni.de"
+    ],
+    "country": "Germany"
   }
 ]
