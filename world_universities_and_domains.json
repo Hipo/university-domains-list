@@ -117823,5 +117823,17 @@
       "iitbbs.ac.in"
     ],
     "country": "India"
+  },
+  {
+    "web_pages": [
+      "https://www.sciencespo-rennes.fr/en/"
+    ],
+    "name": "Institut d'études politiques de Rennes",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "sciencespo-rennes.fr"
+    ],
+    "country": "France"
   }
 ]
