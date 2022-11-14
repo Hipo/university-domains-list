@@ -112710,6 +112710,102 @@
   },
   {
     "web_pages": [
+      "https://www.baruch.cuny.edu/"
+    ],
+    "name": "CUNY Baruch College",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "baruch.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.qc.cuny.edu/"
+    ],
+    "name": "CUNY Queens College",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "qc.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.citytech.cuny.edu/"
+    ],
+    "name": "CUNY City Tech",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "citytech.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ccny.cuny.edu/"
+    ],
+    "name": "CUNY City College of NY",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "ccny.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.brooklyn.cuny.edu/"
+    ],
+    "name": "CUNY Brooklyn College",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "brooklyn.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.mec.cuny.edu/"
+    ],
+    "name": "CUNY Medgar Evers College",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "mec.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.csi.cuny.edu/"
+    ],
+    "name": "CUNY College of Staten Island",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "csi.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://macaulay.cuny.edu/"
+    ],
+    "name": "CUNY Macauly Honors College",
+    "alpha_two_code": "US",
+    "state-province": "NY",
+    "domains": [
+      "macauly.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
       "http://www.sunydutchess.edu"
     ],
     "name": "Dutchess Community College",
@@ -117794,5 +117890,41 @@
       "uni-bge.hu"
     ],
     "country": "Hungary"
+  },
+  {
+    "web_pages": [
+      "https://www.cau.edu/"
+    ],
+    "name": "Clark Atlanta University",
+    "alpha_two_code": "US",
+    "state-province": "GA",
+    "domains": [
+      "cau.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://morehouse.edu/"
+    ],
+    "name": "Morehouse",
+    "alpha_two_code": "US",
+    "state-province": "GA",
+    "domains": [
+      "morehouse.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.devry.edu/"
+    ],
+    "name": "Devry Institute of Technology",
+    "alpha_two_code": "US",
+    "state-province": "IL",
+    "domains": [
+      "devry.edu"
+    ],
+    "country": "United States"
   }
 ]
