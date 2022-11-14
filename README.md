@@ -126,5 +126,6 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
 - Lachlan Marnham
 - Baptiste Pellarin
 - Kelian Baert
+- [more](https://github.com/Hipo/university-domains-list/graphs/contributors)
 
 ### Created and maintained by [Hipo](http://www.hipolabs.com)
