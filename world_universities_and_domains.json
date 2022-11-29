@@ -103198,6 +103198,18 @@
   },
   {
     "web_pages": [
+      "https://www.swansea.ac.uk/"
+    ],
+    "name": "Swansea University",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "swansea.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.claeh.edu.uy/"
     ],
     "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
