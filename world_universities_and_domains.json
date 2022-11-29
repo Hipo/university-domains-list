@@ -118094,5 +118094,17 @@
       "dmu.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://utahtech.edu/"
+    ],
+    "name": "Utah Tech University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "utahtech.edu"
+    ],
+    "country": "United States"
   }
 ]
