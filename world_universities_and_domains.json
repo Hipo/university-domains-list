@@ -85440,6 +85440,18 @@
   },
   {
     "web_pages": [
+      "https://www.novasbe.unl.pt/en/"
+    ],
+    "name": "Nova School of Business and Economics",
+    "alpha_two_code": "PT",
+    "state-province": null,
+    "domains": [
+      "novasbe.unl.pt"
+    ],
+    "country": "Portugal"
+  },
+  {
+    "web_pages": [
       "http://www.bayamon.inter.edu/"
     ],
     "name": "Universidad Interamericana de Puerto Rico, Bayamón",
