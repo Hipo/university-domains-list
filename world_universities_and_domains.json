@@ -103174,6 +103174,18 @@
   },
   {
     "web_pages": [
+      "https://www.leedstrinity.ac.uk/"
+    ],
+    "name": "Leeds Trinity University",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "leedstrinity.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.claeh.edu.uy/"
     ],
     "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
