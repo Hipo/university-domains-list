@@ -118073,6 +118073,18 @@
   },
   {
     "web_pages": [
+      "https://www.rennes-sb.com/"
+    ],
+    "name": "Rennes School of Business",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "rennes-sb.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "https://www.cau.edu/"
     ],
     "name": "Clark Atlanta University",
