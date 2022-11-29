@@ -118070,5 +118070,17 @@
       "usa.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://calarts.edu/"
+    ],
+    "name": "California Institute of the Arts",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calarts.edu"
+    ],
+    "country": "United States"
   }
 ]
