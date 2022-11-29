@@ -35387,6 +35387,18 @@
   },
   {
     "web_pages": [
+      "https://en.via.dk/"
+    ],
+    "name": "VIA University College",
+    "alpha_two_code": "DK",
+    "state-province": null,
+    "domains": [
+      "en.via.dk"
+    ],
+    "country": "Denmark"
+  },
+  {
+    "web_pages": [
       "http://www.univ.edu.dj/"
     ],
     "name": "Université de Djibouti",
