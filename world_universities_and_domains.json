@@ -58609,6 +58609,18 @@
   },
   {
     "web_pages": [
+      "https://aur.edu/"
+    ],
+    "name": "American University of Rome",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "aur.edu"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
       "http://www.ncu.edu.jm/"
     ],
     "name": "Northern Caribbean University",
