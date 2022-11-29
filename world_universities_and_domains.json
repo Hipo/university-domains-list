@@ -118058,5 +118058,17 @@
       "tinaztepe.edu.tr"
     ],
     "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.usa.edu/"
+    ],
+    "name": "University of St. Augustine for Health Sciences",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "usa.edu"
+    ],
+    "country": "United States"
   }
 ]
