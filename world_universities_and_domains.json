@@ -118130,5 +118130,17 @@
       "midwestern.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.iwu.edu/"
+    ],
+    "name": "Illinois Wesleyan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iwu.edu"
+    ],
+    "country": "United States"
   }
 ]
