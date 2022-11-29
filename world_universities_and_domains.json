@@ -118190,5 +118190,17 @@
       "iwu.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.maryvillecollege.edu/"
+    ],
+    "name": "Maryville College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "maryvillecollege.edu"
+    ],
+    "country": "United States"
   }
 ]
