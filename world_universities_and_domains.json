@@ -103150,6 +103150,18 @@
   },
   {
     "web_pages": [
+      "https://www.stmarys.ac.uk/home.aspx"
+    ],
+    "name": "St Mary's University",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "stmarys.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.claeh.edu.uy/"
     ],
     "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
