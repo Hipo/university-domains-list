@@ -33593,6 +33593,18 @@
   },
   {
     "web_pages": [
+      "https://www.eia.edu.co/"
+    ],
+    "name": "Universidad EIA",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "eia.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
       "http://www.ucbc.org/"
     ],
     "name": "Université Chrétienne Bilingue du Congo",
