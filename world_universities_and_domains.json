@@ -76767,6 +76767,18 @@
   },
   {
     "web_pages": [
+      "https://www.nmit.ac.nz/"
+    ],
+    "name": "Nelson Marlborough Institute of Technology",
+    "alpha_two_code": "NZ",
+    "state-province": null,
+    "domains": [
+      "nmit.ac.nz"
+    ],
+    "country": "New Zealand"
+  },
+  {
+    "web_pages": [
       "http://www.uam.edu.ni/"
     ],
     "name": "Universidad Americana",
