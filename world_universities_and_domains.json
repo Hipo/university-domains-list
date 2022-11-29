@@ -118262,5 +118262,17 @@
       "endicott.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ua.edu/"
+    ],
+    "name": "The University of Alabama",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ua.edu"
+    ],
+    "country": "United States"
   }
 ]
