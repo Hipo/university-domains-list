@@ -118049,6 +118049,18 @@
   },
   {
     "web_pages": [
+      "https://srmap.edu.in/"
+    ],
+    "name": "SRM University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srmap.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "https://www.sciencespo-rennes.fr/en/"
     ],
     "name": "Institut d'études politiques de Rennes",
