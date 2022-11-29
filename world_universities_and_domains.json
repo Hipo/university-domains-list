@@ -103186,6 +103186,18 @@
   },
   {
     "web_pages": [
+      "https://www.eastcoast.ac.uk/"
+    ],
+    "name": "East Coast College",
+    "alpha_two_code": "UK",
+    "state-province": null,
+    "domains": [
+      "eastcoast.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.claeh.edu.uy/"
     ],
     "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
