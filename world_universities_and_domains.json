@@ -118118,5 +118118,17 @@
       "utahtech.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://midwestern.edu/"
+    ],
+    "name": "Midwestern University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "midwestern.edu"
+    ],
+    "country": "United States"
   }
 ]
