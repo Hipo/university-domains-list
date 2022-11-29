@@ -118250,5 +118250,17 @@
       "maryvillecollege.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.endicott.edu/"
+    ],
+    "name": "Endicott College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "endicott.edu"
+    ],
+    "country": "United States"
   }
 ]
