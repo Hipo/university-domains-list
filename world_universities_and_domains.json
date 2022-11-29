@@ -118082,5 +118082,17 @@
       "calarts.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.dmu.edu/"
+    ],
+    "name": "Des Moines University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dmu.edu"
+    ],
+    "country": "United States"
   }
 ]
