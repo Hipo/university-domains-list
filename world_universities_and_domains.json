@@ -75118,6 +75118,18 @@
   },
   {
     "web_pages": [
+      "https://www.jefferson.edu.mx/"
+    ],
+    "name": "Universidad Internacional Jefferson",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "jefferson.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
       "http://www.ase.md/"
     ],
     "name": "Academy of Economic Studies of Moldova",
