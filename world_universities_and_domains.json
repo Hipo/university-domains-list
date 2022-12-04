@@ -117955,5 +117955,30 @@
       "morehouse.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.audencia.com/"
+    ],
+    "name": "Audencia",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "audencia.com"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.ufro.cl/"
+    ],
+    "name": "Universidad de La Frontera",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ufro.cl",
+      "ufromail.cl"
+    ],
+    "country": "Chile"
   }
 ]
