@@ -27298,7 +27298,8 @@
     "alpha_two_code": "CL",
     "state-province": null,
     "domains": [
-      "ufro.cl"
+      "ufro.cl",
+      "ufromail.cl"
     ],
     "country": "Chile"
   },
@@ -117967,18 +117968,5 @@
       "audencia.com"
     ],
     "country": "France"
-  },
-  {
-    "web_pages": [
-      "https://www.ufro.cl/"
-    ],
-    "name": "Universidad de La Frontera",
-    "alpha_two_code": "CL",
-    "state-province": null,
-    "domains": [
-      "ufro.cl",
-      "ufromail.cl"
-    ],
-    "country": "Chile"
   }
 ]
