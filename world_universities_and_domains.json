@@ -70097,13 +70097,15 @@
   },
   {
     "web_pages": [
-      "http://www.llu.lv/"
+      "https://www.llu.lv/",
+      "https://www.lbtu.lv/"
     ],
-    "name": "Latvian University of Agriculture",
+    "name": "Latvia University of Life Sciences and Technologies",
     "alpha_two_code": "LV",
     "state-province": null,
     "domains": [
-      "llu.lv"
+      "llu.lv",
+      "lbtu.lv"
     ],
     "country": "Latvia"
   },
