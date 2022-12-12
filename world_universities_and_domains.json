@@ -98991,18 +98991,6 @@
   },
   {
     "web_pages": [
-      "http://www.izmirekonomi.edu.tr/"
-    ],
-    "name": "Izmir Economic University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": [
-      "izmirekonomi.edu.tr"
-    ],
-    "country": "Turkey"
-  },
-  {
-    "web_pages": [
       "http://www.kafkas.edu.tr/"
     ],
     "name": "Kafkas University",
@@ -105719,13 +105707,15 @@
   },
   {
     "web_pages": [
-      "http://www.ieu.edu.tr/"
+      "http://www.ieu.edu.tr/",
+      "http://www.izmirekonomi.edu.tr/"
     ],
-    "name": "Izmir Economy University",
+    "name": "Izmir University of Economics",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "ieu.edu.tr"
+      "ieu.edu.tr",
+      "izmirekonomi.edu.tr"
     ],
     "country": "Turkey"
   },
