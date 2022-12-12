@@ -117986,5 +117986,17 @@
       "idu.edu.tr"
     ],
     "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.tinaztepe.edu.tr/"
+    ],
+    "name": "Izmir Tınaztepe University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "tinaztepe.edu.tr"
+    ],
+    "country": "Turkey"
   }
 ]
