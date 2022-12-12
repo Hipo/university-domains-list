@@ -105287,13 +105287,15 @@
   },
   {
     "web_pages": [
-      "http://www.ikc.edu.tr/"
+      "http://www.ikc.edu.tr/",
+      "http://www.ikcu.edu.tr/"
     ],
-    "name": "Izmir Katip celebi University",
+    "name": "Izmir Katip Celebi University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "ikc.edu.tr"
+      "ikc.edu.tr",
+      "ikcu.edu.tr"
     ],
     "country": "Turkey"
   },
