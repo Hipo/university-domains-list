@@ -117974,5 +117974,17 @@
       "bakircay.edu.tr"
     ],
     "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.idu.edu.tr/"
+    ],
+    "name": "Izmir Democracy University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "idu.edu.tr"
+    ],
+    "country": "Turkey"
   }
 ]
