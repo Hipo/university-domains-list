@@ -117962,5 +117962,17 @@
       "audencia.com"
     ],
     "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.bakircay.edu.tr/"
+    ],
+    "name": "Izmir Bakırçay University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "bakircay.edu.tr"
+    ],
+    "country": "Turkey"
   }
 ]
