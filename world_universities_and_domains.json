@@ -98991,18 +98991,6 @@
   },
   {
     "web_pages": [
-      "http://www.izmirekonomi.edu.tr/"
-    ],
-    "name": "Izmir Economic University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": [
-      "izmirekonomi.edu.tr"
-    ],
-    "country": "Turkey"
-  },
-  {
-    "web_pages": [
       "http://www.kafkas.edu.tr/"
     ],
     "name": "Kafkas University",
@@ -105299,13 +105287,15 @@
   },
   {
     "web_pages": [
-      "http://www.ikc.edu.tr/"
+      "http://www.ikc.edu.tr/",
+      "http://www.ikcu.edu.tr/"
     ],
-    "name": "Izmir Katip celebi University",
+    "name": "Izmir Katip Celebi University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "ikc.edu.tr"
+      "ikc.edu.tr",
+      "ikcu.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -105719,13 +105709,15 @@
   },
   {
     "web_pages": [
-      "http://www.ieu.edu.tr/"
+      "http://www.ieu.edu.tr/",
+      "http://www.izmirekonomi.edu.tr/"
     ],
-    "name": "Izmir Economy University",
+    "name": "Izmir University of Economics",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": [
-      "ieu.edu.tr"
+      "ieu.edu.tr",
+      "izmirekonomi.edu.tr"
     ],
     "country": "Turkey"
   },
@@ -117970,5 +117962,41 @@
       "audencia.com"
     ],
     "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.bakircay.edu.tr/"
+    ],
+    "name": "Izmir Bakırçay University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "bakircay.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.idu.edu.tr/"
+    ],
+    "name": "Izmir Democracy University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "idu.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.tinaztepe.edu.tr/"
+    ],
+    "name": "Izmir Tınaztepe University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "tinaztepe.edu.tr"
+    ],
+    "country": "Turkey"
   }
 ]
