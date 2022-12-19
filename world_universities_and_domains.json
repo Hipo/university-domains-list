@@ -118406,5 +118406,17 @@
       "chaminade.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.daltonstate.edu/"
+    ],
+    "name": "Dalton State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "daltonstate.edu"
+    ],
+    "country": "United States"
   }
 ]
