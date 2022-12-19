@@ -95924,6 +95924,18 @@
   },
   {
     "web_pages": [
+      "http://www.rosey.ch/"
+    ],
+    "name": "Institut Le Rosey",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "rosey.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
       "http://www.aiu.edu.sy/"
     ],
     "name": "Arab European University",
