@@ -118334,5 +118334,17 @@
       "mdc.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.fsw.edu/"
+    ],
+    "name": "Florida SouthWestern State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fsw.edu"
+    ],
+    "country": "United States"
   }
 ]
