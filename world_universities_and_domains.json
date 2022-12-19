@@ -103282,6 +103282,18 @@
   },
   {
     "web_pages": [
+      "https://cavc.ac.uk/"
+    ],
+    "name": "Cardiff and Vale College",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "cavc.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
       "http://www.claeh.edu.uy/"
     ],
     "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
