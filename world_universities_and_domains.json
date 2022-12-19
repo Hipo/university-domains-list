@@ -118310,5 +118310,17 @@
       "einsteinmed.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://mdc.edu/"
+    ],
+    "name": "Miami Dade College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mdc.edu"
+    ],
+    "country": "United States"
   }
 ]
