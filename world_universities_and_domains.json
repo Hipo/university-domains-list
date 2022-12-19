@@ -118382,5 +118382,17 @@
       "bmhs.org"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://chaminade.edu/"
+    ],
+    "name": "Chaminade University of Honolulu",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "chaminade.edu"
+    ],
+    "country": "United States"
   }
 ]
