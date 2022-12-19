@@ -117139,6 +117139,18 @@
   },
   {
     "web_pages": [
+      "https://www.enae.es/"
+    ],
+    "name": "ENAE Business School",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "enae.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
       "http://www.dhbw.de/"
     ],
     "name": "Duale Hochschule Baden-Württemberg",
