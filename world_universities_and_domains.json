@@ -118478,5 +118478,17 @@
       "ojaiusd.org"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://bismarckstate.edu/"
+    ],
+    "name": "Bismark State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bismarckstate.edu"
+    ],
+    "country": "United States"
   }
 ]
