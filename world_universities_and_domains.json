@@ -118298,5 +118298,17 @@
       "gbcnv.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.einsteinmed.edu/"
+    ],
+    "name": "Einsteinmed",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "einsteinmed.edu"
+    ],
+    "country": "United States"
   }
 ]
