@@ -118514,5 +118514,17 @@
       "bismarckstate.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.quadratacademy.com/"
+    ],
+    "name": "Quadrat Academy",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "quadratacademy.com"
+    ],
+    "country": "United States"
   }
 ]
