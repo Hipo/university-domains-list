@@ -21030,6 +21030,18 @@
   },
   {
     "web_pages": [
+      "https://www.thomasmore.be/"
+    ],
+    "name": "Thomas More Hogeschool",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "thomasmore.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
       "http://www.aucmed.edu/"
     ],
     "name": "American University of the Caribbean, School of Medicine",
