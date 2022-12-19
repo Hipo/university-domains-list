@@ -118430,5 +118430,17 @@
       "daltonstate.edu"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ojaiusd.org/"
+    ],
+    "name": "Ojai Unified School District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ojaiusd.org"
+    ],
+    "country": "United States"
   }
 ]
