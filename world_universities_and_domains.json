@@ -85836,6 +85836,18 @@
   },
   {
     "web_pages": [
+      "https://oryxschool.qa/"
+    ],
+    "name": "Oryx International",
+    "alpha_two_code": "QA",
+    "state-province": null,
+    "domains": [
+      "oryxschool.qa"
+    ],
+    "country": "Qatar"
+  },
+  {
+    "web_pages": [
       "http://www.univ-reunion.fr/"
     ],
     "name": "Université de la Reunion",
