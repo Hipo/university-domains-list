@@ -101201,6 +101201,18 @@
   },
   {
     "web_pages": [
+      "https://www.sia.ae/"
+    ],
+    "name": "Scholars International Academy",
+    "alpha_two_code": "AE",
+    "state-province": null,
+    "domains": [
+      "sia.ae"
+    ],
+    "country": "United Arab Emirates"
+  },
+  {
+    "web_pages": [
       "http://www.abdn.ac.uk/"
     ],
     "name": "University of Aberdeen",
