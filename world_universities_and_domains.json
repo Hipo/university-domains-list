@@ -118538,5 +118538,17 @@
       "quadratacademy.com"
     ],
     "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.una.edu/"
+    ],
+    "name": "University of North Alabama",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "una.edu"
+    ],
+    "country": "United States"
   }
 ]
