@@ -92818,6 +92818,18 @@
   },
   {
     "web_pages": [
+      "https://www.aisct.org/"
+    ],
+    "name": "American International School of Cape Town",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "aisct.org"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
       "http://www.juba.edu.sd/"
     ],
     "name": "University of Juba",
