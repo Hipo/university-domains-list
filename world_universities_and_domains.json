@@ -19117,6 +19117,18 @@
   },
   {
     "web_pages": [
+      "https://www.asb.bh/"
+    ],
+    "name": "American School of Bahrain",
+    "alpha_two_code": "BH",
+    "state-province": null,
+    "domains": [
+      "asb.bh"
+    ],
+    "country": "Bahrain"
+  },
+  {
+    "web_pages": [
       "http://www.aiub.edu/"
     ],
     "name": "American International University - Bangladesh",
