@@ -95272,18 +95272,6 @@
   },
   {
     "web_pages": [
-      "http://www.unizh.ch/"
-    ],
-    "name": "University of Zürich",
-    "alpha_two_code": "CH",
-    "state-province": null,
-    "domains": [
-      "unizh.ch"
-    ],
-    "country": "Switzerland"
-  },
-  {
-    "web_pages": [
       "http://www.victoria-uni.ch/"
     ],
     "name": "Victoria University",
@@ -95396,13 +95384,14 @@
   },
   {
     "web_pages": [
-      "http://www.uzh.ch/"
+      "https://www.uzh.ch/"
     ],
     "name": "University of Zurich",
     "alpha_two_code": "CH",
     "state-province": null,
     "domains": [
-      "uzh.ch"
+      "uzh.ch",
+      "unizh.ch"
     ],
     "country": "Switzerland"
   },
