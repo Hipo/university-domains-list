@@ -19117,6 +19117,18 @@
   },
   {
     "web_pages": [
+      "https://www.asb.bh/"
+    ],
+    "name": "American School of Bahrain",
+    "alpha_two_code": "BH",
+    "state-province": null,
+    "domains": [
+      "asb.bh"
+    ],
+    "country": "Bahrain"
+  },
+  {
+    "web_pages": [
       "http://www.aiub.edu/"
     ],
     "name": "American International University - Bangladesh",
@@ -21013,6 +21025,30 @@
     "state-province": null,
     "domains": [
       "odisee.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.hogent.be/"
+    ],
+    "name": "Hogeschool Gent",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "hogent.be"
+    ],
+    "country": "Belgium"
+  },
+  {
+    "web_pages": [
+      "https://www.thomasmore.be/"
+    ],
+    "name": "Thomas More Hogeschool",
+    "alpha_two_code": "BE",
+    "state-province": null,
+    "domains": [
+      "thomasmore.be"
     ],
     "country": "Belgium"
   },
@@ -33581,6 +33617,18 @@
   },
   {
     "web_pages": [
+      "https://www.eia.edu.co/"
+    ],
+    "name": "Universidad EIA",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "eia.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
       "http://www.ucbc.org/"
     ],
     "name": "Université Chrétienne Bilingue du Congo",
@@ -35358,6 +35406,18 @@
     "state-province": null,
     "domains": [
       "tietgen.dk"
+    ],
+    "country": "Denmark"
+  },
+  {
+    "web_pages": [
+      "https://en.via.dk/"
+    ],
+    "name": "VIA University College",
+    "alpha_two_code": "DK",
+    "state-province": null,
+    "domains": [
+      "en.via.dk"
     ],
     "country": "Denmark"
   },
@@ -58597,6 +58657,30 @@
   },
   {
     "web_pages": [
+      "https://aur.edu/"
+    ],
+    "name": "American University of Rome",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "aur.edu"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "https://ihteamlingue.it/"
+    ],
+    "name": "Team Lingue International House",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "ihteamlingue.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
       "http://www.ncu.edu.jm/"
     ],
     "name": "Northern Caribbean University",
@@ -75106,6 +75190,18 @@
   },
   {
     "web_pages": [
+      "https://www.jefferson.edu.mx/"
+    ],
+    "name": "Universidad Internacional Jefferson",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "jefferson.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
       "http://www.ase.md/"
     ],
     "name": "Academy of Economic Studies of Moldova",
@@ -76702,6 +76798,18 @@
     "state-province": null,
     "domains": [
       "waikato.ac.nz"
+    ],
+    "country": "New Zealand"
+  },
+  {
+    "web_pages": [
+      "https://www.nmit.ac.nz/"
+    ],
+    "name": "Nelson Marlborough Institute of Technology",
+    "alpha_two_code": "NZ",
+    "state-province": null,
+    "domains": [
+      "nmit.ac.nz"
     ],
     "country": "New Zealand"
   },
@@ -85392,6 +85500,18 @@
   },
   {
     "web_pages": [
+      "https://www.novasbe.unl.pt/en/"
+    ],
+    "name": "Nova School of Business and Economics",
+    "alpha_two_code": "PT",
+    "state-province": null,
+    "domains": [
+      "novasbe.unl.pt"
+    ],
+    "country": "Portugal"
+  },
+  {
+    "web_pages": [
       "http://www.bayamon.inter.edu/"
     ],
     "name": "Universidad Interamericana de Puerto Rico, Bayamón",
@@ -85711,6 +85831,18 @@
     "state-province": null,
     "domains": [
       "qu.edu.qa"
+    ],
+    "country": "Qatar"
+  },
+  {
+    "web_pages": [
+      "https://oryxschool.qa/"
+    ],
+    "name": "Oryx International",
+    "alpha_two_code": "QA",
+    "state-province": null,
+    "domains": [
+      "oryxschool.qa"
     ],
     "country": "Qatar"
   },
@@ -92698,6 +92830,18 @@
   },
   {
     "web_pages": [
+      "https://www.aisct.org/"
+    ],
+    "name": "American International School of Cape Town",
+    "alpha_two_code": "ZA",
+    "state-province": null,
+    "domains": [
+      "aisct.org"
+    ],
+    "country": "South Africa"
+  },
+  {
+    "web_pages": [
       "http://www.juba.edu.sd/"
     ],
     "name": "University of Juba",
@@ -95812,6 +95956,18 @@
     "state-province": null,
     "domains": [
       "unispital.ch"
+    ],
+    "country": "Switzerland"
+  },
+  {
+    "web_pages": [
+      "http://www.rosey.ch/"
+    ],
+    "name": "Institut Le Rosey",
+    "alpha_two_code": "CH",
+    "state-province": null,
+    "domains": [
+      "rosey.ch"
     ],
     "country": "Switzerland"
   },
@@ -101034,6 +101190,18 @@
   },
   {
     "web_pages": [
+      "https://www.sia.ae/"
+    ],
+    "name": "Scholars International Academy",
+    "alpha_two_code": "AE",
+    "state-province": null,
+    "domains": [
+      "sia.ae"
+    ],
+    "country": "United Arab Emirates"
+  },
+  {
+    "web_pages": [
       "http://www.abdn.ac.uk/"
     ],
     "name": "University of Aberdeen",
@@ -103110,6 +103278,78 @@
     "domains": [
       "middlesbro.ac.uk",
       "mbro.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.stmarys.ac.uk/home.aspx"
+    ],
+    "name": "St Mary's University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "stmarys.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.leedstrinity.ac.uk/"
+    ],
+    "name": "Leeds Trinity University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "leedstrinity.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.eastcoast.ac.uk/"
+    ],
+    "name": "East Coast College",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "eastcoast.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.swansea.ac.uk/"
+    ],
+    "name": "Swansea University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "swansea.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://www.yorksj.ac.uk/"
+    ],
+    "name": "York St. John University",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "yorksj.ac.uk"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": [
+      "https://cavc.ac.uk/"
+    ],
+    "name": "Cardiff and Vale College",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "cavc.ac.uk"
     ],
     "country": "United Kingdom"
   },
@@ -116936,6 +117176,18 @@
   },
   {
     "web_pages": [
+      "https://www.enae.es/"
+    ],
+    "name": "ENAE Business School",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "enae.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
       "http://www.dhbw.de/"
     ],
     "name": "Duale Hochschule Baden-Württemberg",
@@ -117299,6 +117551,18 @@
   },
   {
     "web_pages": [
+      "http://www.linuwel.nsw.edu.au/"
+    ],
+    "name": "Linuwel School",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "linuwel.nsw.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
       "http://www.cust.edu.cn",
       "http://ieec.cust.edu.cn/"
     ],
@@ -117607,6 +117871,30 @@
   },
   {
     "web_pages": [
+      "https://www.torontomu.ca/"
+    ],
+    "name": "Toronto Metropolitan University",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "torontomu.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "https://collegeuniversel.ca/"
+    ],
+    "name": "Collège Universel Gatineau",
+    "alpha_two_code": "CA",
+    "state-province": null,
+    "domains": [
+      "collegeuniversel.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
       "http://www.hsu.edu.hk/"
     ],
     "name": "The Hang Seng University of Hong Kong",
@@ -117906,6 +118194,18 @@
   },
   {
     "web_pages": [
+      "https://srmap.edu.in/"
+    ],
+    "name": "SRM University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [
+      "srmap.edu.in"
+    ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "https://www.sciencespo-rennes.fr/en/"
     ],
     "name": "Institut d'études politiques de Rennes",
@@ -117913,6 +118213,18 @@
     "state-province": null,
     "domains": [
       "sciencespo-rennes.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.rennes-sb.com/"
+    ],
+    "name": "Rennes School of Business",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "rennes-sb.com"
     ],
     "country": "France"
   },
@@ -117987,5 +118299,245 @@
       "tinaztepe.edu.tr"
     ],
     "country": "Turkey"
+  },
+  {
+    "web_pages": [
+      "https://www.usa.edu/"
+    ],
+    "name": "University of St. Augustine for Health Sciences",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "usa.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://calarts.edu/"
+    ],
+    "name": "California Institute of the Arts",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "calarts.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.dmu.edu/"
+    ],
+    "name": "Des Moines University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "dmu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://utahtech.edu/"
+    ],
+    "name": "Utah Tech University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "utahtech.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://midwestern.edu/"
+    ],
+    "name": "Midwestern University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "midwestern.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.iwu.edu/"
+    ],
+    "name": "Illinois Wesleyan University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "iwu.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.maryvillecollege.edu/"
+    ],
+    "name": "Maryville College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "maryvillecollege.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.endicott.edu/"
+    ],
+    "name": "Endicott College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "endicott.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ua.edu/"
+    ],
+    "name": "The University of Alabama",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ua.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.gbcnv.edu/"
+    ],
+    "name": "Great Basin College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "gbcnv.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.einsteinmed.edu/"
+    ],
+    "name": "Einsteinmed",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "einsteinmed.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://mdc.edu/"
+    ],
+    "name": "Miami Dade College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "mdc.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.fsw.edu/"
+    ],
+    "name": "Florida SouthWestern State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "fsw.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.bmhs.org/"
+    ],
+    "name": "Bishop McNamara High School",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bmhs.org"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://chaminade.edu/"
+    ],
+    "name": "Chaminade University of Honolulu",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "chaminade.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.daltonstate.edu/"
+    ],
+    "name": "Dalton State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "daltonstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.ojaiusd.org/"
+    ],
+    "name": "Ojai Unified School District",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "ojaiusd.org"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://bismarckstate.edu/"
+    ],
+    "name": "Bismark State College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "bismarckstate.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.quadratacademy.com/"
+    ],
+    "name": "Quadrat Academy",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "quadratacademy.com"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.una.edu/"
+    ],
+    "name": "University of North Alabama",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "una.edu"
+    ],
+    "country": "United States"
   }
 ]
