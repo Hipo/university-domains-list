@@ -118547,5 +118547,13 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": null
+  },
+  {
+    "name": "Wakefield College",
+    "domains": ["wakefield.ac.uk"],
+    "web_pages": ["https://wakefield.ac.uk"],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "state-province": null
   }
 ]
