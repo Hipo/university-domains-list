@@ -118539,5 +118539,13 @@
       "una.edu"
     ],
     "country": "United States"
+  },
+  {
+    "name": "St\u0159edn\u00ed pr\u016fmyslov\u00e1 \u0161kola Mlad\u00e1 Boleslav",
+    "domains": ["student.spsmb.cz", "spsmb.cz"],
+    "web_pages": ["https://spsmb.cz"],
+    "country": "Czech Republic",
+    "alpha_two_code": "CZ",
+    "state-province": null
   }
 ]
