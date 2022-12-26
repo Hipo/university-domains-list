@@ -118539,5 +118539,13 @@
       "una.edu"
     ],
     "country": "United States"
+  },
+  {
+    "name": "Dalian Neusoft University of Information",
+    "domains": ["dnui.edu.cn", "neusoft.edu.cn"],
+    "web_pages": ["https://dnui.edu.cn", "https://www.neusoft.edu.cn"],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": null
   }
 ]
