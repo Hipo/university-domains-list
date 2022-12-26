@@ -118539,5 +118539,13 @@
       "una.edu"
     ],
     "country": "United States"
+  },
+  {
+    "name": "Map\u00faa University",
+    "domains": ["mymail.mapua.edu.ph", "mapua.edu.ph"],
+    "web_pages": ["https://mapua.edu.ph"],
+    "country": "Philippines",
+    "alpha_two_code": "PH",
+    "state-province": null
   }
 ]
