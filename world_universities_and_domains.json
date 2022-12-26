@@ -118539,5 +118539,13 @@
       "una.edu"
     ],
     "country": "United States"
+  },
+  {
+    "name": "University of Li\u00e8ge",
+    "domains": ["student.uliege.be", "helpnet.uliege.be", "ddi.uliege.be", "uliege.be"],
+    "web_pages": ["https://uliege.be"],
+    "country": "Belgium",
+    "alpha_two_code": "BE",
+    "state-province": null
   }
 ]
