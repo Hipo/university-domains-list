@@ -118539,5 +118539,13 @@
       "una.edu"
     ],
     "country": "United States"
+  },
+  {
+    "name": "KIET Group of Institutions",
+    "domains": ["kiet.edu"],
+    "web_pages": ["https://kiet.edu"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": null
   }
 ]
