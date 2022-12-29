@@ -118547,5 +118547,13 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": null
+  },
+  {
+    "name": "Yeditepe University",
+    "domains":["https://yeditepe.edu.tr"],
+    "country": "Turkey",
+    "alpha_two_code": "TR",
+    "state-province":"Istanbul"
+
   }
 ]
