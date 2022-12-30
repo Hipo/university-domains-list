@@ -118547,5 +118547,45 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": null
+  },
+  {
+    "name": "Wakefield College",
+    "domains": ["wakefield.ac.uk"],
+    "web_pages": ["https://wakefield.ac.uk"],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "state-province": null
+  },
+  {
+    "name": "University of Liège",
+    "domains": ["student.uliege.be", "helpnet.uliege.be", "ddi.uliege.be", "uliege.be"],
+    "web_pages": ["https://uliege.be"],
+    "country": "Belgium",
+    "alpha_two_code": "BE",
+    "state-province": null
+  },
+  {
+    "name": "Střední průmyslová škola Mladá Boleslav",
+    "domains": ["student.spsmb.cz", "spsmb.cz"],
+    "web_pages": ["https://spsmb.cz"],
+    "country": "Czech Republic",
+    "alpha_two_code": "CZ",
+    "state-province": null
+  },
+  {
+    "name": "Dalian Neusoft University of Information",
+    "domains": ["dnui.edu.cn", "neusoft.edu.cn"],
+    "web_pages": ["https://dnui.edu.cn", "https://www.neusoft.edu.cn"],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": null
+  },
+  {
+    "name": "Mapúa University",
+    "domains": ["mymail.mapua.edu.ph", "mapua.edu.ph"],
+    "web_pages": ["https://mapua.edu.ph"],
+    "country": "Philippines",
+    "alpha_two_code": "PH",
+    "state-province": null
   }
 ]
