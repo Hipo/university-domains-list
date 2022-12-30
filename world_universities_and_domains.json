@@ -13,16 +13,16 @@
   },
   {
     "web_pages": [
-    "https://www.upes.ac.in/"
+      "https://www.upes.ac.in/"
     ],
     "name": "University of Petroleum and Energy Studies",
     "alpha_two_code": "IN",
     "state-province": "Dehradun",
     "domains": [
-    "upes.ac.in"
+      "upes.ac.in"
     ],
     "country": "India"
-    },
+  },
   {
     "web_pages": [
       "https://www.cstj.qc.ca",
@@ -31,7 +31,7 @@
     ],
     "name": "Cégep de Saint-Jérôme",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "cstj.qc.ca"
     ],
@@ -6563,7 +6563,7 @@
     ],
     "name": "Lambton College",
     "alpha_two_code": "CA",
-    "state-province": "Sarnia",
+    "state-province": "Ontario",
     "domains": [
       "lambtoncollege.ca",
       "mylambton.ca"
@@ -13083,7 +13083,7 @@
     "alpha_two_code": "US",
     "state-province": "Pennsylvania",
     "domains": [
-        "upb.pitt.edu"
+      "upb.pitt.edu"
     ],
     "country": "United States"
   },
@@ -16281,7 +16281,7 @@
     ],
     "name": "Universidad Atlantida Argentina",
     "alpha_two_code": "AR",
-    "state-province":  "Buenos Aires" ,
+    "state-province": "Buenos Aires",
     "domains": [
       "atlantida.edu.ar"
     ],
@@ -22721,7 +22721,7 @@
     ],
     "country": "Brazil"
   },
-   {
+  {
     "web_pages": [
       "https://www.ufsj.edu.br/"
     ],
@@ -25139,7 +25139,7 @@
     ],
     "name": "Acadia University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "acadiau.ca"
     ],
@@ -25151,7 +25151,7 @@
     ],
     "name": "Algonquin College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "algonquincollege.com"
     ],
@@ -25163,7 +25163,7 @@
     ],
     "name": "Ashton College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "ashtoncollege.com"
     ],
@@ -25175,7 +25175,7 @@
     ],
     "name": "Assumption University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "assumptionu.ca"
     ],
@@ -25187,7 +25187,7 @@
     ],
     "name": "Athabasca University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "athabascau.ca"
     ],
@@ -25199,7 +25199,7 @@
     ],
     "name": "Augustana University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "augustana.ab.ca"
     ],
@@ -25211,7 +25211,7 @@
     ],
     "name": "British Columbia Institute of Technology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "bcit.ca"
     ],
@@ -25223,7 +25223,7 @@
     ],
     "name": "British Columbia Open University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "bcou.ca"
     ],
@@ -25235,7 +25235,7 @@
     ],
     "name": "William and Catherine Booth College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Manitoba",
     "domains": [
       "boothcollege.ca"
     ],
@@ -25247,7 +25247,7 @@
     ],
     "name": "Collège Boréal",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "borealc.on.ca"
     ],
@@ -25259,7 +25259,7 @@
     ],
     "name": "Bow Valley College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "bowvalleycollege.ca"
     ],
@@ -25271,7 +25271,7 @@
     ],
     "name": "Brandon University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Manitoba",
     "domains": [
       "brandonu.ca"
     ],
@@ -25283,7 +25283,7 @@
     ],
     "name": "Brock University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "brocku.ca"
     ],
@@ -25295,7 +25295,7 @@
     ],
     "name": "DeVry Institute of Technology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "cal.devry.ca"
     ],
@@ -25307,7 +25307,7 @@
     ],
     "name": "Camosun College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "camosun.bc.ca"
     ],
@@ -25319,7 +25319,7 @@
     ],
     "name": "Capilano College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "capcollege.bc.ca"
     ],
@@ -25331,7 +25331,7 @@
     ],
     "name": "University College of the Cariboo",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "cariboo.bc.ca"
     ],
@@ -25343,7 +25343,7 @@
     ],
     "name": "Carleton University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "carleton.ca"
     ],
@@ -25355,7 +25355,7 @@
     ],
     "name": "Canadian College of Business & Computers",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "ccbc.ca"
     ],
@@ -25367,7 +25367,7 @@
     ],
     "name": "Centennial College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "centennialcollege.ca"
     ],
@@ -25379,7 +25379,7 @@
     ],
     "name": "Canadian Mennonite University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Manitoba",
     "domains": [
       "cmu.ca"
     ],
@@ -25391,7 +25391,7 @@
     ],
     "name": "College of New Caledonia",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "cnc.bc.ca"
     ],
@@ -25403,7 +25403,7 @@
     ],
     "name": "Columbia College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "columbiacollege.ca"
     ],
@@ -25415,7 +25415,7 @@
     ],
     "name": "Concordia University College of Alberta",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "concordia.ab.ca"
     ],
@@ -25427,7 +25427,7 @@
     ],
     "name": "Concordia University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "concordia.ca"
     ],
@@ -25439,7 +25439,7 @@
     ],
     "name": "Conestoga College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "conestogac.on.ca"
     ],
@@ -25451,7 +25451,7 @@
     ],
     "name": "College of the Rockies",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "cotr.bc.ca"
     ],
@@ -25463,7 +25463,7 @@
     ],
     "name": "University of Moncton, Shippagan",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "cus.ca"
     ],
@@ -25475,7 +25475,7 @@
     ],
     "name": "University of Moncton, Edmundston",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "cuslm.ca"
     ],
@@ -25487,7 +25487,7 @@
     ],
     "name": "Dalhousie University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "dal.ca"
     ],
@@ -25499,7 +25499,7 @@
     ],
     "name": "Douglas College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "douglas.bc.ca"
     ],
@@ -25523,7 +25523,7 @@
     ],
     "name": "Emily Carr Institute of Art + Design",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "eciad.bc.ca"
     ],
@@ -25535,7 +25535,7 @@
     ],
     "name": "École nationale d'administration publique, Université du Québec",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "enap.uquebec.ca"
     ],
@@ -25547,7 +25547,7 @@
     ],
     "name": "École de technologie supérieure, Université du Québec",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "etsmtl.ca"
     ],
@@ -25559,7 +25559,7 @@
     ],
     "name": "First Nations University of Canada",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Saskatchewan",
     "domains": [
       "firstnationsuniversity.ca"
     ],
@@ -25571,7 +25571,7 @@
     ],
     "name": "George Brown College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "gbrownc.on.ca"
     ],
@@ -25583,7 +25583,7 @@
     ],
     "name": "École des Hautes Études Commerciales",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "hec.ca"
     ],
@@ -25595,7 +25595,7 @@
     ],
     "name": "Humber College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "humber.ca",
       "humbermail.ca"
@@ -25608,7 +25608,7 @@
     ],
     "name": "Huron University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "huronuc.on.ca"
     ],
@@ -25620,7 +25620,7 @@
     ],
     "name": "Institut Armand-Frappier, Université du Québec",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "iaf.inrs.ca"
     ],
@@ -25632,7 +25632,7 @@
     ],
     "name": "Institut National de la Recherche Scientifique, Université du Québec",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "inrs.uquebec.ca"
     ],
@@ -25644,7 +25644,7 @@
     ],
     "name": "Kingston College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "kingston.edu"
     ],
@@ -25656,7 +25656,7 @@
     ],
     "name": "King's University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "kingsu.ab.ca"
     ],
@@ -25668,7 +25668,7 @@
     ],
     "name": "Kwantleen University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "kwantlen.bc.ca"
     ],
@@ -25680,7 +25680,7 @@
     ],
     "name": "Lakehead University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "lakeheadu.ca"
     ],
@@ -25693,7 +25693,7 @@
     ],
     "name": "Langara College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "langara.bc.ca",
       "langara.ca"
@@ -25706,7 +25706,7 @@
     ],
     "name": "Lansbridge University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "lansbridge.com"
     ],
@@ -25718,7 +25718,7 @@
     ],
     "name": "Laurentian University of Sudbury",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "laurentian.ca"
     ],
@@ -25730,7 +25730,7 @@
     ],
     "name": "MacEwan University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "macewan.ca"
     ],
@@ -25742,7 +25742,7 @@
     ],
     "name": "Malaspina University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "mala.bc.ca"
     ],
@@ -25754,7 +25754,7 @@
     ],
     "name": "McGill University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "mcgill.ca"
     ],
@@ -25766,7 +25766,7 @@
     ],
     "name": "McMaster University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "mcmaster.ca"
     ],
@@ -25778,7 +25778,7 @@
     ],
     "name": "Mount Saint Vincent University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "msvu.ca"
     ],
@@ -25790,7 +25790,7 @@
     ],
     "name": "Mount Allison University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "mta.ca"
     ],
@@ -25802,7 +25802,7 @@
     ],
     "name": "Mount Royal University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "mtroyal.ca"
     ],
@@ -25814,7 +25814,7 @@
     ],
     "name": "Northern Alberta Institute of Technology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "nait.ca"
     ],
@@ -25826,7 +25826,7 @@
     ],
     "name": "North Island College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "nic.bc.ca"
     ],
@@ -25838,7 +25838,7 @@
     ],
     "name": "Nipissing University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "nipissingu.ca"
     ],
@@ -25850,7 +25850,7 @@
     ],
     "name": "Northern Lights College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "nlc.bc.ca"
     ],
@@ -25862,7 +25862,7 @@
     ],
     "name": "Nova Scotia Agricultural College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "nsac.ns.ca"
     ],
@@ -25874,7 +25874,7 @@
     ],
     "name": "Nova Scotia College of Art and Design",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "nscad.ns.ca"
     ],
@@ -25886,7 +25886,7 @@
     ],
     "name": "Nicola Valley Institute of Technology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "nvit.bc.ca"
     ],
@@ -25898,7 +25898,7 @@
     ],
     "name": "Ontario College of Art and Design",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "ocad.ca"
     ],
@@ -25910,7 +25910,7 @@
     ],
     "name": "Okanagan University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "okanagan.bc.ca"
     ],
@@ -25922,7 +25922,7 @@
     ],
     "name": "Dominican College of Philosophy and Theology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "op.org"
     ],
@@ -25934,7 +25934,7 @@
     ],
     "name": "Pacific International College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "picollege.ca"
     ],
@@ -25946,7 +25946,7 @@
     ],
     "name": "École Polytechnique de Montréal, Université de Montréal",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "polymtl.ca"
     ],
@@ -25958,7 +25958,7 @@
     ],
     "name": "Queen's University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "queensu.ca"
     ],
@@ -25970,7 +25970,7 @@
     ],
     "name": "Quest University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "questu.ca"
     ],
@@ -25982,7 +25982,7 @@
     ],
     "name": "Redeemer College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "redeemer.ca"
     ],
@@ -25994,7 +25994,7 @@
     ],
     "name": "Regent College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "regent-college.edu"
     ],
@@ -26006,7 +26006,7 @@
     ],
     "name": "Royal Military College of Canada",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "rmc.ca"
     ],
@@ -26018,7 +26018,7 @@
     ],
     "name": "Royal Roads University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "royalroads.ca"
     ],
@@ -26030,7 +26030,7 @@
     ],
     "name": "Ryerson Polytechnic University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "ryerson.ca"
     ],
@@ -26042,7 +26042,7 @@
     ],
     "name": "Southern Alberta Institute of Technology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "sait.ca"
     ],
@@ -26054,7 +26054,7 @@
     ],
     "name": "Luther College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Saskatchewan",
     "domains": [
       "saskweb.com"
     ],
@@ -26066,7 +26066,7 @@
     ],
     "name": "Sauder School of Business",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "sauder.ubc.ca"
     ],
@@ -26078,7 +26078,7 @@
     ],
     "name": "University of Toronto, Scarborough",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "scar.utoronto.ca"
     ],
@@ -26090,7 +26090,7 @@
     ],
     "name": "Selkirk College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "selkirk.bc.ca"
     ],
@@ -26102,7 +26102,7 @@
     ],
     "name": "Seneca College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "senecacollege.ca",
       "myseneca.ca"
@@ -26115,7 +26115,7 @@
     ],
     "name": "Simon Fraser University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "sfu.ca"
     ],
@@ -26127,7 +26127,7 @@
     ],
     "name": "Sheridan College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "sheridancollege.ca"
     ],
@@ -26139,7 +26139,7 @@
     ],
     "name": "Saskatchewan Indian Federated College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Saskatchewan",
     "domains": [
       "sifc.edu"
     ],
@@ -26203,7 +26203,7 @@
     ],
     "name": "Télé-université, Université du Québec",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "teluq.uquebec.ca"
     ],
@@ -26215,7 +26215,7 @@
     ],
     "name": "Trent University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "trentu.ca"
     ],
@@ -26227,7 +26227,7 @@
     ],
     "name": "University of Trinity College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "trinity.utoronto.ca"
     ],
@@ -26239,7 +26239,7 @@
     ],
     "name": "Thompson Rivers University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "tru.ca"
     ],
@@ -26251,7 +26251,7 @@
     ],
     "name": "Trinity Western University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "twu.ca"
     ],
@@ -26263,7 +26263,7 @@
     ],
     "name": "University of Alberta",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "ualberta.ca"
     ],
@@ -26275,7 +26275,7 @@
     ],
     "name": "University of British Columbia",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "ubc.ca"
     ],
@@ -26287,7 +26287,7 @@
     ],
     "name": "Bishop's University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "ubishops.ca"
     ],
@@ -26299,7 +26299,7 @@
     ],
     "name": "University of Calgary",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "ucalgary.ca"
     ],
@@ -26311,7 +26311,7 @@
     ],
     "name": "University College of Cape Breton",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "uccb.ns.ca"
     ],
@@ -26323,7 +26323,7 @@
     ],
     "name": "University College of the Fraser Valley",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "ucfv.bc.ca"
     ],
@@ -26335,7 +26335,7 @@
     ],
     "name": "Memorial University of Newfoundland",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Newfoundland and Labrador",
     "domains": [
       "ucs.mun.ca"
     ],
@@ -26347,7 +26347,7 @@
     ],
     "name": "University of King's College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "ukings.ns.ca"
     ],
@@ -26359,7 +26359,7 @@
     ],
     "name": "Université Laval",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "ulaval.ca"
     ],
@@ -26371,7 +26371,7 @@
     ],
     "name": "University of Lethbridge",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Alberta",
     "domains": [
       "uleth.ca"
     ],
@@ -26383,7 +26383,7 @@
     ],
     "name": "University of Manitoba",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Manitoba",
     "domains": [
       "umanitoba.ca"
     ],
@@ -26395,7 +26395,7 @@
     ],
     "name": "University of Moncton",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "umoncton.ca"
     ],
@@ -26407,7 +26407,7 @@
     ],
     "name": "Université de Montréal",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "umontreal.ca"
     ],
@@ -26419,7 +26419,7 @@
     ],
     "name": "University of New Brunswick",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "unb.ca"
     ],
@@ -26431,7 +26431,7 @@
     ],
     "name": "University of Northern British Columbia",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "unbc.ca"
     ],
@@ -26443,7 +26443,7 @@
     ],
     "name": "University of New Brunswick, Saint John",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "New Brunswick",
     "domains": [
       "unbsj.ca"
     ],
@@ -26455,7 +26455,7 @@
     ],
     "name": "University Canada West",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "universitycanadawest.ca"
     ],
@@ -26467,7 +26467,7 @@
     ],
     "name": "University of Guelph",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uoguelph.ca"
     ],
@@ -26479,7 +26479,7 @@
     ],
     "name": "University of Ontario Institute of Technology",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uoit.ca"
     ],
@@ -26491,7 +26491,7 @@
     ],
     "name": "University of Ottawa",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uottawa.ca"
     ],
@@ -26503,7 +26503,7 @@
     ],
     "name": "University of Prince Edward Island",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Prince Edward Island",
     "domains": [
       "upei.ca"
     ],
@@ -26515,7 +26515,7 @@
     ],
     "name": "Université du Québec à Chicoutimi",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uqac.ca"
     ],
@@ -26527,7 +26527,7 @@
     ],
     "name": "Université du Québec à Montréal",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uqam.ca"
     ],
@@ -26539,7 +26539,7 @@
     ],
     "name": "Université du Québec à Rimouski",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uqar.uquebec.ca"
     ],
@@ -26551,7 +26551,7 @@
     ],
     "name": "Université du Québec en Abitibi-Témiscamingue",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uqat.uquebec.ca"
     ],
@@ -26563,7 +26563,7 @@
     ],
     "name": "Université du Québec en Outaouais",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uqo.ca"
     ],
@@ -26575,7 +26575,7 @@
     ],
     "name": "Université du Québec à Trois-Rivières",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uqtr.uquebec.ca"
     ],
@@ -26587,7 +26587,7 @@
     ],
     "name": "University of Québec",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "uquebec.ca"
     ],
@@ -26599,7 +26599,7 @@
     ],
     "name": "Campion College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Saskatchewan",
     "domains": [
       "uregina.ca"
     ],
@@ -26611,7 +26611,7 @@
     ],
     "name": "University of Regina",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Saskatchewan",
     "domains": [
       "uregina.ca"
     ],
@@ -26623,7 +26623,7 @@
     ],
     "name": "University of Saskatchewan",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Saskatchewan",
     "domains": [
       "usask.ca"
     ],
@@ -26635,7 +26635,7 @@
     ],
     "name": "Université de Sherbrooke",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "usherb.ca"
     ],
@@ -26671,7 +26671,7 @@
     ],
     "name": "University College of Saint-Boniface",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Manitoba",
     "domains": [
       "ustboniface.mb.ca"
     ],
@@ -26695,7 +26695,7 @@
     ],
     "name": "University of Sudbury",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "usudbury.com"
     ],
@@ -26707,7 +26707,7 @@
     ],
     "name": "University of Toronto, Mississauga",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "utm.utoronto.ca"
     ],
@@ -26731,7 +26731,7 @@
     ],
     "name": "University of Toronto",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "utoronto.ca"
     ],
@@ -26743,7 +26743,7 @@
     ],
     "name": "University of Victoria",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "uvic.ca"
     ],
@@ -26755,7 +26755,7 @@
     ],
     "name": "University of Waterloo",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uwaterloo.ca"
     ],
@@ -26767,7 +26767,7 @@
     ],
     "name": "University of Windsor",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uwindsor.ca"
     ],
@@ -26779,7 +26779,7 @@
     ],
     "name": "University of Winnipeg",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Manitoba",
     "domains": [
       "uwinnipeg.ca"
     ],
@@ -26791,7 +26791,7 @@
     ],
     "name": "Brescia University College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uwo.ca"
     ],
@@ -26803,7 +26803,7 @@
     ],
     "name": "King's College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Nova Scotia",
     "domains": [
       "uwo.ca"
     ],
@@ -26815,7 +26815,7 @@
     ],
     "name": "University of Western Ontario",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "uwo.ca"
     ],
@@ -26827,7 +26827,7 @@
     ],
     "name": "Vancouver Community College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "British Columbia",
     "domains": [
       "vcc.ca"
     ],
@@ -26839,7 +26839,7 @@
     ],
     "name": "Victoria University Toronto, University of Toronto",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "vicu.utoronto.ca"
     ],
@@ -26851,7 +26851,7 @@
     ],
     "name": "Wilfrid Laurier University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "wlu.ca",
       "mylaurier.ca"
@@ -26864,7 +26864,7 @@
     ],
     "name": "York University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "yorku.ca"
     ],
@@ -26876,7 +26876,7 @@
     ],
     "name": "Yukon College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Yukon",
     "domains": [
       "yukoncollege.yk.ca"
     ],
@@ -38078,11 +38078,15 @@
     "country": "Finland"
   },
   {
-    "web_pages": ["https://www.metropolia.fi/"],
+    "web_pages": [
+      "https://www.metropolia.fi/"
+    ],
     "name": "Metropolia University of Applied Sciences",
     "alpha_two_code": "FI",
     "state-province": null,
-    "domains": ["metropolia.fi"],
+    "domains": [
+      "metropolia.fi"
+    ],
     "country": "Finland"
   },
   {
@@ -71348,8 +71352,8 @@
     ],
     "country": "Malawi"
   },
-    {
-      "web_pages": [
+  {
+    "web_pages": [
       "http://www.unima.mw/"
     ],
     "name": "University of Malawi | Old",
@@ -71359,8 +71363,8 @@
       "unima.mw"
     ],
     "country": "Malawi"
-    },
-    {
+  },
+  {
     "web_pages": [
       "http://www.acms.edu.my/"
     ],
@@ -117593,7 +117597,7 @@
     ],
     "name": "Mohawk College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "mohawkcollege.ca"
     ],
@@ -117605,7 +117609,7 @@
     ],
     "name": "College of Bois-de-Boulogne",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "bdeb.qc.ca"
     ],
@@ -117666,7 +117670,7 @@
     ],
     "name": "Fanshawe College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "fanshawec.ca",
       "fanshaweonline.ca"
@@ -117715,7 +117719,7 @@
     ],
     "name": "Vanier College",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "vaniercollege.qc.ca"
     ],
@@ -117862,7 +117866,7 @@
     ],
     "name": "Ontario Tech University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "ontariotechu.ca",
       "ontariotechu.net"
@@ -117875,7 +117879,7 @@
     ],
     "name": "Toronto Metropolitan University",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Ontario",
     "domains": [
       "torontomu.ca"
     ],
@@ -117887,7 +117891,7 @@
     ],
     "name": "Collège Universel Gatineau",
     "alpha_two_code": "CA",
-    "state-province": null,
+    "state-province": "Quebec",
     "domains": [
       "collegeuniversel.ca"
     ],
@@ -118104,7 +118108,7 @@
     "alpha_two_code": "FI",
     "state-province": null,
     "domains": [
-        "hamk.fi"
+      "hamk.fi"
     ],
     "country": "Finland"
   },
@@ -118542,8 +118546,12 @@
   },
   {
     "name": "KIET Group of Institutions",
-    "domains": ["kiet.edu"],
-    "web_pages": ["https://kiet.edu"],
+    "domains": [
+      "kiet.edu"
+    ],
+    "web_pages": [
+      "https://kiet.edu"
+    ],
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": null
