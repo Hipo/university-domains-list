@@ -118596,5 +118596,13 @@
     "country": "Philippines",
     "alpha_two_code": "PH",
     "state-province": null
+  },
+  {
+    "name": "Faculdade Dom Bosco",
+    "domains": ["faculdadedombosco.edu.br"],
+    "web_pages": ["https://faculdadedombosco.edu.br"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": null
   }
 ]
