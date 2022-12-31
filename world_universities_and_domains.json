@@ -118604,5 +118604,13 @@
     "country": "Brazil",
     "alpha_two_code": "BR",
     "state-province": null
+  },
+  {
+    "name": "Muhammad Nawaz Sharif University of Engineering and Technology, Multan",
+    "domains": ["mnsuet.edu.pk"],
+    "web_pages": ["https://mnsuet.edu.pk"],
+    "country": "Pakistan",
+    "alpha_two_code": "PK",
+    "state-province": null
   }
 ]
