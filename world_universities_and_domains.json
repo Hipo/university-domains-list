@@ -118612,5 +118612,13 @@
     "country": "Pakistan",
     "alpha_two_code": "PK",
     "state-province": null
+  },
+  {
+    "name": "Bellevue College",
+    "domains": ["bellevuecollege.edu"],
+    "web_pages": ["https://bellevuecollege.edu"],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "state-province": "Washington"
   }
 ]
