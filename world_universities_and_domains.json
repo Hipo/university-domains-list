@@ -118620,5 +118620,13 @@
     "country": "United States",
     "alpha_two_code": "US",
     "state-province": "Washington"
+  },
+  {
+    "name": "Kantipur Engineering College",
+    "domains": ["kec.edu.np"],
+    "web_pages": ["https://kec.edu.np"],
+    "country": "Nepal",
+    "alpha_two_code": "NP",
+    "state-province": null
   }
 ]
