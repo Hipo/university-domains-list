@@ -117193,6 +117193,18 @@
   },
   {
     "web_pages": [
+      "https://viu.es/"
+    ],
+    "name": "Universidad Internacional de Valencia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "viu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
       "http://www.dhbw.de/"
     ],
     "name": "Duale Hochschule Baden-Württemberg",
