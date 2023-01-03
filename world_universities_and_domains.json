@@ -118640,5 +118640,13 @@
     "country": "Nepal",
     "alpha_two_code": "NP",
     "state-province": null
+  },
+  {
+    "name": "UNINOVE",
+    "domains": ["uninove.br", "uni9.edu.br"],
+    "web_pages": ["https://uninove.br"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": null
   }
 ]
