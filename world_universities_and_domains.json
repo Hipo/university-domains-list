@@ -112489,13 +112489,14 @@
   },
   {
     "web_pages": [
-      "http://WWW.CCM.EDU"
+      "https://www.ccm.edu/"
     ],
     "name": "County College of Morris",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
-      "www.ccm.edu"
+      "ccm.edu",
+      "student.ccm.edu"
     ],
     "country": "United States"
   },
