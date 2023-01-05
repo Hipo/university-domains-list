@@ -101449,12 +101449,13 @@
   },
   {
     "web_pages": [
-      "http://www.bris.ac.uk/"
+      "https://www.bristol.ac.uk/"
     ],
     "name": "University of Bristol",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
+      "bristol.ac.uk",
       "bris.ac.uk"
     ],
     "country": "United Kingdom"
