@@ -118651,5 +118651,13 @@
     "country": "Brazil",
     "alpha_two_code": "BR",
     "state-province": null
+  },
+  {
+    "name": "Polytechnic University of Pernambuco",
+    "domains": ["upe.poli.br", "ecomp.poli.br", "poli.br"],
+    "web_pages": ["https://upe.poli.br"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": null
   }
 ]
