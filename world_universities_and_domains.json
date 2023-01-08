@@ -45148,6 +45148,18 @@
   },
   {
     "web_pages": [
+      "https://lancaster.edu.gh/"
+    ],
+    "name": "Lancaster University",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "lancaster.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
       "http://www.pacuc.edu.gh/"
     ],
     "name": "Pan African Christian University College",
