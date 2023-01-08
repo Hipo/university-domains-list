@@ -45136,6 +45136,18 @@
   },
   {
     "web_pages": [
+      "https://kc.edu.gh/"
+    ],
+    "name": "Kessben College",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "kc.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
       "http://www.knust.edu.gh/"
     ],
     "name": "Kwame Nkrumah University of Science and Technology",
