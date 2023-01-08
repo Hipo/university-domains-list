@@ -20933,13 +20933,13 @@
   },
   {
     "web_pages": [
-      "http://www.ulg.ac.be/"
+      "https://www.uliege.be/"
     ],
     "name": "Université de Liège",
     "alpha_two_code": "BE",
     "state-province": null,
     "domains": [
-      "ulg.ac.be"
+      "uliege.be"
     ],
     "country": "Belgium"
   },
