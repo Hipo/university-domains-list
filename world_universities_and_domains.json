@@ -45052,6 +45052,18 @@
   },
   {
     "web_pages": [
+      "https://cauc.edu.gh/"
+    ],
+    "name": "Christ Apostolic University College",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "cauc.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
       "http://www.ghanacu.org/"
     ],
     "name": "Ghana Christian University College",
@@ -45071,6 +45083,18 @@
     "state-province": null,
     "domains": [
       "gimpa.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
+      "https://www.gbuc.edu.gh/"
+    ],
+    "name": "Ghana Baptist University College",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "gbuc.edu.gh"
     ],
     "country": "Ghana"
   },
@@ -45112,6 +45136,18 @@
   },
   {
     "web_pages": [
+      "https://kc.edu.gh/"
+    ],
+    "name": "Kessben College",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "kc.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
       "http://www.knust.edu.gh/"
     ],
     "name": "Kwame Nkrumah University of Science and Technology",
@@ -45143,6 +45179,18 @@
     "state-province": null,
     "domains": [
       "kstu.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
+      "https://lancaster.edu.gh/"
+    ],
+    "name": "Lancaster University",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "lancaster.edu.gh"
     ],
     "country": "Ghana"
   },
@@ -45275,6 +45323,18 @@
     "state-province": null,
     "domains": [
       "vvu.edu.gh"
+    ],
+    "country": "Ghana"
+  },
+  {
+    "web_pages": [
+      "https://www.zucghana.org"
+    ],
+    "name": "Zenith University College",
+    "alpha_two_code": "GH",
+    "state-province": null,
+    "domains": [
+      "zucghana.org"
     ],
     "country": "Ghana"
   },
