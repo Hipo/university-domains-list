@@ -118879,5 +118879,17 @@
       "europa-uni.de"
     ],
     "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "https://www.ac-besancon.fr"
+    ],
+    "name": "Académie de Besançon",
+    "alpha_two_code": "FR",
+    "state-province": "Burgundy-Franche-Comté",
+    "domains": [
+      "ac-besancon.fr"
+    ],
+    "country": "France"
   }
 ]
