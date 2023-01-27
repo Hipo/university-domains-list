@@ -41247,6 +41247,19 @@
   },
   {
     "web_pages": [
+      "https://www.unistra.fr/"
+    ],
+    "name": "Université de Strasbourg",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "unistra.fr",
+      "etu.unistra.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "http://www.epitech.eu/"
     ],
     "name": "Ecole pour l'Informatique et les nouvelles Technologies",
