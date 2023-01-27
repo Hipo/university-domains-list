@@ -39317,13 +39317,16 @@
   },
   {
     "web_pages": [
-      "http://www.escp.fr/"
+      "http://www.escp.fr/",
+      "https://escp.eu/"
     ],
     "name": "Ecole Supérieure de Commerce de Paris",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "escp.fr"
+      "escp.fr",
+      "escp.eu",
+      "edu.escp.eu"
     ],
     "country": "France"
   },
