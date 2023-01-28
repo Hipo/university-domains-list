@@ -44100,12 +44100,13 @@
   },
   {
     "web_pages": [
-      "http://www.tu-bs.de/"
+      "https://www.tu-braunschweig.de/"
     ],
-    "name": "Technische Universität Carolo-Wilhelmina Braunschweig",
+    "name": "Technische Universität Carolo-Wilhelmina zu Braunschweig",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "tu-braunschweig.de",
       "tu-bs.de"
     ],
     "country": "Germany"
