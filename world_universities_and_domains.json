@@ -42994,12 +42994,13 @@
   },
   {
     "web_pages": [
-      "http://www.fh-wolfenbuettel.de/"
+      "https://www.ostfalia.de"
     ],
-    "name": "Fachhochschule Braunschweig/Wolfenbüttel",
+    "name": "Ostfalia Hochschule für angewandte Wissenschaften",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+      "ostfalia.de",
       "fh-wolfenbuettel.de"
     ],
     "country": "Germany"
