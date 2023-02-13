@@ -118933,5 +118933,65 @@
       "ac-besancon.fr"
     ],
     "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.lehman.cuny.edu/"
+    ],
+    "name": "CUNY Lehman College",
+    "alpha_two_code": "US",
+    "state-province": "New York, NY",
+    "domains": [
+      "lehman.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.jjay.cuny.edu/"
+    ],
+    "name": "CUNY John Jay College of Criminal Justice",
+    "alpha_two_code": "US",
+    "state-province": "New York, NY",
+    "domains": [
+      "jjay.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://hunter.cuny.edu/"
+    ],
+    "name": "CUNY Hunter College",
+    "alpha_two_code": "US",
+    "state-province": "New York, NY",
+    "domains": [
+      "hunter.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.york.cuny.edu/"
+    ],
+    "name": "CUNY York College",
+    "alpha_two_code": "US",
+    "state-province": "New York, NY",
+    "domains": [
+      "york.cuny.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.lis.ac.uk/"
+    ],
+    "name": "London Interdisciplinary School",
+    "alpha_two_code": "GB",
+    "state-province": null,
+    "domains": [
+      "lis.ac.uk"
+    ],
+    "country": "United Kingdom"
   }
 ]
