@@ -1,6 +1,30 @@
 [
   {
     "web_pages": [
+      "https://www.ac-paris.fr/"
+    ],
+    "name": "Académie de Paris",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-paris.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://www.ac-aix-marseille.fr/"
+    ],
+    "name": "Académie d'Aix-Marseille",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": [
+      "ac-aix-marseille.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
       "http://www.marywood.edu"
     ],
     "name": "Marywood University",
