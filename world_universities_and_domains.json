@@ -99594,6 +99594,18 @@
   },
   {
     "web_pages": [
+      "http://www.tarsus.edu.tr/"
+    ],
+    "name": "Tarsus University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+      "tarsus.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
+    "web_pages": [
       "http://www.tau.edu.tr/"
     ],
     "name": "Türkisch-Deutsche Universität",
