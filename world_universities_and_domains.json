@@ -119893,5 +119893,13 @@
       "wssu.edu"
     ],
     "country": "United States"
+  },
+  {
+    "name": "Polytechnic University of Timisoara",
+    "domains": ["student.upt.ro", "upt.ro"],
+    "web_pages": ["https://upt.ro"],
+    "country": "Romania",
+    "alpha_two_code": "RO",
+    "state-province": null
   }
 ]
