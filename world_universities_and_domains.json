@@ -119901,5 +119901,13 @@
     "country": "Romania",
     "alpha_two_code": "RO",
     "state-province": null
+  },
+  {
+    "name": "Ramaiah University of Applied Sciences",
+    "domains": ["msruas.ac.in"],
+    "web_pages": ["https://msruas.ac.in"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": null
   }
 ]
