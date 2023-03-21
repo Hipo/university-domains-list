@@ -5,6 +5,13 @@
     "web_pages": ["https://www.hnu.edu.cn", "https://www-en.hnu.edu.cn"],
     "country": "China",
     "alpha_two_code": "CN",
+  },
+  {
+    "name": "University of Portsmouth",
+    "domains": ["myport.ac.uk", "myport.port.ac.uk"],
+    "web_pages": ["https://myport.port.ac.uk"],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
     "state-province": null
   },
   {
