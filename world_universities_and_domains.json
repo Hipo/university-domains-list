@@ -1,5 +1,13 @@
 [
   {
+    "name": "Royal Holloway University of London",
+    "domains": ["rhul.ac.uk"],
+    "web_pages": ["https://rhul.ac.uk"],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "state-province": null
+  },
+  {
     "name": "Hunan University",
     "domains": ["hnu.edu.cn", "www-en.hnu.edu.cn"],
     "web_pages": ["https://www.hnu.edu.cn", "https://www-en.hnu.edu.cn"],
