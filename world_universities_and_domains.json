@@ -119940,5 +119940,13 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": null
+  },
+  {
+    "name": "SKEMA Business School",
+    "domains": ["skema.edu"],
+    "web_pages": ["https://www.skema.edu/"],
+    "country": "France",
+    "alpha_two_code":"FR",
+    "state-province": null
   }
 ]
