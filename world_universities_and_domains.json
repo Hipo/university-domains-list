@@ -42436,12 +42436,13 @@
   },
   {
     "web_pages": [
-      "http://www.fh-koeln.de/"
+      "https://www.th-koeln.de/"
     ],
-    "name": "Fachhochschule Köln",
+    "name": "Technische Hochschule Köln",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
+	  "th-koeln.de",
       "fh-koeln.de"
     ],
     "country": "Germany"
