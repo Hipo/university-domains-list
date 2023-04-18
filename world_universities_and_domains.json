@@ -1,5 +1,13 @@
 [
   {
+    "name": "IÉSEG School of Management",
+    "domains": ["ieseg.fr"],
+    "web_pages": ["https://ieseg.fr"],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "state-province": null
+  },
+  {
     "name": "Sun Yat-Sen University",
     "domains": ["mail2.sysu.edu.cn", "mail.sysu.edu.cn"],
     "web_pages": ["https://sysu.edu.cn"],
