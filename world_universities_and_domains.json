@@ -102390,13 +102390,13 @@
   },
   {
     "web_pages": [
-      "http://www.lmu.ac.uk/"
+      "https://www.leedsbeckett.ac.uk/"
     ],
-    "name": "Leeds Metropolitan University",
+    "name": "Leeds Beckett University",
     "alpha_two_code": "GB",
     "state-province": null,
     "domains": [
-      "lmu.ac.uk"
+      "leedsbeckett.ac.uk"
     ],
     "country": "United Kingdom"
   },
