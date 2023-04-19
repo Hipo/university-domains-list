@@ -46058,6 +46058,18 @@
   },
   {
     "web_pages": [
+      "http://www.univ-antilles.fr/"
+    ],
+    "name": "Université des Antilles",
+    "alpha_two_code": "GP",
+    "state-province": null,
+    "domains": [
+      "univ-antilles.fr"
+    ],
+    "country": "Guadeloupe"
+  },
+  {
+    "web_pages": [
       "http://www.uog.edu/"
     ],
     "name": "University of Guam",
@@ -58235,6 +58247,18 @@
     "state-province": null,
     "domains": [
       "unict.it"
+    ],
+    "country": "Italy"
+  },
+  {
+    "web_pages": [
+      "http://www.uniecampus.it/"
+    ],
+    "name": "Università eCampus",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": [
+      "uniecampus.it"
     ],
     "country": "Italy"
   },
@@ -106336,6 +106360,18 @@
     "state-province": null,
     "domains": [
       "cv.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "http://www.duke.edu"
+    ],
+    "name": "Duke University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "duke.edu"
     ],
     "country": "United States"
   },
