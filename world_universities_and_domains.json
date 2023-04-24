@@ -48896,13 +48896,15 @@
   },
   {
     "web_pages": [
-      "http://www.iisc.ernet.in/"
+      "http://www.iisc.ernet.in/",
+      "http://iisc.ac.in/"
     ],
     "name": "Indian Institute of Science",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": [
-      "iisc.ernet.in"
+      "iisc.ernet.in",
+      "iisc.ac.in"
     ],
     "country": "India"
   },
