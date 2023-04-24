@@ -100812,13 +100812,15 @@
   },
   {
     "web_pages": [
-      "http://www.univ.kiev.ua/"
+      "http://www.univ.kiev.ua/",
+      "https://www.knu.ua/"
     ],
-    "name": "National Taras Shevchenko University of Kiev",
+    "name": "Taras Shevchenko National University of Kyiv",
     "alpha_two_code": "UA",
-    "state-province": null,
+    "state-province": "Kyiv",
     "domains": [
-      "univ.kiev.ua"
+      "univ.kiev.ua",
+      "knu.ua"
     ],
     "country": "Ukraine"
   },
