@@ -119985,5 +119985,18 @@
     "country": "France",
     "alpha_two_code": "FR",
     "state-province": null
+  },
+  {
+    "state-province": null,
+    "name": "Frankfurt School of Finance & Management",
+    "country": "Germany",
+    "web_pages": [
+      "https://www.frankfurt-school.de/"
+    ],
+    "domains": [
+      "fs.de",
+      "fs-students.de"
+    ],
+    "alpha_two_code": "DE"
   }
 ]
