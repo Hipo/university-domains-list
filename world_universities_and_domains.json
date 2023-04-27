@@ -39636,13 +39636,15 @@
   },
   {
     "web_pages": [
-      "http://www.hec.fr/"
+      "http://www.hec.fr/",
+      "http://www.hec.edu/"
     ],
-    "name": "Ecole des Hautes Etudes Commerciales",
+    "name": "École des Hautes Études Commerciales (HEC Business School)",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": [
-      "hec.fr"
+      "hec.fr",
+      "hec.edu"
     ],
     "country": "France"
   },
@@ -43432,13 +43434,19 @@
   },
   {
     "web_pages": [
-      "http://www.htwm.de/"
+      "http://www.htwm.de/",
+      "https://www.campus-m-university.de/",
+      "https://www.campusm21.de/",
+      "https://www.hs-mittweida.de/"
     ],
-    "name": "Hochschule Mittweida (FH)",
+    "name": "Hochschule Mittweida, University of Applied Sciences",
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": [
-      "htwm.de"
+      "htwm.de",
+      "hs-mittweida",
+      "campus-m-university.de",
+      "campusm21.de"
     ],
     "country": "Germany"
   },
@@ -95691,7 +95699,7 @@
     "web_pages": [
       "https://www.uzh.ch/"
     ],
-    "name": "University of Zurich",
+    "name": "Universität Zürich",
     "alpha_two_code": "CH",
     "state-province": null,
     "domains": [
@@ -95728,7 +95736,7 @@
     "web_pages": [
       "http://www.unisg.ch/"
     ],
-    "name": "Universität St. Gallen",
+    "name": "Universität St. Gallen (HSG)",
     "alpha_two_code": "CH",
     "state-province": null,
     "domains": [
@@ -119998,5 +120006,45 @@
       "fs-students.de"
     ],
     "alpha_two_code": "DE"
-  }
+  },
+	{
+	    "alpha_two_code": "PT",
+	    "country": "Portugal",
+	    "state-province": null,
+	    "domains": ["clsbe.lisboa.ucp.pt"],
+	    "name": "Católica Lisbon School of Business & Economics",
+	    "web_pages": ["https://www.clsbe.lisboa.ucp.pt/"]
+	},
+	{
+	    "alpha_two_code": "ES",
+	    "country": "Spain",
+	    "state-province": null,
+	    "domains": ["eada.edu"],
+	    "name": "Eada Business School Barcelona",
+	    "web_pages": ["https://www.eada.edu/"]
+	},
+	{
+	    "alpha_two_code": "CH",
+	    "country": "Switzerland",
+	    "state-province": null,
+	    "domains": ["imd.org"],
+	    "name": "IMD - International Institute for Management Development",
+	    "web_pages": ["https://www.imd.org/"]
+	},
+	{
+	    "alpha_two_code": "FR",
+	    "country": "France",
+	    "state-province": null,
+	    "domains": ["insead.edu"],
+	    "name": "INSEAD",
+	    "web_pages": ["https://www.insead.edu/"]
+	},
+	{
+	    "alpha_two_code": "DE",
+	    "country": "Germany",
+	    "state-province": null,
+	    "domains": ["hff-muenchen.de"],
+	    "name": "Hochschule für Fernsehen und Film München",
+	    "web_pages": ["https://www.hff-muenchen.de/"]
+	}
 ]
