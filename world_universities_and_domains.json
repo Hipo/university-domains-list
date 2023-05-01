@@ -17532,7 +17532,7 @@
     ],
     "name": "Australian Catholic University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "acu.edu.au"
     ],
@@ -17544,7 +17544,7 @@
     ],
     "name": "University of Adelaide",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "South Australia",
     "domains": [
       "adelaide.edu.au"
     ],
@@ -17556,7 +17556,7 @@
     ],
     "name": "Australian Defence Force Academy",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Australian Capital Territory",
     "domains": [
       "adfa.oz.au"
     ],
@@ -17568,7 +17568,7 @@
     ],
     "name": "Australian Lutheran College",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "South Australia",
     "domains": [
       "alc.edu.au"
     ],
@@ -17580,7 +17580,7 @@
     ],
     "name": "Australian Maritime College",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Tasmania",
     "domains": [
       "amc.edu.au"
     ],
@@ -17592,7 +17592,7 @@
     ],
     "name": "Australian National University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Australian Capital Territory",
     "domains": [
       "anu.edu.au"
     ],
@@ -17602,9 +17602,9 @@
     "web_pages": [
       "http://www.avondale.edu.au/"
     ],
-    "name": "Avondale College",
+    "name": "Avondale University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "avondale.edu.au"
     ],
@@ -17616,7 +17616,7 @@
     ],
     "name": "Federation University Australia",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "federation.edu.au"
     ],
@@ -17628,7 +17628,7 @@
     ],
     "name": "Bond University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "bond.edu.au"
     ],
@@ -17640,7 +17640,7 @@
     ],
     "name": "University of Canberra",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Australian Capital Territory",
     "domains": [
       "canberra.edu.au"
     ],
@@ -17652,7 +17652,7 @@
     ],
     "name": "Charles Darwin University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Northern Territory",
     "domains": [
       "cdu.edu.au"
     ],
@@ -17664,7 +17664,7 @@
     ],
     "name": "Central Queensland University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "cqu.edu.au"
     ],
@@ -17676,7 +17676,7 @@
     ],
     "name": "Charles Sturt University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "csu.edu.au"
     ],
@@ -17688,7 +17688,7 @@
     ],
     "name": "Curtin University of Technology",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Western Australia",
     "domains": [
       "curtin.edu.au"
     ],
@@ -17700,7 +17700,7 @@
     ],
     "name": "Deakin University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "deakin.edu.au"
     ],
@@ -17712,7 +17712,7 @@
     ],
     "name": "Edith Cowan University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Western Australia",
     "domains": [
       "ecu.edu.au"
     ],
@@ -17724,7 +17724,7 @@
     ],
     "name": "Flinders University of South Australia",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "South Australia",
     "domains": [
       "flinders.edu.au"
     ],
@@ -17736,7 +17736,7 @@
     ],
     "name": "Griffith University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "griffith.edu.au"
     ],
@@ -17748,7 +17748,7 @@
     ],
     "name": "Holmes Institute",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "holmes.edu.au"
     ],
@@ -17760,7 +17760,7 @@
     ],
     "name": "Blue Mountains Hotel School",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "hotelschool.com.au"
     ],
@@ -17796,7 +17796,7 @@
     ],
     "name": "James Cook University of North Queensland",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "jcu.edu.au"
     ],
@@ -17808,7 +17808,7 @@
     ],
     "name": "La Trobe University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "latrobe.edu.au"
     ],
@@ -17820,7 +17820,7 @@
     ],
     "name": "Marcus Oldham College",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "marcusoldham.vic.edu.au"
     ],
@@ -17832,7 +17832,7 @@
     ],
     "name": "Monash University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "monash.edu",
       "monash.edu.au"
@@ -17845,7 +17845,7 @@
     ],
     "name": "Macquarie University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "mq.edu.au"
     ],
@@ -17857,7 +17857,7 @@
     ],
     "name": "Murdoch University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Western Australia",
     "domains": [
       "murdoch.edu.au",
       "student.murdoch.edu.au"
@@ -17870,7 +17870,7 @@
     ],
     "name": "University of Notre Dame Australia",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Western Australia",
     "domains": [
       "nd.edu.au"
     ],
@@ -17882,7 +17882,7 @@
     ],
     "name": "University of Newcastle",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "newcastle.edu.au"
     ],
@@ -17894,7 +17894,7 @@
     ],
     "name": "Batchelor Institute of Indigenous Tertiary Education",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Northern Territory",
     "domains": [
       "nt.gov.au"
     ],
@@ -17906,7 +17906,7 @@
     ],
     "name": "Queensland University of Technology",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "qut.edu.au"
     ],
@@ -17918,7 +17918,7 @@
     ],
     "name": "Royal Melbourne Institute of Technology",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "rmit.edu.au"
     ],
@@ -17930,7 +17930,7 @@
     ],
     "name": "Southern Cross University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "scu.edu.au"
     ],
@@ -17942,7 +17942,7 @@
     ],
     "name": "Swinburne University of Technology",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "swin.edu.au"
     ],
@@ -17954,7 +17954,7 @@
     ],
     "name": "University of New England",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "une.edu.au"
     ],
@@ -17966,7 +17966,7 @@
     ],
     "name": "University of Melbourne",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "unimelb.edu",
       "unimelb.edu.au"
@@ -17979,7 +17979,7 @@
     ],
     "name": "University of South Australia",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "South Australia",
     "domains": [
       "unisa.edu.au"
     ],
@@ -17991,7 +17991,7 @@
     ],
     "name": "University of New South Wales",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "unsw.edu.au"
     ],
@@ -18003,7 +18003,7 @@
     ],
     "name": "University of Wollongong",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "uow.edu.au",
       "uowmail.edu.au"
@@ -18016,7 +18016,7 @@
     ],
     "name": "University of Queensland",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "uq.edu.au"
     ],
@@ -18028,7 +18028,7 @@
     ],
     "name": "University of the Sunshine Coast",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "usc.edu.au"
     ],
@@ -18040,7 +18040,7 @@
     ],
     "name": "University of Southern Queensland",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Queensland",
     "domains": [
       "usq.edu.au"
     ],
@@ -18052,7 +18052,7 @@
     ],
     "name": "University of Sydney",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "sydney.edu.au",
       "usyd.edu.au",
@@ -18066,7 +18066,7 @@
     ],
     "name": "University of Tasmania",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Tasmania",
     "domains": [
       "utas.edu.au"
     ],
@@ -18078,7 +18078,7 @@
     ],
     "name": "University of Technology Sydney",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "uts.edu.au",
       "student.uts.edu.au"
@@ -18091,7 +18091,7 @@
     ],
     "name": "University of Western Australia",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Western Australia",
     "domains": [
       "uwa.edu.au"
     ],
@@ -18103,7 +18103,7 @@
     ],
     "name": "University of Western Sydney",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "uws.edu.au"
     ],
@@ -18115,7 +18115,7 @@
     ],
     "name": "Victoria University",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "vu.edu.au"
     ],
@@ -117607,7 +117607,7 @@
     ],
     "name": "Torrens University Australia",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "South Australia",
     "domains": [
       "torrens.edu.au",
       "tua.edu.au"
@@ -117744,7 +117744,7 @@
     ],
     "name": "Box Hill Institute",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "Victoria",
     "domains": [
       "bhtafe.edu.au",
       "boxhill.edu.au"
@@ -117757,7 +117757,7 @@
     ],
     "name": "Linuwel School",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": [
       "linuwel.nsw.edu.au"
     ],
