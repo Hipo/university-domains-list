@@ -76847,7 +76847,7 @@
     ],
     "name": "University of Auckland",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Auckland",
     "domains": [
       "auckland.ac.nz",
       "aucklanduni.ac.nz"
@@ -76860,7 +76860,7 @@
     ],
     "name": "Auckland University of Technology",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Auckland",
     "domains": [
       "aut.ac.nz"
     ],
@@ -76872,7 +76872,7 @@
     ],
     "name": "University of Canterbury",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Canterbury",
     "domains": [
       "canterbury.ac.nz"
     ],
@@ -76884,7 +76884,7 @@
     ],
     "name": "Christchurch Polytechnic Institute of Technology",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Canterbury",
     "domains": [
       "cpit.ac.nz"
     ],
@@ -76896,7 +76896,7 @@
     ],
     "name": "Lincoln University",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Canterbury",
     "domains": [
       "lincoln.ac.nz"
     ],
@@ -76908,7 +76908,7 @@
     ],
     "name": "Massey University",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Wellington",
     "domains": [
       "massey.ac.nz"
     ],
@@ -76920,7 +76920,7 @@
     ],
     "name": "Open Polytechnic",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Wellington",
     "domains": [
       "openpolytechnic.ac.nz"
     ],
@@ -76932,7 +76932,7 @@
     ],
     "name": "University of Otago",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Otago",
     "domains": [
       "otago.ac.nz"
     ],
@@ -76944,7 +76944,7 @@
     ],
     "name": "Victoria University of Wellington",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Wellington",
     "domains": [
       "vuw.ac.nz"
     ],
@@ -76956,7 +76956,7 @@
     ],
     "name": "University of Waikato",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Waikato",
     "domains": [
       "waikato.ac.nz"
     ],
@@ -76968,7 +76968,7 @@
     ],
     "name": "Nelson Marlborough Institute of Technology",
     "alpha_two_code": "NZ",
-    "state-province": null,
+    "state-province": "Nelson",
     "domains": [
       "nmit.ac.nz"
     ],
@@ -101720,7 +101720,7 @@
     ],
     "name": "Canterbury Christ Church University",
     "alpha_two_code": "GB",
-    "state-province": null,
+    "state-province": "Canterbury",
     "domains": [
       "canterbury.ac.uk"
     ],
