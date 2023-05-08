@@ -7359,7 +7359,7 @@
     "web_pages": [
       "http://mercyhurst.edu/"
     ],
-    "name": "Mercyhurst College",
+    "name": "Mercyhurst University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": [
@@ -120046,5 +120046,53 @@
 	    "domains": ["hff-muenchen.de"],
 	    "name": "Hochschule für Fernsehen und Film München",
 	    "web_pages": ["https://www.hff-muenchen.de/"]
-	}
+	},
+  {
+    "web_pages": [
+      "https://unity.edu/"
+    ],
+    "name": "Unity College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "unity.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://catawba.edu/"
+    ],
+    "name": "Catawba College",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+      "catawba.edu"
+    ],
+    "country": "United States"
+  },
+  {
+    "web_pages": [
+      "https://www.enderuncolleges.com/"
+    ],
+    "name": "Enderun Colleges",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": [
+      "enderuncolleges.com"
+    ],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": [
+      "https://pctu.edu.vn/"
+    ],
+    "name": "Phan Chau Trinh University",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [
+      "pctu.edu.vn"
+    ],
+    "country": "Vietnam"
+  }
 ]
