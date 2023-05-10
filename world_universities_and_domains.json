@@ -120118,6 +120118,12 @@
       "umit-tirol.at"
     ],
     "country": "Austria"
->>>>>>> d8152fd2413b8c5a62539f47d7df26a47069b4ff
-  }
+  },
+    "web_pages": ["https://deraya.edu.eg"],
+    "name": "Deraya University",
+    "alpha_two_code": "EG",
+    "state-province": "New Minia",
+    "domains": ["deraya.edu.eg"],
+    "country": "Egypt"
+    }
 ]
