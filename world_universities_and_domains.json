@@ -119981,5 +119981,13 @@
     "country": "France",
     "alpha_two_code": "FR",
     "state-province": null
+  },
+  {
+    "web_pages": ["https://deraya.edu.eg"],
+    "name": "Deraya University",
+    "alpha_two_code": "EG",
+    "state-province": "New Minia",
+    "domains": ["deraya.edu.eg"],
+    "country": "Egypt"
   }
 ]
