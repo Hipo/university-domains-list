@@ -120094,5 +120094,29 @@
       "pctu.edu.vn"
     ],
     "country": "Vietnam"
+  },
+  {
+    "web_pages": [
+      "https://www.ac-mayotte.fr"
+    ],
+    "name": "Académie de Mayotte",
+    "alpha_two_code": "FR",
+    "state-province": "Mayotte",
+    "domains": [
+      "ac-mayotte.fr"
+    ],
+    "country": "France"
+  },
+  {
+    "web_pages": [
+      "https://umit-tirol.at"
+    ],
+    "name": "UMIT Tirol",
+    "alpha_two_code": "AT",
+    "state-province": "Tyrol",
+    "domains": [
+      "umit-tirol.at"
+    ],
+    "country": "Austria"
   }
 ]
