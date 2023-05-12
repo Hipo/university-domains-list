@@ -79180,6 +79180,18 @@
   },
   {
     "web_pages": [
+      "https://cust.edu.pk/"
+    ],
+    "name": "Capital University of Science & Technology",
+    "alpha_two_code": "PK",
+    "state-province": "Islamabad",
+    "domains": [
+      "cust.edu.pk"
+    ],
+    "country": "Pakistan"
+  },
+  {
+    "web_pages": [
       "https://cbm.iobm.edu.pk/"
     ],
     "name": "College of Business Management (CBM)",
