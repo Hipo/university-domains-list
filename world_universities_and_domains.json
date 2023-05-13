@@ -26,9 +26,10 @@
   {
     "name": "Hunan University",
     "domains": ["hnu.edu.cn", "www-en.hnu.edu.cn"],
-    "web_pages": ["https://www.hnu.edu.cn", "https://www-en.hnu.edu.cn"],
+    "web_pages": ["https://www.hnu.edu.cn", "http://www-en.hnu.edu.cn"],
     "country": "China",
-    "alpha_two_code": "CN"
+    "alpha_two_code": "CN",
+    "state-province": null
   },
   {
     "name": "University of Portsmouth",
@@ -29535,18 +29536,6 @@
     "state-province": null,
     "domains": [
       "hunnu.edu.cn"
-    ],
-    "country": "China"
-  },
-  {
-    "web_pages": [
-      "http://www.hunu.edu.cn/"
-    ],
-    "name": "Hunan University",
-    "alpha_two_code": "CN",
-    "state-province": null,
-    "domains": [
-      "hunu.edu.cn"
     ],
     "country": "China"
   },

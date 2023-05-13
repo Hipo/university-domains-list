@@ -1,4 +1,5 @@
 import json
+import logging
 import unittest
 
 import requests
@@ -28,13 +29,16 @@ class DomainsTests(unittest.TestCase):
             "../world_universities_and_domains.json", encoding="utf-8"
         ) as json_raw:
             universities = json.load(json_raw)
+        dead_sites = False
         for university in universities[:]:
             try:
                 for web_page in university["web_pages"]:
-                    print(web_page)
                     requests.head(web_page, allow_redirects=False, timeout=10.0)
-            except requests.exceptions.ConnectionError as exc:
-                print("- Website doesn't exists: ", exc)
+            except Exception as exc:
+                logging.warning("- Website doesn't exist: %s", web_page)
+                logging.info("%s", exc)
+                dead_sites = True
+        self.assertFalse(dead_sites)
 
 
 if __name__ == "__main__":
