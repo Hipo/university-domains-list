@@ -22,7 +22,6 @@ class DomainsTests(unittest.TestCase):
             self.assertIn("state-province", university)
             self.assertIn("country", university)
 
-
     def test_check_is_alive(self):
         """ check url then if url isn't alive, add to file """
         with open(
@@ -33,7 +32,7 @@ class DomainsTests(unittest.TestCase):
             try:
                 for web_page in university["web_pages"]:
                     print(web_page)
-                    requests.get(web_page, allow_redirects=False, timeout=10.0)
+                    requests.head(web_page, allow_redirects=False, timeout=10.0)
             except requests.exceptions.ConnectionError as exc:
                 print("- Website doesn't exists: ", exc)
 
