@@ -22,7 +22,8 @@ class DomainsTests(unittest.TestCase):
             self.assertIn("state-province", university)
             self.assertIn("country", university)
 
-    def check_is_alive():
+
+    def test_check_is_alive(self):
         """ check url then if url isn't alive, add to file """
         with open(
             "../world_universities_and_domains.json", encoding="utf-8"
