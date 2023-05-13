@@ -92008,6 +92008,54 @@
   },
   {
     "web_pages": [
+      "https://www.singaporetech.edu.sg/"
+    ],
+    "name": "Singapore Institute of Technology",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "singaporetech.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.sutd.edu.sg/"
+    ],
+    "name": "Singapore University of Technology and Design",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "sutd.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.suss.edu.sg/"
+    ],
+    "name": "Singapore University of Social Sciences",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "suss.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.uas.edu.sg/"
+    ],
+    "name": "University of the Arts Singapore",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "uas.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
       "https://www.taoistcollege.org.sg/"
     ],
     "name": "Taoist College Singapore",
@@ -92020,6 +92068,18 @@
   },
   {
     "web_pages": [
+      "https://www.ite.edu.sg/"
+    ],
+    "name": "Institute of Technical Education",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "ite.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
       "https://www.tp.edu.sg/"
     ],
     "name": "Temasek Polytechnic",
@@ -92027,6 +92087,54 @@
     "state-province": null,
     "domains": [
       "tp.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.sp.edu.sg/"
+    ],
+    "name": "Singapore Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "sp.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.np.edu.sg/"
+    ],
+    "name": "Ngee Ann Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "np.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.nyp.edu.sg/"
+    ],
+    "name": "Nanyang Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "nyp.edu.sg"
+    ],
+    "country": "Singapore"
+  },
+  {
+    "web_pages": [
+      "https://www.rp.edu.sg/"
+    ],
+    "name": "Republic Polytechnic",
+    "alpha_two_code": "SG",
+    "state-province": null,
+    "domains": [
+      "rp.edu.sg"
     ],
     "country": "Singapore"
   },
