@@ -28,7 +28,8 @@
     "domains": ["hnu.edu.cn", "www-en.hnu.edu.cn"],
     "web_pages": ["https://www.hnu.edu.cn", "https://www-en.hnu.edu.cn"],
     "country": "China",
-    "alpha_two_code": "CN"
+    "alpha_two_code": "CN",
+    "state-province": null
   },
   {
     "name": "University of Portsmouth",
