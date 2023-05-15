@@ -29,3 +29,8 @@ jobs:
           VALIDATE_PYTHON_FLAKE8: false
           VALIDATE_MARKDOWN: false
           JAVASCRIPT_DEFAULT_STYLE: prettier
+
+      - name: Run tests
+        run: |
+          pip install -r tests/requirements.txt
+          python -m unittest discover tests
