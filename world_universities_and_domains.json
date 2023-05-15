@@ -120118,5 +120118,21 @@
       "umit-tirol.at"
     ],
     "country": "Austria"
-  }
+ },
+ {
+    "web_pages": ["https://deraya.edu.eg"],
+    "name": "Deraya University",
+    "alpha_two_code": "EG",
+    "state-province": "New Minia",
+    "domains": ["deraya.edu.eg"],
+    "country": "Egypt"
+    },
+  {
+    "web_pages": ["https://uudoon.in"],
+    "name": "Uttaranchal University",
+    "alpha_two_code": "IN",
+    "state-province": "Uttarakhand",
+    "domains": ["uumail.in"],
+    "country": "India"
+    }
 ]
