@@ -6,9 +6,7 @@ import validators
 
 class DomainsTests(unittest.TestCase):
     def test_json_is_valid(self):
-        with open(
-            "world_universities_and_domains.json", encoding="utf-8"
-        ) as json_file:
+        with open("world_universities_and_domains.json", encoding="utf-8") as json_file:
             valid_json = json.load(json_file)
         for university in valid_json:
             self.assertIn("name", university)
