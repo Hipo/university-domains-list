@@ -20,7 +20,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Super-Linter
         uses: github/super-linter@v3.15.3
@@ -29,3 +29,8 @@ jobs:
           VALIDATE_PYTHON_FLAKE8: false
           VALIDATE_MARKDOWN: false
           JAVASCRIPT_DEFAULT_STYLE: prettier
+
+      - name: Run tests
+        run: |
+          pip install -r tests/requirements.txt
+          python -m unittest discover tests
