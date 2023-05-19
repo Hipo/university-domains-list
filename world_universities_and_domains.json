@@ -48971,6 +48971,16 @@
   },
   {
     "web_pages": [
+      "http://www.iiit.ac.in/"
+    ],
+    "name": "International Institute of Information Technology, Hyderabad",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": [ "iiit.ac.in" ],
+    "country": "India"
+  },
+  {
+    "web_pages": [
       "http://www.iitk.ac.in/"
     ],
     "name": "Indian Institute of Technology, Kanpur",
