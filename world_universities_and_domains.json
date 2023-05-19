@@ -120247,7 +120247,7 @@
     "state-province": "New Minia",
     "domains": ["deraya.edu.eg"],
     "country": "Egypt"
-    },
+  },
   {
     "web_pages": ["https://uudoon.in"],
     "name": "Uttaranchal University",
@@ -120255,5 +120255,253 @@
     "state-province": "Uttarakhand",
     "domains": ["uumail.in"],
     "country": "India"
-    }
+  },
+  {
+    "web_pages": [
+      "https://cit.edu.au"
+    ],
+    "name": "Canberra Institute of Technology",
+    "alpha_two_code": "AU",
+    "state-province": "Australian Capital Territory",
+    "domains": [
+      "cit.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.tafensw.edu.au"
+    ],
+    "name": "TAFE NSW",
+    "alpha_two_code": "AU",
+    "state-province": "New South Wales",
+    "domains": [
+      "tafensw.edu.au",
+      "studytafensw.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.tafeqld.edu.au"
+    ],
+    "name": "TAFE Queensland",
+    "alpha_two_code": "AU",
+    "state-province": "Queensland",
+    "domains": [
+      "tafeqld.edu.au",
+      "tqstudent.edu.au",
+      "tafe.qld.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.tafesa.edu.au"
+    ],
+    "name": "TAFE SA",
+    "alpha_two_code": "AU",
+    "state-province": "South Australia",
+    "domains": [
+      "tafesa.edu.au",
+      "student.tafesa.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.tastafe.tas.edu.au"
+    ],
+    "name": "TasTAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Tasmania",
+    "domains": [
+      "tastafe.tas.edu.au",
+      "education.tas.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.gotafe.vic.edu.au"
+    ],
+    "name": "Goulburn Ovens Institute of TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "gotafe.vic.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.bendigotafe.edu.au"
+    ],
+    "name": "Bendigo TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "bendigotafe.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.tafegippsland.edu.au"
+    ],
+    "name": "TAFE Gippsland",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "tafegippsland.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.thegordon.edu.au"
+    ],
+    "name": "The Gordon Institute of TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "thegordon.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://holmesglen.edu.au"
+    ],
+    "name": "Holmesglen Institute of TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "holmesglen.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.kangan.edu.au"
+    ],
+    "name": "Kangan Institute",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "kangan.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.melbournepolytechnic.edu.au"
+    ],
+    "name": "Melbourne Polytechnic",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "melbournepolytechnic.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.swtafe.edu.au"
+    ],
+    "name": "South West TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "swtafe.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.sunitafe.edu.au"
+    ],
+    "name": "Sunraysia Institute of TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "sunitafe.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.angliss.edu.au"
+    ],
+    "name": "William Angliss Institute of TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Victoria",
+    "domains": [
+      "angliss.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.centralregionaltafe.wa.edu.au"
+    ],
+    "name": "Central Regional TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Western Australia",
+    "domains": [
+      "tafe.wa.edu.au",
+      "crtafe.wa.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.northregionaltafe.wa.edu.au"
+    ],
+    "name": "North Regional TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Western Australia",
+    "domains": [
+      "tafe.wa.edu.au",
+      "nrtafe.wa.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.southregionaltafe.wa.edu.au"
+    ],
+    "name": "South Regional TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Western Australia",
+    "domains": [
+      "tafe.wa.edu.au",
+      "srtafe.wa.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.northmetrotafe.wa.edu.au"
+    ],
+    "name": "North Metropolitan TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Western Australia",
+    "domains": [
+      "nmtafe.wa.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "https://www.southmetrotafe.wa.edu.au"
+    ],
+    "name": "South Metropolitan TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Western Australia",
+    "domains": [
+      "smtafe.wa.edu.au"
+    ],
+    "country": "Australia"
+  }
 ]
