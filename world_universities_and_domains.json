@@ -118490,5 +118490,13 @@
       "state-province": "Uttarakhand",
       "domains": ["uumail.in"],
       "country": "India"
+  },
+  {
+      "web_pages": ["http://universitycollege.ac.in"],
+      "name": "University College, Thiruvananthapuram",
+      "alpha_two_code": "IN",
+      "state-province": "Kerala",
+      "domains": ["universitycollege.ac.in"],
+      "country": "India"
   }
 ]
