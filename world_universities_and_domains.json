@@ -118499,4 +118499,16 @@
       "domains": ["universitycollege.ac.in"],
       "country": "India"
   }
+  ,{
+    "web_pages": [
+    "http://www.ltu.edu.tw"
+    ],
+    "name": "Lingdong University of Science and Technology",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": [
+    "ltu.edu.tw"
+    ],
+    "country": "Taiwan"
+}
 ]
