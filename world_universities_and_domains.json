@@ -96396,6 +96396,18 @@
       "country": "Thailand"
   },
   {
+    "web_pages": [
+        "https://www.apiu.edu/"
+    ],
+    "name": "Asia-Pacific International University",
+    "alpha_two_code": "TH",
+    "state-province": "Saraburi",
+    "domains": [
+        "apiu.edu"
+    ],
+    "country": "Thailand"
+  },
+  {
       "web_pages": [
           "https://www.aru.ac.th/"
       ],
