@@ -34875,6 +34875,18 @@
   },
   {
       "web_pages": [
+          "https://itla.edu.do/"
+      ],
+      "name": "Instituto Tecnológico de Las Américas",
+      "alpha_two_code": "DO",
+      "state-province": null,
+      "domains": [
+          "itla.edu.do"
+      ],
+      "country": "Dominican Republic"
+  },
+  {
+      "web_pages": [
           "http://www.pucmm.edu.do/"
       ],
       "name": "Universidad Católica Madre y Maestra",
