@@ -1,5 +1,13 @@
 [
   {
+    "name": "Universidad Técnica Federico Santa María",
+    "domains": ["usm.cl"],
+    "web_pages": ["https://usm.cl"],
+    "country": "Chile",
+    "alpha_two_code": "CL",
+    "state-province": null
+  },
+  {
       "name": "IÉSEG School of Management",
       "domains": ["ieseg.fr"],
       "web_pages": ["https://ieseg.fr"],
