@@ -1,10 +1,10 @@
 [
   {
-    "name": "Universidad Técnica Federico Santa María",
-    "domains": ["usm.cl"],
-    "web_pages": ["https://usm.cl"],
-    "country": "Chile",
-    "alpha_two_code": "CL",
+    "name": "V. N. Karazin Kharkiv National University",
+    "domains": ["student.karazin.ua", "karazin.ua"],
+    "web_pages": ["https://karazin.ua"],
+    "country": "Ukraine",
+    "alpha_two_code": "UA",
     "state-province": null
   },
   {
@@ -34878,18 +34878,6 @@
       "state-province": null,
       "domains": [
           "intec.edu.do"
-      ],
-      "country": "Dominican Republic"
-  },
-  {
-      "web_pages": [
-          "https://itla.edu.do/"
-      ],
-      "name": "Instituto Tecnológico de Las Américas",
-      "alpha_two_code": "DO",
-      "state-province": null,
-      "domains": [
-          "itla.edu.do"
       ],
       "country": "Dominican Republic"
   },
@@ -96414,18 +96402,6 @@
           "ait.ac.th"
       ],
       "country": "Thailand"
-  },
-  {
-    "web_pages": [
-        "https://www.apiu.edu/"
-    ],
-    "name": "Asia-Pacific International University",
-    "alpha_two_code": "TH",
-    "state-province": "Saraburi",
-    "domains": [
-        "apiu.edu"
-    ],
-    "country": "Thailand"
   },
   {
       "web_pages": [
