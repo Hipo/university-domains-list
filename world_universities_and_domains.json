@@ -1,5 +1,13 @@
 [
   {
+    "name": "Kharkiv National University",
+    "domains": ["student.karazin.ua", "karazin.ua"],
+    "web_pages": ["https://karazin.ua"],
+    "country": "Ukraine",
+    "alpha_two_code": "UA",
+    "state-province": null
+  },
+  {
     "name": "Universidad Técnica Federico Santa María",
     "domains": ["usm.cl"],
     "web_pages": ["https://usm.cl"],
