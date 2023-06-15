@@ -118550,5 +118550,17 @@
     "ltu.edu.tw"
     ],
     "country": "Taiwan"
-}
+  },
+  {
+    "web_pages": [
+      "https://www.uni-nke.hu"
+    ],
+    "name": "University of Public Service",
+    "alpha_two_code": "HU",
+    "state-province": "Budapest",
+    "domains": [
+      "uni-nke.hu"
+    ],
+    "country": "Hungary"
+  }
 ]
