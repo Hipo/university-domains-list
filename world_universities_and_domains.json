@@ -118562,5 +118562,437 @@
       "uni-nke.hu"
     ],
     "country": "Hungary"
-  }
+  },
+    {
+        "web_pages": [
+            "gsfcuni.edu.in"
+        ],
+        "name": "GSFC University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gsfcuniversity.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "nwu.ac.za"
+        ],
+        "name": "North-West Univeristy",
+        "alpha_two_code": "ZA",
+        "state-province": null,
+        "domains": [
+            "student.g.nwu.ac.za"
+        ],
+        "country": "South Africa"
+    },
+    {
+        "web_pages": [
+            "tudublin.ie"
+        ],
+        "name": "Technological University Dublin",
+        "alpha_two_code": "IE",
+        "state-province": null,
+        "domains": [
+            "tudublin.ie"
+        ],
+        "country": "Ireland"
+    },
+    {
+        "web_pages": [
+            "www.keio.ac.jp"
+        ],
+        "name": "Keio University",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "a2.keio.jp"
+        ],
+        "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "tamut.edu"
+        ],
+        "name": "Texas A&M University-Texarkana",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "ace.tamut.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "ais.com.sg"
+        ],
+        "name": "Australian International School",
+        "alpha_two_code": "SG",
+        "state-province": null,
+        "domains": [
+            "ais.edu.sg"
+        ],
+        "country": "Singapore"
+    },
+    {
+        "web_pages": [
+            "akfaryarsiptk.ac.id"
+        ],
+        "name": "Akademi Farmasi Yarsis Pekanbaru",
+        "alpha_two_code": "ID",
+        "state-province": null,
+        "domains": [
+            "akfaryarsiptk.ac.id"
+        ],
+        "country": "Indonesia"
+    },
+    {
+        "web_pages": [
+            "alayen.edu.iq"
+        ],
+        "name": "Alayen University",
+        "alpha_two_code": "IQ",
+        "state-province": null,
+        "domains": [
+            "alayen.edu.iq"
+        ],
+        "country": "Iraq"
+    },
+    {
+        "web_pages": [
+            "web.ub.edu"
+        ],
+        "name": "University of Barcelona",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "alumnes.ub.edu"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "cruzeirodosul.edu.br"
+        ],
+        "name": "Cruzeiro do Sul University",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "aluno.cruzeirodosul.edu.br"
+        ],
+        "country": "Brazil"
+    },
+    {
+        "web_pages": [
+            "ifsp.edu.br"
+        ],
+        "name": "Federal Institute of Education",
+        "alpha_two_code": "Science and Technology of S\u00e3o Paulo",
+        "state-province": null,
+        "domains": [
+            "aluno.ifsp.edu.br"
+        ],
+        "country": "BR"
+    },
+    {
+        "web_pages": [
+            "anurag.edu.in"
+        ],
+        "name": "Anurag University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "anurag.edu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "ateneo.edu"
+        ],
+        "name": "Ateneo de Manila University",
+        "alpha_two_code": "PH",
+        "state-province": null,
+        "domains": [
+            "ateneo.edu"
+        ],
+        "country": "Philippines"
+    },
+    {
+        "web_pages": [
+            "bath.ac.uk"
+        ],
+        "name": "University of Bath",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "bath.edu"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "belhaven.edu"
+        ],
+        "name": "Belhaven University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "belhaven.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "berry.edu"
+        ],
+        "name": "Berry College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "berry.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "bhc.edu.in"
+        ],
+        "name": "Bishop Herber College",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "bhc.edu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "bicpu.edu.in"
+        ],
+        "name": "Pondicherry University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "bicpu.edu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "bloomfield.edu"
+        ],
+        "name": "Bloomfield College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "bloomfield.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "bridgew.edu"
+        ],
+        "name": "Bridgewater State University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "bridgew.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "www.naist.jp"
+        ],
+        "name": "Nara Institute of Science and Technology",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "bs.naist.jp"
+        ],
+        "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "buc.edu.eg"
+        ],
+        "name": "Badr University in Cairo",
+        "alpha_two_code": "EG",
+        "state-province": null,
+        "domains": [
+            "buc.edu.eg"
+        ],
+        "country": "Egypt"
+    },
+    {
+        "web_pages": [
+            "cabrini.edu"
+        ],
+        "name": "Cabrini University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "cabrini.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "caldwell.edu"
+        ],
+        "name": "Caldwell University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "caldwell.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "fct.unl.pt"
+        ],
+        "name": "NOVA School of Science and Technology",
+        "alpha_two_code": "PT",
+        "state-province": null,
+        "domains": [
+            "campus.fct.unl.pt"
+        ],
+        "country": "Portugal"
+    },
+    {
+        "web_pages": [
+            "udg.edu"
+        ],
+        "name": "University of Girona",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "campus.udg.edu"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "tu.edu.np"
+        ],
+        "name": "Tribhuvan University",
+        "alpha_two_code": "NP",
+        "state-province": null,
+        "domains": [
+            "cdc.tu.edu.np"
+        ],
+        "country": "Nepal"
+    },
+    {
+        "web_pages": [
+            "cdnis.edu.hk"
+        ],
+        "name": "Canadian International School of Hong Kong",
+        "alpha_two_code": "HK",
+        "state-province": null,
+        "domains": [
+            "cdnis.edu.hk"
+        ],
+        "country": "Hong Kong"
+    },
+    {
+        "web_pages": [
+            "chiba-u.jp"
+        ],
+        "name": "Chiba University",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "chiba-u.jp"
+        ],
+        "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "ciqa.edu.mx"
+        ],
+        "name": "Centro de Investigaci\u00f3n en Qu\u00edmica Aplicada",
+        "alpha_two_code": "MX",
+        "state-province": null,
+        "domains": [
+            "ciqa.edu.mx"
+        ],
+        "country": "Mexico"
+    },
+    {
+        "web_pages": [
+            "www.college-de-france.fr"
+        ],
+        "name": "Coll\u00e8ge de France",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "college-de-france.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "cornellcollege.edu"
+        ],
+        "name": "Cornell College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "cornellcollege.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "covenant.edu"
+        ],
+        "name": "Covenant College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "covenant.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "csu.edu"
+        ],
+        "name": "Chicago State University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "csu.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "csueastbay.edu"
+        ],
+        "name": "California State University",
+        "alpha_two_code": "East Bay",
+        "state-province": null,
+        "domains": [
+            "csueastbay.edu"
+        ],
+        "country": "US"
+    },
+    {
+        "web_pages": [
+            "csupueblo.edu"
+        ],
+        "name": "Colorado State University-Pueblo",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "csupueblo.edu"
+        ],
+        "country": "United States"
+    }
 ]
