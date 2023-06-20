@@ -106856,7 +106856,7 @@
       ],
       "name": "San Bernardino Valley College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "California",
       "domains": [
           "valleycollege.edu"
       ],
@@ -106868,9 +106868,10 @@
       ],
       "name": "San Diego City College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "California",
       "domains": [
-          "sdcity.edu"
+          "sdcity.edu",
+          "student.sdccd.edu"
       ],
       "country": "United States"
   },
@@ -106880,9 +106881,10 @@
       ],
       "name": "San Diego Mesa College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "California",
       "domains": [
-          "sdmesa.edu"
+          "sdmesa.edu",
+          "student.sdccd.edu"
       ],
       "country": "United States"
   },
@@ -106892,9 +106894,10 @@
       ],
       "name": "San Diego Miramar College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "California",
       "domains": [
-          "sdmiramar.edu"
+          "sdmiramar.edu",
+          "student.sdccd.edu"
       ],
       "country": "United States"
   },
