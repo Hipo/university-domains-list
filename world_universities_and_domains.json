@@ -48091,7 +48091,7 @@
       ],
       "name": "Indian Institute of Technology, Madras",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "iitm.ac.in"
       ],
@@ -49532,7 +49532,7 @@
       ],
       "name": "National Institute of Technology Trichy",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "nitt.edu"
       ],
@@ -118997,5 +118997,79 @@
             "csupueblo.edu"
         ],
         "country": "United States"
+    },
+    {
+      "web_pages": [
+          "https://panimalar.ac.in",
+          "https://panimalarengineeringcollegechennai.ac.in/"
+      ],
+      "name": "Panimalar Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "panimalar.ac.in",
+          "panimalarengineeringcollegechennai.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.rajalakshmi.org/"
+      ],
+      "name": "Rajalakshmi Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "rajalakshmi.org"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://stjosephs.ac.in/"
+      ],
+      "name": "St Joseph's College Of Engineering",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "stjosephs.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.stjosephstechnology.ac.in/"
+      ],
+      "name": "St Joseph's Institute Of Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "stjosephstechnology.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.ssn.edu.in/"
+      ],
+      "name": "Sri Sivasubramaniya Nadar Institutions",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "ssn.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.saveetha.ac.in/"
+      ],
+      "name": "Saveetha Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "saveetha.edu.in"
+      ],
+      "country": "India"
     }
 ]
