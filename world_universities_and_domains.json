@@ -52673,6 +52673,18 @@
   },
   {
       "web_pages": [
+          "http://www.wicida.ac.id/"
+      ],
+      "name": "STMIK Widya Cipta Dharma",
+      "alpha_two_code": "ID",
+      "state-province": null,
+      "domains": [
+          "wicida.ac.id"
+      ],
+      "country": "Indonesia"
+  },
+  {
+      "web_pages": [
           "http://www.unnes.ac.id/"
       ],
       "name": "Universitas Negeri Semarang",
