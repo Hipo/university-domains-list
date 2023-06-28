@@ -119080,7 +119080,247 @@
       "alpha_two_code": "IN",
       "state-province": "Tamil Nadu",
       "domains": [
-          "saveetha.edu.in"
+          "saveetha.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.svce.ac.in/"
+      ],
+      "name": "Sri Venkateswara College of Engineering",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "svce.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://srmeaswari.ac.in/"
+      ],
+      "name": "Easwari Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "srmeaswari.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://jeppiaarcollege.org/jeppiaar/"
+      ],
+      "name": "Jeppiar Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "jeppiaarcollege.org"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://ritchennai.org/"
+      ],
+      "name": "Rajalakshmi Institute of Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "ritchennai.org"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://saveethaengineering.com/"
+      ],
+      "name": "Saveetha School of Engineering",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "saveethaengineering.com"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.saveetha.com/"
+      ],
+      "name": "Saveetha University",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "saveetha.com"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://kcgcollege.ac.in/"
+      ],
+      "name": "KCG College of Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "kcgcollege.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://hindustanuniv.ac.in/"
+      ],
+      "name": "Hindustan Institute of Technology and Science",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "hindustanuniv.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.citchennai.edu.in/"
+      ],
+      "name": "Chennai Institute of Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "citchennai.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://sairam.edu.in/"
+      ],
+      "name": "Sri Sai Ram Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "sairam.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://licet.ac.in/"
+      ],
+      "name": "Loyola-ICAM College of Engineering and Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "licet.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://sairamit.edu.in/"
+      ],
+      "name": "Sri Sai Ram Institute of Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "sairamit.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "http://www.rmkec.ac.in/"
+      ],
+      "name": "RMK Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "rmkec.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://rmkcet.ac.in/"
+      ],
+      "name": "RMK College of Engineering and Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "rmkcet.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://rmd.ac.in/"
+      ],
+      "name": "RMD Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "rmd.ac.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://velammal.edu.in/"
+      ],
+      "name": "Velammal Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "velammal.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://velammalitech.edu.in/"
+      ],
+      "name": "Velammal Institute of Technology",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "velammalitech.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://prathyusha.edu.in/"
+      ],
+      "name": "Prathyusha Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "prathyusha.edu.in"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://alphagroup.edu/engineering/"
+      ],
+      "name": "Alpha College of Engineering",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "alphagroup.edu"
+      ],
+      "country": "India"
+    },
+    {
+      "web_pages": [
+          "https://www.saec.ac.in/"
+      ],
+      "name": "SA Engineering College",
+      "alpha_two_code": "IN",
+      "state-province": "Tamil Nadu",
+      "domains": [
+          "saec.ac.in"
       ],
       "country": "India"
     }
