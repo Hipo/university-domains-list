@@ -119338,6 +119338,18 @@
     },
     {
         "web_pages": [
+            "https://www.siena.edu/"
+        ],
+        "name": "Siena College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "siena.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
             "https://www.howest.be/"
         ],
         "name": "Howest University of Applied Sciences",
