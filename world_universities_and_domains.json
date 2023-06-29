@@ -119335,5 +119335,17 @@
             "bau.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.howest.be/"
+        ],
+        "name": "Howest University of Applied Sciences",
+        "alpha_two_code": "BE",
+        "state-province": null,
+        "domains": [
+            "howest.be"
+        ],
+        "country": "Belgium"
     }
 ]
