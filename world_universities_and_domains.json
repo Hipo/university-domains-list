@@ -119383,5 +119383,17 @@
             "nu.edu.kz"
         ],
         "country": "Kazakhstan"
+    },
+    {
+        "web_pages": [
+            "https://stgc.uwa.edu.au/"
+        ],
+        "name": "St. George's University (Australia)",
+        "alpha_two_code": "AU",
+        "state-province": null,
+        "domains": [
+            "stgc.uwa.edu.au"
+        ],
+        "country": "Australia"
     }
 ]
