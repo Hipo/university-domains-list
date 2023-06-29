@@ -47613,13 +47613,13 @@
   },
   {
       "web_pages": [
-          "http://www.hostindia.com/srmc/"
+          "https://www.sriramachandra.edu.in/"
       ],
       "name": "Sri Ramachardra Medical College and Research Institute",
       "alpha_two_code": "IN",
       "state-province": null,
       "domains": [
-          "hostindia.com"
+          "sriramachandra.edu.in"
       ],
       "country": "India"
   },
@@ -47629,7 +47629,7 @@
       ],
       "name": "Himachal Pradesh University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Himachal Pradesh",
       "domains": [
           "hpuniv.nic.in"
       ],
@@ -47677,7 +47677,7 @@
       ],
       "name": "ICFAI University, Dehradun",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Dehradun",
       "domains": [
           "iudehradun.edu.in"
       ],
@@ -47687,9 +47687,9 @@
       "web_pages": [
           "https://www.iutripura.edu.in/"
       ],
-      "name": "ICFAI University, Tripura",
+      "name": "ICFAI University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tripura",
       "domains": [
           "iutripura.edu.in"
       ],
@@ -47701,7 +47701,7 @@
       ],
       "name": "ICFAI University, Sikkim",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Sikkim",
       "domains": [
           "iusikkim.edu.in"
       ],
@@ -47713,7 +47713,7 @@
       ],
       "name": "ICFAI University, Mizoram",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Mizoram",
       "domains": [
           "iumizoram.edu.in"
       ],
@@ -47725,7 +47725,7 @@
       ],
       "name": "ICFAI University, Meghalaya",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Meghalaya",
       "domains": [
           "iumeghalaya.edu.in"
       ],
@@ -47737,7 +47737,7 @@
       ],
       "name": "ICFAI University, Jharkhand",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Jharkhand",
       "domains": [
           "iujharkhand.edu.in"
       ],
@@ -47749,7 +47749,7 @@
       ],
       "name": "ICFAI University, Nagaland",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Nagaland",
       "domains": [
           "iunagaland.edu.in"
       ],
@@ -47761,7 +47761,7 @@
       ],
       "name": "ICFAI University, Jaipur",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "iujaipur.edu.in"
       ],
@@ -47773,7 +47773,7 @@
       ],
       "name": "ICFAI University, Raipur",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Chhattisgarh",
       "domains": [
           "iuraipur.edu.in"
       ],
@@ -47785,7 +47785,7 @@
       ],
       "name": "ICFAI University, Himachal Pradesh",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Himachal Pradesh",
       "domains": [
           "iuhimachal.edu.in"
       ],
@@ -47797,7 +47797,7 @@
       ],
       "name": "ICFAI University, Hyderabad",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Telangana",
       "domains": [
           "ifheindia.org"
       ],
@@ -47855,9 +47855,9 @@
       "web_pages": [
           "http://www.iiita.com/"
       ],
-      "name": "Indian Institute of Information Technology",
+      "name": "Indian Institute of Information Technology Allahabad",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttar Pradesh",
       "domains": [
           "iiita.com"
       ],
@@ -47869,7 +47869,7 @@
       ],
       "name": "Indian Institute of Information Technology and Management - Kerala",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "iiitmk.ac.in"
       ],
@@ -47881,7 +47881,7 @@
       ],
       "name": "Indraprastha Institute of Information Technology, Delhi",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "iiitd.ac.in"
       ],
@@ -47893,7 +47893,7 @@
       ],
       "name": "International Institute of Information Technology, Pune",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Maharashtra",
       "domains": [
           "squareit.ac.in"
       ],
@@ -47905,7 +47905,7 @@
       ],
       "name": "International Institute of Information Technology, Bhubaneswar",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Odisha",
       "domains": [
           "iiit-bh.ac.in"
       ],
@@ -47917,7 +47917,7 @@
       ],
       "name": "International Institute of Information Technology, Bangalore",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "iiitb.ac.in"
       ],
@@ -47929,7 +47929,7 @@
       ],
       "name": "Indian Institute of Management, Tiruchirappalli",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "iimtrichy.ac.in"
       ],
@@ -47941,7 +47941,7 @@
       ],
       "name": "Indian Institute of Information Technology, Guwahati",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Assam",
       "domains": [
           "iiitg.ac.in"
       ],
@@ -47953,7 +47953,7 @@
       ],
       "name": "Indian Institute of Information Technology, Vadodara",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Gujarat",
       "domains": [
           "iiitvadodara.ac.in"
       ],
@@ -47965,7 +47965,7 @@
       ],
       "name": "Indian Institute of Information Technology, Kota",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "iiitkota.ac.in"
       ],
@@ -47977,7 +47977,7 @@
       ],
       "name": "International Institute for Population Sciences",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Maharashtra",
       "domains": [
           "iipsindia.org"
       ],
@@ -47990,7 +47990,7 @@
       ],
       "name": "Indian Institute of Science",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "iisc.ernet.in",
           "iisc.ac.in"
@@ -48003,7 +48003,7 @@
       ],
       "name": "Indian Institute of Technology, Bombay",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Maharashtra",
       "domains": [
           "iitb.ac.in"
       ],
@@ -48016,7 +48016,7 @@
       ],
       "name": "Indian Institute of Technology, Delhi",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "iitd.ernet.in",
           "iitd.ac.in"
@@ -48029,7 +48029,7 @@
       ],
       "name": "Indian Institute of Technology, Gandhinagar",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Gujarat",
       "domains": [
           "iitgn.ac.in"
       ],
@@ -48042,7 +48042,7 @@
       ],
       "name": "Indian Institute of Technology, Guwahati",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Assam",
       "domains": [
           "iitg.ernet.in",
           "iitg.ac.in"
@@ -48055,7 +48055,7 @@
       ],
       "name": "Indian Institute of Technology, Hyderabad",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Telangana",
       "domains": [
           "iith.ac.in"
       ],
@@ -48067,7 +48067,7 @@
       ],
       "name": "Indian Institute of Technology, Kanpur",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttar Pradesh",
       "domains": [
           "iitk.ac.in"
       ],
@@ -48079,7 +48079,7 @@
       ],
       "name": "Indian Institute of Technology, Kharagpur",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "West Bengal",
       "domains": [
           "iitkgp.ernet.in"
       ],
@@ -48115,7 +48115,7 @@
       ],
       "name": "Madras Institute of Technology",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "mitindia.edu"
       ],
@@ -48127,7 +48127,7 @@
       ],
       "name": "Indian Institute of Technology, Roorkee",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttarakhand",
       "domains": [
           "iitr.ac.in"
       ],
@@ -48139,7 +48139,7 @@
       ],
       "name": "Indian Institute of Technology, Patna",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Bihar",
       "domains": [
           "iitp.ac.in"
       ],
@@ -48151,7 +48151,7 @@
       ],
       "name": "Indian Institute of Technology, Indore",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Madhya Pradesh",
       "domains": [
           "iiti.ac.in"
       ],
@@ -48163,7 +48163,7 @@
       ],
       "name": "Indian Institute of Technology, Jodhpur",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "iitj.ac.in"
       ],
@@ -48187,7 +48187,7 @@
       ],
       "name": "Indian Law Institue",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "ilidelhi.org"
       ],
@@ -48307,7 +48307,7 @@
       ],
       "name": "Jadavpur University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "West Bengal",
       "domains": [
           "jadavpur.edu"
       ],
@@ -48343,7 +48343,7 @@
       ],
       "name": "University of Jammu",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Jammu",
       "domains": [
           "jammuvarsity.org"
       ],
@@ -48379,7 +48379,7 @@
       ],
       "name": "Jamia Millia Islamia University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "jmi.nic.in"
       ],
@@ -48427,7 +48427,7 @@
       ],
       "name": "Jawaharlal Nehru University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "jnu.ac.in"
       ],
@@ -48439,7 +48439,7 @@
       ],
       "name": "Jaipur National University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "jnujaipur.ac.in"
       ],
@@ -48451,7 +48451,7 @@
       ],
       "name": "Jodhpur National University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "jodhpurnationaluniversity.com"
       ],
@@ -48475,7 +48475,7 @@
       ],
       "name": "Rajasthan Vidyapeeth University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "jrnrvu.org"
       ],
@@ -48499,7 +48499,7 @@
       ],
       "name": "Kalinga University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Chhattisgarh",
       "domains": [
           "kalingauniversity.com"
       ],
@@ -48523,7 +48523,7 @@
       ],
       "name": "Kannada University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "kannadauniversity.org"
       ],
@@ -48571,7 +48571,7 @@
       ],
       "name": "Karnataka State Open University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "karnatakastateopenuniversity.in"
       ],
@@ -48583,7 +48583,7 @@
       ],
       "name": "Karpagam University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "karpagamuniv.com"
       ],
@@ -48593,9 +48593,9 @@
       "web_pages": [
           "http://www.karunya.edu/"
       ],
-      "name": "Karunya Institute Of Technology ( Deemed University)",
+      "name": "Karunya Institute Of Technology",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "karunya.edu"
       ],
@@ -48607,7 +48607,7 @@
       ],
       "name": "University of Kashmir",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kashmir",
       "domains": [
           "kashmiruniversity.net"
       ],
@@ -48619,7 +48619,7 @@
       ],
       "name": "Kerala Agricultural University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "kau.edu"
       ],
@@ -48631,7 +48631,7 @@
       ],
       "name": "University of Kerala",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "keralauniversity.ac.in"
       ],
@@ -48691,7 +48691,7 @@
       ],
       "name": "Karnataka State Law University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "kslu.ac.in"
       ],
@@ -48715,7 +48715,7 @@
       ],
       "name": "Kerala University of Fisheries and Ocean Sciences",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "kufos.ac.in"
       ],
@@ -48739,7 +48739,7 @@
       ],
       "name": "Kumaraguru College of Technology",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "kct.ac.in"
       ],
@@ -48859,7 +48859,7 @@
       ],
       "name": "Mangalore University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "mangaloreuniversity.ac.in"
       ],
@@ -48871,7 +48871,7 @@
       ],
       "name": "Manipal University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "manipal.edu"
       ],
@@ -48883,7 +48883,7 @@
       ],
       "name": "Manipur University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Manipur",
       "domains": [
           "manipur.nic.in"
       ],
@@ -48930,9 +48930,9 @@
       "web_pages": [
           "http://www.mdurohtak.com/"
       ],
-      "name": "Maharishi Dayanand University, Rohtak (Haryana )",
+      "name": "Maharishi Dayanand University, Rohtak",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Haryana",
       "domains": [
           "mdurohtak.com"
       ],
@@ -48968,7 +48968,7 @@
       ],
       "name": "Mahatma Gandhi University, Kerala",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "mgu.ac.in"
       ],
@@ -48992,7 +48992,7 @@
       ],
       "name": "Madurai Kamaraj University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "mkuhyd.com"
       ],
@@ -116891,7 +116891,7 @@
       ],
       "name": "SRM University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Andhra Pradesh",
       "domains": [
           "srmap.edu.in"
       ],
