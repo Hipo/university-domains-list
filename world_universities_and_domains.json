@@ -14595,9 +14595,9 @@
       "web_pages": [
           "http://www.westminster.edu/"
       ],
-      "name": "Westminster College",
+      "name": "Westminster College of New Wilmington",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Pennsylvania",
       "domains": [
           "westminster.edu"
       ],
@@ -14607,9 +14607,9 @@
       "web_pages": [
           "http://www.westminster-mo.edu/"
       ],
-      "name": "Westminster College",
+      "name": "Westminster College of Fulton",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Missouri",
       "domains": [
           "westminster-mo.edu"
       ],
@@ -119311,5 +119311,77 @@
           "saec.ac.in"
       ],
       "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://bau.edu/"
+        ],
+        "name": "Bay Atlantic University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "bau.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.siena.edu/"
+        ],
+        "name": "Siena College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "siena.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://txwes.edu/"
+        ],
+        "name": "Texas Wesleyan University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "txwes.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.howest.be/"
+        ],
+        "name": "Howest University of Applied Sciences",
+        "alpha_two_code": "BE",
+        "state-province": null,
+        "domains": [
+            "howest.be"
+        ],
+        "country": "Belgium"
+    },
+    {
+        "web_pages": [
+            "https://nu.edu.kz/"
+        ],
+        "name": "Nazarbayev University",
+        "alpha_two_code": "KZ",
+        "state-province": null,
+        "domains": [
+            "nu.edu.kz"
+        ],
+        "country": "Kazakhstan"
+    },
+    {
+        "web_pages": [
+            "https://stgc.uwa.edu.au/"
+        ],
+        "name": "St. George's University (Australia)",
+        "alpha_two_code": "AU",
+        "state-province": null,
+        "domains": [
+            "stgc.uwa.edu.au"
+        ],
+        "country": "Australia"
     }
 ]
