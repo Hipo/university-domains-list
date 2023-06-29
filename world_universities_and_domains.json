@@ -119371,5 +119371,17 @@
             "howest.be"
         ],
         "country": "Belgium"
+    },
+    {
+        "web_pages": [
+            "https://nu.edu.kz/"
+        ],
+        "name": "Nazarbayev University",
+        "alpha_two_code": "KZ",
+        "state-province": null,
+        "domains": [
+            "nu.edu.kz"
+        ],
+        "country": "Kazakhstan"
     }
 ]
