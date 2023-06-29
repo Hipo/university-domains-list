@@ -119323,5 +119323,17 @@
           "saec.ac.in"
       ],
       "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://bau.edu/"
+        ],
+        "name": "Bay Atlantic University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "bau.edu"
+        ],
+        "country": "United States"
     }
 ]
