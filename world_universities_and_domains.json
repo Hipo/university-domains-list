@@ -46525,7 +46525,7 @@
       ],
       "name": "Amity University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttar Pradesh",
       "domains": [
           "amity.edu"
       ],
@@ -46535,9 +46535,9 @@
       "web_pages": [
           "http://www.amrita.edu/"
       ],
-      "name": "Amrita Vishwa Vidyapeetham (Deemed University)",
+      "name": "Amrita Vishwa Vidyapeetham",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "amrita.edu"
       ],
@@ -46561,7 +46561,7 @@
       ],
       "name": "Aligarh Muslim University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "amu.ac.in"
       ],
@@ -46573,7 +46573,7 @@
       ],
       "name": "Andhra University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Andhra Pradesh",
       "domains": [
           "andhrauniversity.info"
       ],
@@ -46657,7 +46657,7 @@
       ],
       "name": "Assam University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Assam",
       "domains": [
           "assamuniversity.nic.in"
       ],
@@ -46669,7 +46669,7 @@
       ],
       "name": "Gujarat Ayurved University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Gujarat",
       "domains": [
           "ayurveduniversity.com"
       ],
@@ -46777,7 +46777,7 @@
       ],
       "name": "Bengal Engineering College",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "West Bengal",
       "domains": [
           "becs.ac.in"
       ],
@@ -46789,7 +46789,7 @@
       ],
       "name": "Bangalore University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "bengaluruuniversity.com"
       ],
@@ -46813,7 +46813,7 @@
       ],
       "name": "Bharathiar University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "bharathi.ernet.in"
       ],
@@ -46825,7 +46825,7 @@
       ],
       "name": "Bharath Institue Of Higher Education & Research",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "bharathuniv.com"
       ],
@@ -46861,7 +46861,7 @@
       ],
       "name": "Banaras Hindu University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttar Pradesh",
       "domains": [
           "bhu.ac.in"
       ],
@@ -46873,7 +46873,7 @@
       ],
       "name": "Orissa University of Agriculture and Technology",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Odisha",
       "domains": [
           "bhub.ori.nic.in"
       ],
@@ -46885,7 +46885,7 @@
       ],
       "name": "Birla Institute of Technology, Ranchi",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Jharkhand",
       "domains": [
           "bitmesraranchi.org"
       ],
@@ -46897,7 +46897,7 @@
       ],
       "name": "Birla Institute of Technology and Science",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Rajasthan",
       "domains": [
           "bits-pilani.ac.in"
       ],
@@ -46933,7 +46933,7 @@
       ],
       "name": "B. R. Ambedkar Bihar University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Bihar",
       "domains": [
           "brabu.net"
       ],
@@ -47005,7 +47005,7 @@
       ],
       "name": "VIT Bhopal",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Madhya Pradesh",
       "domains": [
           "vitbhopal.ac.in"
       ],
@@ -47041,7 +47041,7 @@
       ],
       "name": "University of Calcutta",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "West Bengal",
       "domains": [
           "caluniv.ac.in"
       ],
@@ -47101,7 +47101,7 @@
       ],
       "name": "Christ University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "christuniversity.in"
       ],
@@ -47173,7 +47173,7 @@
       ],
       "name": "Cochin University of Science and Technology",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "cusat.ac.in"
       ],
@@ -47269,7 +47269,7 @@
       ],
       "name": "Tamil Nadu Agricultural University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Tamil Nadu",
       "domains": [
           "dbs.tn.nic.in"
       ],
@@ -47281,7 +47281,7 @@
       ],
       "name": "Delhi College of Engineering (DCE)",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "dceonline.net"
       ],
@@ -47341,7 +47341,7 @@
       ],
       "name": "Dravidian University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Andhra Pradesh",
       "domains": [
           "dravidianuniversity.ac.in"
       ],
@@ -47353,7 +47353,7 @@
       ],
       "name": "University of Delhi",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Delhi",
       "domains": [
           "du.ac.in"
       ],
@@ -47365,7 +47365,7 @@
       ],
       "name": "Dr. D.Y. Patil University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Maharashtra",
       "domains": [
           "dypatiluniversity.org"
       ],
@@ -47387,9 +47387,9 @@
       "web_pages": [
           "http://www.fatimacollege.net/"
       ],
-      "name": "Fatima mata national college kollam kerala",
+      "name": "Fatima Mata National College",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Kerala",
       "domains": [
           "fatimacollege.net"
       ],
@@ -47401,7 +47401,7 @@
       ],
       "name": "Forest Research Institute Dehradun",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttarakhand",
       "domains": [
           "fri.icfre.gov.in"
       ],
@@ -47497,7 +47497,7 @@
       ],
       "name": "Global Open University , Nagaland",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Nagaland",
       "domains": [
           "government.ind.in"
       ],
@@ -47509,7 +47509,7 @@
       ],
       "name": "Gujarat Technological University Ahmedabad",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Gujarat",
       "domains": [
           "gtu.ac.in"
       ],
@@ -47521,7 +47521,7 @@
       ],
       "name": "Gujarat University Ahmedabad",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Gujarat",
       "domains": [
           "gujaratuniversity.org.in"
       ],
@@ -47569,7 +47569,7 @@
       ],
       "name": "CCS Haryana Agricultural University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Haryana",
       "domains": [
           "hau.ernet.in"
       ],
@@ -47581,7 +47581,7 @@
       ],
       "name": "Himachal Pradesh Agricultural University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Himachal Pradesh",
       "domains": [
           "hillagric.ernet.in"
       ],
@@ -47605,7 +47605,7 @@
       ],
       "name": "Hidayatullah National Law University, Raipur",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Chhattisgarh",
       "domains": [
           "hnluraipur.com"
       ],
@@ -48823,7 +48823,7 @@
       ],
       "name": "University of Lucknow",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Uttar Pradesh",
       "domains": [
           "lucknowuniv.org"
       ],
@@ -50973,7 +50973,7 @@
       ],
       "name": "Visvesvaraya National Institute of Technology",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Maharashtra",
       "domains": [
           "vnitnagpur.ac.in"
       ],
@@ -50997,7 +50997,7 @@
       ],
       "name": "Visvesvaraya Technological University",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Karnataka",
       "domains": [
           "vtu.ac.in"
       ],
