@@ -119350,6 +119350,18 @@
     },
     {
         "web_pages": [
+            "https://txwes.edu/"
+        ],
+        "name": "Texas Wesleyan University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "txwes.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
             "https://www.howest.be/"
         ],
         "name": "Howest University of Applied Sciences",
