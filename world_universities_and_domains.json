@@ -119383,5 +119383,17 @@
             "stgc.uwa.edu.au"
         ],
         "country": "Australia"
+    },
+    {
+        "web_pages": [
+            "https://u-bourgogne.fr/"
+        ],
+        "name": "University of Burgundy",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "u-bourgogne.fr"
+        ],
+        "country": "France"
     }
 ]
