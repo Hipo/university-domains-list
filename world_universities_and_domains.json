@@ -20821,12 +20821,13 @@
   },
   {
       "web_pages": [
-          "http://www.ulb.ac.be/"
+          "https://www.ulb.be/"
       ],
       "name": "Université Libre de Bruxelles",
       "alpha_two_code": "BE",
       "state-province": null,
       "domains": [
+          "ulb.be",  
           "ulb.ac.be"
       ],
       "country": "Belgium"
