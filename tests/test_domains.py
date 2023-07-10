@@ -34,7 +34,7 @@ class DomainsTests(unittest.TestCase):
             self.assertIsInstance(university["alpha_two_code"], (str, type(None)), msg="Country Alpha Two Code must be a string or null")
             # check if length is 2
             if university["alpha_two_code"] is not None:
-                self.assertEqual(len(university["alpha_two_code"]), 2, msg="Country Alpha Two Code must be 2 characters long")
+                self.assertEqual(len(university["alpha_two_code"]), 2, msg=f"Country Alpha Two Code must be 2 characters long: {university['alpha_two_code']}")
 
             self.assertIn("state-province", university, msg="University State/Province is missing")
             self.assertIsInstance(university["state-province"], (str, type(None)), msg="University State/Province must be a string or null")
