@@ -4,6 +4,7 @@ import validators
 
 class DomainsTests(unittest.TestCase):
     def setUp(self):
+        """Load the JSON file into a variable"""
         with open("world_universities_and_domains.json", encoding="utf-8") as json_file:
             self.valid_json = json.load(json_file)
 
@@ -29,8 +30,11 @@ class DomainsTests(unittest.TestCase):
                     if web_page is not None:
                         self.assertTrue(validators.url(web_page), msg=f"Invalid web page: {web_page}")
 
-            self.assertIn("alpha_two_code", university, msg="University Alpha Two Code is missing")
-            self.assertIsInstance(university["alpha_two_code"], (str, type(None)), msg="University Alpha Two Code must be a string or null")
+            self.assertIn("alpha_two_code", university, msg="Country Alpha Two Code is missing")
+            self.assertIsInstance(university["alpha_two_code"], (str, type(None)), msg="Country Alpha Two Code must be a string or null")
+            # check if length is 2
+            if university["alpha_two_code"] is not None:
+                self.assertEqual(len(university["alpha_two_code"]), 2, msg="Country Alpha Two Code must be 2 characters long")
 
             self.assertIn("state-province", university, msg="University State/Province is missing")
             self.assertIsInstance(university["state-province"], (str, type(None)), msg="University State/Province must be a string or null")
