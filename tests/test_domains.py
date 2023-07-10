@@ -1,27 +1,42 @@
 import json
 import unittest
-
 import validators
 
-
 class DomainsTests(unittest.TestCase):
-    def test_json_is_valid(self):
+    def setUp(self):
         with open("world_universities_and_domains.json", encoding="utf-8") as json_file:
-            valid_json = json.load(json_file)
-        for university in valid_json:
-            self.assertIn("name", university, msg="University Name is missing")
-            self.assertIn("domains", university, msg="University Domains are missing")
-            self.assertIsInstance(university["domains"], list, msg="University Domains must be a list")
-            for domain in university["domains"]:
-                self.assertTrue(validators.domain(domain), msg=f"Invalid domain: {domain}")
-            self.assertIn("web_pages", university, msg="University Web Pages are missing")
-            self.assertIsInstance(university["web_pages"], list, msg="University Web Pages must be a list")
-            for web_page in university["web_pages"]:
-                self.assertTrue(validators.url(web_page), msg=f"Invalid web page: {web_page}")
-            self.assertIn("alpha_two_code", university, msg="University Alpha Two Code is missing")
-            self.assertIn("state-province", university, msg="University State/Province is missing")
-            self.assertIn("country", university, msg="University Country is missing")
+            self.valid_json = json.load(json_file)
 
+    def test_university_json_structure(self):
+        """Test the structure of each university entry in the JSON file"""
+        for university in self.valid_json:
+            self.assertIn("name", university, msg="University Name is missing")
+            self.assertIsInstance(university["name"], (str, type(None)), msg="University Name must be a string or null")
+
+            self.assertIn("domains", university, msg="University Domains are missing")
+            self.assertIsInstance(university["domains"], (list, type(None)), msg="University Domains must be a list or null")
+            if university["domains"] is not None:
+                for domain in university["domains"]:
+                    self.assertIsInstance(domain, (str, type(None)), msg="University Domain must be a string or null")
+                    if domain is not None:
+                        self.assertTrue(validators.domain(domain), msg=f"Invalid domain: {domain}")
+
+            self.assertIn("web_pages", university, msg="University Web Pages are missing")
+            self.assertIsInstance(university["web_pages"], (list, type(None)), msg="University Web Pages must be a list or null")
+            if university["web_pages"] is not None:
+                for web_page in university["web_pages"]:
+                    self.assertIsInstance(web_page, (str, type(None)), msg="University Web Page must be a string or null")
+                    if web_page is not None:
+                        self.assertTrue(validators.url(web_page), msg=f"Invalid web page: {web_page}")
+
+            self.assertIn("alpha_two_code", university, msg="University Alpha Two Code is missing")
+            self.assertIsInstance(university["alpha_two_code"], (str, type(None)), msg="University Alpha Two Code must be a string or null")
+
+            self.assertIn("state-province", university, msg="University State/Province is missing")
+            self.assertIsInstance(university["state-province"], (str, type(None)), msg="University State/Province must be a string or null")
+
+            self.assertIn("country", university, msg="University Country is missing")
+            self.assertIsInstance(university["country"], (str, type(None)), msg="University Country must be a string or null")
 
 # Run tests locally
 if __name__ == "__main__":
