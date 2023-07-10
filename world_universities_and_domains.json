@@ -30156,16 +30156,16 @@
       "country": "China"
   },
   {
-      "web_pages": [
-          "https://shcc.edu.cn/"
-      ],
-      "name": "Shanghai Customs College",
-      "alpha_two_code": "CN",
-      "state-province": null,
-      "domains": [
-          "shcc.edu.cn"
-      ],
-      "country": "China"
+    "web_pages": [
+        "https://shcc.edu.cn/"
+    ],
+    "name": "Shanghai Customs College",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+        "shcc.edu.cn"
+    ],
+    "country": "China"
   },
   {
       "web_pages": [
@@ -116690,18 +116690,6 @@
           "hbc.edu.cn"
       ],
       "country": "China"
-  },
-  {
-      "web_pages": [
-          "https://www.fom.de"
-      ],
-      "name": "FOM Hochschule für Oekonomie & Management",
-      "alpha_two_code": "DE",
-      "state-province": null,
-      "domains": [
-          "fom-net.de"
-      ],
-      "country": "Germany"
   },
   {
       "web_pages": [
