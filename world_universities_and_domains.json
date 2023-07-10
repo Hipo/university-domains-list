@@ -47901,7 +47901,7 @@
   },
   {
       "web_pages": [
-          "www.iiit-bh.ac.in/"
+          "https://www.iiit-bh.ac.in/"
       ],
       "name": "International Institute of Information Technology, Bhubaneswar",
       "alpha_two_code": "IN",
@@ -47913,7 +47913,7 @@
   },
   {
       "web_pages": [
-          "www.iiitb.ac.in/"
+          "https://www.iiitb.ac.in/"
       ],
       "name": "International Institute of Information Technology, Bangalore",
       "alpha_two_code": "IN",
@@ -116681,7 +116681,7 @@
   },
   {
       "web_pages": [
-          "www.hbc.edu.cn"
+          "https://www.hbc.edu.cn"
       ],
       "name": "Hubei Business College",
       "alpha_two_code": "CN",
@@ -116693,19 +116693,7 @@
   },
   {
       "web_pages": [
-          "www.fom.de"
-      ],
-      "name": "FOM Hochschule für Oekonomie & Management",
-      "alpha_two_code": "DE",
-      "state-province": null,
-      "domains": [
-          "fom-net.de"
-      ],
-      "country": "Germany"
-  },
-  {
-      "web_pages": [
-          "www.thm.de"
+          "https://www.thm.de"
       ],
       "name": "Technische Hochschule Mittelhessen",
       "alpha_two_code": "DE",
@@ -116717,7 +116705,7 @@
   },
   {
       "web_pages": [
-          "www.hwg-lu.de"
+          "https://www.hwg-lu.de"
       ],
       "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
       "alpha_two_code": "DE",
@@ -116741,7 +116729,7 @@
   },
   {
       "web_pages": [
-          "www.leuphana.de"
+          "https://www.leuphana.de"
       ],
       "name": "Leuphana Universität Lüneburg",
       "alpha_two_code": "DE",
@@ -118568,7 +118556,7 @@
   },
     {
         "web_pages": [
-            "gsfcuni.edu.in"
+            "https://gsfcuni.edu.in"
         ],
         "name": "GSFC University",
         "alpha_two_code": "IN",
@@ -118580,7 +118568,7 @@
     },
     {
         "web_pages": [
-            "nwu.ac.za"
+            "https://nwu.ac.za"
         ],
         "name": "North-West Univeristy",
         "alpha_two_code": "ZA",
@@ -118592,7 +118580,7 @@
     },
     {
         "web_pages": [
-            "tudublin.ie"
+            "https://tudublin.ie"
         ],
         "name": "Technological University Dublin",
         "alpha_two_code": "IE",
@@ -118604,7 +118592,7 @@
     },
     {
         "web_pages": [
-            "www.keio.ac.jp"
+            "https://www.keio.ac.jp"
         ],
         "name": "Keio University",
         "alpha_two_code": "JP",
@@ -118616,7 +118604,7 @@
     },
     {
         "web_pages": [
-            "tamut.edu"
+            "https://tamut.edu"
         ],
         "name": "Texas A&M University-Texarkana",
         "alpha_two_code": "US",
@@ -118628,7 +118616,7 @@
     },
     {
         "web_pages": [
-            "ais.com.sg"
+            "https://ais.com.sg"
         ],
         "name": "Australian International School",
         "alpha_two_code": "SG",
@@ -118640,7 +118628,7 @@
     },
     {
         "web_pages": [
-            "akfaryarsiptk.ac.id"
+            "https://akfaryarsiptk.ac.id"
         ],
         "name": "Akademi Farmasi Yarsis Pekanbaru",
         "alpha_two_code": "ID",
@@ -118652,7 +118640,7 @@
     },
     {
         "web_pages": [
-            "alayen.edu.iq"
+            "https://alayen.edu.iq"
         ],
         "name": "Alayen University",
         "alpha_two_code": "IQ",
@@ -118664,7 +118652,7 @@
     },
     {
         "web_pages": [
-            "web.ub.edu"
+            "https://web.ub.edu"
         ],
         "name": "University of Barcelona",
         "alpha_two_code": "ES",
@@ -118676,7 +118664,7 @@
     },
     {
         "web_pages": [
-            "cruzeirodosul.edu.br"
+            "https://cruzeirodosul.edu.br"
         ],
         "name": "Cruzeiro do Sul University",
         "alpha_two_code": "BR",
@@ -118688,7 +118676,7 @@
     },
     {
         "web_pages": [
-            "ifsp.edu.br"
+            "https://ifsp.edu.br"
         ],
         "name": "Federal Institute of Education",
         "alpha_two_code": "Science and Technology of S\u00e3o Paulo",
