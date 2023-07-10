@@ -30156,16 +30156,16 @@
       "country": "China"
   },
   {
-      "web_pages": [
-          "http://shanghai_edu.customs.gov.cn/"
-      ],
-      "name": "Shanghai Customs College",
-      "alpha_two_code": "CN",
-      "state-province": null,
-      "domains": [
-          "shanghai_edu.customs.gov.cn"
-      ],
-      "country": "China"
+    "web_pages": [
+        "https://shcc.edu.cn/"
+    ],
+    "name": "Shanghai Customs College",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+        "shcc.edu.cn"
+    ],
+    "country": "China"
   },
   {
       "web_pages": [
