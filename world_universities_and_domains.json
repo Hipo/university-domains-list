@@ -30156,16 +30156,16 @@
       "country": "China"
   },
   {
-      "web_pages": [
-          "http://shanghai_edu.customs.gov.cn/"
-      ],
-      "name": "Shanghai Customs College",
-      "alpha_two_code": "CN",
-      "state-province": null,
-      "domains": [
-          "shanghai_edu.customs.gov.cn"
-      ],
-      "country": "China"
+    "web_pages": [
+        "https://shcc.edu.cn/"
+    ],
+    "name": "Shanghai Customs College",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": [
+        "shcc.edu.cn"
+    ],
+    "country": "China"
   },
   {
       "web_pages": [
@@ -47889,19 +47889,19 @@
   },
   {
       "web_pages": [
-          "www.isquareit.ac.in/"
+          "https://www.isquareit.edu.in/"
       ],
       "name": "International Institute of Information Technology, Pune",
       "alpha_two_code": "IN",
       "state-province": "Maharashtra",
       "domains": [
-          "squareit.ac.in"
+          "squareit.edu.in"
       ],
       "country": "India"
   },
   {
       "web_pages": [
-          "www.iiit-bh.ac.in/"
+          "https://www.iiit-bh.ac.in/"
       ],
       "name": "International Institute of Information Technology, Bhubaneswar",
       "alpha_two_code": "IN",
@@ -47913,7 +47913,7 @@
   },
   {
       "web_pages": [
-          "www.iiitb.ac.in/"
+          "https://www.iiitb.ac.in/"
       ],
       "name": "International Institute of Information Technology, Bangalore",
       "alpha_two_code": "IN",
@@ -116681,7 +116681,7 @@
   },
   {
       "web_pages": [
-          "www.hbc.edu.cn"
+          "https://www.hbc.edu.cn"
       ],
       "name": "Hubei Business College",
       "alpha_two_code": "CN",
@@ -116693,19 +116693,7 @@
   },
   {
       "web_pages": [
-          "www.fom.de"
-      ],
-      "name": "FOM Hochschule für Oekonomie & Management",
-      "alpha_two_code": "DE",
-      "state-province": null,
-      "domains": [
-          "fom-net.de"
-      ],
-      "country": "Germany"
-  },
-  {
-      "web_pages": [
-          "www.thm.de"
+          "https://www.thm.de"
       ],
       "name": "Technische Hochschule Mittelhessen",
       "alpha_two_code": "DE",
@@ -116717,7 +116705,7 @@
   },
   {
       "web_pages": [
-          "www.hwg-lu.de"
+          "https://www.hwg-lu.de"
       ],
       "name": "Hochschule für Wirtschaft und Gesellschaft Ludwigshafen",
       "alpha_two_code": "DE",
@@ -116741,7 +116729,7 @@
   },
   {
       "web_pages": [
-          "www.leuphana.de"
+          "https://www.leuphana.de"
       ],
       "name": "Leuphana Universität Lüneburg",
       "alpha_two_code": "DE",
@@ -118568,7 +118556,7 @@
   },
     {
         "web_pages": [
-            "gsfcuni.edu.in"
+            "https://gsfcuni.edu.in"
         ],
         "name": "GSFC University",
         "alpha_two_code": "IN",
@@ -118580,7 +118568,7 @@
     },
     {
         "web_pages": [
-            "nwu.ac.za"
+            "https://nwu.ac.za"
         ],
         "name": "North-West Univeristy",
         "alpha_two_code": "ZA",
@@ -118592,7 +118580,7 @@
     },
     {
         "web_pages": [
-            "tudublin.ie"
+            "https://tudublin.ie"
         ],
         "name": "Technological University Dublin",
         "alpha_two_code": "IE",
@@ -118604,7 +118592,7 @@
     },
     {
         "web_pages": [
-            "www.keio.ac.jp"
+            "https://www.keio.ac.jp"
         ],
         "name": "Keio University",
         "alpha_two_code": "JP",
@@ -118616,7 +118604,7 @@
     },
     {
         "web_pages": [
-            "tamut.edu"
+            "https://tamut.edu"
         ],
         "name": "Texas A&M University-Texarkana",
         "alpha_two_code": "US",
@@ -118628,7 +118616,7 @@
     },
     {
         "web_pages": [
-            "ais.com.sg"
+            "https://ais.com.sg"
         ],
         "name": "Australian International School",
         "alpha_two_code": "SG",
@@ -118640,7 +118628,7 @@
     },
     {
         "web_pages": [
-            "akfaryarsiptk.ac.id"
+            "https://akfaryarsiptk.ac.id"
         ],
         "name": "Akademi Farmasi Yarsis Pekanbaru",
         "alpha_two_code": "ID",
@@ -118652,7 +118640,7 @@
     },
     {
         "web_pages": [
-            "alayen.edu.iq"
+            "https://alayen.edu.iq"
         ],
         "name": "Alayen University",
         "alpha_two_code": "IQ",
@@ -118664,7 +118652,7 @@
     },
     {
         "web_pages": [
-            "web.ub.edu"
+            "https://web.ub.edu"
         ],
         "name": "University of Barcelona",
         "alpha_two_code": "ES",
@@ -118676,7 +118664,7 @@
     },
     {
         "web_pages": [
-            "cruzeirodosul.edu.br"
+            "https://cruzeirodosul.edu.br"
         ],
         "name": "Cruzeiro do Sul University",
         "alpha_two_code": "BR",
@@ -118688,7 +118676,7 @@
     },
     {
         "web_pages": [
-            "ifsp.edu.br"
+            "https://ifsp.edu.br"
         ],
         "name": "Federal Institute of Education",
         "alpha_two_code": "Science and Technology of S\u00e3o Paulo",
@@ -118700,7 +118688,7 @@
     },
     {
         "web_pages": [
-            "anurag.edu.in"
+            "https://anurag.edu.in"
         ],
         "name": "Anurag University",
         "alpha_two_code": "IN",
@@ -118712,7 +118700,7 @@
     },
     {
         "web_pages": [
-            "ateneo.edu"
+            "https://ateneo.edu"
         ],
         "name": "Ateneo de Manila University",
         "alpha_two_code": "PH",
@@ -118724,7 +118712,7 @@
     },
     {
         "web_pages": [
-            "bath.ac.uk"
+            "https://bath.ac.uk"
         ],
         "name": "University of Bath",
         "alpha_two_code": "GB",
@@ -118736,7 +118724,7 @@
     },
     {
         "web_pages": [
-            "belhaven.edu"
+            "https://belhaven.edu"
         ],
         "name": "Belhaven University",
         "alpha_two_code": "US",
@@ -118748,7 +118736,7 @@
     },
     {
         "web_pages": [
-            "berry.edu"
+            "https://berry.edu"
         ],
         "name": "Berry College",
         "alpha_two_code": "US",
@@ -118760,7 +118748,7 @@
     },
     {
         "web_pages": [
-            "bhc.edu.in"
+            "https://bhc.edu.in"
         ],
         "name": "Bishop Herber College",
         "alpha_two_code": "IN",
@@ -118772,7 +118760,7 @@
     },
     {
         "web_pages": [
-            "bicpu.edu.in"
+            "https://bicpu.edu.in"
         ],
         "name": "Pondicherry University",
         "alpha_two_code": "IN",
@@ -118784,7 +118772,7 @@
     },
     {
         "web_pages": [
-            "bloomfield.edu"
+            "https://bloomfield.edu"
         ],
         "name": "Bloomfield College",
         "alpha_two_code": "US",
@@ -118796,7 +118784,7 @@
     },
     {
         "web_pages": [
-            "bridgew.edu"
+            "https://bridgew.edu"
         ],
         "name": "Bridgewater State University",
         "alpha_two_code": "US",
@@ -118808,7 +118796,7 @@
     },
     {
         "web_pages": [
-            "www.naist.jp"
+            "https://www.naist.jp"
         ],
         "name": "Nara Institute of Science and Technology",
         "alpha_two_code": "JP",
@@ -118820,7 +118808,7 @@
     },
     {
         "web_pages": [
-            "buc.edu.eg"
+            "https://buc.edu.eg"
         ],
         "name": "Badr University in Cairo",
         "alpha_two_code": "EG",
@@ -118832,7 +118820,7 @@
     },
     {
         "web_pages": [
-            "cabrini.edu"
+            "https://cabrini.edu"
         ],
         "name": "Cabrini University",
         "alpha_two_code": "US",
@@ -118844,7 +118832,7 @@
     },
     {
         "web_pages": [
-            "caldwell.edu"
+            "https://caldwell.edu"
         ],
         "name": "Caldwell University",
         "alpha_two_code": "US",
@@ -118856,7 +118844,7 @@
     },
     {
         "web_pages": [
-            "fct.unl.pt"
+            "https://fct.unl.pt"
         ],
         "name": "NOVA School of Science and Technology",
         "alpha_two_code": "PT",
@@ -118868,7 +118856,7 @@
     },
     {
         "web_pages": [
-            "udg.edu"
+            "https://udg.edu"
         ],
         "name": "University of Girona",
         "alpha_two_code": "ES",
@@ -118880,7 +118868,7 @@
     },
     {
         "web_pages": [
-            "tu.edu.np"
+            "https://tu.edu.np"
         ],
         "name": "Tribhuvan University",
         "alpha_two_code": "NP",
@@ -118892,7 +118880,7 @@
     },
     {
         "web_pages": [
-            "cdnis.edu.hk"
+            "https://cdnis.edu.hk"
         ],
         "name": "Canadian International School of Hong Kong",
         "alpha_two_code": "HK",
@@ -118904,7 +118892,7 @@
     },
     {
         "web_pages": [
-            "chiba-u.jp"
+            "https://chiba-u.jp"
         ],
         "name": "Chiba University",
         "alpha_two_code": "JP",
@@ -118916,7 +118904,7 @@
     },
     {
         "web_pages": [
-            "ciqa.edu.mx"
+            "https://ciqa.edu.mx"
         ],
         "name": "Centro de Investigaci\u00f3n en Qu\u00edmica Aplicada",
         "alpha_two_code": "MX",
@@ -118928,7 +118916,7 @@
     },
     {
         "web_pages": [
-            "www.college-de-france.fr"
+            "https://www.college-de-france.fr"
         ],
         "name": "Coll\u00e8ge de France",
         "alpha_two_code": "FR",
@@ -118940,7 +118928,7 @@
     },
     {
         "web_pages": [
-            "cornellcollege.edu"
+            "https://cornellcollege.edu"
         ],
         "name": "Cornell College",
         "alpha_two_code": "US",
@@ -118952,7 +118940,7 @@
     },
     {
         "web_pages": [
-            "covenant.edu"
+            "https://covenant.edu"
         ],
         "name": "Covenant College",
         "alpha_two_code": "US",
@@ -118964,7 +118952,7 @@
     },
     {
         "web_pages": [
-            "csu.edu"
+            "https://csu.edu"
         ],
         "name": "Chicago State University",
         "alpha_two_code": "US",
@@ -118976,7 +118964,7 @@
     },
     {
         "web_pages": [
-            "csueastbay.edu"
+            "https://csueastbay.edu"
         ],
         "name": "California State University",
         "alpha_two_code": "East Bay",
@@ -118988,7 +118976,7 @@
     },
     {
         "web_pages": [
-            "csupueblo.edu"
+            "https://csupueblo.edu"
         ],
         "name": "Colorado State University-Pueblo",
         "alpha_two_code": "US",
