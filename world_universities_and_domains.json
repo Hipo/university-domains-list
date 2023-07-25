@@ -20827,7 +20827,7 @@
       "alpha_two_code": "BE",
       "state-province": null,
       "domains": [
-          "ulb.be",  
+          "ulb.be",
           "ulb.ac.be"
       ],
       "country": "Belgium"
@@ -94535,7 +94535,8 @@
       "alpha_two_code": "CH",
       "state-province": null,
       "domains": [
-          "unisg.ch"
+          "unisg.ch",
+          "student.unisg.ch"
       ],
       "country": "Switzerland"
   },
