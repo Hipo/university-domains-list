@@ -75439,13 +75439,13 @@
   },
   {
       "web_pages": [
-          "http://www.leidenuniv.nl/"
+          "https://www.universiteitleiden.nl/"
       ],
-      "name": "Leiden University",
+      "name": "Universiteit Leiden",
       "alpha_two_code": "NL",
       "state-province": null,
       "domains": [
-          "leidenuniv.nl"
+          "universiteitleiden.nl"
       ],
       "country": "Netherlands"
   },
