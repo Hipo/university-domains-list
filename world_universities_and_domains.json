@@ -6048,14 +6048,15 @@
   },
   {
       "web_pages": [
-          "http://www.indiana.edu/"
+          "https://bloomington.iu.edu/"
       ],
-      "name": "Indiana University at Bloomington",
+      "name": "Indiana University - Bloomington",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Indiana",
       "domains": [
           "indiana.edu",
-          "iub.edu"
+          "iub.edu",
+          "bloomington.iu.edu"
       ],
       "country": "United States"
   },
