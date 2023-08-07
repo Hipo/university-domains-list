@@ -8575,11 +8575,11 @@
   },
   {
       "web_pages": [
-          "http://www.osu.edu/"
+          "https://www.osu.edu/"
       ],
-      "name": "Ohio State University, Columbus",
+      "name": "Ohio State University - Columbus",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Ohio",
       "domains": [
           "osu.edu"
       ],
