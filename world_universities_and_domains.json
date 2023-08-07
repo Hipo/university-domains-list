@@ -25848,13 +25848,13 @@
   },
   {
       "web_pages": [
-          "http://www.ucfv.bc.ca/"
+          "https://www.ufv.ca/"
       ],
-      "name": "University College of the Fraser Valley",
+      "name": "University of the Fraser Valley",
       "alpha_two_code": "CA",
       "state-province": "British Columbia",
       "domains": [
-          "ucfv.bc.ca"
+          "ufv.ca"
       ],
       "country": "Canada"
   },
