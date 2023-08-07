@@ -336,11 +336,11 @@
   },
   {
       "web_pages": [
-          "http://www.utrgv.edu/"
+          "https://www.utrgv.edu/"
       ],
-      "name": "University of Texas Rio Grande Valley",
+      "name": "The University of Texas at Rio Grande Valley",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Texas",
       "domains": [
           "utrgv.edu"
       ],
