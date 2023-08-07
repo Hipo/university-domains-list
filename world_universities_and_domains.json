@@ -12855,11 +12855,11 @@
   },
   {
       "web_pages": [
-          "http://www.uncg.edu/"
+          "https://www.uncg.edu/"
       ],
-      "name": "University of North Carolina at Greensboro",
+      "name": "The University of North Carolina at Greensboro",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "North Carolina",
       "domains": [
           "uncg.edu"
       ],
