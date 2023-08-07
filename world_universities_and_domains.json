@@ -7338,11 +7338,11 @@
   },
   {
       "web_pages": [
-          "http://mercyhurst.edu/"
+          "https://mercyhurst.edu/"
       ],
       "name": "Mercyhurst University",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Pennsylvania",
       "domains": [
           "mercyhurst.edu"
       ],
