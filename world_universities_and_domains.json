@@ -53418,6 +53418,18 @@
   },
   {
       "web_pages": [
+          "https://www.kut.ac.ir/"
+      ],
+      "name": "Kermanshah University of Technology",
+      "alpha_two_code": "IR",
+      "state-province": "Kermanshah",
+      "domains": [
+          "kut.ac.ir"
+      ],
+      "country": "Iran"
+  },
+  {
+      "web_pages": [
           "http://www.art.ac.ir/"
       ],
       "name": "Art University",
