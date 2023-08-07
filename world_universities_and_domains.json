@@ -45704,13 +45704,13 @@
   },
   {
       "web_pages": [
-          "http://www.cuhk.hk/"
+          "https://www.cuhk.edu.hk/"
       ],
-      "name": "Chinese University of Hong Kong",
+      "name": "The Chinese University of Hong Kong",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
-          "cuhk.hk"
+          "cuhk.edu.hk"
       ],
       "country": "Hong Kong"
   },
