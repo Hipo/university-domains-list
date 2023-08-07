@@ -13458,11 +13458,11 @@
   },
   {
       "web_pages": [
-          "http://www.utsa.edu/"
+          "https://www.utsa.edu/"
       ],
-      "name": "University of Texas at San Antonio",
+      "name": "The University of Texas at San Antonio",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Texas",
       "domains": [
           "utsa.edu"
       ],
