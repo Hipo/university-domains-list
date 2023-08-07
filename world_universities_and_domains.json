@@ -12227,11 +12227,11 @@
   },
   {
       "web_pages": [
-          "http://www.illinois.edu/"
+          "https://illinois.edu/"
       ],
-      "name": "University of Illinois at Urbana-Champaign",
+      "name": "University of Illinois, Urbana-Champaign",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Illinois",
       "domains": [
           "uiuc.edu",
           "illinois.edu"
