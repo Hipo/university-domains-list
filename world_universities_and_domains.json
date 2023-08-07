@@ -116985,6 +116985,18 @@
   },
   {
       "web_pages": [
+          "https://www.gmercyu.edu/"
+      ],
+      "name": "Gwynedd Mercy University",
+      "alpha_two_code": "US",
+      "state-province": "Pennsylvania",
+      "domains": [
+          "gmercyu.edu"
+      ],
+      "country": "United States"
+  },
+  {
+      "web_pages": [
           "https://calarts.edu/"
       ],
       "name": "California Institute of the Arts",
