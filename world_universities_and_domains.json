@@ -100147,9 +100147,9 @@
   },
   {
       "web_pages": [
-          "http://www.aber.ac.uk/"
+          "https://aber.ac.uk/"
       ],
-      "name": "University of Wales, Aberystwyth",
+      "name": "Aberystwyth University",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
