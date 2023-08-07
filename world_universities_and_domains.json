@@ -14077,11 +14077,11 @@
   },
   {
       "web_pages": [
-          "http://www.vt.edu/"
+          "https://www.vt.edu/"
       ],
-      "name": "Virginia Polytechnic Institute and State University",
+      "name": "Virginia Tech",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Virginia",
       "domains": [
           "vt.edu"
       ],
