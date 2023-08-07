@@ -13409,11 +13409,11 @@
   },
   {
       "web_pages": [
-          "http://www.utexas.edu/"
+          "https://www.utexas.edu/"
       ],
-      "name": "University of Texas at Austin",
+      "name": "The University of Texas at Austin",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Texas",
       "domains": [
           "utexas.edu"
       ],
