@@ -12770,11 +12770,11 @@
   },
   {
       "web_pages": [
-          "http://www.unh.edu/"
+          "https://www.unh.edu/"
       ],
-      "name": "University of New Hampshire, Durham",
+      "name": "University of New Hampshire",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "New Hampshire",
       "domains": [
           "unh.edu"
       ],
