@@ -101975,13 +101975,13 @@
   },
   {
       "web_pages": [
-          "http://www.unn.ac.uk/"
+          "https://www.northumbria.ac.uk/"
       ],
-      "name": "University of Northumbria at Newcastle",
+      "name": "Northumbria University",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
-          "unn.ac.uk"
+          "northumbria.ac.uk"
       ],
       "country": "United Kingdom"
   },
