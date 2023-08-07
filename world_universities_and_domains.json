@@ -101601,9 +101601,9 @@
   },
   {
       "web_pages": [
-          "http://www.shef.ac.uk/"
+          "https://www.sheffield.ac.uk/"
       ],
-      "name": "University of Sheffield",
+      "name": "The University of Sheffield",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
