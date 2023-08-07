@@ -9631,13 +9631,13 @@
   },
   {
       "web_pages": [
-          "http://www.sfcpa.edu/"
+          "https://www.sfc.edu/"
       ],
-      "name": "Saint Francis College",
+      "name": "St. Francis College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "New York",
       "domains": [
-          "sfcpa.edu"
+          "sfc.edu"
       ],
       "country": "United States"
   },
