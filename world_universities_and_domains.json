@@ -336,11 +336,11 @@
   },
   {
       "web_pages": [
-          "http://www.utrgv.edu/"
+          "https://www.utrgv.edu/"
       ],
-      "name": "University of Texas Rio Grande Valley",
+      "name": "The University of Texas at Rio Grande Valley",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Texas",
       "domains": [
           "utrgv.edu"
       ],
@@ -615,9 +615,9 @@
       "web_pages": [
           "https://uvu.edu/"
       ],
-      "name": "Utah Valley Uniersity",
+      "name": "Utah Valley University",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Utah",
       "domains": [
           "uvu.edu"
       ],
@@ -6048,14 +6048,15 @@
   },
   {
       "web_pages": [
-          "http://www.indiana.edu/"
+          "https://bloomington.iu.edu/"
       ],
-      "name": "Indiana University at Bloomington",
+      "name": "Indiana University - Bloomington",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Indiana",
       "domains": [
           "indiana.edu",
-          "iub.edu"
+          "iub.edu",
+          "bloomington.iu.edu"
       ],
       "country": "United States"
   },
@@ -7338,11 +7339,11 @@
   },
   {
       "web_pages": [
-          "http://mercyhurst.edu/"
+          "https://mercyhurst.edu/"
       ],
       "name": "Mercyhurst University",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Pennsylvania",
       "domains": [
           "mercyhurst.edu"
       ],
@@ -8575,11 +8576,11 @@
   },
   {
       "web_pages": [
-          "http://www.osu.edu/"
+          "https://www.osu.edu/"
       ],
-      "name": "Ohio State University, Columbus",
+      "name": "Ohio State University - Columbus",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Ohio",
       "domains": [
           "osu.edu"
       ],
@@ -9631,13 +9632,13 @@
   },
   {
       "web_pages": [
-          "http://www.sfcpa.edu/"
+          "https://www.sfc.edu/"
       ],
-      "name": "Saint Francis College",
+      "name": "St. Francis College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "New York",
       "domains": [
-          "sfcpa.edu"
+          "sfc.edu"
       ],
       "country": "United States"
   },
@@ -12227,11 +12228,11 @@
   },
   {
       "web_pages": [
-          "http://www.illinois.edu/"
+          "https://illinois.edu/"
       ],
-      "name": "University of Illinois at Urbana-Champaign",
+      "name": "University of Illinois, Urbana-Champaign",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Illinois",
       "domains": [
           "uiuc.edu",
           "illinois.edu"
@@ -12770,11 +12771,11 @@
   },
   {
       "web_pages": [
-          "http://www.unh.edu/"
+          "https://www.unh.edu/"
       ],
-      "name": "University of New Hampshire, Durham",
+      "name": "University of New Hampshire",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "New Hampshire",
       "domains": [
           "unh.edu"
       ],
@@ -12855,11 +12856,11 @@
   },
   {
       "web_pages": [
-          "http://www.uncg.edu/"
+          "https://www.uncg.edu/"
       ],
-      "name": "University of North Carolina at Greensboro",
+      "name": "The University of North Carolina at Greensboro",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "North Carolina",
       "domains": [
           "uncg.edu"
       ],
@@ -13409,11 +13410,11 @@
   },
   {
       "web_pages": [
-          "http://www.utexas.edu/"
+          "https://www.utexas.edu/"
       ],
-      "name": "University of Texas at Austin",
+      "name": "The University of Texas at Austin",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Texas",
       "domains": [
           "utexas.edu"
       ],
@@ -13458,11 +13459,11 @@
   },
   {
       "web_pages": [
-          "http://www.utsa.edu/"
+          "https://www.utsa.edu/"
       ],
-      "name": "University of Texas at San Antonio",
+      "name": "The University of Texas at San Antonio",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Texas",
       "domains": [
           "utsa.edu"
       ],
@@ -14077,11 +14078,11 @@
   },
   {
       "web_pages": [
-          "http://www.vt.edu/"
+          "https://www.vt.edu/"
       ],
-      "name": "Virginia Polytechnic Institute and State University",
+      "name": "Virginia Tech",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Virginia",
       "domains": [
           "vt.edu"
       ],
@@ -25848,13 +25849,13 @@
   },
   {
       "web_pages": [
-          "http://www.ucfv.bc.ca/"
+          "https://www.ufv.ca/"
       ],
-      "name": "University College of the Fraser Valley",
+      "name": "University of the Fraser Valley",
       "alpha_two_code": "CA",
       "state-province": "British Columbia",
       "domains": [
-          "ucfv.bc.ca"
+          "ufv.ca"
       ],
       "country": "Canada"
   },
@@ -45704,13 +45705,13 @@
   },
   {
       "web_pages": [
-          "http://www.cuhk.hk/"
+          "https://www.cuhk.edu.hk/"
       ],
-      "name": "Chinese University of Hong Kong",
+      "name": "The Chinese University of Hong Kong",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
-          "cuhk.hk"
+          "cuhk.edu.hk"
       ],
       "country": "Hong Kong"
   },
@@ -75451,13 +75452,13 @@
   },
   {
       "web_pages": [
-          "http://www.leidenuniv.nl/"
+          "https://www.universiteitleiden.nl/"
       ],
-      "name": "Leiden University",
+      "name": "Universiteit Leiden",
       "alpha_two_code": "NL",
       "state-province": null,
       "domains": [
-          "leidenuniv.nl"
+          "universiteitleiden.nl"
       ],
       "country": "Netherlands"
   },
@@ -94698,9 +94699,9 @@
   },
   {
       "web_pages": [
-          "http://www.hslu.ch/"
+          "https://www.hslu.ch/"
       ],
-      "name": "HSLU - Lucerne University of Applied Sciences and Arts",
+      "name": "Hochschule Luzern",
       "alpha_two_code": "CH",
       "state-province": null,
       "domains": [
@@ -100159,9 +100160,9 @@
   },
   {
       "web_pages": [
-          "http://www.aber.ac.uk/"
+          "https://aber.ac.uk/"
       ],
-      "name": "University of Wales, Aberystwyth",
+      "name": "Aberystwyth University",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
@@ -101224,9 +101225,9 @@
   },
   {
       "web_pages": [
-          "http://www.mdx.ac.uk/"
+          "https://www.mdx.ac.uk/"
       ],
-      "name": "Middlesex University",
+      "name": "Middlesex University - London",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
@@ -101272,9 +101273,9 @@
   },
   {
       "web_pages": [
-          "http://www.ncl.ac.uk/"
+          "https://www.ncl.ac.uk/"
       ],
-      "name": "University of Newcastle-upon-Tyne",
+      "name": "Newcastle University",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
@@ -101613,9 +101614,9 @@
   },
   {
       "web_pages": [
-          "http://www.shef.ac.uk/"
+          "https://www.sheffield.ac.uk/"
       ],
-      "name": "University of Sheffield",
+      "name": "The University of Sheffield",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
@@ -101987,13 +101988,13 @@
   },
   {
       "web_pages": [
-          "http://www.unn.ac.uk/"
+          "https://www.northumbria.ac.uk/"
       ],
-      "name": "University of Northumbria at Newcastle",
+      "name": "Northumbria University",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
-          "unn.ac.uk"
+          "northumbria.ac.uk"
       ],
       "country": "United Kingdom"
   },
@@ -116997,6 +116998,18 @@
   },
   {
       "web_pages": [
+          "https://www.gmercyu.edu/"
+      ],
+      "name": "Gwynedd Mercy University",
+      "alpha_two_code": "US",
+      "state-province": "Pennsylvania",
+      "domains": [
+          "gmercyu.edu"
+      ],
+      "country": "United States"
+  },
+  {
+      "web_pages": [
           "https://calarts.edu/"
       ],
       "name": "California Institute of the Arts",
@@ -117523,7 +117536,7 @@
       "web_pages": [
           "https://hunter.cuny.edu/"
       ],
-      "name": "CUNY Hunter College",
+      "name": "Hunter College CUNY",
       "alpha_two_code": "US",
       "state-province": "New York, NY",
       "domains": [
@@ -118452,9 +118465,9 @@
       "web_pages": [
           "https://unity.edu/"
       ],
-      "name": "Unity College",
+      "name": "Unity Environmental College",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Maine",
       "domains": [
           "unity.edu"
       ],
@@ -118733,6 +118746,18 @@
         "state-province": null,
         "domains": [
             "bath.edu"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.ulster.ac.uk/"
+        ],
+        "name": "Ulster University",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "ulster.ac.uk"
         ],
         "country": "United Kingdom"
     },
