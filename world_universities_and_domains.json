@@ -119422,5 +119422,13 @@
             "u-bourgogne.fr"
         ],
         "country": "France"
-    }
+    },
+    {
+        "name": "Miva Open University",
+        "domains": ["miva.university"],
+        "web_pages": ["https://miva.university/"],
+        "country": "Nigeria",
+        "alpha_two_code": "NG",
+        "state-province": null
+      }
 ]
