@@ -119430,5 +119430,13 @@
         "country": "Nigeria",
         "alpha_two_code": "NG",
         "state-province": null
-      }
+    },
+    {
+        "name": "Escola Superior de Media Artes e Design",
+        "domains": ["esmad.ipp.pt", "www.esmad.ipp.pt"],
+        "web_pages": ["https://www.esmad.ipp.pt/"],
+        "country": "Portugal",
+        "alpha_two_code": "PT",
+        "state-province": null
+    }
 ]
