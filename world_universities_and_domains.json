@@ -119449,7 +119449,7 @@
         "domains": [
           "univesp.br"
         ],
-        "country": "Brazil",
+        "country": "Brazil"
     },
     {
         "web_pages": [
@@ -119461,7 +119461,7 @@
         "domains": [
           "ac-bordeaux.fr"
         ],
-        "country": "France",
+        "country": "France"
     },
     {
         "web_pages": [
@@ -119473,7 +119473,7 @@
         "domains": [
           "insead.edu"
         ],
-        "country": "France",
+        "country": "France"
     },
     {
         "web_pages": [
@@ -119485,7 +119485,7 @@
         "domains": [
           "thk.edu.tr"
         ],
-        "country": "Turkey",
+        "country": "Turkey"
     },
     {
         "web_pages": [
@@ -119497,6 +119497,6 @@
         "domains": [
           "if-pan.krakow.pl"
         ],
-        "country": "Poland",
+        "country": "Poland"
     }
 ]
