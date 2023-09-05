@@ -119438,5 +119438,65 @@
         "country": "Portugal",
         "alpha_two_code": "PT",
         "state-province": null
+    },
+    {
+        "web_pages": [
+        "https://univesp.br/"
+        ],
+        "name": "Universidade Virtual do Estado de São Paulo",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+          "univesp.br"
+        ],
+        "country": "Brazil"
+    },
+    {
+        "web_pages": [
+        "https://ac-bordeaux.fr/"
+        ],
+        "name": "Académie de Bordeaux",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+          "ac-bordeaux.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+        "https://www.insead.edu/"
+        ],
+        "name": "Institut privé d'enseignement supérieur",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+          "insead.edu"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+        "https://thk.edu.tr/"
+        ],
+        "name": "Türk Hava Kurumu Üniversitesi",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+          "thk.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+        "https://if-pan.krakow.pl/"
+        ],
+        "name": "Maj Institute of Pharmacology Polish Academy of Sciences",
+        "alpha_two_code": "PL",
+        "state-province": null,
+        "domains": [
+          "if-pan.krakow.pl"
+        ],
+        "country": "Poland"
     }
 ]
