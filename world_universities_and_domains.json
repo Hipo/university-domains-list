@@ -81,6 +81,18 @@
   },
   {
       "web_pages": [
+          "https://www.ac-creteil.fr/"
+      ],
+      "name": "Académie de Créteil",
+      "alpha_two_code": "FR",
+      "state-province": null,
+      "domains": [
+          "ac-creteil.fr"
+      ],
+      "country": "France"
+  },
+  {
+      "web_pages": [
           "http://www.marywood.edu"
       ],
       "name": "Marywood University",
