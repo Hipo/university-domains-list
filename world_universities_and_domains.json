@@ -19967,7 +19967,7 @@
   },
   {
       "web_pages": [
-          "http://academy.mia.by/"
+          "https://www.amia.by/"
       ],
       "name": "Academy of the Ministry of Internal Affairs of the Republic of Belarus",
       "alpha_two_code": "BY",
@@ -19979,7 +19979,7 @@
   },
   {
       "web_pages": [
-          "http://www.baa.by/"
+          "https://baa.by/"
       ],
       "name": "Belarussian State Agricultural Academy",
       "alpha_two_code": "BY",
@@ -19991,7 +19991,7 @@
   },
   {
       "web_pages": [
-          "http://www.batu.edu.by/"
+          "https://www.bsatu.by/"
       ],
       "name": "Belarussian State Agrarian Technical University",
       "alpha_two_code": "BY",
@@ -20003,7 +20003,7 @@
   },
   {
       "web_pages": [
-          "http://www.belsut.gomel.by/"
+          "https://www.bsut.by/"
       ],
       "name": "Belarussian State University of Transport",
       "alpha_two_code": "BY",
@@ -20015,7 +20015,7 @@
   },
   {
       "web_pages": [
-          "http://www.bgam.edu.by/"
+          "https://bgam.by/"
       ],
       "name": "Belarussian State Academy of Music",
       "alpha_two_code": "BY",
@@ -20027,7 +20027,7 @@
   },
   {
       "web_pages": [
-          "http://www.bntu.by/"
+          "https://bntu.by/"
       ],
       "name": "Belarussian National Technical University",
       "alpha_two_code": "BY",
@@ -20039,7 +20039,7 @@
   },
   {
       "web_pages": [
-          "http://www.brsu.brest.by/"
+          "https://www.brsu.by/"
       ],
       "name": "Brest State University",
       "alpha_two_code": "BY",
@@ -20051,7 +20051,7 @@
   },
   {
       "web_pages": [
-          "http://www.bru.mogilev.by/"
+          "http://en.bru.by/"
       ],
       "name": "Belarusian-Russian University",
       "alpha_two_code": "BY",
@@ -20063,7 +20063,7 @@
   },
   {
       "web_pages": [
-          "http://www.bseu.by/"
+          "http://bseu.by/"
       ],
       "name": "Belarussian State Economic University",
       "alpha_two_code": "BY",
@@ -20075,7 +20075,7 @@
   },
   {
       "web_pages": [
-          "http://www.bsmu.by/"
+          "https://bsmu.by/"
       ],
       "name": "Belarussian State Medical University",
       "alpha_two_code": "BY",
@@ -20087,19 +20087,7 @@
   },
   {
       "web_pages": [
-          "http://www.bspa.unibel.by/"
-      ],
-      "name": "Belarussian State Polytechnical Academy",
-      "alpha_two_code": "BY",
-      "state-province": null,
-      "domains": [
-          "bspa.unibel.by"
-      ],
-      "country": "Belarus"
-  },
-  {
-      "web_pages": [
-          "http://www.bspu.unibel.by/"
+          "https://bspu.by/"
       ],
       "name": "Belarussian State Pedagogical University M. Tanka",
       "alpha_two_code": "BY",
@@ -20111,7 +20099,7 @@
   },
   {
       "web_pages": [
-          "http://www.bstu.by/"
+          "https://www.bstu.by/"
       ],
       "name": "Brest State Technical University",
       "alpha_two_code": "BY",
@@ -20123,7 +20111,7 @@
   },
   {
       "web_pages": [
-          "http://www.bstu.unibel.by/"
+          "https://belstu.by/"
       ],
       "name": "Belarussian State Technological University",
       "alpha_two_code": "BY",
@@ -20135,7 +20123,7 @@
   },
   {
       "web_pages": [
-          "http://www.bsu.by/"
+          "https://bsu.by/"
       ],
       "name": "Belarussian State University",
       "alpha_two_code": "BY",
@@ -20147,7 +20135,7 @@
   },
   {
       "web_pages": [
-          "http://www.bsuir.by/"
+          "https://www.bsuir.by/"
       ],
       "name": "Belarussian State University of Informatics and Radioelectronics",
       "alpha_two_code": "BY",
@@ -20159,25 +20147,13 @@
   },
   {
       "web_pages": [
-          "http://www.buk.by/"
+          "https://www.buk.by/"
       ],
       "name": "Belarussian State University of Culture and Arts",
       "alpha_two_code": "BY",
       "state-province": null,
       "domains": [
           "buk.by"
-      ],
-      "country": "Belarus"
-  },
-  {
-      "web_pages": [
-          "http://www.data.minsk.by/ehu/"
-      ],
-      "name": "European Humanities University",
-      "alpha_two_code": "BY",
-      "state-province": null,
-      "domains": [
-          "data.minsk.by"
       ],
       "country": "Belarus"
   },
@@ -20195,7 +20171,7 @@
   },
   {
       "web_pages": [
-          "http://www.grsu.by/"
+          "https://www.grsu.by/"
       ],
       "name": "Grodno State University Yanka Kupaly",
       "alpha_two_code": "BY",
@@ -20207,7 +20183,7 @@
   },
   {
       "web_pages": [
-          "http://www.gstu.gomel.by/"
+          "https://www.gstu.by/"
       ],
       "name": "Gomel State Technical University Pavel Sukhoi",
       "alpha_two_code": "BY",
@@ -20219,7 +20195,7 @@
   },
   {
       "web_pages": [
-          "http://www.gsu.unibel.by/"
+          "https://gsu.by/"
       ],
       "name": "Gomel State University Francisk Scarnia",
       "alpha_two_code": "BY",
@@ -20231,7 +20207,7 @@
   },
   {
       "web_pages": [
-          "http://www.iseu.by/"
+          "https://www.iseu.bsu.by/"
       ],
       "name": "International Sakharov Environmental University",
       "alpha_two_code": "BY",
@@ -20243,7 +20219,7 @@
   },
   {
       "web_pages": [
-          "http://www.kii.gov.by/"
+          "https://ucp.by/"
       ],
       "name": "Institute for Command Engineers of The Ministry for Emergency Situations",
       "alpha_two_code": "BY",
@@ -20255,7 +20231,7 @@
   },
   {
       "web_pages": [
-          "http://www.meduniver.gomel.by/"
+          "https://gsmu.by/"
       ],
       "name": "Gomel State Medical University",
       "alpha_two_code": "BY",
@@ -20267,7 +20243,7 @@
   },
   {
       "web_pages": [
-          "http://www.mgpu.gomel.by/"
+          "https://mspu.by/index.php/"
       ],
       "name": "Mozyr State Pedagogical Institute",
       "alpha_two_code": "BY",
@@ -20291,7 +20267,7 @@
   },
   {
       "web_pages": [
-          "http://www.mslu.by/"
+          "https://mslu.by/"
       ],
       "name": "Minsk State Linguistic University",
       "alpha_two_code": "BY",
@@ -20303,7 +20279,7 @@
   },
   {
       "web_pages": [
-          "http://msu.mogilev.by/"
+          "https://msu.by/"
       ],
       "name": "Mogilev State University A.A. Kuleshov",
       "alpha_two_code": "BY",
@@ -20315,7 +20291,7 @@
   },
   {
       "web_pages": [
-          "http://www.pac.by/"
+          "https://www.pac.by/"
       ],
       "name": "Academy of Public Administration of Belarus",
       "alpha_two_code": "BY",
@@ -20339,7 +20315,7 @@
   },
   {
       "web_pages": [
-          "http://www.uni-agro.grodno.by/"
+          "https://inter.ggau.by/"
       ],
       "name": "Grodno State Agrarian University",
       "alpha_two_code": "BY",
@@ -20351,7 +20327,7 @@
   },
   {
       "web_pages": [
-          "http://www.vgmu.vitebsk.by/"
+          "https://www.vsmu.by/"
       ],
       "name": "Vitebsk State Medical University",
       "alpha_two_code": "BY",
@@ -20363,7 +20339,7 @@
   },
   {
       "web_pages": [
-          "http://www.vsavm.com/"
+          "https://www.vsavm.by/"
       ],
       "name": "Vitebsk State Academy of Veterinary Medicine",
       "alpha_two_code": "BY",
@@ -20375,7 +20351,7 @@
   },
   {
       "web_pages": [
-          "http://www.vstu.vitebsk.by/"
+          "https://vstu.by/"
       ],
       "name": "Vitebsk State Technological University",
       "alpha_two_code": "BY",
@@ -20387,7 +20363,7 @@
   },
   {
       "web_pages": [
-          "http://www.vsu.by/"
+          "https://vsu.by/"
       ],
       "name": "Vitebsk State University",
       "alpha_two_code": "BY",
