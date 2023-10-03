@@ -119490,7 +119490,7 @@
     },
     {
         "web_pages": [
-        "https://lamar.mx/"
+            "https://lamar.mx/"
         ],
         "name": "Universidad Guadalajara Lamar",
         "alpha_two_code": "MX",
@@ -119499,5 +119499,29 @@
           "lamar.org.mx"
         ],
         "country": "Mexico"
+    },
+    {
+        "web_pages": [
+            "http://www.ehtp.ac.ma/"
+        ],
+        "name": "Ecole Hassania des Travaux Publics",
+        "alpha_two_code": "MA",
+        "state-province": null,
+        "domains": [
+            "ehtp.ac.ma"
+        ],
+        "country": "Morocco"
+    },
+    {
+        "web_pages": [
+            "https://www.idti.edu/"
+        ],
+        "name": "Island Drafting & Technical Institute",
+        "alpha_two_code": "US",
+        "state-province": "NY",
+        "domains": [
+            "idti.edu"
+        ],
+        "country": "United States"
     }
 ]
