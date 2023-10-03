@@ -119486,5 +119486,17 @@
           "if-pan.krakow.pl"
         ],
         "country": "Poland"
+    },
+    {
+        "web_pages": [
+            "http://www.ehtp.ac.ma/"
+        ],
+        "name": "Ecole Hassania des Travaux Publics",
+        "alpha_two_code": "MA",
+        "state-province": null,
+        "domains": [
+            "ehtp.ac.ma"
+        ],
+        "country": "Morocco"
     }
 ]
