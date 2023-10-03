@@ -119486,5 +119486,17 @@
           "if-pan.krakow.pl"
         ],
         "country": "Poland"
+    },
+    {
+        "web_pages": [
+            "https://www.idti.edu/"
+        ],
+        "name": "Island Drafting & Technical Institute",
+        "alpha_two_code": "US",
+        "state-province": "NY",
+        "domains": [
+            "idti.edu"
+        ],
+        "country": "United States"
     }
 ]
