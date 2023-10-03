@@ -104360,7 +104360,8 @@
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "istanbul.edu.tr"
+          "istanbul.edu.tr",
+          "ogr.iu.edu.tr"
       ],
       "country": "Turkey"
   },
@@ -119486,6 +119487,18 @@
           "if-pan.krakow.pl"
         ],
         "country": "Poland"
+    },
+    {
+        "web_pages": [
+            "https://lamar.mx/"
+        ],
+        "name": "Universidad Guadalajara Lamar",
+        "alpha_two_code": "MX",
+        "state-province": null,
+        "domains": [
+          "lamar.org.mx"
+        ],
+        "country": "Mexico"
     },
     {
         "web_pages": [
