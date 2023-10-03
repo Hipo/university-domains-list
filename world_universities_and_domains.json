@@ -104360,7 +104360,8 @@
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "istanbul.edu.tr"
+          "istanbul.edu.tr",
+          "ogr.iu.edu.tr"
       ],
       "country": "Turkey"
   },
