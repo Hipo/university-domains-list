@@ -64378,6 +64378,18 @@
   },
   {
       "web_pages": [
+          "https://www.pref.shiga.lg.jp/nougicenter/"
+      ],
+      "name": "Shiga Prefecture Agricultural Technology Promotion Center",
+      "alpha_two_code": "JP",
+      "state-province": "Shiga",
+      "domains": [
+          "pref.shiga.lg.jp"
+      ],
+      "country": "Japan"
+  },
+  {
+      "web_pages": [
           "http://www.u-tokai.ac.jp/"
       ],
       "name": "Hokkaido Tokai University",
