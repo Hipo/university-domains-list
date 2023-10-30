@@ -119535,5 +119535,17 @@
             "idti.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.universite-paris-saclay.fr"
+        ],
+        "name": "Université Paris-Saclay",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "universite-paris-saclay.fr"
+        ],
+        "country": "France"
     }
 ]
