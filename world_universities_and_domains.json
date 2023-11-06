@@ -20675,25 +20675,26 @@
   },
   {
       "web_pages": [
-          "http://www.kulak.ac.be/"
+          "https://kulak.kuleuven.be/"
       ],
       "name": "Katholieke Universiteit Leuven, Campus Kortrijk",
       "alpha_two_code": "BE",
       "state-province": null,
       "domains": [
-          "kulak.ac.be"
+          "kulak.kuleuven.be"
       ],
       "country": "Belgium"
   },
   {
       "web_pages": [
-          "http://www.kuleuven.ac.be/"
+          "https://www.kuleuven.be/kuleuven/",
+          "https://www.kuleuven.be/english/kuleuven/"
       ],
       "name": "Katholieke Universiteit Leuven",
       "alpha_two_code": "BE",
       "state-province": null,
       "domains": [
-          "kuleuven.ac.be"
+          "kuleuven.be"
       ],
       "country": "Belgium"
   },
