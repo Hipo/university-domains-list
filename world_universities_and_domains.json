@@ -75775,7 +75775,8 @@
       "alpha_two_code": "NZ",
       "state-province": "Canterbury",
       "domains": [
-          "canterbury.ac.nz"
+          "canterbury.ac.nz",
+          "uclive.ac.nz"
       ],
       "country": "New Zealand"
   },
