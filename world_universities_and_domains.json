@@ -40833,6 +40833,18 @@
   },
   {
       "web_pages": [
+          "http://www.bsaoe.de/"
+      ],
+      "name": "Berufliche Schulen Altötting",
+      "alpha_two_code": "DE",
+      "state-province": null,
+      "domains": [
+          "bsaoe.de"
+      ],
+      "country": "Germany"
+  },
+  {
+      "web_pages": [
           "http://www.asfh-berlin.de/"
       ],
       "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
