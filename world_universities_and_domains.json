@@ -3619,6 +3619,14 @@
       "country": "United States"
   },
   {
+    "web_pages": ["https://www.hallco.org/"],
+    "name": "Hall County Schools",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["hallco.org"],
+    "country": "United States"
+  },
+  {
       "web_pages": [
           "http://www.clayton.edu/"
       ],
