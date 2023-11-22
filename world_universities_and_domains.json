@@ -9586,7 +9586,8 @@
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "sacredheart.edu"
+          "sacredheart.edu",
+          "mail.sacredheart.edu"
       ],
       "country": "United States"
   },
