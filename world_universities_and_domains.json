@@ -119570,5 +119570,65 @@
             "universite-paris-saclay.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.mtu.ie/"
+        ],
+        "name": "Munster Technological University",
+        "alpha_two_code": "IE",
+        "state-province": null,
+        "domains": [
+            "mtu.ie"
+        ],
+        "country": "Ireland"
+    },
+    {
+        "web_pages": [
+            "https://www.uaysen.cl/"
+        ],
+        "name": "Universidad de Aysen",
+        "alpha_two_code": "CL",
+        "state-province": null,
+        "domains": [
+            "uaysen.cl"
+        ],
+        "country": "Chile"
+    },
+    {
+        "web_pages": [
+            "https://snuniv.ac.in/"
+        ],
+        "name": "Sister Nivedita University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "snuniv.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://asmildkloster.dk/"
+        ],
+        "name": "Asmildkloster Agricultural School",
+        "alpha_two_code": "DK",
+        "state-province": null,
+        "domains": [
+            "asmildkloster.dk"
+        ],
+        "country": "Denmark"
+    },
+    {
+        "web_pages": [
+            "https://www.dkit.ie/"
+        ],
+        "name": "Dundalk Institute of Technology",
+        "alpha_two_code": "IE",
+        "state-province": null,
+        "domains": [
+            "dkit.ie"
+        ],
+        "country": "Ireland"
     }
 ]
