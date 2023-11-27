@@ -119630,5 +119630,89 @@
             "dkit.ie"
         ],
         "country": "Ireland"
+    },
+    {
+        "web_pages": [
+            "https://videndjurs.dk/"
+        ],
+        "name": "Kalø Økologisk Agricultural College",
+        "alpha_two_code": "DK",
+        "state-province": null,
+        "domains": [
+            "videndjurs.dk"
+        ],
+        "country": "Denmark"
+    },
+    {
+        "web_pages": [
+            "https://www.snow.edu/"
+        ],
+        "name": "Snow College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "snow.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.scccd.edu/"
+        ],
+        "name": "State Center Community College District",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "scccd.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.davidsondavie.edu/"
+        ],
+        "name": "Davidson-Davie Community College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "davidsondavie.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://duytan.edu.vn/"
+        ],
+        "name": "Duy Tan University",
+        "alpha_two_code": "VN",
+        "state-province": null,
+        "domains": [
+            "duytan.edu.vn"
+        ],
+        "country": "Vietnam"
+    },
+    {
+        "web_pages": [
+            "https://berkeleycollege.edu/"
+        ],
+        "name": "Berkeley College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "berkeleycollege.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://aybu.edu.tr/"
+        ],
+        "name": "Ankara Yildirim Beyazit University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "aybu.edu.tr"
+        ],
+        "country": "Turkey"
     }
 ]
