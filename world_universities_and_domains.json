@@ -119810,5 +119810,137 @@
             "amsterdam.tech"
         ],
         "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://tecmilenio.mx/"
+        ],
+        "name": "Universidad Tecmilenio",
+        "alpha_two_code": "MX",
+        "state-province": null,
+        "domains": [
+            "tecmilenio.mx"
+        ],
+        "country": "Mexico"
+    },
+    {
+        "web_pages": [
+            "https://www.hanuniversity.com/"
+        ],
+        "name": "HAN University of Applied Sciences",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "hanuniversity.com"
+        ],
+        "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://gordon.ac.il/"
+        ],
+        "name": "Gordon Academic College",
+        "alpha_two_code": "IL",
+        "state-province": null,
+        "domains": [
+            "gordon.ac.il"
+        ],
+        "country": "Israel"
+    },
+    {
+        "web_pages": [
+            "https://www.eigsi.fr/"
+        ],
+        "name": "EIGSI La Rochelle",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "eigsi.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ist-hochschule.de/"
+        ],
+        "name": "IST-Hochschule fur Management",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "ist-hochschule.de"
+        ],
+        "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://www.greensboro.edu/"
+        ],
+        "name": "Greensboro College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "greensboro.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.vvsaz.org/"
+        ],
+        "name": "Verde Valley School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "vvsaz.org"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://uplearnbusinessschool.com/"
+        ],
+        "name": "Up Learn Business School",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "uplearnbusinessschool.com"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://oglethorpe.edu/"
+        ],
+        "name": "Oglethorpe University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "oglethorpe.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://cambriancollege.ca/"
+        ],
+        "name": "Cambrian College",
+        "alpha_two_code": "CA",
+        "state-province": null,
+        "domains": [
+            "cambriancollege.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://dsdt.edu/"
+        ],
+        "name": "Detroit School of Technology",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "dsdt.edu"
+        ],
+        "country": "United States"
     }
 ]
