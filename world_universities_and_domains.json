@@ -119942,5 +119942,101 @@
             "dsdt.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.northcentralcollege.edu/"
+        ],
+        "name": "North Central College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "northcentralcollege.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.ncl-coll.ac.uk/"
+        ],
+        "name": "Newcastle College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "ncl-coll.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.btc.ac.uk/"
+        ],
+        "name": "Bridgwater & Taunton College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "btc.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.runshaw.ac.uk/"
+        ],
+        "name": "Runshaw College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "runshaw.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.wsc.ac.uk/"
+        ],
+        "name": "West Suffolk College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "wsc.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.umwestern.edu/"
+        ],
+        "name": "The University of Montana Western",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "umwestern.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.queens.edu/"
+        ],
+        "name": "Queens University of Charlotte",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "queens.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.lmunet.edu/"
+        ],
+        "name": "Lincoln Memorial University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "lmunet.edu"
+        ],
+        "country": "United States"
     }
 ]
