@@ -119714,5 +119714,101 @@
             "aybu.edu.tr"
         ],
         "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.floridauniversitaria.es/"
+        ],
+        "name": "Florida Universitaria",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "floridauniversitaria.es"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://schiller.edu/"
+        ],
+        "name": "Schiller International University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "schiller.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://uenp.edu.br/"
+        ],
+        "name": "Universidade Estadual do Norte do Parana",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "uenp.edu.br"
+        ],
+        "country": "Brazil"
+    },
+    {
+        "web_pages": [
+            "https://en.syau.edu.cn/"
+        ],
+        "name": "Shenyang Agricultural University",
+        "alpha_two_code": "CN",
+        "state-province": null,
+        "domains": [
+            "en.syau.edu.cn"
+        ],
+        "country": "China"
+    },
+    {
+        "web_pages": [
+            "https://universidadean.edu.co/"
+        ],
+        "name": "Universidad EAN",
+        "alpha_two_code": "CO",
+        "state-province": null,
+        "domains": [
+            "universidadean.edu.co"
+        ],
+        "country": "Colombia"
+    },
+    {
+        "web_pages": [
+            "https://www.univ-jfc.fr/"
+        ],
+        "name": "INU Champollion",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "univ-jfc.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ifmparis.fr/"
+        ],
+        "name": "Institute Français de la Mode",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "ifmparis.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://amsterdam.tech/"
+        ],
+        "name": "European Leadership University",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "amsterdam.tech"
+        ],
+        "country": "Netherlands"
     }
 ]
