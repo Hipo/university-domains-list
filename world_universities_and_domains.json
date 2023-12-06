@@ -119561,6 +119561,18 @@
     },
     {
         "web_pages": [
+            "https://www.baypath.edu/"
+        ],
+        "name": "Bay Path University",
+        "alpha_two_code": "US",
+        "state-province": "MA",
+        "domains": [
+            "baypath.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
             "https://www.universite-paris-saclay.fr"
         ],
         "name": "Université Paris-Saclay",
