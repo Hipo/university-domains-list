@@ -119570,5 +119570,41 @@
             "universite-paris-saclay.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ostimteknik.edu.tr"
+        ],
+        "name": "OSTIM Technical University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ostimteknik.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://ankaramedipol.edu.tr"
+        ],
+        "name": "Ankara Medipol University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ankaramedipol.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://ankarabilim.edu.tr"
+        ],
+        "name": "Ankara Science University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ankarabilim.edu.tr"
+        ],
+        "country": "Turkey"
     }
 ]
