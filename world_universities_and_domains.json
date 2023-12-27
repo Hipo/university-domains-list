@@ -119606,5 +119606,41 @@
             "ankarabilim.edu.tr"
         ],
         "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.thk.edu.tr"
+        ],
+        "name": "University of Turkish Aeronautical Association",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "thk.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.omu.edu.tr"
+        ],
+        "name": "Ondokuz Mayıs University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "omu.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.ieu.edu.tr"
+        ],
+        "name": "İzmir University of Economics",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ieu.edu.tr"
+        ],
+        "country": "Turkey"
     }
 ]
