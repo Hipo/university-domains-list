@@ -44583,592 +44583,260 @@
       "country": "Ghana"
   },
   {
-      "web_pages": [
-          "http://www.acg.gr/"
-      ],
-      "name": "American College of Greece",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "acg.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.acg.edu/"],
+    "name": "American College of Greece",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["acg.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.act.edu/"
-      ],
-      "name": "American College of Thessaloniki",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "act.edu"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.act.edu/"],
+    "name": "American College of Thessaloniki",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia",
+    "domains": ["act.edu"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.aegean.gr/"
-      ],
-      "name": "Aegean University",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "aegean.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.aegean.gr/"],
+    "name": "Aegean University",
+    "alpha_two_code": "GR",
+    "state-province": "Aegean Sea",
+    "domains": ["aegean.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.agsm.gr/"
-      ],
-      "name": "Athens Graduate School of Management (AGSM)",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "agsm.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.aspete.gr/"],
+    "name": "School of Pedagogical and Technological Education - A.S.PAI.T.E.",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["aspete.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.alba.edu.gr/"
-      ],
-      "name": "Athens Laboratory of Business Administration (ALBA)",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "alba.edu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.agsm.gr/"],
+    "name": "Athens Graduate School of Management (AGSM)",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["agsm.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.asfa.gr/"
-      ],
-      "name": "Athens School of Fine Arts",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "asfa.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://alba.acg.edu/"],
+    "name": "Athens Laboratory of Business Administration (ALBA)",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["alba.edu.gr", "alba.acg.edu"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.aua.gr/"
-      ],
-      "name": "Agricultural University of Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "aua.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.asfa.gr/"],
+    "name": "Athens School of Fine Arts",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["asfa.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.aueb.gr/"
-      ],
-      "name": "Athens University of Economics and Business",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "aueb.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.aua.gr/"],
+    "name": "Agricultural University of Athens",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["aua.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.auth.gr/"
-      ],
-      "name": "Aristotle University of Thessaloniki",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "auth.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.aueb.gr/"],
+    "name": "Athens University of Economics and Business",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["aueb.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.cityu.gr/"
-      ],
-      "name": "City University Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "cityu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.auth.gr/"],
+    "name": "Aristotle University of Thessaloniki",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia",
+    "domains": ["auth.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.dei.edu.gr/"
-      ],
-      "name": "DEI Bachelor & Master Degrees",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "dei.edu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.cityu.gr/"],
+    "name": "City University Athens",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["cityu.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.duth.gr/"
-      ],
-      "name": "Dimocritus University of Thrace",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "duth.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.dei.edu.gr/"],
+    "name": "DEI Bachelor & Master Degrees",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia",
+    "domains": ["dei.edu.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.eap.gr/"
-      ],
-      "name": "Hellenic Open University",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "eap.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.duth.gr/"],
+    "name": "Dimocritus University of Thrace",
+    "alpha_two_code": "GR",
+    "state-province": "Thrace",
+    "domains": ["duth.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "https://www.hua.gr"
-      ],
-      "name": "Harokopio University",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "hua.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.eap.gr/"],
+    "name": "Hellenic Open University",
+    "alpha_two_code": "GR",
+    "state-province": null,
+    "domains": ["eap.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.ihu.edu.gr/"
-      ],
-      "name": "International Hellenic University",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "ihu.edu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.hua.gr"],
+    "name": "Harokopio University",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["hua.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.imd.edu.gr/"
-      ],
-      "name": "Institute of Management Development - Ohrid",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "imd.edu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.ihu.gr/"],
+    "name": "International Hellenic University",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia",
+    "domains": ["ihu.gr", "ihu.edu.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.imese.gr/"
-      ],
-      "name": "Institute of Management & Enteurpreneurship of South East Europe",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "imese.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.ntua.gr/"],
+    "name": "National Technical University of Athens",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["ntua.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.laverne.edu.gr/"
-      ],
-      "name": "University of LaVerne in Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "laverne.edu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.panteion.gr/"],
+    "name": "Panteios University of Economics and Political Sciences Athens",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["panteion.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.ntua.gr/"
-      ],
-      "name": "National Technical University of Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "ntua.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://sse.army.gr/"],
+    "name": "Hellenic Army Academy",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["sse.army.gr", "sse.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.panteion.gr/"
-      ],
-      "name": "Panteios University of Economics and Political Sciences Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "panteion.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uniwa.gr/"],
+    "name": "University of West Attica",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["uniwa.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.sse.gr/"
-      ],
-      "name": "Hellenic Army Academy",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "sse.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://hmu.gr/"],
+    "name": "Hellenic Mediterranean University",
+    "alpha_two_code": "GR",
+    "state-province": "Crete",
+    "domains": ["hmu.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teiath.gr/"
-      ],
-      "name": "Technological Education Institute of Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teiath.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.tuc.gr/"],
+    "name": "Technical University of Crete",
+    "alpha_two_code": "GR",
+    "state-province": "Crete",
+    "domains": ["tuc.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teiep.gr/"
-      ],
-      "name": "Technological Education Institute of Epiros",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teiep.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://ionio.gr/"],
+    "name": "Ionian University",
+    "alpha_two_code": "GR",
+    "state-province": "Ionian Sea",
+    "domains": ["ionio.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teihal.gr/"
-      ],
-      "name": "Technological Education Institute of Halkida, Euboea",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teihal.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.unipi.gr/"],
+    "name": "University of Piraeus",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["unipi.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teiher.gr/"
-      ],
-      "name": "Technological Education Institute of Heraklion",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teiher.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uoa.gr/"],
+    "name": "University of Athens",
+    "alpha_two_code": "GR",
+    "state-province": "Attica",
+    "domains": ["uoa.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teikal.gr/"
-      ],
-      "name": "Technological Education Institute of Kalamata",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teikal.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uoc.gr/"],
+    "name": "University of Crete",
+    "alpha_two_code": "GR",
+    "state-province": "Crete",
+    "domains": ["uoc.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teikav.edu.gr/"
-      ],
-      "name": "Technological Education Institute of Kavala",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teikav.edu.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uoi.gr/"],
+    "name": "University of Ioannina",
+    "alpha_two_code": "GR",
+    "state-province": "Epirus",
+    "domains": ["uoi.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teikoz.gr/"
-      ],
-      "name": "Technological Education Institute of Kozani",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teikoz.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uom.gr/"],
+    "name": "University of Macedonia",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia",
+    "domains": ["uom.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teilam.gr/"
-      ],
-      "name": "Technological Education Institute of Lamia",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teilam.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uop.gr/"],
+    "name": "University of Peloponnese",
+    "alpha_two_code": "GR",
+    "state-province": "Peloponnesus",
+    "domains": ["uop.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teilar.gr/"
-      ],
-      "name": "Technological Education Institute of Larissa",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teilar.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uowm.gr/"],
+    "name": "University of Western Macedonia",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia",
+    "domains": ["uowm.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teimes.gr/"
-      ],
-      "name": "Technological Education Institute of Mesologgi",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teimes.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.upatras.gr/"],
+    "name": "University of Patras",
+    "alpha_two_code": "GR",
+    "state-province": "Peloponnesus",
+    "domains": ["upatras.gr"],
+    "country": "Greece"
   },
   {
-      "web_pages": [
-          "http://www.teipat.gr/"
-      ],
-      "name": "Technological Education Institute of Patras",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teipat.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.teipir.gr/"
-      ],
-      "name": "Technological Education Institute of Piraeus",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teipir.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.teiser.gr/"
-      ],
-      "name": "Technological Education Institute of Serres",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teiser.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.teithe.gr/"
-      ],
-      "name": "Technological Education Institute of Thessaloniki",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teithe.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.teiwest.gr/"
-      ],
-      "name": "Technological Education Institute of Western Greece",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "teiwest.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.tuc.gr/"
-      ],
-      "name": "Technical University of Crete",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "tuc.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.ucg.gr/"
-      ],
-      "name": "University of Central Greece",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "ucg.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uindy.edu.gr/"
-      ],
-      "name": "University of Indianapolis in Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uindy.edu.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uion.edu.gr/"
-      ],
-      "name": "Ionian University Corfu",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uion.edu.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.unipi.gr/"
-      ],
-      "name": "University of Piraeus",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "unipi.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uoa.gr/"
-      ],
-      "name": "University of Athens",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uoa.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uoc.gr/"
-      ],
-      "name": "University of Crete",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uoc.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uoi.gr/"
-      ],
-      "name": "University of Ioannina",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uoi.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uom.gr/"
-      ],
-      "name": "University of Macedonia",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uom.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uop.gr/"
-      ],
-      "name": "University of Peloponnese",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uop.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uowm.gr/"
-      ],
-      "name": "University of Western Macedonia",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uowm.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.upatras.gr/"
-      ],
-      "name": "University of Patras",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "upatras.gr"
-      ],
-      "country": "Greece"
-  },
-  {
-      "web_pages": [
-          "http://www.uth.gr/"
-      ],
-      "name": "University of Thessaly",
-      "alpha_two_code": "GR",
-      "state-province": null,
-      "domains": [
-          "uth.gr"
-      ],
-      "country": "Greece"
+    "web_pages": ["https://www.uth.gr/"],
+    "name": "University of Thessaly",
+    "alpha_two_code": "GR",
+    "state-province": "Thessaly",
+    "domains": ["uth.gr"],
+    "country": "Greece"
   },
   {
       "web_pages": [
