@@ -61856,9 +61856,9 @@
   },
   {
       "web_pages": [
-          "http://www.notredame.ac.jp/"
+          "https://www.notredame.ac.jp/"
       ],
-      "name": "Notre Dame Women's College",
+      "name": "Kyoto Notre Dame University",
       "alpha_two_code": "JP",
       "state-province": null,
       "domains": [
@@ -101284,9 +101284,9 @@
   },
   {
       "web_pages": [
-          "http://www.napier.ac.uk/"
+          "https://www.napier.ac.uk/"
       ],
-      "name": "Napier University",
+      "name": "Edinburgh Napier University",
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
@@ -119570,5 +119570,473 @@
             "universite-paris-saclay.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.mtu.ie/"
+        ],
+        "name": "Munster Technological University",
+        "alpha_two_code": "IE",
+        "state-province": null,
+        "domains": [
+            "mtu.ie"
+        ],
+        "country": "Ireland"
+    },
+    {
+        "web_pages": [
+            "https://www.uaysen.cl/"
+        ],
+        "name": "Universidad de Aysen",
+        "alpha_two_code": "CL",
+        "state-province": null,
+        "domains": [
+            "uaysen.cl"
+        ],
+        "country": "Chile"
+    },
+    {
+        "web_pages": [
+            "https://snuniv.ac.in/"
+        ],
+        "name": "Sister Nivedita University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "snuniv.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://asmildkloster.dk/"
+        ],
+        "name": "Asmildkloster Agricultural School",
+        "alpha_two_code": "DK",
+        "state-province": null,
+        "domains": [
+            "asmildkloster.dk"
+        ],
+        "country": "Denmark"
+    },
+    {
+        "web_pages": [
+            "https://www.dkit.ie/"
+        ],
+        "name": "Dundalk Institute of Technology",
+        "alpha_two_code": "IE",
+        "state-province": null,
+        "domains": [
+            "dkit.ie"
+        ],
+        "country": "Ireland"
+    },
+    {
+        "web_pages": [
+            "https://videndjurs.dk/"
+        ],
+        "name": "Kalø Økologisk Agricultural College",
+        "alpha_two_code": "DK",
+        "state-province": null,
+        "domains": [
+            "videndjurs.dk"
+        ],
+        "country": "Denmark"
+    },
+    {
+        "web_pages": [
+            "https://www.snow.edu/"
+        ],
+        "name": "Snow College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "snow.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.scccd.edu/"
+        ],
+        "name": "State Center Community College District",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "scccd.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.davidsondavie.edu/"
+        ],
+        "name": "Davidson-Davie Community College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "davidsondavie.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://duytan.edu.vn/"
+        ],
+        "name": "Duy Tan University",
+        "alpha_two_code": "VN",
+        "state-province": null,
+        "domains": [
+            "duytan.edu.vn"
+        ],
+        "country": "Vietnam"
+    },
+    {
+        "web_pages": [
+            "https://berkeleycollege.edu/"
+        ],
+        "name": "Berkeley College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "berkeleycollege.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://aybu.edu.tr/"
+        ],
+        "name": "Ankara Yildirim Beyazit University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "aybu.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.floridauniversitaria.es/"
+        ],
+        "name": "Florida Universitaria",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "floridauniversitaria.es"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://schiller.edu/"
+        ],
+        "name": "Schiller International University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "schiller.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://uenp.edu.br/"
+        ],
+        "name": "Universidade Estadual do Norte do Parana",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "uenp.edu.br"
+        ],
+        "country": "Brazil"
+    },
+    {
+        "web_pages": [
+            "https://en.syau.edu.cn/"
+        ],
+        "name": "Shenyang Agricultural University",
+        "alpha_two_code": "CN",
+        "state-province": null,
+        "domains": [
+            "en.syau.edu.cn"
+        ],
+        "country": "China"
+    },
+    {
+        "web_pages": [
+            "https://universidadean.edu.co/"
+        ],
+        "name": "Universidad EAN",
+        "alpha_two_code": "CO",
+        "state-province": null,
+        "domains": [
+            "universidadean.edu.co"
+        ],
+        "country": "Colombia"
+    },
+    {
+        "web_pages": [
+            "https://www.univ-jfc.fr/"
+        ],
+        "name": "INU Champollion",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "univ-jfc.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ifmparis.fr/"
+        ],
+        "name": "Institute Français de la Mode",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "ifmparis.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://amsterdam.tech/"
+        ],
+        "name": "European Leadership University",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "amsterdam.tech"
+        ],
+        "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://tecmilenio.mx/"
+        ],
+        "name": "Universidad Tecmilenio",
+        "alpha_two_code": "MX",
+        "state-province": null,
+        "domains": [
+            "tecmilenio.mx"
+        ],
+        "country": "Mexico"
+    },
+    {
+        "web_pages": [
+            "https://www.hanuniversity.com/"
+        ],
+        "name": "HAN University of Applied Sciences",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "hanuniversity.com"
+        ],
+        "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://gordon.ac.il/"
+        ],
+        "name": "Gordon Academic College",
+        "alpha_two_code": "IL",
+        "state-province": null,
+        "domains": [
+            "gordon.ac.il"
+        ],
+        "country": "Israel"
+    },
+    {
+        "web_pages": [
+            "https://www.eigsi.fr/"
+        ],
+        "name": "EIGSI La Rochelle",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "eigsi.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ist-hochschule.de/"
+        ],
+        "name": "IST-Hochschule fur Management",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "ist-hochschule.de"
+        ],
+        "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://www.greensboro.edu/"
+        ],
+        "name": "Greensboro College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "greensboro.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.vvsaz.org/"
+        ],
+        "name": "Verde Valley School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "vvsaz.org"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://uplearnbusinessschool.com/"
+        ],
+        "name": "Up Learn Business School",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "uplearnbusinessschool.com"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://oglethorpe.edu/"
+        ],
+        "name": "Oglethorpe University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "oglethorpe.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://cambriancollege.ca/"
+        ],
+        "name": "Cambrian College",
+        "alpha_two_code": "CA",
+        "state-province": null,
+        "domains": [
+            "cambriancollege.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://dsdt.edu/"
+        ],
+        "name": "Detroit School of Technology",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "dsdt.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.northcentralcollege.edu/"
+        ],
+        "name": "North Central College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "northcentralcollege.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.ncl-coll.ac.uk/"
+        ],
+        "name": "Newcastle College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "ncl-coll.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.btc.ac.uk/"
+        ],
+        "name": "Bridgwater & Taunton College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "btc.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.runshaw.ac.uk/"
+        ],
+        "name": "Runshaw College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "runshaw.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.wsc.ac.uk/"
+        ],
+        "name": "West Suffolk College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "wsc.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.umwestern.edu/"
+        ],
+        "name": "The University of Montana Western",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "umwestern.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.queens.edu/"
+        ],
+        "name": "Queens University of Charlotte",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "queens.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.lmunet.edu/"
+        ],
+        "name": "Lincoln Memorial University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "lmunet.edu"
+        ],
+        "country": "United States"
     }
 ]
