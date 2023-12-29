@@ -97752,7 +97752,8 @@
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "ticaret.edu.tr"
+          "ticaret.edu.tr",
+          "istanbulticaret.edu.tr"
       ],
       "country": "Turkey"
   },
