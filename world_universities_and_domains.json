@@ -119720,5 +119720,77 @@
             "lmunet.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.ostimteknik.edu.tr"
+        ],
+        "name": "OSTIM Technical University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ostimteknik.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://ankaramedipol.edu.tr"
+        ],
+        "name": "Ankara Medipol University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ankaramedipol.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://ankarabilim.edu.tr"
+        ],
+        "name": "Ankara Science University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ankarabilim.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.thk.edu.tr"
+        ],
+        "name": "University of Turkish Aeronautical Association",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "thk.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.omu.edu.tr"
+        ],
+        "name": "Ondokuz Mayıs University",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "omu.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.ieu.edu.tr"
+        ],
+        "name": "İzmir University of Economics",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "ieu.edu.tr"
+        ],
+        "country": "Turkey"
     }
 ]
