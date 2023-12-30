@@ -97746,13 +97746,14 @@
   },
   {
       "web_pages": [
-          "http://www.iticu.edu.tr/"
+          "https://ticaret.edu.tr/"
       ],
       "name": "Istanbul Ticaret University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "iticu.edu.tr"
+          "ticaret.edu.tr",
+          "istanbulticaret.edu.tr"
       ],
       "country": "Turkey"
   },
