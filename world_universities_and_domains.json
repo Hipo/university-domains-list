@@ -101044,7 +101044,8 @@
       "alpha_two_code": "GB",
       "state-province": null,
       "domains": [
-          "open.ac.uk"
+          "open.ac.uk",
+          "ou.ac.uk"
       ],
       "country": "United Kingdom"
   },
