@@ -46994,6 +46994,18 @@
   },
   {
       "web_pages": [
+          "https://www.coep.org.in/"
+      ],
+      "name": "COEP Technological University",
+      "alpha_two_code": "IN",
+      "state-province": null,
+      "domains": [
+          "coeptech.ac.in"
+      ],
+      "country": "India"
+  },
+  {
+      "web_pages": [
           "http://www.dei.ac.in/"
       ],
       "name": "Dayalbagh Educational Institute",
