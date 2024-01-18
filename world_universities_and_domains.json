@@ -1,5 +1,13 @@
 [
   {
+    "name": "Centro Universitário de Brasília, UNICEUB",
+    "domains": ["sempreceub.com", "uniceub.br"],
+    "web_pages": ["https://www.uniceub.br"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": null
+  },
+  {
     "name": "Kharkiv National University",
     "domains": ["student.karazin.ua", "karazin.ua"],
     "web_pages": ["https://karazin.ua"],
