@@ -36093,13 +36093,15 @@
   },
   {
       "web_pages": [
-          "http://www.shams.edu.eg/"
+          "https://www.asu.edu.eg/"
       ],
       "name": "Ain Shams University",
       "alpha_two_code": "EG",
       "state-province": null,
       "domains": [
-          "shams.edu.eg"
+          "shams.edu.eg",
+          "asu.edu.eg",
+          "eng.asu.edu.eg"
       ],
       "country": "Egypt"
   },
