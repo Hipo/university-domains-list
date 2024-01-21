@@ -119815,5 +119815,17 @@
             "ieu.edu.tr"
         ],
         "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://www.greenville.edu/"
+        ],
+        "name": "Greenville University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "greenville.edu"
+        ],
+        "country": "United States"
     }
 ]
