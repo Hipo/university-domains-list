@@ -119827,5 +119827,29 @@
             "greenville.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://suny.oneonta.edu"
+        ],
+        "name": "State University of New York at Oneonta",
+        "alpha_two_code": "US",
+        "state-province": "New York",
+        "domains": [
+            "suny.oneonta.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.nmc.edu"
+        ],
+        "name": "Northwestern Michigan College",
+        "alpha_two_code": "US",
+        "state-province": "Michigan",
+        "domains": [
+            "nmc.edu"
+        ],
+        "country": "United States"
     }
 ]
