@@ -1,5 +1,13 @@
 [
   {
+    "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "domains": ["mbzuai.ac.ae"],
+    "web_pages": ["https://mbzuai.ac.ae/"],
+    "country": "United Arab Emirates",
+    "alpha_two_code": "AE",
+    "state-province": "Abu Dhabi"
+  },
+  {
     "name": "Centro Universitário de Brasília, UNICEUB",
     "domains": ["sempreceub.com", "uniceub.br"],
     "web_pages": ["https://www.uniceub.br"],
