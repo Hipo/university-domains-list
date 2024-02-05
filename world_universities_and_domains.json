@@ -5590,13 +5590,15 @@
   },
   {
       "web_pages": [
-          "http://www.gac.edu/"
+          "https://www.gac.edu/",
+          "https://gustavus.edu/"
       ],
       "name": "Gustavus Adolphus College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "gac.edu"
+          "gac.edu",
+          "gustavus.edu"
       ],
       "country": "United States"
   },
