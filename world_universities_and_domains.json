@@ -5590,13 +5590,15 @@
   },
   {
       "web_pages": [
-          "http://www.gac.edu/"
+          "https://www.gac.edu/",
+          "https://gustavus.edu/"
       ],
       "name": "Gustavus Adolphus College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "gac.edu"
+          "gac.edu",
+          "gustavus.edu"
       ],
       "country": "United States"
   },
@@ -119859,5 +119861,150 @@
             "nmc.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://adrian.edu"
+        ],
+        "name": "Adiran Collge",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "adrian.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://cuw.edu"
+        ],
+        "name": "Concordia University Wisconsin",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "cuw.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://delval.edu"
+        ],
+        "name": "Delaware Valley University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "delval.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://dewv.edu"
+        ],
+        "name": "Davis & Elkins College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "dewv.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://eckerd.edu"
+        ],
+        "name": "Eckerd College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "eckerd.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://uagm.edu"
+        ],
+        "name": "Universidad Ana G. M\u00e9ndez",
+        "alpha_two_code": "PR",
+        "state-province": null,
+        "domains": [
+            "email.uagm.edu"
+        ],
+        "country": "Puerto Rico"
+    },
+    {
+        "web_pages": [
+            "https://uscupstate.edu"
+        ],
+        "name": "University of South Carolina Upstate",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "email.uscupstate.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://fairfield.edu"
+        ],
+        "name": "Fairfield University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "fairfield.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://fhda.edu"
+        ],
+        "name": "Foothill-De Anza Community College District",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "fhda.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://fmarion.edu"
+        ],
+        "name": "Francis Marion University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "g.fmarion.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://georgefox.edu"
+        ],
+        "name": "George Fox University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "georgefox.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://grandview.edu"
+        ],
+        "name": "Grand View University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "grandview.edu"
+        ],
+        "country": "United States"
     }
+
 ]
