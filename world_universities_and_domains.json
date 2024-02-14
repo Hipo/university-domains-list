@@ -120005,6 +120005,54 @@
             "grandview.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://uf3ceu.es/"
+        ],
+        "name": "Universidad CEU Fernando III",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "uf3ceu.es"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://www.usj.es/"
+        ],
+        "name": "Universidad San Jorge",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "usj.es"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://hesperides.edu.es/"
+        ],
+        "name": "Universidad de las Hespérides",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "hesperides.edu.es"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://www.uneatlantico.es/"
+        ],
+        "name": "Universidad Europea del Atlántico",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "uneatlantico.es"
+        ],
+        "country": "Spain"
     }
 
 ]
