@@ -120053,6 +120053,18 @@
             "uneatlantico.es"
         ],
         "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://www.shanghaitech.edu.cn/"
+        ],
+        "name": "ShanghaiTech University",
+        "alpha_two_code": "CN",
+        "state-province": null,
+        "domains": [
+            "shanghaitech.edu.cn"
+        ],
+        "country": "China"
     }
 
 ]
