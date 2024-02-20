@@ -98102,6 +98102,18 @@
       "country": "Turkey"
   },
   {
+    "web_pages": [
+        "http://www.ozu.edu.tr/"
+    ],
+    "name": "Ozyegin University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": [
+        "ozu.edu.tr"
+    ],
+    "country": "Turkey"
+  },
+  {
       "web_pages": [
           "http://www.sabanciuniv.edu.tr/",
           "http://www.sabanciuniv.edu/"
