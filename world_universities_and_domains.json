@@ -98079,7 +98079,8 @@
   },
   {
       "web_pages": [
-          "http://www.ozyegin.edu.tr/"
+          "http://www.ozyegin.edu.tr/",
+          "http://www.ozu.edu.tr"
       ],
       "name": "Ozyegin University",
       "alpha_two_code": "TR",
@@ -98100,18 +98101,6 @@
           "pamukkale.edu.tr"
       ],
       "country": "Turkey"
-  },
-  {
-    "web_pages": [
-        "http://www.ozu.edu.tr/"
-    ],
-    "name": "Ozyegin University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": [
-        "ozu.edu.tr"
-    ],
-    "country": "Turkey"
   },
   {
       "web_pages": [
