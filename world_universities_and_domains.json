@@ -98079,13 +98079,15 @@
   },
   {
       "web_pages": [
-          "http://www.ozyegin.edu.tr/"
+          "http://www.ozyegin.edu.tr/",
+          "http://www.ozu.edu.tr/"
       ],
       "name": "Ozyegin University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "ozyegin.edu.tr"
+          "ozyegin.edu.tr",
+          "ozu.edu.tr"
       ],
       "country": "Turkey"
   },
