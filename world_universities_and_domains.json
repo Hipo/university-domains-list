@@ -132,6 +132,18 @@
       "country": "India"
   },
   {
+    "web_pages": [
+        "https://www.ashoka.edu.in"
+    ],
+    "name": "Ashoka University",
+    "alpha_two_code": "IN",
+    "state-province": "Haryana",
+    "domains": [
+        "ashoka.edu.in"
+    ],
+    "country": "India"
+  },
+  {
       "web_pages": [
           "https://www.cstj.qc.ca",
           "https://ccmt.cstj.qc.ca",
