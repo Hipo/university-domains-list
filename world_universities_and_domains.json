@@ -10609,7 +10609,8 @@
       "web_pages": [
           "http://www.stonybrook.edu/",
           "http://www.fsl.cs.sunysb.edu/",
-          "http://www.cs.sunysb.edu/"
+          "http://www.cs.sunysb.edu/",
+          "http://www.lmc.cs.sunysb.edu/"
       ],
       "name": "State University of New York at Stony Brook",
       "alpha_two_code": "US",
@@ -10617,7 +10618,8 @@
       "domains": [
           "stonybrook.edu",
           "fsl.cs.sunysb.edu",
-          "cs.sunysb.edu"
+          "cs.sunysb.edu",
+          "lmc.cs.sunysb.edu"
       ],
       "country": "United States"
   },
@@ -13057,13 +13059,15 @@
   },
   {
       "web_pages": [
-          "http://www.phoenix.edu/"
+          "http://www.phoenix.edu/",
+          "http://www.email.uophx.edu/"
       ],
       "name": "University of Phoenix",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "phoenix.edu"
+          "phoenix.edu",
+          "email.uophx.edu"
       ],
       "country": "United States"
   },
@@ -13333,13 +13337,15 @@
   },
   {
       "web_pages": [
-          "http://www.usc.edu/"
+          "http://www.usc.edu/",
+          "http://www.isi.edu/"
       ],
       "name": "University of Southern California",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "usc.edu"
+          "usc.edu",
+          "isi.edu"
       ],
       "country": "United States"
   },
@@ -110270,6 +110276,18 @@
       "country": "United States"
   },
   {
+    "web_pages": [
+        "http://www.students.olin.edu"
+    ],
+    "name": "Olin College of Engineering",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+        "students.olin.edu"
+    ],
+    "country": "United States"
+  },
+  {
       "web_pages": [
           "http://www.eccc.edu"
       ],
@@ -118827,6 +118845,18 @@
       "country": "India"
     },
     {
+        "web_pages": [
+            "https://www.rajagiritech.edu.in/"
+        ],
+        "name": "Rajagiri School of Engineering and Technology",
+        "alpha_two_code": "IN",
+        "state-province": "Kerala",
+        "domains": [
+            "rajagiritech.edu.in"
+        ],
+        "country": "India"
+    },
+    {
       "web_pages": [
           "https://stjosephs.ac.in/"
       ],
@@ -119271,6 +119301,18 @@
         "state-province": null,
         "domains": [
           "if-pan.krakow.pl"
+        ],
+        "country": "Poland"
+    },
+    {
+        "web_pages": [
+        "https://camk.edu.pl/"
+        ],
+        "name": "Nicolaus Copernicus Astronomical Center of Pharmacology Polish Academy of Sciences",
+        "alpha_two_code": "PL",
+        "state-province": null,
+        "domains": [
+          "camk.edu.pl"
         ],
         "country": "Poland"
     },
