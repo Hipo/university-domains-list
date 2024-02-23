@@ -120053,6 +120053,18 @@
             "uneatlantico.es"
         ],
         "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://usms.edu.pk/"
+        ],
+        "name": "University of Sufism and Modern Sciences",
+        "alpha_two_code": "PK",
+        "state-province": "Sindh",
+        "domains": [
+            "usms.edu.pk"
+        ],
+        "country": "Pakistan"
     }
 
 ]
