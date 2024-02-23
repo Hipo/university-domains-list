@@ -98039,13 +98039,15 @@
   },
   {
       "web_pages": [
-          "http://www.mu.edu.tr/"
+          "http://www.mu.edu.tr/",
+          "http://www.marun.edu.tr/"
       ],
       "name": "Mugla Sitki Kocman University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "mu.edu.tr"
+          "mu.edu.tr",
+          "marun.edu.tr"
       ],
       "country": "Turkey"
   },
