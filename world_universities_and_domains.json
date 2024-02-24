@@ -120053,6 +120053,20 @@
             "uneatlantico.es"
         ],
         "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://cusit.edu.pk/"
+        ],
+        "name": "City University of Science and Information Technology",
+        "alpha_two_code": "PK",
+        "state-province": "KP",
+        "domains": [
+            "cusit.edu.pk",
+            "cityuniversity.edu.pk",
+            "cup.edu.pk"
+        ],
+        "country": "Pakistan"
     }
 
 ]
