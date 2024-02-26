@@ -132,6 +132,18 @@
       "country": "India"
   },
   {
+    "web_pages": [
+        "https://www.ashoka.edu.in"
+    ],
+    "name": "Ashoka University",
+    "alpha_two_code": "IN",
+    "state-province": "Haryana",
+    "domains": [
+        "ashoka.edu.in"
+    ],
+    "country": "India"
+  },
+  {
       "web_pages": [
           "https://www.cstj.qc.ca",
           "https://ccmt.cstj.qc.ca",
@@ -10595,13 +10607,19 @@
   },
   {
       "web_pages": [
-          "http://www.stonybrook.edu/"
+          "http://www.stonybrook.edu/",
+          "http://www.fsl.cs.sunysb.edu/",
+          "http://www.cs.sunysb.edu/",
+          "http://www.lmc.cs.sunysb.edu/"
       ],
       "name": "State University of New York at Stony Brook",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "stonybrook.edu"
+          "stonybrook.edu",
+          "fsl.cs.sunysb.edu",
+          "cs.sunysb.edu",
+          "lmc.cs.sunysb.edu"
       ],
       "country": "United States"
   },
@@ -13041,13 +13059,15 @@
   },
   {
       "web_pages": [
-          "http://www.phoenix.edu/"
+          "http://www.phoenix.edu/",
+          "http://www.email.uophx.edu/"
       ],
       "name": "University of Phoenix",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "phoenix.edu"
+          "phoenix.edu",
+          "email.uophx.edu"
       ],
       "country": "United States"
   },
@@ -13317,13 +13337,15 @@
   },
   {
       "web_pages": [
-          "http://www.usc.edu/"
+          "http://www.usc.edu/",
+          "http://www.isi.edu/"
       ],
       "name": "University of Southern California",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "usc.edu"
+          "usc.edu",
+          "isi.edu"
       ],
       "country": "United States"
   },
@@ -26345,6 +26367,18 @@
       "country": "Canada"
   },
   {
+    "web_pages": [
+        "http://eecg.toronto.edu/"
+    ],
+    "name": "The Computer Engineering Research Group,University of Toronto",
+    "alpha_two_code": "CA",
+    "state-province": "Ontario",
+    "domains": [
+        "eecg.toronto.edu"
+    ],
+    "country": "Canada"
+  },
+  {
       "web_pages": [
           "http://www.wlu.ca/"
       ],
@@ -35221,6 +35255,18 @@
       "country": "United States"
   },
   {
+    "web_pages": [
+        "https://www.whoi.edu/"
+    ],
+    "name": "Woods Hole Oceanographic Institution",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+        "whoi.edu"
+    ],
+    "country": "United States"
+  },
+  {
       "web_pages": [
           "http://www.casagrande.edu.ec/"
       ],
@@ -43601,13 +43647,15 @@
   },
   {
       "web_pages": [
-          "http://www.tu-dortmund.de/"
+          "http://www.tu-dortmund.de/",
+          "http://www.udo.edu/"
       ],
       "name": "Technische Universität Dortmund",
       "alpha_two_code": "DE",
       "state-province": null,
       "domains": [
-          "tu-dortmund.de"
+          "tu-dortmund.de",
+          "udo.edu"
       ],
       "country": "Germany"
   },
@@ -49229,13 +49277,15 @@
   },
   {
       "web_pages": [
-          "http://www.nitk.ac.in/"
+          "http://www.nitk.ac.in/",
+          "http://www.nitk.edu.in/"
       ],
       "name": "National Institute of Technology Surathkal",
       "alpha_two_code": "IN",
       "state-province": "Karnataka",
       "domains": [
-          "nitk.ac.in"
+          "nitk.ac.in",
+          "nitk.edu.in"
       ],
       "country": "India"
   },
@@ -97995,13 +98045,15 @@
   },
   {
       "web_pages": [
-          "http://www.mu.edu.tr/"
+          "http://www.mu.edu.tr/",
+          "http://www.marun.edu.tr/"
       ],
       "name": "Mugla Sitki Kocman University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "mu.edu.tr"
+          "mu.edu.tr",
+          "marun.edu.tr"
       ],
       "country": "Turkey"
   },
@@ -98079,13 +98131,15 @@
   },
   {
       "web_pages": [
-          "http://www.ozyegin.edu.tr/"
+          "http://www.ozyegin.edu.tr/",
+          "http://www.ozu.edu.tr/"
       ],
       "name": "Ozyegin University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "ozyegin.edu.tr"
+          "ozyegin.edu.tr",
+          "ozu.edu.tr"
       ],
       "country": "Turkey"
   },
@@ -104819,7 +104873,7 @@
       "web_pages": [
           "http://www.wallace.edu"
       ],
-      "name": "George C Wallace State Community College-​Dothan",
+      "name": "George C Wallace State Community College-Dothan",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -104831,7 +104885,7 @@
       "web_pages": [
           "http://www.wallacestate.edu"
       ],
-      "name": "George C Wallace State Community College-​Hanceville",
+      "name": "George C Wallace State Community College-Hanceville",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -104843,7 +104897,7 @@
       "web_pages": [
           "http://www.wccs.edu"
       ],
-      "name": "George C Wallace State Community College-​Selma",
+      "name": "George C Wallace State Community College-Selma",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -104963,7 +105017,7 @@
       "web_pages": [
           "http://www.nwscc.edu"
       ],
-      "name": "Northwest-​Shoals Community College",
+      "name": "Northwest-Shoals Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105047,7 +105101,7 @@
       "web_pages": [
           "http://www.cgc.maricopa.edu"
       ],
-      "name": "Chandler-​Gilbert Community College",
+      "name": "Chandler-Gilbert Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105264,7 +105318,7 @@
       "web_pages": [
           "http://www.asub.edu"
       ],
-      "name": "Arkansas State University-​Beebe",
+      "name": "Arkansas State University-Beebe",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105276,7 +105330,7 @@
       "web_pages": [
           "http://www.asumh.edu"
       ],
-      "name": "Arkansas State University-​Mountain Home",
+      "name": "Arkansas State University-Mountain Home",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105288,7 +105342,7 @@
       "web_pages": [
           "http://www.asun.edu"
       ],
-      "name": "Arkansas State University-​Newport",
+      "name": "Arkansas State University-Newport",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105348,7 +105402,7 @@
       "web_pages": [
           "http://www.midsouthcc.edu"
       ],
-      "name": "Mid-​South Community College",
+      "name": "Mid-South Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105480,7 +105534,7 @@
       "web_pages": [
           "http://www.uaccb.edu"
       ],
-      "name": "University of Arkansas Community College-​Batesville",
+      "name": "University of Arkansas Community College-Batesville",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105492,7 +105546,7 @@
       "web_pages": [
           "http://www.uacch.edu"
       ],
-      "name": "University of Arkansas Community College-​Hope",
+      "name": "University of Arkansas Community College-Hope",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105504,7 +105558,7 @@
       "web_pages": [
           "http://www.uaccm.edu"
       ],
-      "name": "University of Arkansas Community College-​Morrilton",
+      "name": "University of Arkansas Community College-Morrilton",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105624,7 +105678,7 @@
       "web_pages": [
           "http://www.carrington.edu"
       ],
-      "name": "Carrington College California-​Sacramento",
+      "name": "Carrington College California-Sacramento",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -105960,7 +106014,7 @@
       "web_pages": [
           "http://www.compton.edu"
       ],
-      "name": "El Camino College-​Compton Center",
+      "name": "El Camino College-Compton Center",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -106659,7 +106713,7 @@
       "web_pages": [
           "http://www.sjvc.edu"
       ],
-      "name": "San Joaquin Valley College-​Visalia",
+      "name": "San Joaquin Valley College-Visalia",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -106839,7 +106893,7 @@
       "web_pages": [
           "http://www.westhillscollege.com"
       ],
-      "name": "West Hills College-​Coalinga",
+      "name": "West Hills College-Coalinga",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -107271,7 +107325,7 @@
       "web_pages": [
           "http://www.phcc.edu"
       ],
-      "name": "Pasco-​Hernando Community College",
+      "name": "Pasco-Hernando Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -108003,7 +108057,7 @@
       "web_pages": [
           "http://www.chefs.edu/chicago"
       ],
-      "name": "Le Cordon Bleu College of Culinary Arts-​Chicago",
+      "name": "Le Cordon Bleu College of Culinary Arts-Chicago",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -108087,7 +108141,7 @@
       "web_pages": [
           "http://www.NorthwesternCollege.edu"
       ],
-      "name": "Northwestern College-​Chicago Campus",
+      "name": "Northwestern College-Chicago Campus",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -108795,7 +108849,7 @@
       "web_pages": [
           "http://www.galencollege.edu/louisville"
       ],
-      "name": "Galen College of Nursing-​Louisville",
+      "name": "Galen College of Nursing-Louisville",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -109011,7 +109065,7 @@
       "web_pages": [
           "http://www.lsue.edu"
       ],
-      "name": "Louisiana State University-​Eunice",
+      "name": "Louisiana State University-Eunice",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -109263,7 +109317,7 @@
       "web_pages": [
           "http://www.worwic.edu"
       ],
-      "name": "Wor-​Wic Community College",
+      "name": "Wor-Wic Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -109841,7 +109895,7 @@
       "web_pages": [
           "http://www.anokaramsey.edu"
       ],
-      "name": "Anoka-​Ramsey Community College",
+      "name": "Anoka-Ramsey Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -109865,7 +109919,7 @@
       "web_pages": [
           "http://WWW.CLCMN.EDU"
       ],
-      "name": "Central Lakes College-​Brainerd",
+      "name": "Central Lakes College-Brainerd",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -109997,7 +110051,7 @@
       "web_pages": [
           "http://www.southeastmn.edu"
       ],
-      "name": "Minnesota State College-​Southeast Technical",
+      "name": "Minnesota State College-Southeast Technical",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -110213,13 +110267,25 @@
       "web_pages": [
           "http://www.colin.edu"
       ],
-      "name": "Copiah-​Lincoln Community College",
+      "name": "Copiah-Lincoln Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
           "colin.edu"
       ],
       "country": "United States"
+  },
+  {
+    "web_pages": [
+        "http://www.students.olin.edu"
+    ],
+    "name": "Olin College of Engineering",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+        "students.olin.edu"
+    ],
+    "country": "United States"
   },
   {
       "web_pages": [
@@ -110453,7 +110519,7 @@
       "web_pages": [
           "http://www.wp.missouristate.edu"
       ],
-      "name": "Missouri State University-​West Plains",
+      "name": "Missouri State University-West Plains",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -110717,7 +110783,7 @@
       "web_pages": [
           "http://www.mpcc.edu"
       ],
-      "name": "Mid-​Plains Community College",
+      "name": "Mid-Plains Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -110849,7 +110915,7 @@
       "web_pages": [
           "http://www.nhti.edu"
       ],
-      "name": "NHTI-​Concord's Community College",
+      "name": "NHTI-Concord's Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111138,7 +111204,7 @@
       "web_pages": [
           "http://www.roswell.enmu.edu"
       ],
-      "name": "Eastern New Mexico University-​Roswell Campus",
+      "name": "Eastern New Mexico University-Roswell Campus",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111198,7 +111264,7 @@
       "web_pages": [
           "http://nmsua.edu"
       ],
-      "name": "New Mexico State University-​Alamogordo",
+      "name": "New Mexico State University-Alamogordo",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111210,7 +111276,7 @@
       "web_pages": [
           "http://www.cavern.nmsu.edu/"
       ],
-      "name": "New Mexico State University-​Carlsbad",
+      "name": "New Mexico State University-Carlsbad",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111222,7 +111288,7 @@
       "web_pages": [
           "http://dabcc.nmsu.edu/"
       ],
-      "name": "New Mexico State University-​Dona Ana",
+      "name": "New Mexico State University-Dona Ana",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111282,7 +111348,7 @@
       "web_pages": [
           "http://www.aada.edu"
       ],
-      "name": "American Academy of Dramatic Arts-​New York",
+      "name": "American Academy of Dramatic Arts-New York",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111330,7 +111396,7 @@
       "web_pages": [
           "http://www.sunycgcc.edu"
       ],
-      "name": "Columbia-​Greene Community College",
+      "name": "Columbia-Greene Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111534,7 +111600,7 @@
       "web_pages": [
           "http://fmcc.edu"
       ],
-      "name": "Fulton-​Montgomery Community College",
+      "name": "Fulton-Montgomery Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -111822,7 +111888,7 @@
       "web_pages": [
           "http://www.abtech.edu"
       ],
-      "name": "Asheville-​Buncombe Technical Community College",
+      "name": "Asheville-Buncombe Technical Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -112302,7 +112368,7 @@
       "web_pages": [
           "http://www.roanokechowan.edu"
       ],
-      "name": "Roanoke-​Chowan Community College",
+      "name": "Roanoke-Chowan Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -112338,7 +112404,7 @@
       "web_pages": [
           "http://www.rccc.edu/"
       ],
-      "name": "Rowan-​Cabarrus Community College",
+      "name": "Rowan-Cabarrus Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -112434,7 +112500,7 @@
       "web_pages": [
           "http://www.tricountycc.edu"
       ],
-      "name": "Tri-​County Community College",
+      "name": "Tri-County Community College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -113274,7 +113340,7 @@
       "web_pages": [
           "http://www.hacc.edu"
       ],
-      "name": "Harrisburg Area Community College-​Harrisburg",
+      "name": "Harrisburg Area Community College-Harrisburg",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -113406,7 +113472,7 @@
       "web_pages": [
           "http://www.upt.pitt.edu"
       ],
-      "name": "University of Pittsburgh-​Titusville",
+      "name": "University of Pittsburgh-Titusville",
       "alpha_two_code": "US",
       "state-province": "Pennsylvania",
       "domains": [
@@ -113478,7 +113544,7 @@
       "web_pages": [
           "http://WWW.FDTC.EDU"
       ],
-      "name": "Florence-​Darlington Technical College",
+      "name": "Florence-Darlington Technical College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -113502,7 +113568,7 @@
       "web_pages": [
           "http://www.hgtc.edu"
       ],
-      "name": "Horry-​Georgetown Technical College",
+      "name": "Horry-Georgetown Technical College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -113598,7 +113664,7 @@
       "web_pages": [
           "http://www.tctc.edu"
       ],
-      "name": "Tri-​County Technical College",
+      "name": "Tri-County Technical College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114150,7 +114216,7 @@
       "web_pages": [
           "http://www.jacksonville-college.edu"
       ],
-      "name": "Jacksonville College-​Main Campus",
+      "name": "Jacksonville College-Main Campus",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114186,7 +114252,7 @@
       "web_pages": [
           "http://www.lsco.edu"
       ],
-      "name": "Lamar State College-​Orange",
+      "name": "Lamar State College-Orange",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114198,7 +114264,7 @@
       "web_pages": [
           "http://www.lamarpa.edu"
       ],
-      "name": "Lamar State College-​Port Arthur",
+      "name": "Lamar State College-Port Arthur",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114426,7 +114492,7 @@
       "web_pages": [
           "http://www.harlingen.tstc.edu"
       ],
-      "name": "Texas State Technical College-​Harlingen",
+      "name": "Texas State Technical College-Harlingen",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114438,7 +114504,7 @@
       "web_pages": [
           "http://www.marshall.tstc.edu"
       ],
-      "name": "Texas State Technical College-​Marshall",
+      "name": "Texas State Technical College-Marshall",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114450,7 +114516,7 @@
       "web_pages": [
           "http://www.waco.tstc.edu"
       ],
-      "name": "Texas State Technical College-​Waco",
+      "name": "Texas State Technical College-Waco",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -114462,7 +114528,7 @@
       "web_pages": [
           "http://www.westtexas.tstc.edu"
       ],
-      "name": "Texas State Technical College-​West Texas",
+      "name": "Texas State Technical College-West Texas",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -115374,7 +115440,7 @@
       "web_pages": [
           "http://www.mstc.edu"
       ],
-      "name": "Mid-​State Technical College",
+      "name": "Mid-State Technical College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -118779,6 +118845,18 @@
       "country": "India"
     },
     {
+        "web_pages": [
+            "https://www.rajagiritech.edu.in/"
+        ],
+        "name": "Rajagiri School of Engineering and Technology",
+        "alpha_two_code": "IN",
+        "state-province": "Kerala",
+        "domains": [
+            "rajagiritech.edu.in"
+        ],
+        "country": "India"
+    },
+    {
       "web_pages": [
           "https://stjosephs.ac.in/"
       ],
@@ -119223,6 +119301,18 @@
         "state-province": null,
         "domains": [
           "if-pan.krakow.pl"
+        ],
+        "country": "Poland"
+    },
+    {
+        "web_pages": [
+        "https://camk.edu.pl/"
+        ],
+        "name": "Nicolaus Copernicus Astronomical Center of Pharmacology Polish Academy of Sciences",
+        "alpha_two_code": "PL",
+        "state-province": null,
+        "domains": [
+          "camk.edu.pl"
         ],
         "country": "Poland"
     },
@@ -120056,6 +120146,18 @@
     },
     {
         "web_pages": [
+            "https://usms.edu.pk/"
+        ],
+        "name": "University of Sufism and Modern Sciences",
+        "alpha_two_code": "PK",
+        "state-province": "Sindh",
+        "domains": [
+            "usms.edu.pk"
+        ],
+        "country": "Pakistan"
+    },
+    {
+        "web_pages": [
             "https://cusit.edu.pk/"
         ],
         "name": "City University of Science and Information Technology",
@@ -120068,5 +120170,4 @@
         ],
         "country": "Pakistan"
     }
-
 ]
