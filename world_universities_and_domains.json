@@ -132,6 +132,18 @@
       "country": "India"
   },
   {
+    "web_pages": [
+        "https://www.ashoka.edu.in"
+    ],
+    "name": "Ashoka University",
+    "alpha_two_code": "IN",
+    "state-province": "Haryana",
+    "domains": [
+        "ashoka.edu.in"
+    ],
+    "country": "India"
+  },
+  {
       "web_pages": [
           "https://www.cstj.qc.ca",
           "https://ccmt.cstj.qc.ca",
@@ -10595,13 +10607,19 @@
   },
   {
       "web_pages": [
-          "http://www.stonybrook.edu/"
+          "http://www.stonybrook.edu/",
+          "http://www.fsl.cs.sunysb.edu/",
+          "http://www.cs.sunysb.edu/",
+          "http://www.lmc.cs.sunysb.edu/"
       ],
       "name": "State University of New York at Stony Brook",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "stonybrook.edu"
+          "stonybrook.edu",
+          "fsl.cs.sunysb.edu",
+          "cs.sunysb.edu",
+          "lmc.cs.sunysb.edu"
       ],
       "country": "United States"
   },
@@ -13041,13 +13059,15 @@
   },
   {
       "web_pages": [
-          "http://www.phoenix.edu/"
+          "http://www.phoenix.edu/",
+          "http://www.email.uophx.edu/"
       ],
       "name": "University of Phoenix",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "phoenix.edu"
+          "phoenix.edu",
+          "email.uophx.edu"
       ],
       "country": "United States"
   },
@@ -13317,13 +13337,15 @@
   },
   {
       "web_pages": [
-          "http://www.usc.edu/"
+          "http://www.usc.edu/",
+          "http://www.isi.edu/"
       ],
       "name": "University of Southern California",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "usc.edu"
+          "usc.edu",
+          "isi.edu"
       ],
       "country": "United States"
   },
@@ -26345,6 +26367,18 @@
       "country": "Canada"
   },
   {
+    "web_pages": [
+        "http://eecg.toronto.edu/"
+    ],
+    "name": "The Computer Engineering Research Group,University of Toronto",
+    "alpha_two_code": "CA",
+    "state-province": "Ontario",
+    "domains": [
+        "eecg.toronto.edu"
+    ],
+    "country": "Canada"
+  },
+  {
       "web_pages": [
           "http://www.wlu.ca/"
       ],
@@ -35221,6 +35255,18 @@
       "country": "United States"
   },
   {
+    "web_pages": [
+        "https://www.whoi.edu/"
+    ],
+    "name": "Woods Hole Oceanographic Institution",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+        "whoi.edu"
+    ],
+    "country": "United States"
+  },
+  {
       "web_pages": [
           "http://www.casagrande.edu.ec/"
       ],
@@ -43601,13 +43647,15 @@
   },
   {
       "web_pages": [
-          "http://www.tu-dortmund.de/"
+          "http://www.tu-dortmund.de/",
+          "http://www.udo.edu/"
       ],
       "name": "Technische Universität Dortmund",
       "alpha_two_code": "DE",
       "state-province": null,
       "domains": [
-          "tu-dortmund.de"
+          "tu-dortmund.de",
+          "udo.edu"
       ],
       "country": "Germany"
   },
@@ -49229,13 +49277,15 @@
   },
   {
       "web_pages": [
-          "http://www.nitk.ac.in/"
+          "http://www.nitk.ac.in/",
+          "http://www.nitk.edu.in/"
       ],
       "name": "National Institute of Technology Surathkal",
       "alpha_two_code": "IN",
       "state-province": "Karnataka",
       "domains": [
-          "nitk.ac.in"
+          "nitk.ac.in",
+          "nitk.edu.in"
       ],
       "country": "India"
   },
@@ -97995,13 +98045,15 @@
   },
   {
       "web_pages": [
-          "http://www.mu.edu.tr/"
+          "http://www.mu.edu.tr/",
+          "http://www.marun.edu.tr/"
       ],
       "name": "Mugla Sitki Kocman University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "mu.edu.tr"
+          "mu.edu.tr",
+          "marun.edu.tr"
       ],
       "country": "Turkey"
   },
@@ -98079,13 +98131,15 @@
   },
   {
       "web_pages": [
-          "http://www.ozyegin.edu.tr/"
+          "http://www.ozyegin.edu.tr/",
+          "http://www.ozu.edu.tr/"
       ],
       "name": "Ozyegin University",
       "alpha_two_code": "TR",
       "state-province": null,
       "domains": [
-          "ozyegin.edu.tr"
+          "ozyegin.edu.tr",
+          "ozu.edu.tr"
       ],
       "country": "Turkey"
   },
@@ -110222,6 +110276,18 @@
       "country": "United States"
   },
   {
+    "web_pages": [
+        "http://www.students.olin.edu"
+    ],
+    "name": "Olin College of Engineering",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": [
+        "students.olin.edu"
+    ],
+    "country": "United States"
+  },
+  {
       "web_pages": [
           "http://www.eccc.edu"
       ],
@@ -118779,6 +118845,18 @@
       "country": "India"
     },
     {
+        "web_pages": [
+            "https://www.rajagiritech.edu.in/"
+        ],
+        "name": "Rajagiri School of Engineering and Technology",
+        "alpha_two_code": "IN",
+        "state-province": "Kerala",
+        "domains": [
+            "rajagiritech.edu.in"
+        ],
+        "country": "India"
+    },
+    {
       "web_pages": [
           "https://stjosephs.ac.in/"
       ],
@@ -119223,6 +119301,18 @@
         "state-province": null,
         "domains": [
           "if-pan.krakow.pl"
+        ],
+        "country": "Poland"
+    },
+    {
+        "web_pages": [
+        "https://camk.edu.pl/"
+        ],
+        "name": "Nicolaus Copernicus Astronomical Center of Pharmacology Polish Academy of Sciences",
+        "alpha_two_code": "PL",
+        "state-province": null,
+        "domains": [
+          "camk.edu.pl"
         ],
         "country": "Poland"
     },
