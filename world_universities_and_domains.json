@@ -31062,13 +31062,15 @@
   },
   {
       "web_pages": [
-          "http://www.ustc.edu.cn/"
+          "http://www.ustc.edu.cn/",
+          "http://www.ustc.edu/"
       ],
       "name": "University of Science and Technology of China",
       "alpha_two_code": "CN",
       "state-province": null,
       "domains": [
-          "ustc.edu.cn"
+          "ustc.edu.cn",
+          "ustc.edu"
       ],
       "country": "China"
   },
@@ -75333,13 +75335,15 @@
   },
   {
       "web_pages": [
-          "http://www.tilburguniversity.nl/"
+          "http://www.tilburguniversity.nl/",
+          "http://www.tilburguniversity.edu/"
       ],
       "name": "Tilburg University",
       "alpha_two_code": "NL",
       "state-province": null,
       "domains": [
-          "tilburguniversity.nl"
+          "tilburguniversity.nl",
+          "tilburguniversity.edu"
       ],
       "country": "Netherlands"
   },
