@@ -120185,5 +120185,17 @@
             "cup.edu.pk"
         ],
         "country": "Pakistan"
+    },
+    {
+        "web_pages": [
+            "https://tcioe.edu.np"
+        ],
+        "name": "Tribhuvan University - Thapathali Campus",
+        "alpha_two_code": "NP",
+        "state-province": null,
+        "domains": [
+            "tcioe.edu.np"
+        ],
+        "country": "Nepal"
     }
 ]
