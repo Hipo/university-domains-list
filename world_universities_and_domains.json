@@ -120177,5 +120177,113 @@
             "tcioe.edu.np"
         ],
         "country": "Nepal"
+    },
+    {
+        "web_pages": [
+            "https://www.univ-rennes2.fr/"
+        ],
+        "name": "Université de Rennes 2",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "univ-rennes2.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://univ-fcomte.fr/"
+        ],
+        "name": "Université de Franche Comté",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "univ-fcomte.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://www.paris-sorbonne.fr/"
+        ],
+        "name": "Université de Paris IV Sorbonne",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "paris-sorbonne.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://www.univ-paris-diderot.fr/english/"
+        ],
+        "name": "Université Diderot Paris 7",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "univ-paris-diderot.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.parisnanterre.fr/"
+        ],
+        "name": "Université Paris Ouest Paris X Nanterre",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "parisnanterre.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://www.u-pec.fr/"
+        ],
+        "name": "Université Paris est Créteil Val de Marne Paris XII",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "u-pec.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://www.unimes.fr/"
+        ],
+        "name": "Université de Nimes",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "unimes.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://www.univ-jfc.fr/"
+        ],
+        "name": "Université Champollion",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "univ-jfc.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "http://www.upmf-grenoble.fr/"
+        ],
+        "name": "Université Pierre Mendès France",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "upmf-grenoble.fr"
+        ],
+        "country": "France"
     }
 ]
