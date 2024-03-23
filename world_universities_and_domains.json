@@ -45420,9 +45420,9 @@
   },
   {
       "web_pages": [
-          "http://www.chuhai.edu.hk/"
+          "https://www.chuhai.edu.hk/"
       ],
-      "name": "Chu Hai College",
+      "name": "Hong Kong Chu Hai College",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
@@ -45452,15 +45452,16 @@
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
-          "cuhk.edu.hk"
+          "cuhk.edu.hk",
+          "link.cuhk.edu.hk"
       ],
       "country": "Hong Kong"
   },
   {
       "web_pages": [
-          "http://www.hkapa.edu/"
+          "https://www.hkapa.edu/"
       ],
-      "name": "Hong Kong Academy for Performing Arts",
+      "name": "The Hong Kong Academy for Performing Arts",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
@@ -45470,21 +45471,23 @@
   },
   {
       "web_pages": [
-          "http://www.hkbu.edu.hk/"
+          "https://www.hkbu.edu.hk/"
       ],
       "name": "Hong Kong Baptist University",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
-          "hkbu.edu.hk"
+          "hkbu.edu.hk",
+          "life.hkbu.edu.hk",
+          "associate.hkbu.edu.hk"
       ],
       "country": "Hong Kong"
   },
   {
       "web_pages": [
-          "http://www.hksyc.edu/"
+          "https://www.hksyc.edu/"
       ],
-      "name": "Hong Kong Shue Yan College",
+      "name": "Hong Kong Shue Yan University",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
@@ -45494,9 +45497,9 @@
   },
   {
       "web_pages": [
-          "http://www.hku.hk/"
+          "https://www.hku.hk/"
       ],
-      "name": "University of Hong Kong",
+      "name": "The University of Hong Kong",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
@@ -45506,45 +45509,35 @@
   },
   {
       "web_pages": [
-          "http://www.ied.edu.hk/"
-      ],
-      "name": "Hong Kong Institute of Education",
-      "alpha_two_code": "HK",
-      "state-province": null,
-      "domains": [
-          "ied.edu.hk"
-      ],
-      "country": "Hong Kong"
-  },
-  {
-      "web_pages": [
-          "http://www.ln.edu.hk/"
+          "https://www.ln.edu.hk/"
       ],
       "name": "Lingnan University",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
-          "ln.edu.hk"
+          "ln.edu.hk",
+          "ln.hk"
       ],
       "country": "Hong Kong"
   },
   {
       "web_pages": [
-          "http://www.ouhk.edu.hk/"
+          "https://www.hkmu.edu.hk/"
       ],
-      "name": "Open University of Hong Kong",
+      "name": "Hong Kong Metropolitan University",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
+          "hkmu.edu.hk",
           "ouhk.edu.hk"
       ],
       "country": "Hong Kong"
   },
   {
       "web_pages": [
-          "http://www.polyu.edu.hk/"
+          "https://www.polyu.edu.hk/"
       ],
-      "name": "Hong Kong Polytechnic University",
+      "name": "The Hong Kong Polytechnic University",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
@@ -45555,13 +45548,14 @@
   },
   {
       "web_pages": [
-          "http://www.ust.hk/"
+          "https://hkust.edu.hk/"
       ],
-      "name": "Hong Kong University of Science and Technology",
+      "name": "The Hong Kong University of Science and Technology",
       "alpha_two_code": "HK",
       "state-province": null,
       "domains": [
-          "ust.hk"
+          "ust.hk",
+          "connect.ust.hk"
       ],
       "country": "Hong Kong"
   },
