@@ -120312,5 +120312,17 @@
             "capital.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://suny.oneonta.edu/"
+        ],
+        "name": "State University of New York College at Oneonta",
+        "alpha_two_code": "US",
+        "state-province": "New York",
+        "domains": [
+            "oneonta.edu"
+        ],
+        "country": "United States"
     }
 ]
