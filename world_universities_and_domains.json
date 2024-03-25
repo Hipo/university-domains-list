@@ -120287,5 +120287,18 @@
             "upmf-grenoble.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.abac.edu/"
+        ],
+        "name": "Abraham Baldwin Agricultural College",
+        "alpha_two_code": "US",
+        "state-province": "Georgia",
+        "domains": [
+            "abac.edu",
+            "stallions.abac.edu"
+        ],
+        "country": "United States"
     }
 ]
