@@ -120372,5 +120372,17 @@
             "westminsteru.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.dom.edu/"
+        ],
+        "name": "Dominican University",
+        "alpha_two_code": "US",
+        "state-province": "Illinois",
+        "domains": [
+            "dom.edu"
+        ],
+        "country": "United States"
     }
 ]
