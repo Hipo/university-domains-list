@@ -120360,5 +120360,17 @@
             "olivetcollege.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://westminsteru.edu/"
+        ],
+        "name": "Westminster University",
+        "alpha_two_code": "US",
+        "state-province": "Salt Lake City, Utah",
+        "domains": [
+            "westminsteru.edu"
+        ],
+        "country": "United States"
     }
 ]
