@@ -120300,5 +120300,17 @@
             "stallions.abac.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.capital.edu/"
+        ],
+        "name": "Capital University",
+        "alpha_two_code": "US",
+        "state-province": "Ohio",
+        "domains": [
+            "capital.edu"
+        ],
+        "country": "United States"
     }
 ]
