@@ -120348,5 +120348,17 @@
             "umo.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.uolivet.edu/"
+        ],
+        "name": "The University of Olivet",
+        "alpha_two_code": "US",
+        "state-province": "Michigan",
+        "domains": [
+            "olivetcollege.edu"
+        ],
+        "country": "United States"
     }
 ]
