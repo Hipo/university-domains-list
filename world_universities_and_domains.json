@@ -1,5 +1,13 @@
 [
   {
+    "name": "West Herts College",
+    "domains": ["student.westherts.ac.uk", "westherts.ac.uk"],
+    "web_pages": ["https://westherts.ac.uk"],
+    "country": "United Kingdom",
+    "alpha_two_code": "GB",
+    "state-province": null
+  },
+  {
     "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "domains": ["mbzuai.ac.ae"],
     "web_pages": ["https://mbzuai.ac.ae/"],
