@@ -120336,5 +120336,17 @@
             "spjain.org"
         ],
         "country": "Australia"
+    },
+    {
+        "web_pages": [
+            "https://umo.edu/"
+        ],
+        "name": "University of Mount Olive",
+        "alpha_two_code": "US",
+        "state-province": "North Carolina",
+        "domains": [
+            "umo.edu"
+        ],
+        "country": "United States"
     }
 ]
