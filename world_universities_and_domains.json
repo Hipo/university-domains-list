@@ -41549,6 +41549,14 @@
       "country": "Germany"
   },
   {
+    "name": "Hamburg University of Applied Sciences (HAW Hamburg)",
+    "domains": ["haw-hamburg.de"],
+    "web_pages": ["https://haw-hamburg.de"],
+    "country": "Germany",
+    "alpha_two_code": "DE",
+    "state-province": null
+  },
+  {
       "web_pages": [
           "http://www.fh-hannover.de/"
       ],
