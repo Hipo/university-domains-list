@@ -8,6 +8,14 @@
     "state-province": null
   },
   {
+    "name": "National Institute of Applied Sciences of Toulouse",
+    "domains": ["insa-toulouse.fr"],
+    "web_pages": ["https://insa-toulouse.fr"],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "state-province": null
+  },
+  {
     "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "domains": ["mbzuai.ac.ae"],
     "web_pages": ["https://mbzuai.ac.ae/"],
