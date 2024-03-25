@@ -6430,13 +6430,14 @@
   },
   {
       "web_pages": [
-          "http://www.ksu.edu/"
+          "https://www.k-state.edu/"
       ],
       "name": "Kansas State University",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Kansas",
       "domains": [
-          "ksu.edu"
+          "ksu.edu",
+          "k-state"
       ],
       "country": "United States"
   },
