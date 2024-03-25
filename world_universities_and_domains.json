@@ -120324,5 +120324,17 @@
             "oneonta.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.spjain.org/"
+        ],
+        "name": "SP Jain School of Global Management",
+        "alpha_two_code": "AU",
+        "state-province": null,
+        "domains": [
+            "spjain.org"
+        ],
+        "country": "Australia"
     }
 ]
