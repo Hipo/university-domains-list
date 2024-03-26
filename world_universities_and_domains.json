@@ -725,7 +725,7 @@
       ],
       "name": "Florida Polytechnic University",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Florida",
       "domains": [
           "floridapoly.edu"
       ],
@@ -6438,13 +6438,14 @@
   },
   {
       "web_pages": [
-          "http://www.ksu.edu/"
+          "https://www.k-state.edu/"
       ],
       "name": "Kansas State University",
       "alpha_two_code": "US",
-      "state-province": null,
+      "state-province": "Kansas",
       "domains": [
-          "ksu.edu"
+          "ksu.edu",
+          "k-state.edu"
       ],
       "country": "United States"
   },
@@ -120289,5 +120290,102 @@
             "upmf-grenoble.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.abac.edu/"
+        ],
+        "name": "Abraham Baldwin Agricultural College",
+        "alpha_two_code": "US",
+        "state-province": "Georgia",
+        "domains": [
+            "abac.edu",
+            "stallions.abac.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.capital.edu/"
+        ],
+        "name": "Capital University",
+        "alpha_two_code": "US",
+        "state-province": "Ohio",
+        "domains": [
+            "capital.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://suny.oneonta.edu/"
+        ],
+        "name": "State University of New York College at Oneonta",
+        "alpha_two_code": "US",
+        "state-province": "New York",
+        "domains": [
+            "oneonta.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.spjain.org/"
+        ],
+        "name": "SP Jain School of Global Management",
+        "alpha_two_code": "AU",
+        "state-province": null,
+        "domains": [
+            "spjain.org"
+        ],
+        "country": "Australia"
+    },
+    {
+        "web_pages": [
+            "https://umo.edu/"
+        ],
+        "name": "University of Mount Olive",
+        "alpha_two_code": "US",
+        "state-province": "North Carolina",
+        "domains": [
+            "umo.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.uolivet.edu/"
+        ],
+        "name": "The University of Olivet",
+        "alpha_two_code": "US",
+        "state-province": "Michigan",
+        "domains": [
+            "olivetcollege.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://westminsteru.edu/"
+        ],
+        "name": "Westminster University",
+        "alpha_two_code": "US",
+        "state-province": "Salt Lake City, Utah",
+        "domains": [
+            "westminsteru.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.dom.edu/"
+        ],
+        "name": "Dominican University",
+        "alpha_two_code": "US",
+        "state-province": "Illinois",
+        "domains": [
+            "dom.edu"
+        ],
+        "country": "United States"
     }
 ]
