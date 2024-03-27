@@ -120387,5 +120387,18 @@
             "dom.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.gandakiuniversity.edu.np/"
+        ],
+        "name": "Gandaki University",
+        "alpha_two_code": "NP",
+        "state-province": null,
+        "domains": [
+            "gandakiuniversity.edu.np",
+            "gpu.edu.np"
+        ],
+        "country": "Nepal"
     }
 ]
