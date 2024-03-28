@@ -89352,6 +89352,14 @@
       "country": "San Marino"
   },
   {
+    "name": "Imam Abdulrahman Bin Faisal University",
+    "domains": ["iau.edu.sa"],
+    "web_pages": ["https://iau.edu.sa"],
+    "country": "Saudi Arabia",
+    "alpha_two_code": "SA",
+    "state-province": null
+  },
+  {
       "web_pages": [
           "http://www.act.gotevot.edu.sa/"
       ],
