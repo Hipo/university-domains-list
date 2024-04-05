@@ -95302,18 +95302,6 @@
   },
   {
       "web_pages": [
-          "http://www.nctu.edu.tw/"
-      ],
-      "name": "National Chiao Tung University",
-      "alpha_two_code": "TW",
-      "state-province": null,
-      "domains": [
-          "nctu.edu.tw"
-      ],
-      "country": "Taiwan, Province of China"
-  },
-  {
-      "web_pages": [
           "http://www.ncu.edu.tw/"
       ],
       "name": "National Central University",
@@ -95915,13 +95903,13 @@
   },
   {
       "web_pages": [
-          "http://www.ym.edu.tw/"
+          "https://www.nycu.edu.tw/"
       ],
-      "name": "National Yang Ming Medical College",
+      "name": "National Yang Ming Chiao Tung University",
       "alpha_two_code": "TW",
       "state-province": null,
       "domains": [
-          "ym.edu.tw"
+          "nycu.edu.tw"
       ],
       "country": "Taiwan, Province of China"
   },
