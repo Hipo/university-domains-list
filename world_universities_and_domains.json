@@ -95194,18 +95194,6 @@
   },
   {
       "web_pages": [
-          "http://www.kuas.edu.tw/"
-      ],
-      "name": "National Kaohsiung University of Applied Sciences",
-      "alpha_two_code": "TW",
-      "state-province": null,
-      "domains": [
-          "kuas.edu.tw"
-      ],
-      "country": "Taiwan, Province of China"
-  },
-  {
-      "web_pages": [
           "http://www.lhu.edu.tw/"
       ],
       "name": "LungHwa University of Science and Technology",
@@ -95422,13 +95410,13 @@
   },
   {
       "web_pages": [
-          "http://www.nkfu.edu.tw/"
+          "https://www.nkust.edu.tw/"
       ],
-      "name": "National Kaohsiung First University of Science and Technology",
+      "name": "National Kaohsiung University of Science and Technology",
       "alpha_two_code": "TW",
       "state-province": null,
       "domains": [
-          "nkfu.edu.tw"
+          "nkust.edu.tw"
       ],
       "country": "Taiwan, Province of China"
   },
