@@ -120412,5 +120412,53 @@
             "jiscollege.ac.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.nit.ac.in"
+        ],
+        "name": "Narula Institute of Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "nit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://gnit.ac.in"
+        ],
+        "name": "Guru Nanak Institute of Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.surtech.edu.in"
+        ],
+        "name": "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "surtech.edu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.jisuniversity.ac.in"
+        ],
+        "name": "JIS University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisuniversity.ac.in"
+        ],
+        "country": "India"
     }
 ]
