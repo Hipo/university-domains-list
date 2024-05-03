@@ -120400,5 +120400,17 @@
             "gpu.edu.np"
         ],
         "country": "Nepal"
+    },
+    {
+        "web_pages": [
+            "https://www.jiscollege.ac.in/"
+        ],
+        "name": "JIS College of Engineering",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jiscollege.ac.in"
+        ],
+        "country": "India"
     }
 ]
