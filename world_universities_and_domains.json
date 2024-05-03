@@ -120460,5 +120460,65 @@
             "jisuniversity.ac.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnihm.ac.in"
+        ],
+        "name": "Guru Nanak Institute of Hotel Management",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnihm.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnihm.ac.in"
+        ],
+        "name": "Guru Nanak Institute of Hotel Management",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnihm.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://gnipst-pc.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Pharmaceutical Science and Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnipst-pc.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnidsr.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Dental Sciences and Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnidsr.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://jisiasr.org/"
+        ],
+        "name": "JIS Institute of Advanced Studies & Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisiasr.org"
+        ],
+        "country": "India"
     }
 ]
