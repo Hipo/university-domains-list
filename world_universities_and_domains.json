@@ -120400,5 +120400,125 @@
             "gpu.edu.np"
         ],
         "country": "Nepal"
+    },
+    {
+        "web_pages": [
+            "https://www.jiscollege.ac.in/"
+        ],
+        "name": "JIS College of Engineering",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jiscollege.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.nit.ac.in"
+        ],
+        "name": "Narula Institute of Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "nit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://gnit.ac.in"
+        ],
+        "name": "Guru Nanak Institute of Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.surtech.edu.in"
+        ],
+        "name": "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "surtech.edu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.jisuniversity.ac.in"
+        ],
+        "name": "JIS University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisuniversity.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnihm.ac.in"
+        ],
+        "name": "Guru Nanak Institute of Hotel Management",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnihm.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnihm.ac.in"
+        ],
+        "name": "Guru Nanak Institute of Hotel Management",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnihm.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://gnipst-pc.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Pharmaceutical Science and Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnipst-pc.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnidsr.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Dental Sciences and Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnidsr.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://jisiasr.org/"
+        ],
+        "name": "JIS Institute of Advanced Studies & Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisiasr.org"
+        ],
+        "country": "India"
     }
 ]
