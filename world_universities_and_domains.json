@@ -126,19 +126,6 @@
         "state-province": null
     },
     {
-        "name": "University of Portsmouth",
-        "domains": [
-            "myport.ac.uk",
-            "myport.port.ac.uk"
-        ],
-        "web_pages": [
-            "https://myport.port.ac.uk"
-        ],
-        "country": "United Kingdom",
-        "alpha_two_code": "GB",
-        "state-province": null
-    },
-    {
         "web_pages": [
             "https://www.ac-paris.fr/"
         ],
@@ -47648,7 +47635,7 @@
         "web_pages": [
             "https://www.iutripura.edu.in/"
         ],
-        "name": "ICFAI University",
+        "name": "ICFAI University, Tripura",
         "alpha_two_code": "IN",
         "state-province": "Tripura",
         "domains": [
@@ -99514,18 +99501,6 @@
     },
     {
         "web_pages": [
-            "https://www.univer.kharkov.ua/"
-        ],
-        "name": "Kharkiv National University",
-        "alpha_two_code": "UA",
-        "state-province": null,
-        "domains": [
-            "univer.kharkov.ua"
-        ],
-        "country": "Ukraine"
-    },
-    {
-        "web_pages": [
             "https://www.university.kherson.ua/"
         ],
         "name": "Kherson State University",
@@ -105341,7 +105316,7 @@
         ],
         "name": "Glendale Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Arizona",
         "domains": [
             "gccaz.edu"
         ],
@@ -106302,7 +106277,7 @@
         ],
         "name": "Glendale Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "California",
         "domains": [
             "glendale.edu"
         ],
@@ -107361,7 +107336,7 @@
         ],
         "name": "Middlesex Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Connecticut",
         "domains": [
             "mxcc.commnet.edu"
         ],
@@ -107421,7 +107396,7 @@
         ],
         "name": "Three Rivers Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Connecticut",
         "domains": [
             "trcc.commnet.edu"
         ],
@@ -108117,7 +108092,7 @@
         ],
         "name": "Highland Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Illinois",
         "domains": [
             "highland.edu"
         ],
@@ -108657,7 +108632,7 @@
         ],
         "name": "Southeastern Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Iowa",
         "domains": [
             "scciowa.edu"
         ],
@@ -108825,7 +108800,7 @@
         ],
         "name": "Highland Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Kansas",
         "domains": [
             "highlandcc.edu"
         ],
@@ -109606,7 +109581,7 @@
         ],
         "name": "Middlesex Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Massachusetts",
         "domains": [
             "middlesex.mass.edu"
         ],
@@ -110783,7 +110758,7 @@
         ],
         "name": "Three Rivers Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Missouri",
         "domains": [
             "trcc.edu"
         ],
@@ -112104,7 +112079,7 @@
         ],
         "name": "Blue Ridge Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "North Carolina",
         "domains": [
             "blueridge.edu"
         ],
@@ -112620,7 +112595,7 @@
         ],
         "name": "Southeastern Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "North Carolina",
         "domains": [
             "sccnc.edu"
         ],
@@ -114840,7 +114815,7 @@
         ],
         "name": "Blue Ridge Community College",
         "alpha_two_code": "US",
-        "state-province": null,
+        "state-province": "Virginia",
         "domains": [
             "brcc.edu"
         ],
@@ -118689,18 +118664,6 @@
     },
     {
         "web_pages": [
-            "https://www.keio.ac.jp"
-        ],
-        "name": "Keio University",
-        "alpha_two_code": "JP",
-        "state-province": null,
-        "domains": [
-            "a2.keio.jp"
-        ],
-        "country": "Japan"
-    },
-    {
-        "web_pages": [
             "https://tamut.edu"
         ],
         "name": "Texas A&M University-Texarkana",
@@ -118806,18 +118769,6 @@
             "ateneo.edu"
         ],
         "country": "Philippines"
-    },
-    {
-        "web_pages": [
-            "https://bath.ac.uk"
-        ],
-        "name": "University of Bath",
-        "alpha_two_code": "GB",
-        "state-province": null,
-        "domains": [
-            "bath.edu"
-        ],
-        "country": "United Kingdom"
     },
     {
         "web_pages": [
