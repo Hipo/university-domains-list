@@ -56188,7 +56188,8 @@
       "alpha_two_code": "IE",
       "state-province": null,
       "domains": [
-          "ucd.ie"
+          "ucd.ie",
+          "ucdconnect.ie"
       ],
       "country": "Ireland"
   },
