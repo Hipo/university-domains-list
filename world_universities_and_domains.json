@@ -16,6 +16,14 @@
     "state-province": null
   },
   {
+    "name": "Bugema University",
+    "domains": ["bugemauniv.ac.ug"],
+    "web_pages": ["https://bugemauniv.ac.ug/"],
+    "country": "Uganda",
+    "alpha_two_code": "UG",
+    "state-province": "Luweero"
+  },
+  {
     "name": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "domains": ["mbzuai.ac.ae"],
     "web_pages": ["https://mbzuai.ac.ae/"],
