@@ -48186,13 +48186,13 @@
   },
   {
       "web_pages": [
-          "http://www.jntu.ac.in/"
+          "http://www.jntuh.ac.in/"
       ],
-      "name": "Jawaharlal Nehru Technological University",
+      "name": "Jawaharlal Nehru Technological University Hyderabad",
       "alpha_two_code": "IN",
-      "state-province": null,
+      "state-province": "Telangana",
       "domains": [
-          "jntu.ac.in"
+          "jntuh.ac.in"
       ],
       "country": "India"
   },
