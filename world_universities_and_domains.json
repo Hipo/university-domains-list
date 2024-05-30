@@ -120409,5 +120409,19 @@
             "gpu.edu.np"
         ],
         "country": "Nepal"
+    },
+        {
+        "web_pages": [
+            "https://www.ara.ac.nz/"
+        ],
+        "name": "Ara Institute of Canterbury ",
+        "alpha_two_code": "NZ",
+        "state-province": null,
+        "domains": [
+            "ara.ac.nz",
+            "moodle.ara.ac.nz",
+            "myara.ara.ac.nz"
+        ],
+        "country": "New Zealand"
     }
 ]
