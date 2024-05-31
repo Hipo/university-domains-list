@@ -120423,5 +120423,209 @@
             "myara.ara.ac.nz"
         ],
         "country": "New Zealand"
+    },
+    {
+        "web_pages": [
+            "http://www.u-pec.fr/"
+        ],
+        "name": "Université Paris est Créteil Val de Marne Paris XII",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "u-pec.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.jisuniversity.ac.in/"
+        ],
+        "name": "JIS University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisuniversity.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.jiscollege.ac.in/"
+        ],
+        "name": "JIS College of Engineering",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jiscollege.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.nit.ac.in/"
+        ],
+        "name": "Narula Institute of Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "nit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://gnit.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnihm.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Hotel Management",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnihm.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnipst.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Pharmaceutical Science & Technology",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnipst.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gnidsr.ac.in/"
+        ],
+        "name": "Guru Nanak Institute of Dental Sciences & Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gnidsr.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.surtech.edu.in/"
+        ],
+        "name": "Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "surtech.edu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://jisiasr.org/"
+        ],
+        "name": "JIS Institute of Advanced Studies & Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisiasr.org"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://jismsr.org/"
+        ],
+        "name": "JIS School of Medical Science & Research",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jismsr.org"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://jisiop.org/"
+        ],
+        "name": "JIS Institute of Pharmacy",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jisiop.org"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.jissp.ac.in/"
+        ],
+        "name": "JIS School of Polytechnic",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jissp.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.gkcem.ac.in/"
+        ],
+        "name": "Greater Kolkata College of Engineering & Management",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "gkcem.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.chandilpolytechnic.org/"
+        ],
+        "name": "Chandil Polytechnic School",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "chandilpolytechnic.org"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://golapolytechnic.org/"
+        ],
+        "name": "Gola Polytechnic School",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "golapolytechnic.org"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "http://www.aecwb.edu.in/"
+        ],
+        "name": "Asansol Engineering College",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "aecwb.edu.in"
+        ],
+        "country": "India"
     }
 ]
