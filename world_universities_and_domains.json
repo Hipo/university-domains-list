@@ -101742,18 +101742,6 @@
   },
   {
       "web_pages": [
-          "http://www.ulst.ac.uk/"
-      ],
-      "name": "University of Ulster",
-      "alpha_two_code": "GB",
-      "state-province": null,
-      "domains": [
-          "ulst.ac.uk"
-      ],
-      "country": "United Kingdom"
-  },
-  {
-      "web_pages": [
           "http://www.umds.ac.uk/"
       ],
       "name": "United Medical and Dental Schools, University of London",
@@ -118560,7 +118548,8 @@
         "alpha_two_code": "GB",
         "state-province": null,
         "domains": [
-            "ulster.ac.uk"
+            "ulster.ac.uk",
+            "ulst.ac.uk"
         ],
         "country": "United Kingdom"
     },
