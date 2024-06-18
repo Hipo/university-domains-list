@@ -168,6 +168,18 @@
     "country": "India"
   },
   {
+    "web_pages": [
+        "https://www.iiits.ac.in/"
+    ],
+    "name": "Indian Institute of Information Technology Sri City",
+    "alpha_two_code": "IN",
+    "state-province": "Chittoor",
+    "domains": [
+        "iiits.in"
+    ],
+    "country": "India"
+  },
+  {
       "web_pages": [
           "https://www.cstj.qc.ca",
           "https://ccmt.cstj.qc.ca",
