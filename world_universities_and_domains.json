@@ -120617,5 +120617,17 @@
             "aecwb.edu.in"
         ],
         "country": "India"
-    }
+    },
+    {
+      "web_pages": [
+          "http://www.claremont.edu/"
+      ],
+      "name": "Claremont Colleges",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "domains": [
+          "claremont.edu"
+      ],
+      "country": "United States"
+    },
 ]
