@@ -12972,7 +12972,8 @@
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "und.edu"
+          "und.edu",
+          "nodak.edu"
       ],
       "country": "United States"
   },
