@@ -8,6 +8,14 @@
     "state-province": null
   },
   {
+    "name": "Bhagwan Parshuram Institute of Technology",
+    "domains": ["bpitindia.edu.in", "bpitindia.in"],
+    "web_pages": ["bpitindia.ac.in"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Delhi"
+  },
+  {
     "name": "National Institute of Applied Sciences of Toulouse",
     "domains": ["insa-toulouse.fr"],
     "web_pages": ["https://insa-toulouse.fr"],
