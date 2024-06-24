@@ -43708,7 +43708,8 @@
       "alpha_two_code": "DE",
       "state-province": null,
       "domains": [
-          "uni-duesseldorf.de"
+          "uni-duesseldorf.de",
+          "hhu.de"
       ],
       "country": "Germany"
   },
