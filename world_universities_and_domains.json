@@ -120630,4 +120630,16 @@
       ],
       "country": "United States"
     },
+    {
+      "web_pages": [
+          "http://www.rcbc.edu/"
+      ],
+      "name": "Rowan College at Burlington County",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "domains": [
+          "rcbc.edu"
+      ],
+      "country": "United States"
+  }
 ]
