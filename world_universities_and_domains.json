@@ -111008,18 +111008,6 @@
   },
   {
       "web_pages": [
-          "http://www.bcc.edu"
-      ],
-      "name": "Burlington County College",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "bcc.edu"
-      ],
-      "country": "United States"
-  },
-  {
-      "web_pages": [
           "http://www.camdencc.edu"
       ],
       "name": "Camden County College",
