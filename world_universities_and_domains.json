@@ -121385,4 +121385,16 @@
         ],
         "country": "United States"
     },
+    {
+        "web_pages": [
+            "https://www.pnwu.edu/"
+        ],
+        "name": "Pacific Northwest University of Health Sciences",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "pnwu.edu"
+        ],
+        "country": "United States"
+    }
 ]
