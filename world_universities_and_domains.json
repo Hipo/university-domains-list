@@ -121492,5 +121492,17 @@
             "wnc.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.westernu.edu/"
+        ],
+        "name": "Western University of Health Sciences",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "westernu.edu"
+        ],
+        "country": "United States"
     }
 ]
