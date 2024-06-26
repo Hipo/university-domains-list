@@ -120664,5 +120664,17 @@
             "inteli.edu.br"
         ],
         "country": "Brazil"
+    },
+    {
+        "web_pages": [
+            "https://www.bou.ac.bw/"
+        ],
+        "name": "Botswana Open University",
+        "alpha_two_code": "BW",
+        "state-province": null,
+        "domains": [
+            "bou.ac.bw"
+        ],
+        "country": "Botswana"
     }
 ]
