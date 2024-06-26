@@ -121504,5 +121504,17 @@
             "westernu.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://itpu.uz/"
+        ],
+        "name": "IT Park University",
+        "alpha_two_code": "UZ",
+        "state-province": null,
+        "domains": [
+            "itpu.uz"
+        ],
+        "country": "Uzbekistan"
     }
 ]
