@@ -120772,5 +120772,17 @@
             "absparis.com"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.eslsca.fr/"
+        ],
+        "name": "ESLSCA Business School Paris",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "eslsca.fr"
+        ],
+        "country": "France"
     }
 ]
