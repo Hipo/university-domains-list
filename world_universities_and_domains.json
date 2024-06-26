@@ -121108,5 +121108,17 @@
             "taejae.ac.kr"
         ],
         "country": "Korea, Republic of"
+    },
+    {
+        "web_pages": [
+            "https://www.ntue.edu.tw/"
+        ],
+        "name": "National Taipei University of Education",
+        "alpha_two_code": "TW",
+        "state-province": null,
+        "domains": [
+            "ntue.edu.tw"
+        ],
+        "country": "Taiwan, Province of China"
     }
 ]
