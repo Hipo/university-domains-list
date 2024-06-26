@@ -121396,5 +121396,17 @@
             "pnwu.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.purdueglobal.edu/"
+        ],
+        "name": "Purdue Global",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "purdueglobal.edu"
+        ],
+        "country": "United States"
     }
 ]
