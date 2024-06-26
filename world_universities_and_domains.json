@@ -121408,5 +121408,17 @@
             "purdueglobal.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://rcsj.edu/"
+        ],
+        "name": "Rowan College of South Jersey",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "rcsj.edu"
+        ],
+        "country": "United States"
     }
 ]
