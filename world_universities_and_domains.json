@@ -121312,5 +121312,17 @@
             "franklinpierce.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.kansascity.edu/"
+        ],
+        "name": "Kansas City University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "kansascity.edu"
+        ],
+        "country": "United States"
     }
 ]
