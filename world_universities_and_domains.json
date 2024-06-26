@@ -121024,5 +121024,17 @@
             "wolfert.nl"
         ],
         "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://utec.edu.pe/"
+        ],
+        "name": "Universidad de Ingeniería y Tecnología",
+        "alpha_two_code": "PE",
+        "state-province": null,
+        "domains": [
+            "utec.edu.pe"
+        ],
+        "country": "Peru"
     }
 ]
