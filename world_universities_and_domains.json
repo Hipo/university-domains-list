@@ -120736,5 +120736,17 @@
             "ucimed.com"
         ],
         "country": "Costa Rica"
+    },
+    {
+        "web_pages": [
+            "https://www.britishuniversity.krd/"
+        ],
+        "name": "British International University",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "britishuniversity.krd"
+        ],
+        "country": "United Kingdom"
     }
 ]
