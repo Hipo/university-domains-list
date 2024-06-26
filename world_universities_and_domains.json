@@ -120988,5 +120988,17 @@
             "uir.ac.ma"
         ],
         "country": "Morocco"
+    },
+    {
+        "web_pages": [
+            "https://www.aereshogeschool.nl/"
+        ],
+        "name": "Aeres Hogeschool Almere",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "aereshogeschool.nl"
+        ],
+        "country": "Netherlands"
     }
 ]
