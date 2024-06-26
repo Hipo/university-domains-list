@@ -121444,5 +121444,17 @@
             "sofia.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.downstate.edu/"
+        ],
+        "name": "SUNY Downstate Health Sciences University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "downstate.edu"
+        ],
+        "country": "United States"
     }
 ]
