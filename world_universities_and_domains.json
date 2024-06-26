@@ -120676,5 +120676,17 @@
             "bou.ac.bw"
         ],
         "country": "Botswana"
+    },
+    {
+        "web_pages": [
+            "https://www.georgiancollege.ca/"
+        ],
+        "name": "Georgian College",
+        "alpha_two_code": "CA",
+        "state-province": "Quebec",
+        "domains": [
+            "georgiancollege.ca"
+        ],
+        "country": "Canada"
     }
 ]
