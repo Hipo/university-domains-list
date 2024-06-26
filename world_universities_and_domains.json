@@ -120844,5 +120844,17 @@
             "euroakademie.de"
         ],
         "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://www.hs-rm.de/"
+        ],
+        "name": "Hochschule RheinMain",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "hs-rm.de"
+        ],
+        "country": "Germany"
     }
 ]
