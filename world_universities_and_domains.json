@@ -120820,5 +120820,17 @@
             "iae-france.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ebs.edu/"
+        ],
+        "name": "EBS Universität",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "ebs.edu"
+        ],
+        "country": "Germany"
     }
 ]
