@@ -121420,5 +121420,17 @@
             "rcsj.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.ssfs.org/"
+        ],
+        "name": "Sandy Spring Friends School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "ssfs.org"
+        ],
+        "country": "United States"
     }
 ]
