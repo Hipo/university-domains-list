@@ -120712,5 +120712,17 @@
             "niagaracollege.ca"
         ],
         "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://www.colmayor.edu.co/"
+        ],
+        "name": "Colegio Mayor de Antioquia",
+        "alpha_two_code": "CO",
+        "state-province": null,
+        "domains": [
+            "colmayor.edu.co"
+        ],
+        "country": "Colombia"
     }
 ]
