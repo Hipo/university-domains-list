@@ -120739,14 +120739,14 @@
     },
     {
         "web_pages": [
-            "https://www.britishuniversity.krd/"
+            "https://biu.education/"
         ],
         "name": "British International University",
-        "alpha_two_code": "GB",
+        "alpha_two_code": "CI",
         "state-province": null,
         "domains": [
-            "britishuniversity.krd"
+            "biu.education"
         ],
-        "country": "United Kingdom"
+        "country": "Côte d'Ivoire"
     }
 ]
