@@ -121516,5 +121516,41 @@
             "itpu.uz"
         ],
         "country": "Uzbekistan"
+    },
+    {
+        "web_pages": [
+            "https://escp.eu/"
+        ],
+        "name": "ESCP Business School",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "escp.eu"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://escp.eu/madrid"
+        ],
+        "name": "ESCP Business School",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "escp.eu"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://escp.eu/london"
+        ],
+        "name": "ESCP Business School",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "escp.eu"
+        ],
+        "country": "United Kingdom"
     }
 ]
