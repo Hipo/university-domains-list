@@ -120880,5 +120880,17 @@
             "aditya.ac.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://adtu.in/"
+        ],
+        "name": "Assam Down Town University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "adtu.in"
+        ],
+        "country": "India"
     }
 ]
