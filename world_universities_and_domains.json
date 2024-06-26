@@ -121480,5 +121480,17 @@
             "vermontlaw.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://wnc.edu/"
+        ],
+        "name": "Western Nevada College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "wnc.edu"
+        ],
+        "country": "United States"
     }
 ]
