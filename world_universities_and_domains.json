@@ -121073,4 +121073,16 @@
         ],
         "country": "Qatar"
     },
+    {
+        "web_pages": [
+            "https://www.essec.edu/"
+        ],
+        "name": "ESSEC Business School, Asia-Pacfic",
+        "alpha_two_code": "SG",
+        "state-province": null,
+        "domains": [
+            "essec.edu"
+        ],
+        "country": "Singapore"
+    }
 ]
