@@ -120941,4 +120941,16 @@
         ],
         "country": "Jamaica"
     },
+    {
+        "web_pages": [
+            "https://www.bgu.ac.jp/"
+        ],
+        "name": "Bunkyo Gakuin University",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "bgu.ac.jp"
+        ],
+        "country": "Japan"
+    }
 ]
