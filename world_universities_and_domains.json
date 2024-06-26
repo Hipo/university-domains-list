@@ -121228,5 +121228,17 @@
             "cusm.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.law.cuny.edu/"
+        ],
+        "name": "CUNY School of Law",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "law.cuny.edu"
+        ],
+        "country": "United States"
     }
 ]
