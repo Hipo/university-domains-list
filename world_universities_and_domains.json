@@ -121036,5 +121036,17 @@
             "utec.edu.pe"
         ],
         "country": "Peru"
-    }
+    },
+    {
+        "web_pages": [
+            "https://mcc.edu.ph/"
+        ],
+        "name": "Mabalacat City College",
+        "alpha_two_code": "PH",
+        "state-province": null,
+        "domains": [
+            "mcc.edu.ph"
+        ],
+        "country": "Philippines"
+    },
 ]
