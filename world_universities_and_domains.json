@@ -120640,5 +120640,17 @@
             "qahs.eq.edu.au"
         ],
         "country": "Australia"
+    },
+    {
+        "web_pages": [
+            "https://www.trinity.nsw.edu.au/"
+        ],
+        "name": "Trinity Grammar School",
+        "alpha_two_code": "AU",
+        "state-province": null,
+        "domains": [
+            "trinity.nsw.edu.au"
+        ],
+        "country": "Australia"
     }
 ]
