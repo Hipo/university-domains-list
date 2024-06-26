@@ -121348,5 +121348,17 @@
             "mica.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.merrimack.edu/"
+        ],
+        "name": "Merrimack College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "merrimack.edu"
+        ],
+        "country": "United States"
     }
 ]
