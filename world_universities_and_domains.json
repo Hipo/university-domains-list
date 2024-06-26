@@ -121264,5 +121264,17 @@
             "evms.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.elms.edu/"
+        ],
+        "name": "Elms College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "elms.edu"
+        ],
+        "country": "United States"
     }
 ]
