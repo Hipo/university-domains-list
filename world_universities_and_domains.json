@@ -121336,5 +121336,17 @@
             "loyno.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.mica.edu/"
+        ],
+        "name": "Maryland Institute College of Arts",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "mica.edu"
+        ],
+        "country": "United States"
     }
 ]
