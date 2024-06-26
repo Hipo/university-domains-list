@@ -120916,5 +120916,17 @@
             "kiit.ac.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.sharda.ac.in/"
+        ],
+        "name": "Sharda University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "sharda.ac.in"
+        ],
+        "country": "India"
     }
 ]
