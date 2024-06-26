@@ -120784,5 +120784,17 @@
             "eslsca.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.unilasalle.fr/"
+        ],
+        "name": "UniLaSalle",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "unilasalle.fr"
+        ],
+        "country": "France"
     }
 ]
