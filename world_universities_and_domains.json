@@ -120808,5 +120808,17 @@
             "yncrea.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.iae-france.fr/"
+        ],
+        "name": "IAE France",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "iae-france.fr"
+        ],
+        "country": "France"
     }
 ]
