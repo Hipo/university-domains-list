@@ -121049,4 +121049,16 @@
         ],
         "country": "Philippines"
     },
+    {
+        "web_pages": [
+            "https://mcl.edu.ph/"
+        ],
+        "name": "Malayan Colleges Laguna",
+        "alpha_two_code": "PH",
+        "state-province": null,
+        "domains": [
+            "mcl.edu.ph"
+        ],
+        "country": "Philippines"
+    }
 ]
