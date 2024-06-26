@@ -120868,5 +120868,17 @@
             "isdedu.de"
         ],
         "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://aditya.ac.in/"
+        ],
+        "name": "Aditya University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "aditya.ac.in"
+        ],
+        "country": "India"
     }
 ]
