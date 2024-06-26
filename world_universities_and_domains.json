@@ -121432,5 +121432,17 @@
             "ssfs.org"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.sofia.edu/"
+        ],
+        "name": "Sofia University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "sofia.edu"
+        ],
+        "country": "United States"
     }
 ]
