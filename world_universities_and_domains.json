@@ -121288,5 +121288,17 @@
             "estrellamountain.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.flsouthern.edu/"
+        ],
+        "name": "Florida Southern College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "flsouthern.edu"
+        ],
+        "country": "United States"
     }
 ]
