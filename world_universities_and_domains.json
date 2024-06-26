@@ -120652,5 +120652,17 @@
             "trinity.nsw.edu.au"
         ],
         "country": "Australia"
+    },
+    {
+        "web_pages": [
+            "https://www.inteli.edu.br/"
+        ],
+        "name": "Inteli",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "inteli.edu.br"
+        ],
+        "country": "Brazil"
     }
 ]
