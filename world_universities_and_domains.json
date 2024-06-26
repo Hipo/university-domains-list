@@ -121468,5 +121468,17 @@
             "uscb.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.vermontlaw.edu/"
+        ],
+        "name": "Vermont Law School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "vermontlaw.edu"
+        ],
+        "country": "United States"
     }
 ]
