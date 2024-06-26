@@ -121240,7 +121240,7 @@
             "law.cuny.edu"
         ],
         "country": "United States"
-    }
+    },
     {
         "web_pages": [
             "https://www.doane.edu/"
@@ -121250,6 +121250,18 @@
         "state-province": null,
         "domains": [
             "doane.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.evms.edu/"
+        ],
+        "name": "Eastern Virginia Medical School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "evms.edu"
         ],
         "country": "United States"
     }
