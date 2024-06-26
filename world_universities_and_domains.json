@@ -120856,5 +120856,17 @@
             "hs-rm.de"
         ],
         "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://www.isdedu.de/"
+        ],
+        "name": "International School of Dusseldorf",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "isdedu.de"
+        ],
+        "country": "Germany"
     }
 ]
