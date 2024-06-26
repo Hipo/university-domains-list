@@ -121456,5 +121456,17 @@
             "downstate.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.uscb.edu/"
+        ],
+        "name": "University of South Carolina, Beaufort",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "uscb.edu"
+        ],
+        "country": "United States"
     }
 ]
