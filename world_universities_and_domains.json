@@ -120976,5 +120976,17 @@
             "glu.edu.mn"
         ],
         "country": "Mongolia"
+    },
+    {
+        "web_pages": [
+            "https://www.uir.ac.ma/"
+        ],
+        "name": "Université Internationale de Rabat",
+        "alpha_two_code": "MA",
+        "state-province": null,
+        "domains": [
+            "uir.ac.ma"
+        ],
+        "country": "Morocco"
     }
 ]
