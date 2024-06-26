@@ -121241,4 +121241,16 @@
         ],
         "country": "United States"
     }
+    {
+        "web_pages": [
+            "https://www.doane.edu/"
+        ],
+        "name": "Doane University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "doane.edu"
+        ],
+        "country": "United States"
+    }
 ]
