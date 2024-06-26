@@ -121000,5 +121000,17 @@
             "aereshogeschool.nl"
         ],
         "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://www.horizoncollege.nl/"
+        ],
+        "name": "Horizon College",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "horizoncollege.nl"
+        ],
+        "country": "Netherlands"
     }
 ]
