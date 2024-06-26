@@ -120892,5 +120892,17 @@
             "adtu.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.jioinstitute.edu.in/"
+        ],
+        "name": "Jio Institute",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "jioinstitute.edu.in"
+        ],
+        "country": "India"
     }
 ]
