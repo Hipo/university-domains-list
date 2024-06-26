@@ -121300,5 +121300,17 @@
             "flsouthern.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://franklinpierce.edu/"
+        ],
+        "name": "Franklin Pierce University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "franklinpierce.edu"
+        ],
+        "country": "United States"
     }
 ]
