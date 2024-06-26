@@ -120796,5 +120796,17 @@
             "unilasalle.fr"
         ],
         "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://yncrea.fr/"
+        ],
+        "name": "Yncrea",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "yncrea.fr"
+        ],
+        "country": "France"
     }
 ]
