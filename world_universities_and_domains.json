@@ -120683,9 +120683,21 @@
         ],
         "name": "Georgian College",
         "alpha_two_code": "CA",
-        "state-province": "Quebec",
+        "state-province": "Ontario",
         "domains": [
             "georgiancollege.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://lethbridgecollege.ca/"
+        ],
+        "name": "Lethbridge College",
+        "alpha_two_code": "CA",
+        "state-province": "Alberta",
+        "domains": [
+            "lethbridgecollege.ca"
         ],
         "country": "Canada"
     }
