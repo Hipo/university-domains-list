@@ -121120,5 +121120,17 @@
             "ntue.edu.tw"
         ],
         "country": "Taiwan, Province of China"
+    },
+    {
+        "web_pages": [
+            "https://www.eskisehir.edu.tr/"
+        ],
+        "name": "Eskişehir Teknik Üniversitesi",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "eskisehir.edu.tr"
+        ],
+        "country": "Turkey"
     }
 ]
