@@ -120928,5 +120928,17 @@
             "sharda.ac.in"
         ],
         "country": "India"
-    }
+    },
+    {
+        "web_pages": [
+            "https://cccj.edu.jm/"
+        ],
+        "name": "The Council of Community Colleges of Jamaica",
+        "alpha_two_code": "JM",
+        "state-province": null,
+        "domains": [
+            "cccj.edu.jm"
+        ],
+        "country": "Jamaica"
+    },
 ]
