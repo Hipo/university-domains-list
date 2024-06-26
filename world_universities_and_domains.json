@@ -120628,5 +120628,17 @@
             "aecwb.edu.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://qahs.eq.edu.au/"
+        ],
+        "name": "Queensland Academy for Health Sciences",
+        "alpha_two_code": "AU",
+        "state-province": null,
+        "domains": [
+            "qahs.eq.edu.au"
+        ],
+        "country": "Australia"
     }
 ]
