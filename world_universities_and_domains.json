@@ -120761,4 +120761,16 @@
         ],
         "country": "Czech Republic"
     },
+    {
+        "web_pages": [
+            "https://www.absparis.com/"
+        ],
+        "name": "American Business School of Paris",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "absparis.com"
+        ],
+        "country": "France"
+    }
 ]
