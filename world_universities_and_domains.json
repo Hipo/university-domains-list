@@ -120904,5 +120904,17 @@
             "jioinstitute.edu.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://kiit.ac.in/"
+        ],
+        "name": "Kalinga Institute of Industrial Technology (KIIT)",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "kiit.ac.in"
+        ],
+        "country": "India"
     }
 ]
