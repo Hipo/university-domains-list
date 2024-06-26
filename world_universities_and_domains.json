@@ -120748,5 +120748,17 @@
             "biu.education"
         ],
         "country": "Côte d'Ivoire"
-    }
+    },
+    {
+        "web_pages": [
+            "https://www.vstecb.cz/"
+        ],
+        "name": "Institute of Technology and Business (VŠTE)",
+        "alpha_two_code": "CZ",
+        "state-province": null,
+        "domains": [
+            "vstecb.cz"
+        ],
+        "country": "Czech Republic"
+    },
 ]
