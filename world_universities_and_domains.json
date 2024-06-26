@@ -121096,5 +121096,17 @@
             "dis.sc.kr"
         ],
         "country": "Korea, Republic of"
+    },
+    {
+        "web_pages": [
+            "https://www.taejae.ac.kr/"
+        ],
+        "name": "Taejae University",
+        "alpha_two_code": "KR",
+        "state-province": null,
+        "domains": [
+            "taejae.ac.kr"
+        ],
+        "country": "Korea, Republic of"
     }
 ]
