@@ -121084,5 +121084,17 @@
             "essec.edu"
         ],
         "country": "Singapore"
+    },
+    {
+        "web_pages": [
+            "https://www.dis.sc.kr/"
+        ],
+        "name": "Daegu International School",
+        "alpha_two_code": "KR",
+        "state-province": null,
+        "domains": [
+            "dis.sc.kr"
+        ],
+        "country": "Korea, Republic of"
     }
 ]
