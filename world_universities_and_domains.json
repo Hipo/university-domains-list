@@ -120964,5 +120964,17 @@
             "wilmina.ac.jp"
         ],
         "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "https://glu.edu.mn/"
+        ],
+        "name": "Global Leadership University",
+        "alpha_two_code": "MN",
+        "state-province": null,
+        "domains": [
+            "glu.edu.mn"
+        ],
+        "country": "Mongolia"
     }
 ]
