@@ -121204,5 +121204,17 @@
             "cumbria.ac.uk"
         ],
         "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.aspen.edu/"
+        ],
+        "name": "Aspen University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "aspen.edu"
+        ],
+        "country": "United States"
     }
 ]
