@@ -121216,5 +121216,17 @@
             "aspen.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.cusm.edu/"
+        ],
+        "name": "California University of Science and Medicine",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "cusm.edu"
+        ],
+        "country": "United States"
     }
 ]
