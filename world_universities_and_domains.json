@@ -121060,5 +121060,17 @@
             "mcl.edu.ph"
         ],
         "country": "Philippines"
-    }
+    },
+    {
+        "web_pages": [
+            "https://www.qatar.cmu.edu/"
+        ],
+        "name": "Carnegie Mellon University Qatar",
+        "alpha_two_code": "QA",
+        "state-province": null,
+        "domains": [
+            "qatar.cmu.edu"
+        ],
+        "country": "Qatar"
+    },
 ]
