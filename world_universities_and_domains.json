@@ -120724,5 +120724,17 @@
             "colmayor.edu.co"
         ],
         "country": "Colombia"
+    },
+    {
+        "web_pages": [
+            "https://ucimed.com/"
+        ],
+        "name": "Universidad de Ciencias Médicas",
+        "alpha_two_code": "CR",
+        "state-province": null,
+        "domains": [
+            "ucimed.com"
+        ],
+        "country": "Costa Rica"
     }
 ]
