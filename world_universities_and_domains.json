@@ -120701,4 +120701,16 @@
         ],
         "country": "Canada"
     }
+    {
+        "web_pages": [
+            "https://www.niagaracollege.ca/"
+        ],
+        "name": "Niagara College Canada",
+        "alpha_two_code": "CA",
+        "state-province": "Ontario",
+        "domains": [
+            "niagaracollege.ca"
+        ],
+        "country": "Canada"
+    }
 ]
