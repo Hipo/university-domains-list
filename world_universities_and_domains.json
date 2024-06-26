@@ -121360,5 +121360,17 @@
             "merrimack.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.nebrwesleyan.edu/"
+        ],
+        "name": "Nebraska Wesleyan University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "nebrwesleyan.edu"
+        ],
+        "country": "United States"
     }
 ]
