@@ -121324,5 +121324,17 @@
             "kansascity.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.loyno.edu/"
+        ],
+        "name": "Loyola University New Orleans",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "loyno.edu"
+        ],
+        "country": "United States"
     }
 ]
