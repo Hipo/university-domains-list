@@ -120952,5 +120952,17 @@
             "bgu.ac.jp"
         ],
         "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "https://www.wilmina.ac.jp/"
+        ],
+        "name": "Osaka Jogakuin University",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "wilmina.ac.jp"
+        ],
+        "country": "Japan"
     }
 ]
