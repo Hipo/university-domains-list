@@ -12972,7 +12972,8 @@
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "und.edu"
+          "und.edu",
+          "nodak.edu"
       ],
       "country": "United States"
   },
@@ -43707,7 +43708,8 @@
       "alpha_two_code": "DE",
       "state-province": null,
       "domains": [
-          "uni-duesseldorf.de"
+          "uni-duesseldorf.de",
+          "hhu.de"
       ],
       "country": "Germany"
   },
@@ -48708,7 +48710,6 @@
       ],
       "country": "India"
   },
-
   {
       "web_pages": [
           "http://www.mdsuajmer.ac.in/"
@@ -111007,18 +111008,6 @@
   },
   {
       "web_pages": [
-          "http://www.bcc.edu"
-      ],
-      "name": "Burlington County College",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "bcc.edu"
-      ],
-      "country": "United States"
-  },
-  {
-      "web_pages": [
           "http://www.camdencc.edu"
       ],
       "name": "Camden County College",
@@ -120628,5 +120617,29 @@
             "aecwb.edu.in"
         ],
         "country": "India"
-    }
+    },
+    {
+      "web_pages": [
+          "http://www.claremont.edu/"
+      ],
+      "name": "Claremont Colleges",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "domains": [
+          "claremont.edu"
+      ],
+      "country": "United States"
+    },
+    {
+      "web_pages": [
+          "http://www.rcbc.edu/"
+      ],
+      "name": "Rowan College at Burlington County",
+      "alpha_two_code": "US",
+      "state-province": null,
+      "domains": [
+          "rcbc.edu"
+      ],
+      "country": "United States"
+  }
 ]
