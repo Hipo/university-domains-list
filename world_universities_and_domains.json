@@ -26309,7 +26309,8 @@
       "alpha_two_code": "CA",
       "state-province": "Ontario",
       "domains": [
-          "utoronto.ca"
+          "utoronto.ca",
+          "toronto.edu"
       ],
       "country": "Canada"
   },
