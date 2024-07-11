@@ -26309,7 +26309,8 @@
       "alpha_two_code": "CA",
       "state-province": "Ontario",
       "domains": [
-          "utoronto.ca"
+          "utoronto.ca",
+          "toronto.edu"
       ],
       "country": "Canada"
   },
@@ -26396,18 +26397,6 @@
           "vicu.utoronto.ca"
       ],
       "country": "Canada"
-  },
-  {
-    "web_pages": [
-        "http://eecg.toronto.edu/"
-    ],
-    "name": "The Computer Engineering Research Group,University of Toronto",
-    "alpha_two_code": "CA",
-    "state-province": "Ontario",
-    "domains": [
-        "eecg.toronto.edu"
-    ],
-    "country": "Canada"
   },
   {
       "web_pages": [
