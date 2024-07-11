@@ -1,5 +1,13 @@
 [
   {
+    "name": "Universidade Comunitária da Região de Chapecó - Unochapecó",
+    "domains": ["unochapeco.edu.br"],
+    "web_pages": ["https://unochapeco.edu.br"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": null
+  },
+  {
     "name": "West Herts College",
     "domains": ["student.westherts.ac.uk", "westherts.ac.uk"],
     "web_pages": ["https://westherts.ac.uk"],
