@@ -1,5 +1,13 @@
 [
   {
+    "name": "Toronto Baptist Seminary and Bible College",
+    "domains": ["tbs.edu"],
+    "web_pages": ["https://tbs.edu"],
+    "country": "Canada",
+    "alpha_two_code": "CA",
+    "state-province": "Ontario"
+  },
+  {
     "name": "Universidade Comunitária da Região de Chapecó - Unochapecó",
     "domains": ["unochapeco.edu.br"],
     "web_pages": ["https://unochapeco.edu.br"],
