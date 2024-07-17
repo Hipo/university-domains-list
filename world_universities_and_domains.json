@@ -39941,13 +39941,13 @@
   },
   {
       "web_pages": [
-          "http://www.univ-lr.fr/"
+          "http://www.univ-larochelle.fr/"
       ],
-      "name": "Université de La Rochelle",
+      "name": "La Rochelle Université",
       "alpha_two_code": "FR",
       "state-province": null,
       "domains": [
-          "univ-lr.fr"
+          "univ-larochelle.fr"
       ],
       "country": "France"
   },
@@ -120640,3 +120640,4 @@
       "country": "United States"
   }
 ]
+
