@@ -6078,7 +6078,8 @@
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "iit.edu"
+          "iit.edu",
+          "hawk.iit.edu"
       ],
       "country": "United States"
   },
