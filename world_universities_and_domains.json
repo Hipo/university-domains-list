@@ -120637,6 +120637,14 @@
       "country": "United States"
     },
     {
+      "name": "University of Economics and Humanities Warsaw",
+      "domains": ["students.vizja.pl"],
+      "web_pages": ["https://vizja.pl"],
+      "country": "Poland",
+      "alpha_two_code": "PL",
+      "state-province": null
+    },
+    {
       "web_pages": [
           "http://www.rcbc.edu/"
       ],
