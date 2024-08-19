@@ -120670,30 +120670,6 @@
     },
     {
         "web_pages": [
-            "https://qahs.eq.edu.au/"
-        ],
-        "name": "Queensland Academy for Health Sciences",
-        "alpha_two_code": "AU",
-        "state-province": null,
-        "domains": [
-            "qahs.eq.edu.au"
-        ],
-        "country": "Australia"
-    },
-    {
-        "web_pages": [
-            "https://www.trinity.nsw.edu.au/"
-        ],
-        "name": "Trinity Grammar School",
-        "alpha_two_code": "AU",
-        "state-province": null,
-        "domains": [
-            "trinity.nsw.edu.au"
-        ],
-        "country": "Australia"
-    },
-    {
-        "web_pages": [
             "https://www.inteli.edu.br/"
         ],
         "name": "Inteli",
@@ -120874,18 +120850,6 @@
     },
     {
         "web_pages": [
-            "https://www.euroakademie.de/"
-        ],
-        "name": "Euro Akademie",
-        "alpha_two_code": "DE",
-        "state-province": null,
-        "domains": [
-            "euroakademie.de"
-        ],
-        "country": "Germany"
-    },
-    {
-        "web_pages": [
             "https://www.hs-rm.de/"
         ],
         "name": "Hochschule RheinMain",
@@ -120893,18 +120857,6 @@
         "state-province": null,
         "domains": [
             "hs-rm.de"
-        ],
-        "country": "Germany"
-    },
-    {
-        "web_pages": [
-            "https://www.isdedu.de/"
-        ],
-        "name": "International School of Dusseldorf",
-        "alpha_two_code": "DE",
-        "state-province": null,
-        "domains": [
-            "isdedu.de"
         ],
         "country": "Germany"
     },
@@ -120934,18 +120886,6 @@
     },
     {
         "web_pages": [
-            "https://www.jioinstitute.edu.in/"
-        ],
-        "name": "Jio Institute",
-        "alpha_two_code": "IN",
-        "state-province": null,
-        "domains": [
-            "jioinstitute.edu.in"
-        ],
-        "country": "India"
-    },
-    {
-        "web_pages": [
             "https://kiit.ac.in/"
         ],
         "name": "Kalinga Institute of Industrial Technology (KIIT)",
@@ -120967,18 +120907,6 @@
             "sharda.ac.in"
         ],
         "country": "India"
-    },
-    {
-        "web_pages": [
-            "https://cccj.edu.jm/"
-        ],
-        "name": "The Council of Community Colleges of Jamaica",
-        "alpha_two_code": "JM",
-        "state-province": null,
-        "domains": [
-            "cccj.edu.jm"
-        ],
-        "country": "Jamaica"
     },
     {
         "web_pages": [
@@ -121042,30 +120970,6 @@
     },
     {
         "web_pages": [
-            "https://www.horizoncollege.nl/"
-        ],
-        "name": "Horizon College",
-        "alpha_two_code": "NL",
-        "state-province": null,
-        "domains": [
-            "horizoncollege.nl"
-        ],
-        "country": "Netherlands"
-    },
-    {
-        "web_pages": [
-            "https://www.wolfert.nl/"
-        ],
-        "name": "Wolfert van Borselen",
-        "alpha_two_code": "NL",
-        "state-province": null,
-        "domains": [
-            "wolfert.nl"
-        ],
-        "country": "Netherlands"
-    },
-    {
-        "web_pages": [
             "https://utec.edu.pe/"
         ],
         "name": "Universidad de Ingeniería y Tecnología",
@@ -121075,18 +120979,6 @@
             "utec.edu.pe"
         ],
         "country": "Peru"
-    },
-    {
-        "web_pages": [
-            "https://mcc.edu.ph/"
-        ],
-        "name": "Mabalacat City College",
-        "alpha_two_code": "PH",
-        "state-province": null,
-        "domains": [
-            "mcc.edu.ph"
-        ],
-        "country": "Philippines"
     },
     {
         "web_pages": [
@@ -121111,30 +121003,6 @@
             "qatar.cmu.edu"
         ],
         "country": "Qatar"
-    },
-    {
-        "web_pages": [
-            "https://www.essec.edu/"
-        ],
-        "name": "ESSEC Business School, Asia-Pacfic",
-        "alpha_two_code": "SG",
-        "state-province": null,
-        "domains": [
-            "essec.edu"
-        ],
-        "country": "Singapore"
-    },
-    {
-        "web_pages": [
-            "https://www.dis.sc.kr/"
-        ],
-        "name": "Daegu International School",
-        "alpha_two_code": "KR",
-        "state-province": null,
-        "domains": [
-            "dis.sc.kr"
-        ],
-        "country": "Korea, Republic of"
     },
     {
         "web_pages": [
@@ -121174,30 +121042,6 @@
     },
     {
         "web_pages": [
-            "https://website.robcol.k12.tr/"
-        ],
-        "name": "Robert College",
-        "alpha_two_code": "TR",
-        "state-province": null,
-        "domains": [
-            "website.robcol.k12.tr"
-        ],
-        "country": "Turkey"
-    },
-    {
-        "web_pages": [
-            "https://www.acs-schools.com/cobham"
-        ],
-        "name": "ACS Cobham International School",
-        "alpha_two_code": "GB",
-        "state-province": null,
-        "domains": [
-            "acs-schools.com"
-        ],
-        "country": "United Kingdom"
-    },
-    {
-        "web_pages": [
             "https://college.harlaxton.co.uk/"
         ],
         "name": "Harlaxton College",
@@ -121217,18 +121061,6 @@
         "state-province": null,
         "domains": [
             "newcollege.ac.uk"
-        ],
-        "country": "United Kingdom"
-    },
-    {
-        "web_pages": [
-            "https://northlindsey.ac.uk/"
-        ],
-        "name": "North Lindsey College",
-        "alpha_two_code": "GB",
-        "state-province": null,
-        "domains": [
-            "northlindsey.ac.uk"
         ],
         "country": "United Kingdom"
     },
@@ -121457,18 +121289,6 @@
         "state-province": null,
         "domains": [
             "rcsj.edu"
-        ],
-        "country": "United States"
-    },
-    {
-        "web_pages": [
-            "https://www.ssfs.org/"
-        ],
-        "name": "Sandy Spring Friends School",
-        "alpha_two_code": "US",
-        "state-province": null,
-        "domains": [
-            "ssfs.org"
         ],
         "country": "United States"
     },
