@@ -1,5 +1,21 @@
 [
   {
+    "name": "Toronto Baptist Seminary and Bible College",
+    "domains": ["tbs.edu"],
+    "web_pages": ["https://tbs.edu"],
+    "country": "Canada",
+    "alpha_two_code": "CA",
+    "state-province": "Ontario"
+  },
+  {
+    "name": "Universidade Comunitária da Região de Chapecó - Unochapecó",
+    "domains": ["unochapeco.edu.br"],
+    "web_pages": ["https://unochapeco.edu.br"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": null
+  },
+  {
     "name": "West Herts College",
     "domains": ["student.westherts.ac.uk", "westherts.ac.uk"],
     "web_pages": ["https://westherts.ac.uk"],
@@ -6070,7 +6086,8 @@
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "iit.edu"
+          "iit.edu",
+          "hawk.iit.edu"
       ],
       "country": "United States"
   },
@@ -12972,7 +12989,8 @@
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
-          "und.edu"
+          "und.edu",
+          "nodak.edu"
       ],
       "country": "United States"
   },
@@ -26308,7 +26326,8 @@
       "alpha_two_code": "CA",
       "state-province": "Ontario",
       "domains": [
-          "utoronto.ca"
+          "utoronto.ca",
+          "toronto.edu"
       ],
       "country": "Canada"
   },
@@ -26395,18 +26414,6 @@
           "vicu.utoronto.ca"
       ],
       "country": "Canada"
-  },
-  {
-    "web_pages": [
-        "http://eecg.toronto.edu/"
-    ],
-    "name": "The Computer Engineering Research Group,University of Toronto",
-    "alpha_two_code": "CA",
-    "state-province": "Ontario",
-    "domains": [
-        "eecg.toronto.edu"
-    ],
-    "country": "Canada"
   },
   {
       "web_pages": [
@@ -43707,7 +43714,8 @@
       "alpha_two_code": "DE",
       "state-province": null,
       "domains": [
-          "uni-duesseldorf.de"
+          "uni-duesseldorf.de",
+          "hhu.de"
       ],
       "country": "Germany"
   },
@@ -48708,7 +48716,6 @@
       ],
       "country": "India"
   },
-
   {
       "web_pages": [
           "http://www.mdsuajmer.ac.in/"
@@ -111007,18 +111014,6 @@
   },
   {
       "web_pages": [
-          "http://www.bcc.edu"
-      ],
-      "name": "Burlington County College",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "bcc.edu"
-      ],
-      "country": "United States"
-  },
-  {
-      "web_pages": [
           "http://www.camdencc.edu"
       ],
       "name": "Camden County College",
@@ -120628,6 +120623,50 @@
             "aecwb.edu.in"
         ],
         "country": "India"
+    },
+    {
+        "web_pages": [
+            "http://www.claremont.edu/"
+        ],
+        "name": "Claremont Colleges",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "claremont.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "name": "University of Economics and Humanities Warsaw",
+        "domains": ["students.vizja.pl"],
+        "web_pages": ["https://vizja.pl"],
+        "country": "Poland",
+        "alpha_two_code": "PL",
+        "state-province": null
+    },
+    {
+        "web_pages": [
+            "http://www.rcbc.edu/"
+        ],
+        "name": "Rowan College at Burlington County",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "rcbc.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "http://www.jefferson.edu/"
+        ],
+        "name": "Thomas Jefferson University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "jefferson.edu"
+        ],
+        "country": "United States"
     },
     {
         "web_pages": [
