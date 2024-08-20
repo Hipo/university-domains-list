@@ -121411,5 +121411,17 @@
             "escp.eu"
         ],
         "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.stmarytx.edu/"
+        ],
+        "name": "St. Mary's University",
+        "alpha_two_code": "US",
+        "state-province": "Texas",
+        "domains": [
+            "stmarytx.edu"
+        ],
+        "country": "United States"
     }
 ]
