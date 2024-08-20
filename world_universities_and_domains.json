@@ -121423,5 +121423,17 @@
             "stmarytx.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.southflorida.edu/"
+        ],
+        "name": "South Florida State College",
+        "alpha_two_code": "US",
+        "state-province": "Florida",
+        "domains": [
+            "southflorida.edu"
+        ],
+        "country": "United States"
     }
 ]
