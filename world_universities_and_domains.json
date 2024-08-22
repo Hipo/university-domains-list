@@ -105,8 +105,8 @@
   },
   {
       "name": "University of Portsmouth",
-      "domains": ["myport.ac.uk", "myport.port.ac.uk"],
-      "web_pages": ["https://myport.port.ac.uk"],
+      "domains": ["port.ac.uk", "myport.ac.uk", "myport.port.ac.uk"],
+      "web_pages": ["http://www.port.ac.uk/", "https://myport.port.ac.uk"],
       "country": "United Kingdom",
       "alpha_two_code": "GB",
       "state-province": null
@@ -101174,18 +101174,6 @@
       "state-province": null,
       "domains": [
           "plymouth.ac.uk"
-      ],
-      "country": "United Kingdom"
-  },
-  {
-      "web_pages": [
-          "http://www.port.ac.uk/"
-      ],
-      "name": "University of Portsmouth",
-      "alpha_two_code": "GB",
-      "state-province": null,
-      "domains": [
-          "port.ac.uk"
       ],
       "country": "United Kingdom"
   },
