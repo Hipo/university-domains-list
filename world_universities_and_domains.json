@@ -57,8 +57,8 @@
   },
   {
     "name": "Kharkiv National University",
-    "domains": ["student.karazin.ua", "karazin.ua"],
-    "web_pages": ["https://karazin.ua"],
+    "domains": ["student.karazin.ua", "karazin.ua", "univer.kharkov.ua"],
+    "web_pages": ["https://karazin.ua", "http://www.univer.kharkov.ua/"],
     "country": "Ukraine",
     "alpha_two_code": "UA",
     "state-province": null
@@ -99348,18 +99348,6 @@
       "state-province": null,
       "domains": [
           "univd.edu.ua"
-      ],
-      "country": "Ukraine"
-  },
-  {
-      "web_pages": [
-          "http://www.univer.kharkov.ua/"
-      ],
-      "name": "Kharkiv National University",
-      "alpha_two_code": "UA",
-      "state-province": null,
-      "domains": [
-          "univer.kharkov.ua"
       ],
       "country": "Ukraine"
   },
