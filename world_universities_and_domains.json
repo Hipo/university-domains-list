@@ -65,8 +65,8 @@
   },
   {
     "name": "Kharkiv National University",
-    "domains": ["student.karazin.ua", "karazin.ua"],
-    "web_pages": ["https://karazin.ua"],
+    "domains": ["student.karazin.ua", "karazin.ua", "univer.kharkov.ua"],
+    "web_pages": ["https://karazin.ua", "http://www.univer.kharkov.ua/"],
     "country": "Ukraine",
     "alpha_two_code": "UA",
     "state-province": null
@@ -113,8 +113,8 @@
   },
   {
       "name": "University of Portsmouth",
-      "domains": ["myport.ac.uk", "myport.port.ac.uk"],
-      "web_pages": ["https://myport.port.ac.uk"],
+      "domains": ["port.ac.uk", "myport.ac.uk", "myport.port.ac.uk"],
+      "web_pages": ["http://www.port.ac.uk/", "https://myport.port.ac.uk"],
       "country": "United Kingdom",
       "alpha_two_code": "GB",
       "state-province": null
@@ -47498,7 +47498,7 @@
       "web_pages": [
           "https://www.iutripura.edu.in/"
       ],
-      "name": "ICFAI University",
+      "name": "ICFAI University, Tripura",
       "alpha_two_code": "IN",
       "state-province": "Tripura",
       "domains": [
@@ -98413,18 +98413,6 @@
   },
   {
       "web_pages": [
-          "http://www.bugemauniv.ac.ug/"
-      ],
-      "name": "Bugema University",
-      "alpha_two_code": "UG",
-      "state-province": null,
-      "domains": [
-          "bugemauniv.ac.ug"
-      ],
-      "country": "Uganda"
-  },
-  {
-      "web_pages": [
           "http://www.busitema.ac.ug/"
       ],
       "name": "Busitema University",
@@ -99368,18 +99356,6 @@
       "state-province": null,
       "domains": [
           "univd.edu.ua"
-      ],
-      "country": "Ukraine"
-  },
-  {
-      "web_pages": [
-          "http://www.univer.kharkov.ua/"
-      ],
-      "name": "Kharkiv National University",
-      "alpha_two_code": "UA",
-      "state-province": null,
-      "domains": [
-          "univer.kharkov.ua"
       ],
       "country": "Ukraine"
   },
@@ -101206,18 +101182,6 @@
       "state-province": null,
       "domains": [
           "plymouth.ac.uk"
-      ],
-      "country": "United Kingdom"
-  },
-  {
-      "web_pages": [
-          "http://www.port.ac.uk/"
-      ],
-      "name": "University of Portsmouth",
-      "alpha_two_code": "GB",
-      "state-province": null,
-      "domains": [
-          "port.ac.uk"
       ],
       "country": "United Kingdom"
   },
@@ -107859,18 +107823,6 @@
       "state-province": null,
       "domains": [
           "ccc.edu"
-      ],
-      "country": "United States"
-  },
-  {
-      "web_pages": [
-          "http://www.dupage.edu"
-      ],
-      "name": "College of DuPage",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "dupage.edu"
       ],
       "country": "United States"
   },
@@ -120253,18 +120205,6 @@
         "state-province": null,
         "domains": [
             "parisnanterre.fr"
-        ],
-        "country": "France"
-    },
-    {
-        "web_pages": [
-            "http://www.u-pec.fr/"
-        ],
-        "name": "Université Paris est Créteil Val de Marne Paris XII",
-        "alpha_two_code": "FR",
-        "state-province": null,
-        "domains": [
-            "u-pec.fr"
         ],
         "country": "France"
     },
