@@ -11161,7 +11161,7 @@
       "web_pages": [
           "http://www.tccd.edu/"
       ],
-      "name": "Terrant County College",
+      "name": "Tarrant County College",
       "alpha_two_code": "US",
       "state-province": null,
       "domains": [
@@ -120633,47 +120633,815 @@
         "country": "India"
     },
     {
-      "web_pages": [
-          "http://www.claremont.edu/"
-      ],
-      "name": "Claremont Colleges",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "claremont.edu"
-      ],
-      "country": "United States"
+        "web_pages": [
+            "http://www.claremont.edu/"
+        ],
+        "name": "Claremont Colleges",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "claremont.edu"
+        ],
+        "country": "United States"
     },
     {
-      "name": "University of Economics and Humanities Warsaw",
-      "domains": ["students.vizja.pl"],
-      "web_pages": ["https://vizja.pl"],
-      "country": "Poland",
-      "alpha_two_code": "PL",
-      "state-province": null
+        "name": "University of Economics and Humanities Warsaw",
+        "domains": ["students.vizja.pl"],
+        "web_pages": ["https://vizja.pl"],
+        "country": "Poland",
+        "alpha_two_code": "PL",
+        "state-province": null
     },
     {
-      "web_pages": [
-          "http://www.rcbc.edu/"
-      ],
-      "name": "Rowan College at Burlington County",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "rcbc.edu"
-      ],
-      "country": "United States"
+        "web_pages": [
+            "http://www.rcbc.edu/"
+        ],
+        "name": "Rowan College at Burlington County",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "rcbc.edu"
+        ],
+        "country": "United States"
     },
     {
-      "web_pages": [
-          "http://www.jefferson.edu/"
-      ],
-      "name": "Thomas Jefferson University",
-      "alpha_two_code": "US",
-      "state-province": null,
-      "domains": [
-          "jefferson.edu"
-      ],
-      "country": "United States"
+        "web_pages": [
+            "http://www.jefferson.edu/"
+        ],
+        "name": "Thomas Jefferson University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "jefferson.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.inteli.edu.br/"
+        ],
+        "name": "Inteli",
+        "alpha_two_code": "BR",
+        "state-province": null,
+        "domains": [
+            "inteli.edu.br"
+        ],
+        "country": "Brazil"
+    },
+    {
+        "web_pages": [
+            "https://www.bou.ac.bw/"
+        ],
+        "name": "Botswana Open University",
+        "alpha_two_code": "BW",
+        "state-province": null,
+        "domains": [
+            "bou.ac.bw"
+        ],
+        "country": "Botswana"
+    },
+    {
+        "web_pages": [
+            "https://www.georgiancollege.ca/"
+        ],
+        "name": "Georgian College",
+        "alpha_two_code": "CA",
+        "state-province": "Ontario",
+        "domains": [
+            "georgiancollege.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://lethbridgecollege.ca/"
+        ],
+        "name": "Lethbridge College",
+        "alpha_two_code": "CA",
+        "state-province": "Alberta",
+        "domains": [
+            "lethbridgecollege.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://www.niagaracollege.ca/"
+        ],
+        "name": "Niagara College Canada",
+        "alpha_two_code": "CA",
+        "state-province": "Ontario",
+        "domains": [
+            "niagaracollege.ca"
+        ],
+        "country": "Canada"
+    },
+    {
+        "web_pages": [
+            "https://www.colmayor.edu.co/"
+        ],
+        "name": "Colegio Mayor de Antioquia",
+        "alpha_two_code": "CO",
+        "state-province": null,
+        "domains": [
+            "colmayor.edu.co"
+        ],
+        "country": "Colombia"
+    },
+    {
+        "web_pages": [
+            "https://ucimed.com/"
+        ],
+        "name": "Universidad de Ciencias Médicas",
+        "alpha_two_code": "CR",
+        "state-province": null,
+        "domains": [
+            "ucimed.com"
+        ],
+        "country": "Costa Rica"
+    },
+    {
+        "web_pages": [
+            "https://biu.education/"
+        ],
+        "name": "British International University",
+        "alpha_two_code": "CI",
+        "state-province": null,
+        "domains": [
+            "biu.education"
+        ],
+        "country": "Côte d'Ivoire"
+    },
+    {
+        "web_pages": [
+            "https://www.vstecb.cz/"
+        ],
+        "name": "Institute of Technology and Business (VŠTE)",
+        "alpha_two_code": "CZ",
+        "state-province": null,
+        "domains": [
+            "vstecb.cz"
+        ],
+        "country": "Czech Republic"
+    },
+    {
+        "web_pages": [
+            "https://www.absparis.com/"
+        ],
+        "name": "American Business School of Paris",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "absparis.com"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.eslsca.fr/"
+        ],
+        "name": "ESLSCA Business School Paris",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "eslsca.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.unilasalle.fr/"
+        ],
+        "name": "UniLaSalle",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "unilasalle.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://yncrea.fr/"
+        ],
+        "name": "Yncrea",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "yncrea.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.iae-france.fr/"
+        ],
+        "name": "IAE France",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "iae-france.fr"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://www.ebs.edu/"
+        ],
+        "name": "EBS Universität",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "ebs.edu"
+        ],
+        "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://www.hs-rm.de/"
+        ],
+        "name": "Hochschule RheinMain",
+        "alpha_two_code": "DE",
+        "state-province": null,
+        "domains": [
+            "hs-rm.de"
+        ],
+        "country": "Germany"
+    },
+    {
+        "web_pages": [
+            "https://aditya.ac.in/"
+        ],
+        "name": "Aditya University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "aditya.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://adtu.in/"
+        ],
+        "name": "Assam Down Town University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "adtu.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://kiit.ac.in/"
+        ],
+        "name": "Kalinga Institute of Industrial Technology (KIIT)",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "kiit.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.sharda.ac.in/"
+        ],
+        "name": "Sharda University",
+        "alpha_two_code": "IN",
+        "state-province": null,
+        "domains": [
+            "sharda.ac.in"
+        ],
+        "country": "India"
+    },
+    {
+        "web_pages": [
+            "https://www.bgu.ac.jp/"
+        ],
+        "name": "Bunkyo Gakuin University",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "bgu.ac.jp"
+        ],
+        "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "https://www.wilmina.ac.jp/"
+        ],
+        "name": "Osaka Jogakuin University",
+        "alpha_two_code": "JP",
+        "state-province": null,
+        "domains": [
+            "wilmina.ac.jp"
+        ],
+        "country": "Japan"
+    },
+    {
+        "web_pages": [
+            "https://glu.edu.mn/"
+        ],
+        "name": "Global Leadership University",
+        "alpha_two_code": "MN",
+        "state-province": null,
+        "domains": [
+            "glu.edu.mn"
+        ],
+        "country": "Mongolia"
+    },
+    {
+        "web_pages": [
+            "https://www.uir.ac.ma/"
+        ],
+        "name": "Université Internationale de Rabat",
+        "alpha_two_code": "MA",
+        "state-province": null,
+        "domains": [
+            "uir.ac.ma"
+        ],
+        "country": "Morocco"
+    },
+    {
+        "web_pages": [
+            "https://www.aereshogeschool.nl/"
+        ],
+        "name": "Aeres Hogeschool Almere",
+        "alpha_two_code": "NL",
+        "state-province": null,
+        "domains": [
+            "aereshogeschool.nl"
+        ],
+        "country": "Netherlands"
+    },
+    {
+        "web_pages": [
+            "https://utec.edu.pe/"
+        ],
+        "name": "Universidad de Ingeniería y Tecnología",
+        "alpha_two_code": "PE",
+        "state-province": null,
+        "domains": [
+            "utec.edu.pe"
+        ],
+        "country": "Peru"
+    },
+    {
+        "web_pages": [
+            "https://mcl.edu.ph/"
+        ],
+        "name": "Malayan Colleges Laguna",
+        "alpha_two_code": "PH",
+        "state-province": null,
+        "domains": [
+            "mcl.edu.ph"
+        ],
+        "country": "Philippines"
+    },
+    {
+        "web_pages": [
+            "https://www.qatar.cmu.edu/"
+        ],
+        "name": "Carnegie Mellon University Qatar",
+        "alpha_two_code": "QA",
+        "state-province": null,
+        "domains": [
+            "qatar.cmu.edu"
+        ],
+        "country": "Qatar"
+    },
+    {
+        "web_pages": [
+            "https://www.taejae.ac.kr/"
+        ],
+        "name": "Taejae University",
+        "alpha_two_code": "KR",
+        "state-province": null,
+        "domains": [
+            "taejae.ac.kr"
+        ],
+        "country": "Korea, Republic of"
+    },
+    {
+        "web_pages": [
+            "https://www.ntue.edu.tw/"
+        ],
+        "name": "National Taipei University of Education",
+        "alpha_two_code": "TW",
+        "state-province": null,
+        "domains": [
+            "ntue.edu.tw"
+        ],
+        "country": "Taiwan, Province of China"
+    },
+    {
+        "web_pages": [
+            "https://www.eskisehir.edu.tr/"
+        ],
+        "name": "Eskişehir Teknik Üniversitesi",
+        "alpha_two_code": "TR",
+        "state-province": null,
+        "domains": [
+            "eskisehir.edu.tr"
+        ],
+        "country": "Turkey"
+    },
+    {
+        "web_pages": [
+            "https://college.harlaxton.co.uk/"
+        ],
+        "name": "Harlaxton College",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "college.harlaxton.co.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.newcollege.ac.uk/"
+        ],
+        "name": "New College Swindon",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "newcollege.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.cumbria.ac.uk/"
+        ],
+        "name": "University of Cumbria",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "cumbria.ac.uk"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.aspen.edu/"
+        ],
+        "name": "Aspen University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "aspen.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.cusm.edu/"
+        ],
+        "name": "California University of Science and Medicine",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "cusm.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.law.cuny.edu/"
+        ],
+        "name": "CUNY School of Law",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "law.cuny.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.doane.edu/"
+        ],
+        "name": "Doane University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "doane.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.evms.edu/"
+        ],
+        "name": "Eastern Virginia Medical School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "evms.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.elms.edu/"
+        ],
+        "name": "Elms College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "elms.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.estrellamountain.edu/"
+        ],
+        "name": "Estrella Mountain Community College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "estrellamountain.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.flsouthern.edu/"
+        ],
+        "name": "Florida Southern College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "flsouthern.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://franklinpierce.edu/"
+        ],
+        "name": "Franklin Pierce University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "franklinpierce.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.kansascity.edu/"
+        ],
+        "name": "Kansas City University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "kansascity.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.loyno.edu/"
+        ],
+        "name": "Loyola University New Orleans",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "loyno.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.mica.edu/"
+        ],
+        "name": "Maryland Institute College of Arts",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "mica.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.merrimack.edu/"
+        ],
+        "name": "Merrimack College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "merrimack.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.nebrwesleyan.edu/"
+        ],
+        "name": "Nebraska Wesleyan University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "nebrwesleyan.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.nymc.edu/"
+        ],
+        "name": "New York Medical College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "nymc.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.pnwu.edu/"
+        ],
+        "name": "Pacific Northwest University of Health Sciences",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "pnwu.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.purdueglobal.edu/"
+        ],
+        "name": "Purdue Global",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "purdueglobal.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://rcsj.edu/"
+        ],
+        "name": "Rowan College of South Jersey",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "rcsj.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.sofia.edu/"
+        ],
+        "name": "Sofia University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "sofia.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.downstate.edu/"
+        ],
+        "name": "SUNY Downstate Health Sciences University",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "downstate.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.uscb.edu/"
+        ],
+        "name": "University of South Carolina, Beaufort",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "uscb.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.vermontlaw.edu/"
+        ],
+        "name": "Vermont Law School",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "vermontlaw.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://wnc.edu/"
+        ],
+        "name": "Western Nevada College",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "wnc.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.westernu.edu/"
+        ],
+        "name": "Western University of Health Sciences",
+        "alpha_two_code": "US",
+        "state-province": null,
+        "domains": [
+            "westernu.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://itpu.uz/"
+        ],
+        "name": "IT Park University",
+        "alpha_two_code": "UZ",
+        "state-province": null,
+        "domains": [
+            "itpu.uz"
+        ],
+        "country": "Uzbekistan"
+    },
+    {
+        "web_pages": [
+            "https://escp.eu/"
+        ],
+        "name": "ESCP Business School",
+        "alpha_two_code": "FR",
+        "state-province": null,
+        "domains": [
+            "escp.eu"
+        ],
+        "country": "France"
+    },
+    {
+        "web_pages": [
+            "https://escp.eu/madrid"
+        ],
+        "name": "ESCP Business School",
+        "alpha_two_code": "ES",
+        "state-province": null,
+        "domains": [
+            "escp.eu"
+        ],
+        "country": "Spain"
+    },
+    {
+        "web_pages": [
+            "https://escp.eu/london"
+        ],
+        "name": "ESCP Business School",
+        "alpha_two_code": "GB",
+        "state-province": null,
+        "domains": [
+            "escp.eu"
+        ],
+        "country": "United Kingdom"
+    },
+    {
+        "web_pages": [
+            "https://www.stmarytx.edu/"
+        ],
+        "name": "St. Mary's University",
+        "alpha_two_code": "US",
+        "state-province": "Texas",
+        "domains": [
+            "stmarytx.edu"
+        ],
+        "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://www.southflorida.edu/"
+        ],
+        "name": "South Florida State College",
+        "alpha_two_code": "US",
+        "state-province": "Florida",
+        "domains": [
+            "southflorida.edu"
+        ],
+        "country": "United States"
     }
 ]
