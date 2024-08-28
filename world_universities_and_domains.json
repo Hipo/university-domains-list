@@ -1,5 +1,13 @@
 [
   {
+    "name": "Atharva College of Engineering",
+    "domains": ["atharvacoe.ac.in"],
+    "web_pages": ["https://atharvacoe.ac.in"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Mumbai"
+  },
+  {
     "name": "Toronto Baptist Seminary and Bible College",
     "domains": ["tbs.edu"],
     "web_pages": ["https://tbs.edu"],
