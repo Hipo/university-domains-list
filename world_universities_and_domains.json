@@ -1,5 +1,13 @@
 [
   {
+    "name": "Wroclaw Akademia Biznesu",
+    "domains": ["student.wab.edu.pl", "wab.edu.pl"],
+    "web_pages": ["https://wab.edu.pl"],
+    "country": "Poland",
+    "alpha_two_code": "PL",
+    "state-province": null
+  },
+  {
     "name": "Atharva College of Engineering",
     "domains": ["atharvacoe.ac.in"],
     "web_pages": ["https://atharvacoe.ac.in"],
