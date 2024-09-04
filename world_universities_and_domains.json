@@ -121399,5 +121399,17 @@
             "southflorida.edu"
         ],
         "country": "United States"
+    },
+    {
+        "web_pages": [
+            "https://pass26.edu.mk/"
+        ],
+        "name": "Pass26 College",
+        "alpha_two_code": "MK",
+        "state-province": null,
+        "domains": [
+            "pass26.edu.mk"
+        ],
+        "country": "North Macedonia"
     }
 ]
