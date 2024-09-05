@@ -80931,6 +80931,14 @@
     "country": "United States"
   },
   {
+    "web_pages": ["https://www.hwr-berlin.de/"],
+    "name": "Hochschule für Wirtschaft und Recht",
+    "alpha_two_code": "DE",
+    "state-province": "Berlin",
+    "domains": ["hwr-berlin.de"],
+    "country": "Germany"
+  },
+  {
     "web_pages": ["https://pass26.edu.mk/"],
     "name": "Pass26 College",
     "alpha_two_code": "MK",
