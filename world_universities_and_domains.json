@@ -1,5 +1,13 @@
 [
   {
+    "name": "Regent University College of Science and Technology",
+    "domains": ["regent.edu.gh"],
+    "web_pages": ["https://regent.edu.gh"],
+    "country": "Ghana",
+    "alpha_two_code": "GH",
+    "state-province": null
+  },
+  {
     "name": "Wroclaw Akademia Biznesu",
     "domains": ["student.wab.edu.pl", "wab.edu.pl"],
     "web_pages": ["https://wab.edu.pl"],
