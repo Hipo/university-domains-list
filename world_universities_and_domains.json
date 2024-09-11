@@ -12302,7 +12302,7 @@
   },
   {
     "web_pages": ["http://www.mdw.ac.at/"],
-    "name": "Universität für Musik und darstellende Kunst  Wien",
+    "name": "Universität für Musik und darstellende Kunst Wien",
     "alpha_two_code": "AT",
     "state-province": null,
     "domains": ["mdw.ac.at"],
@@ -18398,7 +18398,7 @@
   },
   {
     "web_pages": ["http://www.cafa.edu.cn/"],
-    "name": "Central Academy of  Fine Art",
+    "name": "Central Academy of Fine Art",
     "alpha_two_code": "CN",
     "state-province": null,
     "domains": ["cafa.edu.cn"],
@@ -24590,7 +24590,7 @@
   },
   {
     "web_pages": ["http://www.bulehorauniversity.com/"],
-    "name": "Bule Hora  University",
+    "name": "Bule Hora University",
     "alpha_two_code": "ET",
     "state-province": null,
     "domains": ["bulehorauniversity.com"],
@@ -24718,7 +24718,7 @@
   },
   {
     "web_pages": ["http://www.uuc.edu.et/"],
-    "name": "Unity  University",
+    "name": "Unity University",
     "alpha_two_code": "ET",
     "state-province": null,
     "domains": ["uuc.edu.et"],
@@ -29432,14 +29432,6 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.uni-polsdam.de/"],
-    "name": "Universität Polsdam",
-    "alpha_two_code": "DE",
-    "state-province": null,
-    "domains": ["uni-polsdam.de"],
-    "country": "Germany"
-  },
-  {
     "web_pages": ["http://www.uni-regensburg.de/"],
     "name": "Universität Regensburg",
     "alpha_two_code": "DE",
@@ -29561,7 +29553,7 @@
   },
   {
     "web_pages": ["http://www.acighana.org/"],
-    "name": "Akrofi-Christaller Institute of Theeology, Mission and  Culture",
+    "name": "Akrofi-Christaller Institute of Theeology, Mission and Culture",
     "alpha_two_code": "GH",
     "state-province": null,
     "domains": ["acighana.org"],
@@ -32193,7 +32185,7 @@
   },
   {
     "web_pages": ["http://www.jncasr.ac.in/"],
-    "name": "Jawaharlal Nehru Centre for Advanced  Scientific Research",
+    "name": "Jawaharlal Nehru Centre for Advanced Scientific Research",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": ["jncasr.ac.in"],
@@ -46017,7 +46009,7 @@
   },
   {
     "web_pages": ["http://www.manas.kg/"],
-    "name": "Kyrgyz Turkish  Manas University",
+    "name": "Kyrgyz Turkish Manas University",
     "alpha_two_code": "KG",
     "state-province": null,
     "domains": ["manas.kg"],
@@ -46753,7 +46745,7 @@
   },
   {
     "web_pages": ["http://www.uist.edu.mk/"],
-    "name": "University for Information Science and Technology  \"St. Paul The Apostle\"",
+    "name": "University for Information Science and Technology \"St. Paul The Apostle\"",
     "alpha_two_code": "MK",
     "state-province": null,
     "domains": ["uist.edu.mk"],
@@ -48585,7 +48577,7 @@
   },
   {
     "web_pages": ["http://www.uad.edu.mx/"],
-    "name": "Universidad Autonoma  de Durango",
+    "name": "Universidad Autonoma de Durango",
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": ["uad.edu.mx"],
@@ -52337,7 +52329,7 @@
   },
   {
     "web_pages": ["http://www.kust.edu.pk/"],
-    "name": "Kohat University of Science and Technology  (KUST)",
+    "name": "Kohat University of Science and Technology (KUST)",
     "alpha_two_code": "PK",
     "state-province": "Khyber Pakhtunkhwa",
     "domains": ["kust.edu.pk"],
@@ -55673,7 +55665,7 @@
   },
   {
     "web_pages": ["http://www.wspiz.edu.pl/"],
-    "name": "Leon Kozminski Academy of Entrepreneurship and Mangement in Warsaw",
+    "name": "Leon Kozminski Academy of Entrepreneurship and Management in Warsaw",
     "alpha_two_code": "PL",
     "state-province": null,
     "domains": ["wspiz.edu.pl"],
@@ -57193,7 +57185,7 @@
   },
   {
     "web_pages": ["http://cit.drbit.com.ru/"],
-    "name": "Novosibirsk State Academy of Economics and Mangement",
+    "name": "Novosibirsk State Academy of Economics and Management",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": ["cit.drbit.com.ru"],
@@ -58697,7 +58689,7 @@
   },
   {
     "web_pages": ["http://www.spsmma.com/"],
-    "name": "St. Petersburg StateMechnikov  Medical Academy",
+    "name": "St. Petersburg StateMechnikov Medical Academy",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": ["spsmma.com"],
@@ -68729,7 +68721,7 @@
   },
   {
     "web_pages": ["http://www.ktkt-haiduong.edu.vn/"],
-    "name": "Hai Duong University of  Economics and Technology",
+    "name": "Hai Duong University of Economics and Technology",
     "alpha_two_code": "VN",
     "state-province": null,
     "domains": ["ktkt-haiduong.edu.vn"],
@@ -69625,7 +69617,7 @@
   },
   {
     "web_pages": ["http://www.29mayis.edu.tr/"],
-    "name": "Istanbul 29Mayis  University",
+    "name": "Istanbul 29Mayis University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["29mayis.edu.tr"],
@@ -69657,7 +69649,7 @@
   },
   {
     "web_pages": ["http://www.kemerburgaz.edu.tr/"],
-    "name": "Istanbul Kemerburgaz  University",
+    "name": "Istanbul Kemerburgaz University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kemerburgaz.edu.tr"],
