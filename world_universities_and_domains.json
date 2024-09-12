@@ -80937,5 +80937,21 @@
     "state-province": null,
     "domains": ["pass26.edu.mk"],
     "country": "North Macedonia"
+  },
+  {
+    "web_pages": ["https://jjtu.ac.in/"],
+    "name": "Shri Jagdishprasad Jhabarmal Tibrewala University",
+    "alpha_two_code": "IN",
+    "state-province": "Rajasthan",
+    "domains": ["jjtu.ac.in"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["https://singhaniauniversity.ac.in/"],
+    "name": "Singhania University",
+    "alpha_two_code": "IN",
+    "state-province": "Rajasthan",
+    "domains": ["singhaniauniversity.ac.in"],
+    "country": "India"
   }
 ]
