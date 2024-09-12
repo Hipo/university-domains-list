@@ -8254,7 +8254,7 @@
   },
   {
     "web_pages": ["http://www.uic.edu/"],
-    "name": "University of Illinois at Chicago",
+    "name": "University of Illinois Chicago",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": ["uic.edu"],
@@ -8262,7 +8262,7 @@
   },
   {
     "web_pages": ["http://www.uis.edu/"],
-    "name": "University of Illinois at Springfield",
+    "name": "University of Illinois Springfield",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": ["uis.edu"],
@@ -8270,7 +8270,7 @@
   },
   {
     "web_pages": ["https://illinois.edu/"],
-    "name": "University of Illinois, Urbana-Champaign",
+    "name": "University of Illinois Urbana-Champaign",
     "alpha_two_code": "US",
     "state-province": "Illinois",
     "domains": ["uiuc.edu", "illinois.edu"],
