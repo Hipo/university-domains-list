@@ -46704,6 +46704,14 @@
     "country": "Macao"
   },
   {
+    "web_pages": ["http://www.must.edu.mo/"],
+    "name": "Macau University of Science and Technology",
+    "alpha_two_code": "MO",
+    "state-province": null,
+    "domains": ["must.edu.mo"],
+    "country": "Macao"
+  },
+  {
     "web_pages": ["http://www.usj.edu.mo/"],
     "name": "University of Saint Joseph",
     "alpha_two_code": "MO",
