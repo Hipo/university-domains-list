@@ -80953,5 +80953,13 @@
     "state-province": "Rajasthan",
     "domains": ["singhaniauniversity.ac.in"],
     "country": "India"
+  },
+  {
+    "web_pages": ["https://th-rosenheim.de"],
+    "name": "Rosenheim University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": "Bavaria",
+    "domains": ["th-rosenheim.de"],
+    "country": "Germany"
   }
 ]
