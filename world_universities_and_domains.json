@@ -1,5 +1,13 @@
 [
   {
+    "name": "University of Kyrenia",
+    "domains": ["std.kyrenia.edu.tr", "kyrenia.edu.tr"],
+    "web_pages": ["https://kyrenia.edu.tr"],
+    "country": "Turkey",
+    "alpha_two_code": "TR",
+    "state-province": null
+  },
+  {
     "name": "Regent University College of Science and Technology",
     "domains": ["regent.edu.gh"],
     "web_pages": ["https://regent.edu.gh"],
