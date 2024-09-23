@@ -80977,5 +80977,13 @@
     "state-province": "Bavaria",
     "domains": ["th-rosenheim.de"],
     "country": "Germany"
+  },
+  {
+    "web_pages": ["http://www.hsba.de/"],
+    "name": "HSBA Hamburg School of Business Administration",
+    "alpha_two_code": "DE",
+    "state-province": "Hamburg",
+    "domains": ["hsba.de"],
+    "country": "Germany"
   }
 ]
