@@ -16165,6 +16165,14 @@
     "country": "Bulgaria"
   },
   {
+    "web_pages": ["https://www.uni-ruse.bg/en"],
+    "name": "\"Angel Kanchev\" University of Ruse",
+    "alpha_two_code": "BG",
+    "state-province": null,
+    "domains": ["uni-ruse.bg"],
+    "country": "Bulgaria"
+  },
+  {
     "web_pages": ["http://www.uni-svishtov.bg/"],
     "name": "Academy of Economics \"Dimitur A. Tscenov\"",
     "alpha_two_code": "BG",
