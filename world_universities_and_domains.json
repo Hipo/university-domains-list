@@ -80985,5 +80985,13 @@
     "state-province": "Bavaria",
     "domains": ["th-rosenheim.de"],
     "country": "Germany"
+  },
+  {
+    "web_pages": ["https://www.alvernia.edu/"],
+    "name": "Alvernia University",
+    "alpha_two_code": "US",
+    "state-province": "Pennsylvania",
+    "domains": ["alvernia.edu"],
+    "country": "United States"
   }
 ]
