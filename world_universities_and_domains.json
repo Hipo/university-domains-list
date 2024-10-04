@@ -80985,5 +80985,13 @@
     "state-province": "Bavaria",
     "domains": ["th-rosenheim.de"],
     "country": "Germany"
+  },
+  {
+    "web_pages": ["https://kristiania.no"],
+    "name": "Kristiania University College",
+    "alpha_two_code": "NO",
+    "state-province": "Østlandet",
+    "domains": ["kristiania.no"],
+    "country": "Norway"
   }
 ]
