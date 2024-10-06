@@ -37552,11 +37552,11 @@
     "country": "Ireland"
   },
   {
-    "web_pages": ["https://www.nuigalway.ie/", "http://www.ucg.ie/"],
-    "name": "National University of Ireland, Galway",
+    "web_pages": ["https://www.universityofgalway.ie/","https://www.nuigalway.ie/", "http://www.ucg.ie/"],
+    "name": "University of Galway",
     "alpha_two_code": "IE",
     "state-province": null,
-    "domains": ["nuigalway.ie", "ucg.ie"],
+    "domains": ["universityofgalway.ie","nuigalway.ie", "ucg.ie"],
     "country": "Ireland"
   },
   {
