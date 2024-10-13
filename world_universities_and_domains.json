@@ -1,5 +1,13 @@
 [
   {
+    "name": "Universitas Nusa Putra",
+    "domains": ["nusaputra.ac.id"],
+    "web_pages": ["https://nusaputra.ac.id"],
+    "country": "Indonesia",
+    "alpha_two_code": "ID",
+    "state-province": null
+  },
+  {
     "name": "University of Kyrenia",
     "domains": ["std.kyrenia.edu.tr", "kyrenia.edu.tr"],
     "web_pages": ["https://kyrenia.edu.tr"],
@@ -37552,11 +37560,15 @@
     "country": "Ireland"
   },
   {
-    "web_pages": ["https://www.universityofgalway.ie/","https://www.nuigalway.ie/", "http://www.ucg.ie/"],
+    "web_pages": [
+      "https://www.universityofgalway.ie/",
+      "https://www.nuigalway.ie/",
+      "http://www.ucg.ie/"
+    ],
     "name": "University of Galway",
     "alpha_two_code": "IE",
     "state-province": null,
-    "domains": ["universityofgalway.ie","nuigalway.ie", "ucg.ie"],
+    "domains": ["universityofgalway.ie", "nuigalway.ie", "ucg.ie"],
     "country": "Ireland"
   },
   {
@@ -64636,7 +64648,7 @@
     "name": "Silpakorn University",
     "alpha_two_code": "TH",
     "state-province": "Bangkok",
-    "domains": ["su.ac.th","silpakorn.edu"],
+    "domains": ["su.ac.th", "silpakorn.edu"],
     "country": "Thailand"
   },
   {
