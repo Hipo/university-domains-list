@@ -15,11 +15,7 @@ def _country_filter(src, scope, out):
     def filter(entry, item):
         matching = entry["country"]
 
-        if item == matching or item == matching.lower() or item == matching.upper():
-            return True
-
-        else:
-            return False
+        return item == matching or item == matching.lower() or item == matching.upper()
 
     return [entry for entry in src if filter(entry, scope)]
 
