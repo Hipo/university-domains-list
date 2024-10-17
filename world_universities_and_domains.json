@@ -27127,7 +27127,7 @@
     "name": "Université de Strasbourg",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["unistra.fr", "etu.unistra.fr"],
+    "domains": ["unistra.fr", "etu.unistra.fr", "dpt-info.u-strasbg.fr"],
     "country": "France"
   },
   {
