@@ -56516,6 +56516,14 @@
     "country": "Qatar"
   },
   {
+    "web_pages": ["https://www.hbku.edu.qa"],
+    "name": "Hamad Bin Khalifa University",
+    "alpha_two_code": "QA",
+    "state-province": null,
+    "domains": ["hbku.edu.qa"],
+    "country": "Qatar"
+  },
+  {
     "web_pages": ["http://www.univ-reunion.fr/"],
     "name": "Université de la Reunion",
     "alpha_two_code": "RE",
