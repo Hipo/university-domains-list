@@ -25533,11 +25533,11 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.ens-cachan.fr/"],
-    "name": "Ecole Normale Supérieure de Cachan",
+    "web_pages": ["https://ens-paris-saclay.fr/", "http://www.ens-cachan.fr/"],
+    "name": "École normale supérieure Paris-Saclay",
     "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["ens-cachan.fr"],
+    "state-province": "Île-de-France",
+    "domains": ["ens-paris-saclay.fr", "ens-cachan.fr"],
     "country": "France"
   },
   {
