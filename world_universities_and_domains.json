@@ -81069,5 +81069,13 @@
     "state-province": null,
     "domains": ["uhcno.edu"],
     "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.upike.edu/"],
+    "name": "University of Pikeville",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["upike.edu"],
+    "country": "United States"
   }
 ]
