@@ -81029,5 +81029,13 @@
     "state-province": null,
     "domains": ["manavrachna.edu.in"],
     "country": "India"
+  },
+  {
+    "web_pages": ["https://mitwpu.edu.in/"],
+    "name": "MIT World Peace University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": ["mitwpu.edu.in"],
+    "country": "India"
   }
 ]
