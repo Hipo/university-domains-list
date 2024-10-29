@@ -81053,5 +81053,13 @@
     "country": "Poland",
     "alpha_two_code": "PL",
     "state-province": null
+  },
+  {
+    "web_pages": ["https://www.hauniv.edu/"],
+    "name": "Hellenic American University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["hauniv.edu"],
+    "country": "United States"
   }
 ]
