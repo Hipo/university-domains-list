@@ -81013,5 +81013,13 @@
     "state-province": "Østlandet",
     "domains": ["kristiania.no"],
     "country": "Norway"
+  },
+  {
+    "web_pages": ["https://en.sjtu.edu.cn/"],
+    "name": "Shanghai Jiao Tong University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": ["en.sjtu.edu.cn"],
+    "country": "China"
   }
 ]
