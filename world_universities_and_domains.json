@@ -81045,5 +81045,13 @@
     "state-province": null,
     "domains": ["turiba.lv"],
     "country": "Latvia"
+  },
+  {
+    "name": "Uniwersytet SWPS",
+    "domains": ["swps.pl"],
+    "web_pages": ["https://swps.pl/"],
+    "country": "Poland",
+    "alpha_two_code": "PL",
+    "state-province": null
   }
 ]
