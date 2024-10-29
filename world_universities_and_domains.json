@@ -81061,5 +81061,13 @@
     "state-province": null,
     "domains": ["hauniv.edu"],
     "country": "United States"
+  },
+  {
+    "web_pages": ["https://uhcno.edu/"],
+    "name": "University of Holy Cross",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["uhcno.edu"],
+    "country": "United States"
   }
 ]
