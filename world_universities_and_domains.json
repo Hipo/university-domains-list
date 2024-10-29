@@ -81037,5 +81037,13 @@
     "state-province": null,
     "domains": ["mitwpu.edu.in"],
     "country": "India"
+  },
+  {
+    "web_pages": ["https://www.turiba.lv/"],
+    "name": "Turība University",
+    "alpha_two_code": "LV",
+    "state-province": null,
+    "domains": ["turiba.lv"],
+    "country": "Latvia"
   }
 ]
