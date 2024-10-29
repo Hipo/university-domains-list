@@ -81021,5 +81021,13 @@
     "state-province": null,
     "domains": ["en.sjtu.edu.cn"],
     "country": "China"
+  },
+  {
+    "web_pages": ["https://manavrachna.edu.in/"],
+    "name": "Manav Rachna University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": ["manavrachna.edu.in"],
+    "country": "India"
   }
 ]
