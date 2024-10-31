@@ -7049,7 +7049,7 @@
   },
   {
     "web_pages": ["http://www.smsu.edu/"],
-    "name": "Southwest Missouri State University",
+    "name": "Southwest Minnesota State University",
     "alpha_two_code": "US",
     "state-province": null,
     "domains": ["smsu.edu"],
@@ -81013,5 +81013,69 @@
     "state-province": "Østlandet",
     "domains": ["kristiania.no"],
     "country": "Norway"
+  },
+  {
+    "web_pages": ["https://en.sjtu.edu.cn/"],
+    "name": "Shanghai Jiao Tong University",
+    "alpha_two_code": "CN",
+    "state-province": null,
+    "domains": ["en.sjtu.edu.cn"],
+    "country": "China"
+  },
+  {
+    "web_pages": ["https://manavrachna.edu.in/"],
+    "name": "Manav Rachna University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": ["manavrachna.edu.in"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["https://mitwpu.edu.in/"],
+    "name": "MIT World Peace University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": ["mitwpu.edu.in"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["https://www.turiba.lv/"],
+    "name": "Turība University",
+    "alpha_two_code": "LV",
+    "state-province": null,
+    "domains": ["turiba.lv"],
+    "country": "Latvia"
+  },
+  {
+    "name": "Uniwersytet SWPS",
+    "domains": ["swps.pl"],
+    "web_pages": ["https://swps.pl/"],
+    "country": "Poland",
+    "alpha_two_code": "PL",
+    "state-province": null
+  },
+  {
+    "web_pages": ["https://www.hauniv.edu/"],
+    "name": "Hellenic American University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["hauniv.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://uhcno.edu/"],
+    "name": "University of Holy Cross",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["uhcno.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.upike.edu/"],
+    "name": "University of Pikeville",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["upike.edu"],
+    "country": "United States"
   }
 ]
