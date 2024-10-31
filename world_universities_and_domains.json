@@ -1,5 +1,13 @@
 [
   {
+    "name": "Engineering Institute of Technology",
+    "domains": ["student.eit.edu.au"],
+    "web_pages": ["https://www.eit.edu.au/"],
+    "country": "Australia",
+    "alpha_two_code": "AU",
+    "state-province": null
+  },
+  {
     "name": "Universitas Nusa Putra",
     "domains": ["nusaputra.ac.id"],
     "web_pages": ["https://nusaputra.ac.id"],
