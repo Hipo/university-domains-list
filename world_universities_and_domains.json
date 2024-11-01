@@ -41300,6 +41300,14 @@
     "country": "Japan"
   },
   {
+    "web_pages": ["https://www.oist.jp/"],
+    "name": "Okinawa Institute of Science and Technology",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": ["oist.jp"],
+    "country": "Japan"
+  },
+  {
     "web_pages": ["http://www.oit.ac.jp/"],
     "name": "Osaka Institute of Technology",
     "alpha_two_code": "JP",
