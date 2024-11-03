@@ -81093,5 +81093,13 @@
     "state-province": null,
     "domains": ["upike.edu"],
     "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.westernsydney.edu.au/"],
+    "name": "Western Sydney University",
+    "alpha_two_code": "AU",
+    "state-province": "New South Wales",
+    "domains": ["westernsydney.edu.au"],
+    "country": "Australia"
   }
 ]
