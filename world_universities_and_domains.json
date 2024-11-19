@@ -44700,6 +44700,14 @@
     "country": "Korea, Republic of"
   },
   {
+    "web_pages": ["https://inu.ac.kr/"],
+    "name": "Incheon National University",
+    "alpha_two_code": "KR",
+    "state-province": null,
+    "domains": ["inu.ac.kr"],
+    "country": "Korea, Republic of"
+  },
+  {
     "web_pages": ["http://www.iuk.ac.kr/"],
     "name": "International University of Korea",
     "alpha_two_code": "KR",
