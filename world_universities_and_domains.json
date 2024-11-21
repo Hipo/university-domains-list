@@ -4240,6 +4240,14 @@
     "country": "United States"
   },
   {
+    "web_pages": ["http://www.ias.edu/"],
+    "name": "Institute for Advanced Study",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["ias.edu"],
+    "country": "United States"
+  },
+  {
     "web_pages": ["http://www.iwp.edu/"],
     "name": "Institute for World Politics",
     "alpha_two_code": "US",
