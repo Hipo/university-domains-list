@@ -29576,11 +29576,11 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.whu-koblenz.de/"],
-    "name": "Wissenschaftliche Hochschule für Unternehmensführung, Otto-Beisheim Hochschule",
+    "web_pages": ["https://www.whu.edu/"],
+    "name": "WHU – Otto Beisheim School of Management",
     "alpha_two_code": "DE",
     "state-province": null,
-    "domains": ["whu-koblenz.de"],
+    "domains": ["whu-koblenz.de", "whu.edu"],
     "country": "Germany"
   },
   {
