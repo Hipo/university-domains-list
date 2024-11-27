@@ -81117,5 +81117,21 @@
     "state-province": "New South Wales",
     "domains": ["westernsydney.edu.au"],
     "country": "Australia"
+  },
+  {
+    "web_pages": ["https://www.sancarlos.edu.py/"],
+    "name": "Universidad San Carlos",
+    "alpha_two_code": "PY",
+    "state-province": "Asunción",
+    "domains": ["sancarlos.edu.py"],
+    "country": "Paraguay"
+  },
+  {
+    "web_pages": ["https://cambriancollege.ca/"],
+    "name": "Cambrian College",
+    "alpha_two_code": "CA",
+    "state-province": "Ontario",
+    "domains": ["mycambrian.ca", "cambriancollege.ca"],
+    "country": "Canada"
   }
 ]
