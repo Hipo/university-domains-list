@@ -81133,5 +81133,13 @@
     "state-province": "Ontario",
     "domains": ["mycambrian.ca", "cambriancollege.ca"],
     "country": "Canada"
+  },
+  {
+    "country": "India",
+    "name": "Indian Institute of Information Technology Nagpur",
+    "state-province": "Maharashtra",
+    "alpha_two_code": "IN",
+    "web_pages": ["http://iiitn.ac.in/"],
+    "domains": ["iiitn.ac.in"]
   }
 ]
