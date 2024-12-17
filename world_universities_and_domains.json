@@ -58780,11 +58780,11 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://www.ssau.ru/"],
+    "web_pages": ["https://ssau.ru/", "https://samara.university/"],
     "name": "Samara State Aerospace University",
     "alpha_two_code": "RU",
     "state-province": null,
-    "domains": ["ssau.ru"],
+    "domains": ["ssau.ru", "samara.university"],
     "country": "Russian Federation"
   },
   {
