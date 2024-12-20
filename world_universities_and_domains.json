@@ -77348,6 +77348,14 @@
     "country": "Viet Nam"
   },
   {
+    "web_pages": ["https://usth.edu.vn/"],
+    "name": "University of Science and Technology Hanoi (USTH, Vietnam-France University)",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": ["usth.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
     "web_pages": ["http://www.bhtafe.edu.au", "http://www.boxhill.edu.au"],
     "name": "Box Hill Institute",
     "alpha_two_code": "AU",
