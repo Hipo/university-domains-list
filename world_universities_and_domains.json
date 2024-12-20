@@ -35536,11 +35536,11 @@
     "country": "Iran"
   },
   {
-    "web_pages": ["http://aliabadiau.ac.ir/"],
+    "web_pages": ["https://aliabad.iau.ir/"],
     "name": "Islamic Azad University, Aliabad",
     "alpha_two_code": "IR",
     "state-province": "Golestan",
-    "domains": ["aliabadiau.ac.ir"],
+    "domains": ["aliabad.iau.ir"],
     "country": "Iran"
   },
   {
@@ -35624,11 +35624,11 @@
     "country": "Iran"
   },
   {
-    "web_pages": ["http://www.azad.ac.ir/"],
+    "web_pages": ["https://stb.iau.ir/"],
     "name": "Islamic Azad University, Tehran South",
     "alpha_two_code": "IR",
     "state-province": "Tehran",
-    "domains": ["azad.ac.ir"],
+    "domains": ["stb.iau.ir"],
     "country": "Iran"
   },
   {
@@ -35672,11 +35672,11 @@
     "country": "Iran"
   },
   {
-    "web_pages": ["http://www.bojnourdiau.ac.ir/"],
+    "web_pages": ["https://bojnourd.iau.ir/"],
     "name": "Islamic Azad University, Bojnourd",
     "alpha_two_code": "IR",
     "state-province": "North Khorasan",
-    "domains": ["bojnourdiau.ac.ir"],
+    "domains": ["bojnourd.iau.ir"],
     "country": "Iran"
   },
   {
@@ -35704,11 +35704,11 @@
     "country": "Iran"
   },
   {
-    "web_pages": ["http://www.dehaghan.ac.ir/"],
+    "web_pages": ["https://dehaghan.iau.ir/"],
     "name": "Islamic Azad University, Dehaghan",
     "alpha_two_code": "IR",
     "state-province": "Isfahan",
-    "domains": ["dehaghan.ac.ir"],
+    "domains": ["dehaghan.iau.ir"],
     "country": "Iran"
   },
   {
