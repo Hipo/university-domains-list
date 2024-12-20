@@ -64788,11 +64788,11 @@
     "country": "Trinidad and Tobago"
   },
   {
-    "web_pages": ["http://www.uwi.tt/"],
+    "web_pages": ["https://sta.uwi.edu/"],
     "name": "University of the West Indies St. Augustine",
     "alpha_two_code": "TT",
     "state-province": null,
-    "domains": ["uwi.tt"],
+    "domains": ["uwi.tt", "sta.uwi.edu", "my.sta.uwi.edu"],
     "country": "Trinidad and Tobago"
   },
   {
