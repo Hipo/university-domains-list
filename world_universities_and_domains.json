@@ -81149,5 +81149,69 @@
     "state-province": "Massachusetts",
     "domains": ["stonehill.edu"],
     "country": "United States"
+  },
+  {
+    "web_pages": ["https://svu.edu/"],
+    "name": "Southern Virginia University",
+    "alpha_two_code": "US",
+    "state-province": "Virginia",
+    "domains": ["svu.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.dawsoncollege.qc.ca/"],
+    "name": "Dawson College",
+    "alpha_two_code": "CA",
+    "state-province": "Quebec",
+    "domains": ["dawsoncollege.qc.ca"],
+    "country": "Canada"
+  },
+  {
+    "web_pages": ["https://www.lsus.edu/"],
+    "name": "Louisiana State University - Shreveport",
+    "alpha_two_code": "US",
+    "state-province": "Louisiana",
+    "domains": ["lsus.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.maricopa.edu/"],
+    "name": "Maricopa Community Colleges",
+    "alpha_two_code": "US",
+    "state-province": "Arizona",
+    "domains": ["maricopa.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["http://www.ksbk-do.de/"],
+    "name": "Karl-Schiller-Berufskolleg (KSBK)",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": ["ksbk-do.de"],
+    "country": "Germany"
+  },
+  {
+    "web_pages": ["https://www.wingate.edu/"],
+    "name": "Wingate University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["wingate.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.cuhk.edu.cn/"],
+    "name": "The Chinese University of Hong Kong",
+    "alpha_two_code": "HK",
+    "state-province": null,
+    "domains": ["cuhk.edu.cn"],
+    "country": "Hong Kong"
+  },
+  {
+    "web_pages": ["https://www.sruc.ac.uk/"],
+    "name": "Scotland's Rural College (SRUC)",
+    "alpha_two_code": "GB",
+    "state-province": "Scotland",
+    "domains": ["sruc.ac.uk"],
+    "country": "United Kingdom"
   }
 ]
