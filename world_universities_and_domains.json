@@ -49740,11 +49740,11 @@
     "country": "Morocco"
   },
   {
-    "web_pages": ["http://www.esta.ac.ma/"],
+    "web_pages": ["http://www.uiz.ac.ma/"],
     "name": "Université Ibn Zohr Agadir",
     "alpha_two_code": "MA",
     "state-province": null,
-    "domains": ["esta.ac.ma"],
+    "domains": ["uiz.ac.ma"],
     "country": "Morocco"
   },
   {
@@ -49857,6 +49857,14 @@
     "alpha_two_code": "MA",
     "state-province": null,
     "domains": ["ucam.ac.ma"],
+    "country": "Morocco"
+  },
+  {
+    "web_pages": ["http://upm.ac.ma/"],
+    "name": "Université Privée de Marrakech",
+    "alpha_two_code": "MA",
+    "state-province": null,
+    "domains": ["upm.ac.ma"],
     "country": "Morocco"
   },
   {
