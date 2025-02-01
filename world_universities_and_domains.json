@@ -81237,5 +81237,13 @@
     "state-province": "Scotland",
     "domains": ["sruc.ac.uk"],
     "country": "United Kingdom"
+  },
+  {
+    "web_pages": ["http://www.telanganauniversity.ac.in//"],
+    "name": "Telangana University",
+    "alpha_two_code": "IN",
+    "state-province": null,
+    "domains": ["telanganauniversity.ac.in"],
+    "country": "India"
   }
 ]
