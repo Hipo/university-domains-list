@@ -81237,5 +81237,77 @@
     "state-province": "Scotland",
     "domains": ["sruc.ac.uk"],
     "country": "United Kingdom"
-  }
+  },
+  {
+    "web_pages": ["https://www.univap.br/univap/"],
+    "name": "Universidade do Vale do Paraíba – Univap",
+    "alpha_two_code": "BR",
+    "state-province": "São José dos Campos",
+    "domains": ["univap.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://portal.anhembi.br/"],
+    "name": "Universidade Anhembi Morumbi - UAM",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo",
+    "domains": ["anhembi.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://www.inpg.edu.br/"],
+    "name": "Faculdade Do Instituto Nacional De Pós-Graduação - Faculdade INPG",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo",
+    "domains": ["inpg.edu.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://unigoias.com.br/"],
+    "name": "Centro Universitário De Goiás - UNIGOIÁS",
+    "alpha_two_code": "BR",
+    "state-province": "Goiânia",
+    "domains": ["unigoias.com.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://www.fecap.br/"],
+    "name": "Centro Universitário Álvares Penteado - FECAP",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo",
+    "domains": ["fecap.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://facens.br/"],
+    "name": "Centro Universitário Facens - UniFACENS",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo",
+    "domains": ["facens.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://toledoprudente.edu.br/"],
+    "name": "Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente - TOLEDO PRUDENTE",
+    "alpha_two_code": "BR",
+    "state-province": "Presidente Prudente",
+    "domains": ["toledoprudente.edu.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://www.impacta.edu.br/"],
+    "name": "Faculdade Impacta - IMPACTA",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo",
+    "domains": ["impacta.edu.br"],
+    "country": "Brazil"
+ },
+ {
+    "web_pages": ["https://www.inteli.edu.br/"],
+    "name": "Instituto de Tecnologia e Liderança - Inteli",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo",
+    "domains": ["inteli.edu.br"],
+    "country": "Brazil"
+ }
 ]
