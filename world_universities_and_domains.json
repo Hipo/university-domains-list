@@ -6256,6 +6256,14 @@
     "country": "United States"
   },
   {
+    "web_pages": ["http://www.purdueglobal.edu/"],
+    "name": "Purdue Global University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["purdueglobal.edu"],
+    "country": "United States"
+  },
+  {
     "web_pages": ["http://www.purdue.edu/"],
     "name": "Purdue University",
     "alpha_two_code": "US",
