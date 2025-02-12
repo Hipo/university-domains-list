@@ -81317,5 +81317,13 @@
     "state-province": "São Paulo",
     "domains": ["inteli.edu.br"],
     "country": "Brazil"
+ },
+ {
+  "web_pages":["https://www.utaipei.edu.tw"],
+  "name": "University of Taipei",
+  "alpha_two_code": "TW",
+  "state-province": null,
+  "domains":["utaipei.edu.tw"],
+  "country": "Taiwan, Province of China"
  }
 ]
