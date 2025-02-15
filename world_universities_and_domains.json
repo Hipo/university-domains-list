@@ -81325,5 +81325,13 @@
   "state-province": null,
   "domains":["utaipei.edu.tw"],
   "country": "Taiwan, Province of China"
+ },
+ {
+  "web_pages":["https://www.techniqueedu.com/"],
+  "name": "Technique Polytechnic Institute",
+  "alpha_two_code": "IN",
+  "state-province": "West Bengal",
+  "domains":["techniqueedu.com"],
+  "country": "India"
  }
 ]
