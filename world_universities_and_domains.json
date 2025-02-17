@@ -32024,11 +32024,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.iitkgp.ernet.in/"],
+    "web_pages": ["http://www.iitkgp.ernet.in/", "http://www.iitkgp.ac.in/"],
     "name": "Indian Institute of Technology, Kharagpur",
     "alpha_two_code": "IN",
     "state-province": "West Bengal",
-    "domains": ["iitkgp.ernet.in"],
+    "domains": ["iitkgp.ernet.in", "iitkgp.ac.in"],
     "country": "India"
   },
   {
