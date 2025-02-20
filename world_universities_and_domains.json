@@ -46284,6 +46284,14 @@
     "country": "Latvia"
   },
   {
+    "web_pages": ["https://www.venta.lv/"],
+    "name": "Ventspils University of Applied Sciences",
+    "alpha_two_code": "LV",
+    "state-province": null,
+    "domains": ["venta.lv"],
+    "country": "Latvia"
+  },
+  {
     "web_pages": ["http://www.va.lv/"],
     "name": "Vidzeme University College",
     "alpha_two_code": "LV",
