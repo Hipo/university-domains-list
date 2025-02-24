@@ -81253,85 +81253,93 @@
     "state-province": "São José dos Campos",
     "domains": ["univap.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://portal.anhembi.br/"],
     "name": "Universidade Anhembi Morumbi - UAM",
     "alpha_two_code": "BR",
     "state-province": "São Paulo",
     "domains": ["anhembi.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://www.inpg.edu.br/"],
     "name": "Faculdade Do Instituto Nacional De Pós-Graduação - Faculdade INPG",
     "alpha_two_code": "BR",
     "state-province": "São Paulo",
     "domains": ["inpg.edu.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://unigoias.com.br/"],
     "name": "Centro Universitário De Goiás - UNIGOIÁS",
     "alpha_two_code": "BR",
     "state-province": "Goiânia",
     "domains": ["unigoias.com.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://www.fecap.br/"],
     "name": "Centro Universitário Álvares Penteado - FECAP",
     "alpha_two_code": "BR",
     "state-province": "São Paulo",
     "domains": ["fecap.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://facens.br/"],
     "name": "Centro Universitário Facens - UniFACENS",
     "alpha_two_code": "BR",
     "state-province": "São Paulo",
     "domains": ["facens.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://toledoprudente.edu.br/"],
     "name": "Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente - TOLEDO PRUDENTE",
     "alpha_two_code": "BR",
     "state-province": "Presidente Prudente",
     "domains": ["toledoprudente.edu.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://www.impacta.edu.br/"],
     "name": "Faculdade Impacta - IMPACTA",
     "alpha_two_code": "BR",
     "state-province": "São Paulo",
     "domains": ["impacta.edu.br"],
     "country": "Brazil"
- },
- {
+  },
+  {
     "web_pages": ["https://www.inteli.edu.br/"],
     "name": "Instituto de Tecnologia e Liderança - Inteli",
     "alpha_two_code": "BR",
     "state-province": "São Paulo",
     "domains": ["inteli.edu.br"],
     "country": "Brazil"
- },
- {
-  "web_pages":["https://www.utaipei.edu.tw"],
-  "name": "University of Taipei",
-  "alpha_two_code": "TW",
-  "state-province": null,
-  "domains":["utaipei.edu.tw"],
-  "country": "Taiwan, Province of China"
- },
- {
-  "web_pages":["https://www.techniqueedu.com/"],
-  "name": "Technique Polytechnic Institute",
-  "alpha_two_code": "IN",
-  "state-province": "West Bengal",
-  "domains":["techniqueedu.com"],
-  "country": "India"
- }
+  },
+  {
+    "web_pages": ["https://www.utaipei.edu.tw"],
+    "name": "University of Taipei",
+    "alpha_two_code": "TW",
+    "state-province": null,
+    "domains": ["utaipei.edu.tw"],
+    "country": "Taiwan, Province of China"
+  },
+  {
+    "web_pages": ["https://www.techniqueedu.com/"],
+    "name": "Technique Polytechnic Institute",
+    "alpha_two_code": "IN",
+    "state-province": "West Bengal",
+    "domains": ["techniqueedu.com"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["http://www.telanganauniversity.ac.in/"],
+    "name": "Telangana University",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana",
+    "domains": ["telanganauniversity.ac.in"],
+    "country": "India"
+  }
 ]
