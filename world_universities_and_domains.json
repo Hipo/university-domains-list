@@ -26931,6 +26931,14 @@
     "country": "France"
   },
   {
+    "web_pages": ["http://www.univ-tlse3.fr/"],
+    "name": "Université de Toulouse-le-Mirail (Toulouse III)",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": ["univ-tlse3.fr"],
+    "country": "France"
+  },
+  {
     "web_pages": ["http://www.univ-toulouse.fr/"],
     "name": "Université de Toulouse",
     "alpha_two_code": "FR",
