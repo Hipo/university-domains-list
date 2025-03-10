@@ -46736,7 +46736,7 @@
     "name": "Vilnius Gediminas Technical University",
     "alpha_two_code": "LT",
     "state-province": null,
-    "domains": ["vgtu.lt, stud.vilniustech.lt"],
+    "domains": ["vgtu.lt", "stud.vilniustech.lt"],
     "country": "Lithuania"
   },
   {
