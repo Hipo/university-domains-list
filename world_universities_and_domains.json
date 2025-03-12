@@ -81357,5 +81357,13 @@
     "state-province": null,
     "domains": ["uth.edu.pl", "uth.pl"],
     "country": "Poland"
+  },
+  {
+    "web_pages": ["http://www.kea.dk/"],
+    "name": "Copenhagen School of Design and Technology",
+    "alpha_two_code": "DK",
+    "state-province": null,
+    "domains": ["stud.kea.dk"],
+    "country": "Denmark"
   }
 ]
