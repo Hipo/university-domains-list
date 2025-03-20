@@ -26739,19 +26739,11 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.univ-montp1.fr/"],
-    "name": "Université de Montpellier I",
+    "web_pages": ["https://www.umontpellier.fr/"],
+    "name": "Université de Montpellier",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["univ-montp1.fr"],
-    "country": "France"
-  },
-  {
-    "web_pages": ["http://www.univ-montp2.fr/"],
-    "name": "Université de Montpellier II",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["univ-montp2.fr"],
+    "domains": ["univ-montp1.fr", "univ-montp2.fr", "umontpellier.fr"],
     "country": "France"
   },
   {
