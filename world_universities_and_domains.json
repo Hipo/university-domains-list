@@ -27355,6 +27355,14 @@
     "country": "Georgia"
   },
   {
+    "web_pages": ["https://www.iu-fernstudium.de/"],
+    "name": "IU Internationale Hochschule GmbH",
+    "alpha_two_code": "DE",
+    "state-province": "Thuringia",
+    "domains": ["iubh-fernstudium.de"],
+    "country": "Germany"
+  },
+  {
     "web_pages": ["http://www.akad.de/"],
     "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
     "alpha_two_code": "DE",
