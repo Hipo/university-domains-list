@@ -6264,6 +6264,14 @@
     "country": "United States"
   },
   {
+    "web_pages": ["http://www.purdueglobal.edu/"],
+    "name": "Purdue Global University (Student email)",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["student.purdueglobal.edu"],
+    "country": "United States"
+  },
+  {
     "web_pages": ["http://www.purdue.edu/"],
     "name": "Purdue University",
     "alpha_two_code": "US",
@@ -80935,14 +80943,6 @@
     "country": "United States"
   },
   {
-    "web_pages": ["https://www.purdueglobal.edu/"],
-    "name": "Purdue Global",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": ["purdueglobal.edu"],
-    "country": "United States"
-  },
-  {
     "web_pages": ["https://rcsj.edu/"],
     "name": "Rowan College of South Jersey",
     "alpha_two_code": "US",
@@ -81365,5 +81365,61 @@
     "state-province": "Punjab",
     "domains": ["iitrpr.ac.in"],
     "country": "India"
+  },
+  {
+    "web_pages": ["https://www.citystgeorges.ac.uk/"],
+    "name": "City St George's, University of London",
+    "alpha_two_code": "GB",
+    "state-province": "London",
+    "domains": ["citystgeorges.ac.uk"],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": ["https://www.citystgeorges.ac.uk/"],
+    "name": "City St George's, University of London (II)",
+    "alpha_two_code": "GB",
+    "state-province": "London",
+    "domains": ["student.staffs.ac.uk"],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": ["https://www.sgul.ac.uk/"],
+    "name": "City St George's, University of London (School of Health and Medical Sciences)",
+    "alpha_two_code": "GB",
+    "state-province": "London",
+    "domains": ["sgul.ac.uk"],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": ["https://www.trinitycollegebristol.ac.uk/"],
+    "name": "Trinity College Bristol",
+    "alpha_two_code": "GB",
+    "state-province": "Bristol",
+    "domains": ["trinitycollegebristol.ac.uk"],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": ["https://www.trinitycollegebristol.ac.uk/"],
+    "name": "Trinity College Bristol",
+    "alpha_two_code": "GB",
+    "state-province": "Bristol",
+    "domains": ["trinitycollegebristol.ac.uk"],
+    "country": "United Kingdom"
+  },
+  {
+    "web_pages": ["https://cca.edu/"],
+    "name": "California College of the Arts",
+    "alpha_two_code": "US",
+    "state-province": "San Francisco",
+    "domains": ["cca.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.kuleuven.be/kuleuven/"],
+    "name": "KU Leuven",
+    "alpha_two_code": "BE",
+    "state-province": "Leuven",
+    "domains": ["student.kuleuven.be"],
+    "country": "Belgium"
   }
 ]
