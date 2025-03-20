@@ -59839,7 +59839,7 @@
     "web_pages": ["http://www.ibnsina.edu.sa/"],
     "name": "Ibn Sina National College for Medical Studies",
     "alpha_two_code": "SA",
-    "state-province": "Jeddah ",
+    "state-province": "Jeddah",
     "domains": ["ibnsina.edu.sa"],
     "country": "Saudi Arabia"
   },
@@ -60103,7 +60103,7 @@
     "web_pages": ["http://www.saadcollege.com/"],
     "name": "Saad College of Nursing and Allied Health Sciences",
     "alpha_two_code": "SA",
-    "state-province": " Al-Khobar",
+    "state-province": "Al-Khobar",
     "domains": ["saadcollege.com"],
     "country": "Saudi Arabia"
   },
@@ -80352,7 +80352,7 @@
   },
   {
     "web_pages": ["https://www.ara.ac.nz/"],
-    "name": "Ara Institute of Canterbury ",
+    "name": "Ara Institute of Canterbury",
     "alpha_two_code": "NZ",
     "state-province": null,
     "domains": ["ara.ac.nz", "moodle.ara.ac.nz", "myara.ara.ac.nz"],
