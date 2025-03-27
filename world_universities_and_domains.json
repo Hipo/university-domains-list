@@ -33056,11 +33056,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.nsit.ac.in/"],
-    "name": "Netaji Subhas Institute of Technology",
+    "web_pages": ["http://www.nsut.ac.in/"],
+    "name": "Netaji Subhas University of Technology",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["nsit.ac.in"],
+    "state-province": "Delhi",
+    "domains": ["nsut.ac.in"],
     "country": "India"
   },
   {
