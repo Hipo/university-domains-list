@@ -10981,11 +10981,11 @@
     "country": "Argentina"
   },
   {
-    "web_pages": ["http://www.cema.edu.ar/"],
+    "web_pages": ["https://ucema.edu.ar/"],
     "name": "Instituto Universitario CEMA",
     "alpha_two_code": "AR",
     "state-province": "Ciudad Autónoma de Buenos Aires",
-    "domains": ["cema.edu.ar"],
+    "domains": ["ucema.edu.ar"],
     "country": "Argentina"
   },
   {
