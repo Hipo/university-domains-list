@@ -168,6 +168,14 @@
     "state-province": null
   },
   {
+    "name": "Central Supélec",
+    "domains": ["centralesupelec.fr"],
+    "web_pages": ["https://www.centralesupelec.fr/"],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "state-province": null,
+  },
+  {
     "web_pages": ["https://www.ac-paris.fr/"],
     "name": "Académie de Paris",
     "alpha_two_code": "FR",
