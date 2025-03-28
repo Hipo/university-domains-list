@@ -25173,14 +25173,6 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.bip.lon.ac.uk/"],
-    "name": "British Institute in Paris, University of London",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["bip.lon.ac.uk"],
-    "country": "France"
-  },
-  {
     "web_pages": ["http://www.ceram.edu/"],
     "name": "Ecole Supérieure de Commerce de Sophia Antipolis",
     "alpha_two_code": "FR",
@@ -67308,14 +67300,6 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["http://www.lbs.lon.ac.uk/"],
-    "name": "London Business School",
-    "alpha_two_code": "GB",
-    "state-province": null,
-    "domains": ["lbs.lon.ac.uk"],
-    "country": "United Kingdom"
-  },
-  {
     "web_pages": ["http://www.lcst.ac/"],
     "name": "London College of Science & Technology",
     "alpha_two_code": "GB",
@@ -67388,11 +67372,11 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["http://www.lon.ac.uk/"],
+    "web_pages": ["https://www.london.ac.uk/"],
     "name": "University of London",
     "alpha_two_code": "GB",
     "state-province": null,
-    "domains": ["lon.ac.uk"],
+    "domains": ["london.ac.uk"],
     "country": "United Kingdom"
   },
   {
