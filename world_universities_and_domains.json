@@ -38252,10 +38252,10 @@
     "country": "Italy"
   },
   {
-    "web_pages": ["http://www.unimi.it/"],
+    "web_pages": ["https://www.unimi.it/en", "https://www.unimi.it/it"],
     "name": "University of Milan",
     "alpha_two_code": "IT",
-    "state-province": null,
+    "state-province": "Lombardia",
     "domains": ["unimi.it"],
     "country": "Italy"
   },
