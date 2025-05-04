@@ -38724,6 +38724,14 @@
     "country": "Japan"
   },
   {
+    "web_pages": ["https://asahikawa-nct.ac.jp"],
+    "name": "National Institute of Technology, Asahikawa College",
+    "alpha_two_code": "JP",
+    "state-province": null,
+    "domains": ["edu.asahikawa-nct.ac.jp", "asahikawa-nct.ac.jp"],
+    "country": "Japan"
+  },
+  {
     "web_pages": ["http://www.asahi-u.ac.jp/"],
     "name": "Asahi University",
     "alpha_two_code": "JP",
