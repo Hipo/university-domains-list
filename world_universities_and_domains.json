@@ -2376,11 +2376,11 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.cmc.edu/"],
-    "name": "Central Methodist College",
+    "web_pages": ["https://www.centralmethodist.edu/"],
+    "name": "Central Methodist University",
     "alpha_two_code": "US",
     "state-province": null,
-    "domains": ["cmc.edu"],
+    "domains": ["centralmethodist.edu"],
     "country": "United States"
   },
   {
@@ -6260,15 +6260,7 @@
     "name": "Purdue Global University",
     "alpha_two_code": "US",
     "state-province": null,
-    "domains": ["purdueglobal.edu"],
-    "country": "United States"
-  },
-  {
-    "web_pages": ["http://www.purdueglobal.edu/"],
-    "name": "Purdue Global University (Student email)",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": ["student.purdueglobal.edu"],
+    "domains": ["purdueglobal.edu, student.purdueglobal.edu"],
     "country": "United States"
   },
   {
@@ -13934,10 +13926,10 @@
   },
   {
     "web_pages": ["https://www.kuleuven.be/kuleuven/", "https://www.kuleuven.be/english/kuleuven/"],
-    "name": "Katholieke Universiteit Leuven",
+    "name": "Katholieke Universiteit Leuven (KU Leuven)",
     "alpha_two_code": "BE",
-    "state-province": null,
-    "domains": ["kuleuven.be"],
+    "state-province": "Leuven",
+    "domains": ["kuleuven.be", "student.kuleuven.be"],
     "country": "Belgium"
   },
   {
@@ -31952,7 +31944,7 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.iimtrichy.ac.in/"],
+    "web_pages": ["https://www.iiitg.ac.in/"],
     "name": "Indian Institute of Information Technology, Guwahati",
     "alpha_two_code": "IN",
     "state-province": "Assam",
@@ -32352,19 +32344,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.kanpuruniversity.org/"],
-    "name": "Chhatrapati Shahu Ji Maharaj University",
+    "web_pages": ["https://csjmu.ac.in/"],
+    "name": "Chhatrapati Shahu Ji Maharaj University (Kanpur University)",
     "alpha_two_code": "IN",
     "state-province": null,
-    "domains": ["kanpuruniversity.org"],
-    "country": "India"
-  },
-  {
-    "web_pages": ["http://www.kanpuruniversity.org/"],
-    "name": "Kanpur University",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["kanpuruniversity.org"],
+    "domains": ["csjmu.ac.in"],
     "country": "India"
   },
   {
@@ -69276,11 +69260,11 @@
     "country": "Turkey"
   },
   {
-    "web_pages": ["http://www.agu.edu.tr/"],
+    "web_pages": ["http://www.atu.edu.tr/"],
     "name": "Adana Science and Technology University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["adanabtu.edu.tr"],
+    "domains": ["atu.edu.tr"],
     "country": "Turkey"
   },
   {
@@ -78931,7 +78915,7 @@
     "country": "France",
     "state-province": null,
     "domains": ["insead.edu"],
-    "name": "INSEAD",
+    "name": "INSEAD Institut privé d'enseignement supérieur",
     "web_pages": ["https://www.insead.edu/"]
   },
   {
@@ -79631,14 +79615,6 @@
     "country": "France"
   },
   {
-    "web_pages": ["https://www.insead.edu/"],
-    "name": "Institut privé d'enseignement supérieur",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["insead.edu"],
-    "country": "France"
-  },
-  {
     "web_pages": ["https://thk.edu.tr/"],
     "name": "Türk Hava Kurumu Üniversitesi",
     "alpha_two_code": "TR",
@@ -79933,14 +79909,6 @@
     "state-province": null,
     "domains": ["oglethorpe.edu"],
     "country": "United States"
-  },
-  {
-    "web_pages": ["https://cambriancollege.ca/"],
-    "name": "Cambrian College",
-    "alpha_two_code": "CA",
-    "state-province": null,
-    "domains": ["cambriancollege.ca"],
-    "country": "Canada"
   },
   {
     "web_pages": ["https://dsdt.edu/"],
@@ -80549,14 +80517,6 @@
     "state-province": null,
     "domains": ["jefferson.edu"],
     "country": "United States"
-  },
-  {
-    "web_pages": ["https://www.inteli.edu.br/"],
-    "name": "Inteli",
-    "alpha_two_code": "BR",
-    "state-province": null,
-    "domains": ["inteli.edu.br"],
-    "country": "Brazil"
   },
   {
     "web_pages": ["https://www.bou.ac.bw/"],
@@ -81383,27 +81343,11 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["https://www.citystgeorges.ac.uk/"],
-    "name": "City St George's, University of London (II)",
-    "alpha_two_code": "GB",
-    "state-province": "London",
-    "domains": ["student.staffs.ac.uk"],
-    "country": "United Kingdom"
-  },
-  {
     "web_pages": ["https://www.sgul.ac.uk/"],
     "name": "City St George's, University of London (School of Health and Medical Sciences)",
     "alpha_two_code": "GB",
     "state-province": "London",
     "domains": ["sgul.ac.uk"],
-    "country": "United Kingdom"
-  },
-  {
-    "web_pages": ["https://www.trinitycollegebristol.ac.uk/"],
-    "name": "Trinity College Bristol",
-    "alpha_two_code": "GB",
-    "state-province": "Bristol",
-    "domains": ["trinitycollegebristol.ac.uk"],
     "country": "United Kingdom"
   },
   {
@@ -81421,13 +81365,5 @@
     "state-province": "San Francisco",
     "domains": ["cca.edu"],
     "country": "United States"
-  },
-  {
-    "web_pages": ["https://www.kuleuven.be/kuleuven/"],
-    "name": "KU Leuven",
-    "alpha_two_code": "BE",
-    "state-province": "Leuven",
-    "domains": ["student.kuleuven.be"],
-    "country": "Belgium"
   }
 ]
