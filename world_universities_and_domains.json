@@ -27603,11 +27603,11 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.fh-augsburg.de/"],
-    "name": "Fachhochschule Augsburg",
+    "web_pages": ["https://www.tha.de/"],
+    "name": "Technical University of Applied Sciences Augsburg",
     "alpha_two_code": "DE",
     "state-province": null,
-    "domains": ["fh-augsburg.de"],
+    "domains": ["fh-augsburg.de", "tha.de"],
     "country": "Germany"
   },
   {
