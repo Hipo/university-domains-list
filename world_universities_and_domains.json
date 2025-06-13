@@ -81421,5 +81421,78 @@
     "state-province": "Leuven",
     "domains": ["student.kuleuven.be"],
     "country": "Belgium"
+  },
+  {
+    "name": "Kaloji Narayana Rao University of Health Sciences",
+    "domains": ["knruhs.telangana.gov.in"],
+    "web_pages": ["https://www.knruhs.telangana.gov.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Mahatma Gandhi University, Nalgonda",
+    "domains": ["mguniversity.ac.in"],
+    "web_pages": ["https://mguniversity.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Nizam’s Institute of Medical Sciences",
+    "domains": ["nims.edu.in"],
+    "web_pages": ["https://www.nims.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Palamuru University",
+    "domains": ["palamuruuniversity.ac.in"],
+    "web_pages": ["https://palamuruuniversity.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Professor Jayashankar Telangana State Agricultural University",
+    "domains": ["pjtau.edu.in"],
+    "web_pages": ["https://pjtau.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "P. V. Narasimha Rao Telangana Veterinary University",
+    "domains": ["tsvu.nic.in"],
+    "web_pages": ["https://tsvu.nic.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Satavahana University",
+    "domains": ["satavahana.ac.in"],
+    "web_pages": ["https://satavahana.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Sri Konda Laxman Telangana State Horticultural University",
+    "domains": ["skltshu.ac.in"],
+    "web_pages": ["https://www.skltshu.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Telangana University",
+    "domains": ["telanganauniversity.ac.in"],
+    "web_pages": ["https://www.telanganauniversity.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
   }
+
 ]
