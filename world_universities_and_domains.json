@@ -1771,7 +1771,7 @@
     "web_pages": ["http://www.bentley.edu/"],
     "name": "Bentley College",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Massachusetts",
     "domains": ["bentley.edu"],
     "country": "United States"
   },
@@ -2003,7 +2003,7 @@
     "web_pages": ["http://www.bryant.edu/"],
     "name": "Bryant College",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Rhode Island",
     "domains": ["bryant.edu"],
     "country": "United States"
   },
@@ -6171,7 +6171,7 @@
     "web_pages": ["http://www.plymouth.edu/"],
     "name": "Plymouth State College",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "New Hampshire",
     "domains": ["plymouth.edu"],
     "country": "United States"
   },
@@ -6195,7 +6195,7 @@
     "web_pages": ["http://www.pomona.edu/"],
     "name": "Pomona College",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "California",
     "domains": ["pomona.edu"],
     "country": "United States"
   },
@@ -81493,6 +81493,21 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Telangana"
+  },
+  {
+    "name": "Dallas College",
+    "domains": ["dallascollege.edu"],
+    "web_pages": ["https://www.dallascollege.edu/"],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "state-province": "Texas"
+  },
+  {
+    "name": "University of North Texas at Dallas",
+    "domains": ["untdallas.edu"],
+    "web_pages": ["https://www.untdallas.edu/"],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "state-province": "Texas"
   }
-
 ]
