@@ -168,6 +168,14 @@
     "state-province": null
   },
   {
+    "name": "Central Supélec",
+    "domains": ["centralesupelec.fr"],
+    "web_pages": ["https://www.centralesupelec.fr/"],
+    "country": "France",
+    "alpha_two_code": "FR",
+    "state-province": null
+  },
+  {
     "web_pages": ["https://www.ac-paris.fr/"],
     "name": "Académie de Paris",
     "alpha_two_code": "FR",
@@ -25173,14 +25181,6 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.bip.lon.ac.uk/"],
-    "name": "British Institute in Paris, University of London",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["bip.lon.ac.uk"],
-    "country": "France"
-  },
-  {
     "web_pages": ["http://www.ceram.edu/"],
     "name": "Ecole Supérieure de Commerce de Sophia Antipolis",
     "alpha_two_code": "FR",
@@ -27595,11 +27595,11 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.fh-augsburg.de/"],
-    "name": "Fachhochschule Augsburg",
+    "web_pages": ["https://www.tha.de/"],
+    "name": "Technical University of Applied Sciences Augsburg",
     "alpha_two_code": "DE",
     "state-province": null,
-    "domains": ["fh-augsburg.de"],
+    "domains": ["fh-augsburg.de", "tha.de"],
     "country": "Germany"
   },
   {
@@ -33040,11 +33040,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.nsit.ac.in/"],
-    "name": "Netaji Subhas Institute of Technology",
+    "web_pages": ["http://www.nsut.ac.in/"],
+    "name": "Netaji Subhas University of Technology",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["nsit.ac.in"],
+    "state-province": "Delhi",
+    "domains": ["nsut.ac.in"],
     "country": "India"
   },
   {
@@ -67300,14 +67300,6 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["http://www.lbs.lon.ac.uk/"],
-    "name": "London Business School",
-    "alpha_two_code": "GB",
-    "state-province": null,
-    "domains": ["lbs.lon.ac.uk"],
-    "country": "United Kingdom"
-  },
-  {
     "web_pages": ["http://www.lcst.ac/"],
     "name": "London College of Science & Technology",
     "alpha_two_code": "GB",
@@ -67380,11 +67372,11 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["http://www.lon.ac.uk/"],
+    "web_pages": ["https://www.london.ac.uk/"],
     "name": "University of London",
     "alpha_two_code": "GB",
     "state-province": null,
-    "domains": ["lon.ac.uk"],
+    "domains": ["london.ac.uk"],
     "country": "United Kingdom"
   },
   {
@@ -81365,5 +81357,78 @@
     "state-province": "San Francisco",
     "domains": ["cca.edu"],
     "country": "United States"
+  },
+  {
+    "name": "Kaloji Narayana Rao University of Health Sciences",
+    "domains": ["knruhs.telangana.gov.in"],
+    "web_pages": ["https://www.knruhs.telangana.gov.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Mahatma Gandhi University, Nalgonda",
+    "domains": ["mguniversity.ac.in"],
+    "web_pages": ["https://mguniversity.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Nizam’s Institute of Medical Sciences",
+    "domains": ["nims.edu.in"],
+    "web_pages": ["https://www.nims.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Palamuru University",
+    "domains": ["palamuruuniversity.ac.in"],
+    "web_pages": ["https://palamuruuniversity.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Professor Jayashankar Telangana State Agricultural University",
+    "domains": ["pjtau.edu.in"],
+    "web_pages": ["https://pjtau.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "P. V. Narasimha Rao Telangana Veterinary University",
+    "domains": ["tsvu.nic.in"],
+    "web_pages": ["https://tsvu.nic.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Satavahana University",
+    "domains": ["satavahana.ac.in"],
+    "web_pages": ["https://satavahana.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Sri Konda Laxman Telangana State Horticultural University",
+    "domains": ["skltshu.ac.in"],
+    "web_pages": ["https://www.skltshu.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
+  },
+  {
+    "name": "Telangana University",
+    "domains": ["telanganauniversity.ac.in"],
+    "web_pages": ["https://www.telanganauniversity.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana"
   }
+
 ]
