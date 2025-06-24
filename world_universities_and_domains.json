@@ -1769,7 +1769,7 @@
   },
   {
     "web_pages": ["http://www.bentley.edu/"],
-    "name": "Bentley College",
+    "name": "Bentley University",
     "alpha_two_code": "US",
     "state-province": "Massachusetts",
     "domains": ["bentley.edu"],
@@ -2001,7 +2001,7 @@
   },
   {
     "web_pages": ["http://www.bryant.edu/"],
-    "name": "Bryant College",
+    "name": "Bryant University",
     "alpha_two_code": "US",
     "state-province": "Rhode Island",
     "domains": ["bryant.edu"],
@@ -6169,7 +6169,7 @@
   },
   {
     "web_pages": ["http://www.plymouth.edu/"],
-    "name": "Plymouth State College",
+    "name": "Plymouth State University",
     "alpha_two_code": "US",
     "state-province": "New Hampshire",
     "domains": ["plymouth.edu"],
