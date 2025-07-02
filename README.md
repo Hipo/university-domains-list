@@ -1,4 +1,6 @@
-# University Domains and Names Data List & API
+# University Domains and Names Data List & API 
+#applications
+
 
 Do you need a list of universities and their domain names? You found it! 
 
