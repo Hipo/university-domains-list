@@ -61492,10 +61492,10 @@
     "country": "Spain"
   },
   {
-    "web_pages": ["http://www.udc.gal/"],
+    "web_pages": ["https://www.udc.gal/", "https://www.udc.es/en/"],
     "name": "Universidade da Coruña",
     "alpha_two_code": "ES",
-    "state-province": null,
+    "state-province": "A Coruña",
     "domains": ["udc.gal", "udc.es"],
     "country": "Spain"
   },
@@ -61863,7 +61863,7 @@
     "web_pages": ["https://www.usc.gal/"],
     "name": "Universidade de Santiago de Compostela",
     "alpha_two_code": "ES",
-    "state-province": null,
+    "state-province": "A Coruña",
     "domains": ["usc.es", "usc.gal"],
     "country": "Spain"
   },
@@ -61900,10 +61900,10 @@
     "country": "Spain"
   },
   {
-    "web_pages": ["http://www.uvigo.gal/"],
+    "web_pages": ["https://www.uvigo.gal/"],
     "name": "Universidade de Vigo",
     "alpha_two_code": "ES",
-    "state-province": null,
+    "state-province": "Pontevedra",
     "domains": ["uvigo.gal", "uvigo.es"],
     "country": "Spain"
   },
