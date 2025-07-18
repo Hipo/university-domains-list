@@ -1769,9 +1769,9 @@
   },
   {
     "web_pages": ["http://www.bentley.edu/"],
-    "name": "Bentley College",
+    "name": "Bentley University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Massachusetts",
     "domains": ["bentley.edu"],
     "country": "United States"
   },
@@ -2001,9 +2001,9 @@
   },
   {
     "web_pages": ["http://www.bryant.edu/"],
-    "name": "Bryant College",
+    "name": "Bryant University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Rhode Island",
     "domains": ["bryant.edu"],
     "country": "United States"
   },
@@ -6169,9 +6169,9 @@
   },
   {
     "web_pages": ["http://www.plymouth.edu/"],
-    "name": "Plymouth State College",
+    "name": "Plymouth State University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "New Hampshire",
     "domains": ["plymouth.edu"],
     "country": "United States"
   },
@@ -6195,7 +6195,7 @@
     "web_pages": ["http://www.pomona.edu/"],
     "name": "Pomona College",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "California",
     "domains": ["pomona.edu"],
     "country": "United States"
   },
@@ -45797,7 +45797,7 @@
   },
   {
     "web_pages": ["http://www.ulsan.ac.kr/"],
-    "name": "Ulsan University",
+    "name": "University of Ulsan",
     "alpha_two_code": "KR",
     "state-province": null,
     "domains": ["ulsan.ac.kr"],
@@ -61500,11 +61500,11 @@
     "country": "Spain"
   },
   {
-    "web_pages": ["http://www.udc.es/"],
-    "name": "Universidad de La Coruña",
+    "web_pages": ["https://www.udc.gal/", "https://www.udc.es/"],
+    "name": "Universidade da Coruña",
     "alpha_two_code": "ES",
-    "state-province": null,
-    "domains": ["udc.es"],
+    "state-province": "A Coruña",
+    "domains": ["udc.gal", "udc.es"],
     "country": "Spain"
   },
   {
@@ -61868,11 +61868,11 @@
     "country": "Spain"
   },
   {
-    "web_pages": ["http://www.usc.es/"],
-    "name": "Universidad de Santiago de Compostela",
+    "web_pages": ["https://www.usc.gal/"],
+    "name": "Universidade de Santiago de Compostela",
     "alpha_two_code": "ES",
-    "state-province": null,
-    "domains": ["usc.es"],
+    "state-province": "A Coruña",
+    "domains": ["usc.es", "usc.gal"],
     "country": "Spain"
   },
   {
@@ -61908,11 +61908,11 @@
     "country": "Spain"
   },
   {
-    "web_pages": ["http://www.uvigo.es/"],
-    "name": "Universidad de Vigo",
+    "web_pages": ["https://www.uvigo.gal/"],
+    "name": "Universidade de Vigo",
     "alpha_two_code": "ES",
-    "state-province": null,
-    "domains": ["uvigo.es"],
+    "state-province": "Pontevedra",
+    "domains": ["uvigo.gal", "uvigo.es"],
     "country": "Spain"
   },
   {
@@ -81501,5 +81501,21 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Telangana"
+  },
+  {
+    "name": "Dallas College",
+    "domains": ["dallascollege.edu"],
+    "web_pages": ["https://www.dallascollege.edu/"],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "state-province": "Texas"
+  },
+  {
+    "name": "University of North Texas at Dallas",
+    "domains": ["untdallas.edu"],
+    "web_pages": ["https://www.untdallas.edu/"],
+    "country": "United States",
+    "alpha_two_code": "US",
+    "state-province": "Texas"
   }
 ]
