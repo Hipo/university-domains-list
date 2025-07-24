@@ -81509,5 +81509,13 @@
     "country": "United States",
     "alpha_two_code": "US",
     "state-province": "Texas"
+  },
+  {
+    "web_pages": ["https://www.w-hs.de/"],
+    "name": "Westphalian University of Applied Sciences",
+    "alpha_two_code": "DE",
+    "state-province": null,
+    "domains": ["w-hs.de"],
+    "country": "Germany"
   }
 ]
