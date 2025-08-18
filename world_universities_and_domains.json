@@ -38064,7 +38064,7 @@
     "name": "Bocconi University",
     "alpha_two_code": "IT",
     "state-province": null,
-    "domains": ["unibocconi.it"],
+    "domains": ["unibocconi.it", "studbocconi.it"],
     "country": "Italy"
   },
   {
