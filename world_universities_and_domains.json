@@ -62124,6 +62124,14 @@
     "country": "Sri Lanka"
   },
   {
+    "web_pages": ["https://esoft.lk/", "https://www.esu.lk/"],
+    "name": "ESOFT Uni",
+    "alpha_two_code": "LK",
+    "state-province": "Western Province",
+    "domains": ["esoft.academy"],
+    "country": "Sri Lanka"
+  },
+  {
     "web_pages": ["http://www.aau.edu.sd/"],
     "name": "Al-Zaiem Al-Azhari University",
     "alpha_two_code": "SD",
