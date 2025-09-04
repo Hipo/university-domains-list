@@ -48428,11 +48428,11 @@
     "country": "Mexico"
   },
   {
-    "web_pages": ["http://www.itesm.mx/"],
-    "name": "Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)",
+    "web_pages": ["https://www.tec.mx/"],
+    "name": "Tecnologico de Monterrey",
     "alpha_two_code": "MX",
-    "state-province": null,
-    "domains": ["itesm.mx"],
+    "state-province": "NL",
+    "domains": ["tec.mx"],
     "country": "Mexico"
   },
   {
