@@ -81525,5 +81525,13 @@
     "state-province": "Nordrhein-Westfalen",
     "domains": ["w-hs.de"],
     "country": "Germany"
+  },
+  {
+    "name": "Chengdu College of University of Electronic Science and Technology of China",
+    "domains": ["cduestc.cn"],
+    "web_pages": ["https://www.cduestc.cn/"],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": "Sichuan"
   }
 ]
