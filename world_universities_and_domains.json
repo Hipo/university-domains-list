@@ -48431,7 +48431,7 @@
     "web_pages": ["https://www.tec.mx/"],
     "name": "Tecnologico de Monterrey",
     "alpha_two_code": "MX",
-    "state-province": "NL",
+    "state-province": "Nuevo Leon",
     "domains": ["tec.mx"],
     "country": "Mexico"
   },
@@ -77736,6 +77736,14 @@
     "alpha_two_code": "IN",
     "state-province": "Madhya Pradesh",
     "domains": ["iiitm.ac.in"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["https://coeruniversity.ac.in","https://coer.ac.in/"],
+    "name": "COER University Roorkee",
+    "alpha_two_code": "IN",
+    "state-province": "Uttarakhand",
+    "domains": [ "coeruniversity.ac.in", "coer.ac.in"],
     "country": "India"
   },
   {
