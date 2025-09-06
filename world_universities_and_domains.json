@@ -32811,7 +32811,7 @@
     "web_pages": ["http://www.nirmauni.ac.in/"],
     "name": "Nirma University",
     "alpha_two_code": "IN",
-    "state-province": null,
+    "state-province": "Gujarat",
     "domains": ["nirmauni.ac.in"],
     "country": "India"
   },
@@ -33072,11 +33072,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.pdpu.ac.in/"],
-    "name": "Pandit Deendayal Petroleum University",
+    "web_pages": ["https://www.pdeu.ac.in/", "https://www.pdpu.ac.in/"],
+    "name": "Pandit Deendayal Energy University",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["pdpu.ac.in"],
+    "state-province": "Gujarat",
+    "domains": ["pdeu.ac.in", "pdpu.ac.in"],
     "country": "India"
   },
   {
