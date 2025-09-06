@@ -87,6 +87,7 @@ Do not hesitate to fix any wrong data. It is extremely easy. Just open a PR, or 
 - anwilli5
 - Thomas Bauer
 - Emin Mastizada
+- Ceyda Duzgec
 - Jai
 - Jimi Ford
 - Lars Schwegmann
