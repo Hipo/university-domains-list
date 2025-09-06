@@ -16,14 +16,6 @@
     "state-province": null
   },
   {
-    "name": "University of Kyrenia",
-    "domains": ["std.kyrenia.edu.tr", "kyrenia.edu.tr"],
-    "web_pages": ["https://kyrenia.edu.tr"],
-    "country": "Turkey",
-    "alpha_two_code": "TR",
-    "state-province": null
-  },
-  {
     "name": "Regent University College of Science and Technology",
     "domains": ["regent.edu.gh"],
     "web_pages": ["https://regent.edu.gh"],
@@ -65017,7 +65009,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["adu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ahievran.edu.tr/"],
@@ -65025,7 +65017,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ahievran.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.akdeniz.edu.tr/"],
@@ -65033,7 +65025,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["akdeniz.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.anadolu.edu.tr/"],
@@ -65041,7 +65033,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["anadolu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ankara.edu.tr/"],
@@ -65049,7 +65041,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ankara.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.arel.edu.tr/"],
@@ -65057,7 +65049,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["arel.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.atauni.edu.tr/"],
@@ -65065,7 +65057,15 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["atauni.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
+  },
+  {
+    "name": "University of Kyrenia",
+    "domains": ["std.kyrenia.edu.tr", "kyrenia.edu.tr"],
+    "web_pages": ["https://kyrenia.edu.tr"],
+    "country": "Turkiye",
+    "alpha_two_code": "TR",
+    "state-province": null
   },
   {
     "web_pages": ["http://www.atilim.edu.tr/"],
@@ -65073,7 +65073,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["atilim.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bahcesehir.edu.tr/"],
@@ -65081,7 +65081,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bahcesehir.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.balikesir.edu.tr/"],
@@ -65089,7 +65089,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["balikesir.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.baskent.edu.tr/"],
@@ -65097,7 +65097,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["baskent.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.mcbu.edu.tr/", "http://www.cbu.edu.tr/"],
@@ -65105,7 +65105,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["mcbu.edu.tr", "cbu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.beykent.edu.tr/"],
@@ -65113,7 +65113,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["beykent.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bilecik.edu.tr/"],
@@ -65121,7 +65121,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bilecik.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bilgi.edu.tr/"],
@@ -65129,7 +65129,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bilgi.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bilkent.edu.tr/"],
@@ -65137,7 +65137,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bilkent.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.boun.edu.tr/"],
@@ -65145,7 +65145,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["boun.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.cag.edu.tr/"],
@@ -65153,7 +65153,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["cag.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.cankaya.edu.tr/"],
@@ -65161,7 +65161,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["cankaya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.comu.edu.tr/"],
@@ -65169,7 +65169,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["comu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.cu.edu.tr/"],
@@ -65177,7 +65177,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["cu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.cumhuriyet.edu.tr/"],
@@ -65185,7 +65185,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["cumhuriyet.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.deu.edu.tr/"],
@@ -65193,7 +65193,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["deu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.dho.edu.tr/"],
@@ -65201,7 +65201,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["dho.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.dicle.edu.tr/"],
@@ -65209,7 +65209,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["dicle.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.dogus.edu.tr/"],
@@ -65217,7 +65217,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["dogus.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.dumlupinar.edu.tr/", "http://www.dpu.edu.tr/"],
@@ -65225,7 +65225,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["dumlupinar.edu.tr", "dpu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ege.edu.tr/"],
@@ -65233,7 +65233,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ege.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.erciyes.edu.tr/"],
@@ -65241,7 +65241,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["erciyes.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.etu.edu.tr/"],
@@ -65249,7 +65249,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["etu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.firat.edu.tr/"],
@@ -65257,7 +65257,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["firat.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://fbu.edu.tr/"],
@@ -65265,7 +65265,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["fbu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gantep.edu.tr/"],
@@ -65273,7 +65273,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gantep.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gazi.edu.tr/"],
@@ -65281,7 +65281,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gazi.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gop.edu.tr/"],
@@ -65289,7 +65289,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gop.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gsu.edu.tr/"],
@@ -65297,7 +65297,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gsu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gyte.edu.tr/"],
@@ -65305,7 +65305,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gyte.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.halic.edu.tr/"],
@@ -65313,7 +65313,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["halic.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.harran.edu.tr/"],
@@ -65321,7 +65321,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["harran.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.hun.edu.tr/", "http://www.hacettepe.edu.tr/"],
@@ -65329,7 +65329,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["hun.edu.tr", "hacettepe.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ibu.edu.tr/"],
@@ -65337,7 +65337,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ibu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.iku.edu.tr/"],
@@ -65345,7 +65345,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["iku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.inonu.edu.tr/"],
@@ -65353,7 +65353,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["inonu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.isikun.edu.tr/"],
@@ -65361,7 +65361,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["isikun.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://ticaret.edu.tr/"],
@@ -65369,7 +65369,7 @@
     "alpha_two_code": "TR",
     "state-province": "Istanbul",
     "domains": ["ticaret.edu.tr", "istanbulticaret.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.itu.edu.tr/"],
@@ -65377,7 +65377,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["itu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.iyte.edu.tr/"],
@@ -65385,7 +65385,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["iyte.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kafkas.edu.tr/"],
@@ -65393,7 +65393,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kafkas.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.karaelmas.edu.tr/"],
@@ -65401,7 +65401,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["karaelmas.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.khas.edu.tr/"],
@@ -65409,7 +65409,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["khas.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kilis.edu.tr/"],
@@ -65417,7 +65417,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kilis.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kku.edu.tr/"],
@@ -65425,7 +65425,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.konya.edu.tr/"],
@@ -65433,7 +65433,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["konya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kou.edu.tr/"],
@@ -65441,7 +65441,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kou.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ksu.edu.tr/"],
@@ -65449,7 +65449,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ksu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ktu.edu.tr/"],
@@ -65457,7 +65457,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ktu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ku.edu.tr/"],
@@ -65465,7 +65465,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.maltepe.edu.tr/"],
@@ -65473,7 +65473,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["maltepe.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.marmara.edu.tr/"],
@@ -65481,7 +65481,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["marmara.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.mersin.edu.tr/"],
@@ -65489,7 +65489,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["mersin.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.mku.edu.tr/"],
@@ -65497,7 +65497,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["mku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.msu.edu.tr/"],
@@ -65505,7 +65505,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["msu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.mu.edu.tr/", "http://www.marun.edu.tr/"],
@@ -65513,7 +65513,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["mu.edu.tr", "marun.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ohu.edu.tr/"],
@@ -65521,7 +65521,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ohu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.nku.edu.tr/"],
@@ -65529,7 +65529,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["nku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.metu.edu.tr/"],
@@ -65537,7 +65537,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["metu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ogu.edu.tr/"],
@@ -65545,7 +65545,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ogu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.omu.edu.tr/"],
@@ -65553,7 +65553,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["omu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.odu.edu.tr"],
@@ -65561,7 +65561,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["odu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ozyegin.edu.tr/", "http://www.ozu.edu.tr/"],
@@ -65569,7 +65569,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ozyegin.edu.tr", "ozu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.pamukkale.edu.tr/"],
@@ -65577,7 +65577,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["pamukkale.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sabanciuniv.edu.tr/", "http://www.sabanciuniv.edu/"],
@@ -65585,7 +65585,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sabanciuniv.edu.tr", "sabanciuniv.edu"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sau.edu.tr/"],
@@ -65593,7 +65593,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sau.edu.tr", "sakarya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sdu.edu.tr/"],
@@ -65601,7 +65601,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sdu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sehir.edu.tr/"],
@@ -65609,7 +65609,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sehir.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.selcuk.edu.tr/"],
@@ -65617,7 +65617,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["selcuk.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.tarsus.edu.tr/"],
@@ -65625,7 +65625,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["tarsus.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.tau.edu.tr/"],
@@ -65633,7 +65633,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["tau.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.trakya.edu.tr/"],
@@ -65641,7 +65641,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["trakya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ufuk.edu.tr/"],
@@ -65649,7 +65649,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ufuk.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.uludag.edu.tr/"],
@@ -65657,7 +65657,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["uludag.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yalova.edu.tr/"],
@@ -65665,7 +65665,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yalova.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yasar.edu.tr/"],
@@ -65673,7 +65673,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yasar.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ybu.edu.tr/"],
@@ -65681,7 +65681,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ybu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yeditepe.edu.tr/"],
@@ -65689,7 +65689,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yeditepe.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yildiz.edu.tr/"],
@@ -65697,7 +65697,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yildiz.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yyu.edu.tr/"],
@@ -65705,7 +65705,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yyu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ittu.edu.tm/"],
@@ -69273,7 +69273,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["agu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.agu.edu.tr/"],
@@ -69281,7 +69281,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["adanabtu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.adiyaman.edu.tr/"],
@@ -69289,7 +69289,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["adiyaman.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.agri.edu.tr/"],
@@ -69297,7 +69297,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["agri.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.aksaray.edu.tr/"],
@@ -69305,7 +69305,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["aksaray.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.alanyaaku.edu.tr/"],
@@ -69313,7 +69313,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["alanyaaku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.amasya.edu.tr/"],
@@ -69321,7 +69321,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["amasya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.asbu.edu.tr/"],
@@ -69329,7 +69329,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["asbu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ardahan.edu.tr/"],
@@ -69337,7 +69337,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ardahan.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.artvin.edu.tr/"],
@@ -69345,7 +69345,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["artvin.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bamdirma.edu.tr/"],
@@ -69353,7 +69353,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bandirma.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bartin.edu.tr/"],
@@ -69361,7 +69361,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bartin.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.batman.edu.tr/"],
@@ -69369,7 +69369,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["batman.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bayburt.edu.tr/"],
@@ -69377,7 +69377,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bayburt.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bingol.edu.tr/"],
@@ -69385,7 +69385,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bingol.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.beu.edu.tr/"],
@@ -69393,7 +69393,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["beu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bozok.edu.tr/"],
@@ -69401,7 +69401,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bozok.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.btu.edu.tr/"],
@@ -69409,7 +69409,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["btu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.karatekin.edu.tr/"],
@@ -69417,7 +69417,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["karatekin.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.duzce.edu.tr/"],
@@ -69425,7 +69425,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["duzce.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ebyu.edu.tr/"],
@@ -69433,7 +69433,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ebyu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.erzurum.edu.tr/"],
@@ -69441,7 +69441,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["erzurum.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gtu.edu.tr/"],
@@ -69449,7 +69449,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gtu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gata.edu.tr/"],
@@ -69457,7 +69457,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gata.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gumushane.edu.tr/"],
@@ -69465,7 +69465,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gumushane.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.hakkari.edu.tr/"],
@@ -69473,7 +69473,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["hakkari.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.hho.edu.tr/"],
@@ -69481,7 +69481,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["hho.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.hitit.edu.tr/"],
@@ -69489,7 +69489,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["hitit.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.igdir.edu.tr/"],
@@ -69497,7 +69497,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["igdir.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.iste.edu.tr/"],
@@ -69505,7 +69505,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["iste.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.medeniyet.edu.tr/"],
@@ -69513,7 +69513,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["medeniyet.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.istanbul.edu.tr/"],
@@ -69521,7 +69521,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["istanbul.edu.tr", "ogr.iu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ikc.edu.tr/", "http://www.ikcu.edu.tr/"],
@@ -69529,7 +69529,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ikc.edu.tr", "ikcu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.karabuk.edu.tr/"],
@@ -69537,7 +69537,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["karabuk.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kmu.edu.tr/"],
@@ -69545,7 +69545,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kmu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kastamonu.edu.tr/"],
@@ -69553,7 +69553,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kastamonu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kirklareli.edu.tr/"],
@@ -69561,7 +69561,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kirklareli.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.artuklu.edu.tr/"],
@@ -69569,7 +69569,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["artuklu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.mehmetakif.edu.tr/"],
@@ -69577,7 +69577,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["mehmetakif.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.msgsu.edu.tr/"],
@@ -69585,7 +69585,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["msgsu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.alparslan.edu.tr/"],
@@ -69593,7 +69593,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["alparslan.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.nevsehir.edu.tr/"],
@@ -69601,7 +69601,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["nevsehir.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.osmaniye.edu.tr/"],
@@ -69609,7 +69609,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["osmaniye.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.erdogan.edu.tr/"],
@@ -69617,7 +69617,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["erdogan.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.siirt.edu.tr/"],
@@ -69625,7 +69625,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["siirt.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sinop.edu.tr/"],
@@ -69633,7 +69633,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sinop.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sirnak.edu.tr/"],
@@ -69641,7 +69641,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sirnak.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.tunceli.edu.tr/"],
@@ -69649,7 +69649,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["tunceli.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sbu.edu.tr/"],
@@ -69657,7 +69657,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sbu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.usak.edu.tr/"],
@@ -69665,7 +69665,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["usak.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.beun.edu.tr/"],
@@ -69673,7 +69673,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["beun.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.acibadem.edu.tr/"],
@@ -69681,7 +69681,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["acibadem.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ahap.edu.tr/"],
@@ -69689,7 +69689,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ahap.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.avrasya.edu.tr/"],
@@ -69697,7 +69697,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["avrasya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.bezmialem.edu.tr/"],
@@ -69705,7 +69705,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bezmialem.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.biruni.edu.tr/"],
@@ -69713,7 +69713,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["biruni.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.fatihsultan.edu.tr/"],
@@ -69721,7 +69721,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["fatihsultan.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gedik.edu.tr/"],
@@ -69729,7 +69729,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gedik.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.hku.edu.tr/"],
@@ -69737,7 +69737,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["hku.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.29mayis.edu.tr/"],
@@ -69745,7 +69745,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["29mayis.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.aydin.edu.tr/"],
@@ -69753,7 +69753,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["aydin.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.esenyurt.edu.tr/"],
@@ -69761,7 +69761,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["esenyurt.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gelisim.edu.tr/"],
@@ -69769,7 +69769,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gelisim.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.kemerburgaz.edu.tr/"],
@@ -69777,7 +69777,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["kemerburgaz.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.medipol.edu.tr/"],
@@ -69785,7 +69785,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["medipol.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.rumeli.edu.tr/"],
@@ -69793,7 +69793,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["rumeli.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.iszu.edu.tr/"],
@@ -69801,7 +69801,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["iszu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ieu.edu.tr/", "http://www.izmirekonomi.edu.tr/"],
@@ -69809,7 +69809,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ieu.edu.tr", "izmirekonomi.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.karatay.edu.tr/"],
@@ -69817,7 +69817,15 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["karatay.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
+  },
+  {
+    "web_pages": ["https://aybu.edu.tr/"],
+    "name": "Ankara Yildirim Beyazit University",
+    "alpha_two_code": "TR",
+    "state-province": null,
+    "domains": ["aybu.edu.tr"],
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.gidatarim.edu.tr/"],
@@ -69825,7 +69833,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["gidatarim.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.mef.edu.tr/"],
@@ -69833,7 +69841,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["mef.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.nisantasi.edu.tr/"],
@@ -69841,7 +69849,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["nisantasi.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.nny.edu.tr/"],
@@ -69849,7 +69857,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["nny.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.okan.edu.tr/"],
@@ -69857,7 +69865,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["okan.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.pirireis.edu.tr/"],
@@ -69865,7 +69873,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["pirireis.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.sanko.edu.tr/"],
@@ -69873,7 +69881,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["sanko.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.tedu.edu.tr/"],
@@ -69881,7 +69889,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["tedu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.toros.edu.tr/"],
@@ -69889,7 +69897,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["toros.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.thk.edu.tr/"],
@@ -69897,7 +69905,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["thk.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.antalya.edu.tr/"],
@@ -69905,7 +69913,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["antalya.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.uskudar.edu.tr/"],
@@ -69913,7 +69921,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["uskudar.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yeniyuzyil.edu.tr/"],
@@ -69921,7 +69929,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yeniyuzyil.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.yuksekihtisasuniversitesi.edu.tr/"],
@@ -69929,7 +69937,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["yuksekihtisasuniversitesi.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["http://www.ascc.edu"],
@@ -77796,7 +77804,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ktun.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://uet.vnu.edu.vn/"],
@@ -77900,7 +77908,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["bakircay.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.idu.edu.tr/"],
@@ -77908,7 +77916,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["idu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.tinaztepe.edu.tr/"],
@@ -77916,7 +77924,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["tinaztepe.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.usa.edu/"],
@@ -79652,7 +79660,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["thk.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://if-pan.krakow.pl/"],
@@ -79797,14 +79805,6 @@
     "state-province": null,
     "domains": ["berkeleycollege.edu"],
     "country": "United States"
-  },
-  {
-    "web_pages": ["https://aybu.edu.tr/"],
-    "name": "Ankara Yildirim Beyazit University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["aybu.edu.tr"],
-    "country": "Turkey"
   },
   {
     "web_pages": ["https://www.floridauniversitaria.es/"],
@@ -80028,7 +80028,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ostimteknik.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://ankaramedipol.edu.tr"],
@@ -80036,7 +80036,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ankaramedipol.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://ankarabilim.edu.tr"],
@@ -80044,7 +80044,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ankarabilim.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.thk.edu.tr"],
@@ -80052,7 +80052,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["thk.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.omu.edu.tr"],
@@ -80060,7 +80060,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["omu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.ieu.edu.tr"],
@@ -80068,7 +80068,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ieu.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://www.greenville.edu/"],
@@ -80804,7 +80804,7 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["eskisehir.edu.tr"],
-    "country": "Turkey"
+    "country": "Turkiye"
   },
   {
     "web_pages": ["https://college.harlaxton.co.uk/"],
