@@ -37568,10 +37568,10 @@
     "country": "Ireland"
   },
   {
-    "web_pages": ["http://www.tus.ie/"],
+    "web_pages": ["https://www.tus.ie/"],
     "name": "Technological University of the Shannon",
     "alpha_two_code": "IE",
-    "state-province": null,
+    "state-province": "Limerick",
     "domains": ["tus.ie"],
     "country": "Ireland"
   },
