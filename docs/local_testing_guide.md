@@ -1,28 +1,34 @@
 # Local Testing Guide
 
-## Setup
+To run the project tests:
+
+1. **Set up a virtual environment** (recommended)
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
+# Create a virtual environment (if not already created)
+python -m venv venv
+
+# Activate the environment
+source venv/bin/activate  # On Unix/macOS
+# or
+venv\Scripts\activate  # On Windows
+```
+
+2. **Install test dependencies**
+
+```bash
 pip install -r tests/requirements.txt
 ```
 
-## Running Tests
+3. **Run tests using unittest**
 
-### Individual Tests
-```bash
-# JSON structure validation
-python -m unittest tests.test_domains
+   ```bash
+   # From the tests directory
+   python -m unittest discover
 
-# Field trimming validation  
-python -m unittest tests.test_trimming
-```
-
-### All Tests
-```bash
-python -m unittest discover tests/
-```
+   # Or from the project root
+   python -m unittest discover tests
+   ```
 
 ## Test Coverage
 
