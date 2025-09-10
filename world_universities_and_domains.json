@@ -37568,7 +37568,7 @@
     "country": "Ireland"
   },
   {
-    "web_pages": ["https://www.tus.ie/"],
+    "web_pages": ["https://tus.ie/"],
     "name": "Technological University of the Shannon",
     "alpha_two_code": "IE",
     "state-province": "Limerick",
@@ -70215,7 +70215,7 @@
     "web_pages": ["https://www.minerva.edu/"],
     "name": "Minerva University",
     "alpha_two_code": "US",
-    "state-province": "CA",
+    "state-province": "California",
     "domains": ["minerva.edu"],
     "country": "United States"
   },
