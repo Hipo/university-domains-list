@@ -28774,7 +28774,7 @@
     "state-province": null,
     "domains": ["mu-luebeck.de"],
     "country": "Germany"
-  },
+  },  
   {
     "web_pages": ["http://www.muthesius.de/"],
     "name": "Muthesius-Hochschule, Fachhochschule für Kunst und Gestaltung",
@@ -37565,6 +37565,14 @@
     "alpha_two_code": "IE",
     "state-province": null,
     "domains": ["shannoncollege.com"],
+    "country": "Ireland"
+  },
+  {
+    "web_pages": ["https://www.tus.ie/"],
+    "name": "Technological University of the Shannon",
+    "alpha_two_code": "IE",
+    "state-province": "Limerick",
+    "domains": ["tus.ie"],
     "country": "Ireland"
   },
   {
@@ -70201,6 +70209,14 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": ["gccaz.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.minerva.edu/"],
+    "name": "Minerva University",
+    "alpha_two_code": "US",
+    "state-province": "CA",
+    "domains": ["minerva.edu"],
     "country": "United States"
   },
   {
