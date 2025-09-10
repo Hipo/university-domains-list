@@ -29,26 +29,25 @@ def country_filter(src, scopes):
     """
     if not scopes:  # Handle empty scopes
         return src
-    
+
     if isinstance(scopes, str):
         return _country_filter(src, scopes, None)
-    
+
     if isinstance(scopes, list):
         if not scopes:  # Empty list
             return src
-        
+
         # Convert all scopes to lowercase for case-insensitive comparison
         normalized_scopes = [scope.lower() for scope in scopes]
-        
+
         # Filter entries where country matches any scope (case-insensitive)
         filtered_entries = [
-            entry for entry in src 
-            if entry["country"].lower() in normalized_scopes
+            entry for entry in src if entry["country"].lower() in normalized_scopes
         ]
-        
+
         # Sort by country name for consistent ordering
         return sorted(filtered_entries, key=lambda x: x["country"])
-    
+
     return []
 
 
