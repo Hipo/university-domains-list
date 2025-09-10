@@ -37568,6 +37568,14 @@
     "country": "Ireland"
   },
   {
+    "web_pages": ["https://www.tus.ie/"],
+    "name": "Technological University of the Shannon",
+    "alpha_two_code": "IE",
+    "state-province": "Limerick",
+    "domains": ["tus.ie"],
+    "country": "Ireland"
+  },
+  {
     "web_pages": ["http://www.tcd.ie/"],
     "name": "University of Dublin, Trinity College",
     "alpha_two_code": "IE",
