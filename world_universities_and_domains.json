@@ -12021,6 +12021,14 @@
     "country": "Australia"
   },
   {
+    "web_pages": ["https://www.southmetrotafe.wa.edu.au/"],
+    "name": "South Metropolitan TAFE",
+    "alpha_two_code": "AU",
+    "state-province": "Western Australia",
+    "domains": ["smtafe.wa.edu.au", "southmetrotafe.wa.edu.au"],
+    "country": "Australia"
+  },
+  {
     "web_pages": ["http://www.scu.edu.au/"],
     "name": "Southern Cross University",
     "alpha_two_code": "AU",
@@ -77771,11 +77779,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["https://coeruniversity.ac.in","https://coer.ac.in/"],
+    "web_pages": ["https://coeruniversity.ac.in", "https://coer.ac.in/"],
     "name": "COER University Roorkee",
     "alpha_two_code": "IN",
     "state-province": "Uttarakhand",
-    "domains": [ "coeruniversity.ac.in", "coer.ac.in"],
+    "domains": ["coeruniversity.ac.in", "coer.ac.in"],
     "country": "India"
   },
   {
