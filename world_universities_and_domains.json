@@ -12021,11 +12021,11 @@
     "country": "Australia"
   },
   {
-    "web_pages": ["https://www.southmetrotafe.wa.edu.au/"],
+    "web_pages": ["https://www.southmetrotafe.wa.edu.au/", "https://www.tafe.wa.edu.au/"],
     "name": "South Metropolitan TAFE",
     "alpha_two_code": "AU",
     "state-province": "Western Australia",
-    "domains": ["smtafe.wa.edu.au", "southmetrotafe.wa.edu.au"],
+    "domains": ["smtafe.wa.edu.au", "southmetrotafe.wa.edu.au", "tafe.wa.edu.au"],
     "country": "Australia"
   },
   {
