@@ -28782,7 +28782,7 @@
     "state-province": null,
     "domains": ["mu-luebeck.de"],
     "country": "Germany"
-  },  
+  },
   {
     "web_pages": ["http://www.muthesius.de/"],
     "name": "Muthesius-Hochschule, Fachhochschule für Kunst und Gestaltung",
@@ -46664,7 +46664,7 @@
     "name": "Kaunas University of Technology",
     "alpha_two_code": "LT",
     "state-province": null,
-    "domains": ["ktu.lt"],
+    "domains": ["ktu.lt", "ktu.edu"],
     "country": "Lithuania"
   },
   {
