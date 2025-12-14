@@ -32020,7 +32020,7 @@
     "name": "Indian Institute of Technology, Guwahati",
     "alpha_two_code": "IN",
     "state-province": "Assam",
-    "domains": ["iitg.ernet.in", "iitg.ac.in"],
+    "domains": ["iitg.ernet.in", "iitg.ac.in","op.iitg.ac.in", "rnd.iitg.ac.in"],
     "country": "India"
   },
   {
