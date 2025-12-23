@@ -4,7 +4,7 @@ Do you need a list of universities and their domain names? You found it!
 
 This package includes a JSON file that contains domains, names and countries of most of the universities of the world.
 
-Example usecases: 
+Example usecases:
 - You can create a validation script that checks the email domain.
 - You can automatically generate a user's country and university by looking at their emails.
 
@@ -23,7 +23,7 @@ The whole data source is located in the `world_universities_and_domains.json` fi
     	...
     	{
     	    "alpha_two_code": "TR",
-    	    "country": "Turkey",
+    	    "country": "Turkiye",
     	    "state-province": null,
     	    "domains": [
     	        "sabanciuniv.edu",
@@ -63,7 +63,7 @@ Some example searches:
 
 - http://universities.hipolabs.com
 - http://universities.hipolabs.com/search?name=middle
-- http://universities.hipolabs.com/search?name=middle&country=turkey
+- http://universities.hipolabs.com/search?name=middle&country=turkiye
 
 The hosted API uses [university-domains-list-api](https://github.com/Hipo/university-domains-list-api) package.
 
