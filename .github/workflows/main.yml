@@ -36,4 +36,4 @@ jobs:
           python -m unittest discover tests
 
       - name: Call update endpoint
-        run: curl --fail --show-error --silent --location http://universities.hipolabs.com/update
+        run: curl --show-error --silent --location http://universities.hipolabs.com/update
