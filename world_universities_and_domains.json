@@ -47004,14 +47004,6 @@
     "country": "Malawi"
   },
   {
-    "web_pages": ["http://www.acms.edu.my/"],
-    "name": "Allianze College of Medical Sciences (ACMS)",
-    "alpha_two_code": "MY",
-    "state-province": null,
-    "domains": ["acms.edu.my"],
-    "country": "Malaysia"
-  },
-  {
     "web_pages": ["http://www.aeu.edu.my/"],
     "name": "Asia E University",
     "alpha_two_code": "MY",
@@ -47037,7 +47029,7 @@
   },
   {
     "web_pages": ["http://www.apiit.edu.my/"],
-    "name": "Asia Pacific Institute of Information Technology (APIIT)",
+    "name": "Asia Pacific University (APU)",
     "alpha_two_code": "MY",
     "state-province": null,
     "domains": ["apiit.edu.my"],
@@ -47077,7 +47069,7 @@
   },
   {
     "web_pages": ["http://www.city.edu.my/"],
-    "name": "City University College of Science and Technology",
+    "name": "City University Malaysia",
     "alpha_two_code": "MY",
     "state-province": null,
     "domains": ["city.edu.my"],
@@ -47109,7 +47101,7 @@
   },
   {
     "web_pages": ["http://www.help.edu.my/"],
-    "name": "Help University College",
+    "name": "HELP University",
     "alpha_two_code": "MY",
     "state-province": null,
     "domains": ["help.edu.my"],
@@ -47396,11 +47388,11 @@
     "country": "Malaysia"
   },
   {
-    "web_pages": ["http://www.kdu.edu.my/"],
-    "name": "KDU College Sdn Bhd",
+    "web_pages": ["https://www.uow.edu.my/"],
+    "name": "UOW Malaysia KDU",
     "alpha_two_code": "MY",
     "state-province": null,
-    "domains": ["kdu.edu.my"],
+    "domains": ["uow.edu.my"],
     "country": "Malaysia"
   },
   {
@@ -47516,11 +47508,11 @@
     "country": "Malaysia"
   },
   {
-    "web_pages": ["http://www.kuin.edu.my/"],
-    "name": "Kolej Universiti Insaniah",
+    "web_pages": ["http://www.unishams.edu.my/"],
+    "name": "Universiti Islam Antarabangsa Sultan Abdul Halim Mu'adzam Shah",
     "alpha_two_code": "MY",
     "state-province": null,
-    "domains": ["kuin.edu.my"],
+    "domains": ["unishams.edu.my"],
     "country": "Malaysia"
   },
   {
@@ -47893,7 +47885,7 @@
   },
   {
     "web_pages": ["http://www.tarc.edu.my/"],
-    "name": "Tunku Abdul Rahman Chinese College",
+    "name": "Tunku Abdul Rahman University of Management and Technology",
     "alpha_two_code": "MY",
     "state-province": null,
     "domains": ["tarc.edu.my"],
@@ -81565,5 +81557,85 @@
     "country": "China",
     "alpha_two_code": "CN",
     "state-province": "Sichuan"
+  },
+  {
+    "web_pages": ["https://www.xmu.edu.my/"],
+    "name": "Xiamen University Malaysia",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["xmu.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://www.hw.ac.uk/malaysia/"],
+    "name": "Heriot-Watt University Malaysia",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["hw.ac.uk"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://www.southamptonmalaysia.edu.my/"],
+    "name": "University of Southampton Malaysia",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["southamptonmalaysia.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://www.reading.edu.my/"],
+    "name": "University of Reading Malaysia",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["reading.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://www.rumc.edu.my/"],
+    "name": "RCSI & UCD Malaysia Campus",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["rumc.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://newinti.edu.my/"],
+    "name": "INTI International University",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["newinti.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://qiu.edu.my/"],
+    "name": "Quest International University",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["qiu.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://geomatika.edu.my/"],
+    "name": "Geomatika University Malaysia",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["geomatika.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://amu.edu.my/"],
+    "name": "Asia Metropolitan University",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["amu.edu.my"],
+    "country": "Malaysia"
+  },
+  {
+    "web_pages": ["https://gmi.edu.my/"],
+    "name": "German Malaysian Institute",
+    "alpha_two_code": "MY",
+    "state-province": null,
+    "domains": ["gmi.edu.my"],
+    "country": "Malaysia"
   }
 ]
