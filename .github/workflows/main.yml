@@ -36,4 +36,5 @@ jobs:
           python -m unittest discover tests
 
       - name: Call update endpoint
-        run: curl --show-error --silent --location http://universities.hipolabs.com/update
+        continue-on-error: true
+        run: curl --max-time 5 --silent http://universities.hipolabs.com/update
