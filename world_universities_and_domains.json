@@ -81565,5 +81565,13 @@
     "country": "China",
     "alpha_two_code": "CN",
     "state-province": "Sichuan"
+  },
+  {
+    "name": "Technische Hochschule Ulm",
+    "domains": ["thu.de"],
+    "web_pages": ["https://www.thu.de/"],
+    "country": "Germany",
+    "alpha_two_code": "DE",
+    "state-province": "Baden-Württemberg"
   }
 ]
