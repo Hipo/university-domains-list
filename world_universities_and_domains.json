@@ -32020,7 +32020,7 @@
     "name": "Indian Institute of Technology, Guwahati",
     "alpha_two_code": "IN",
     "state-province": "Assam",
-    "domains": ["iitg.ernet.in", "iitg.ac.in","op.iitg.ac.in", "rnd.iitg.ac.in"],
+    "domains": ["iitg.ernet.in", "iitg.ac.in", "op.iitg.ac.in", "rnd.iitg.ac.in"],
     "country": "India"
   },
   {
@@ -65722,6 +65722,70 @@
     "state-province": null,
     "domains": ["yyu.edu.tr"],
     "country": "Turkiye"
+  },
+  {
+    "domains": ["aku.edu.tr"],
+    "name": "Afyon Kocatepe University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.aku.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["hbv.edu.tr"],
+    "name": "Ankara Haci Bayram Veli University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.hbv.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["bou.edu.tr"],
+    "name": "Bursa Orhangazi University",
+    "alpha_two_code": "TR",
+    "web_pages": ["http://www.bou.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["giresun.edu.tr"],
+    "name": "Giresun University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.giresun.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["nigde.edu.tr"],
+    "name": "Nigde Omer Halisdemir University",
+    "alpha_two_code": "TR",
+    "web_pages": ["http://www.nigde.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["istinye.edu.tr"],
+    "name": "Istinye University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.istinye.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["antalya.edu.tr"],
+    "name": "Antalya Bilim University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.antalya.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
+  },
+  {
+    "domains": ["topkapi.edu.tr"],
+    "name": "Istanbul Topkapi University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.topkapi.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": null
   },
   {
     "web_pages": ["http://www.ittu.edu.tm/"],
