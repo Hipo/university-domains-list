@@ -65729,7 +65729,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["https://www.aku.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
+    "state-province": "Afyonkarahisar"
   },
   {
     "domains": ["hbv.edu.tr"],
@@ -65737,15 +65737,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["https://www.hbv.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
-  },
-  {
-    "domains": ["bou.edu.tr"],
-    "name": "Bursa Orhangazi University",
-    "alpha_two_code": "TR",
-    "web_pages": ["http://www.bou.edu.tr/"],
-    "country": "Turkiye",
-    "state-province": null
+    "state-province": "Ankara"
   },
   {
     "domains": ["giresun.edu.tr"],
@@ -65753,7 +65745,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["https://www.giresun.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
+    "state-province": "Giresun"
   },
   {
     "domains": ["nigde.edu.tr"],
@@ -65761,7 +65753,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["http://www.nigde.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
+    "state-province": "Niğde"
   },
   {
     "domains": ["istinye.edu.tr"],
@@ -65769,7 +65761,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["https://www.istinye.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
+    "state-province": "Istanbul"
   },
   {
     "domains": ["antalya.edu.tr"],
@@ -65777,7 +65769,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["https://www.antalya.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
+    "state-province": "Antalya"
   },
   {
     "domains": ["topkapi.edu.tr"],
@@ -65785,7 +65777,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["https://www.topkapi.edu.tr/"],
     "country": "Turkiye",
-    "state-province": null
+    "state-province": "Istanbul"
   },
   {
     "web_pages": ["http://www.ittu.edu.tm/"],
