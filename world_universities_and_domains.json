@@ -65428,6 +65428,14 @@
     "country": "Turkiye"
   },
   {
+    "web_pages": ["https://w3.beun.edu.tr/", "https://en.beun.edu.tr/"],
+    "name": "Zonguldak Bulent Ecevit University",
+    "alpha_two_code": "TR",
+    "state-province": "Zonguldak",
+    "domains": ["beun.edu.tr"],
+    "country": "Turkiye"
+  },
+  {
     "web_pages": ["http://www.khas.edu.tr/"],
     "name": "Kadir Has University",
     "alpha_two_code": "TR",
