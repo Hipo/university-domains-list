@@ -65769,7 +65769,7 @@
     "alpha_two_code": "TR",
     "web_pages": ["http://www.nigde.edu.tr/"],
     "country": "Turkiye",
-    "state-province": "Niğde"
+    "state-province": "Nigde"
   },
   {
     "domains": ["istinye.edu.tr"],
@@ -80898,7 +80898,7 @@
     "web_pages": ["https://www.eskisehir.edu.tr/"],
     "name": "Eskisehir Technical University",
     "alpha_two_code": "TR",
-    "state-province": null,
+    "state-province": "Eskisehir",
     "domains": ["eskisehir.edu.tr"],
     "country": "Turkiye"
   },
