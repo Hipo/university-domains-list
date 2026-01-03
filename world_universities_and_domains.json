@@ -22877,6 +22877,14 @@
     "country": "Cyprus"
   },
   {
+    "web_pages": ["https://ncc.metu.edu.tr/"],
+    "name": "Middle East Technical University Northern Cyprus Campus",
+    "alpha_two_code": "CY",
+    "state-province": "Guzelyurt",
+    "domains": ["ncc.metu.edu.tr"],
+    "country": "Cyprus"
+  },
+  {
     "web_pages": ["http://www.aauni.edu/"],
     "name": "Anglo-American University",
     "alpha_two_code": "CZ",
@@ -32020,7 +32028,7 @@
     "name": "Indian Institute of Technology, Guwahati",
     "alpha_two_code": "IN",
     "state-province": "Assam",
-    "domains": ["iitg.ernet.in", "iitg.ac.in","op.iitg.ac.in", "rnd.iitg.ac.in"],
+    "domains": ["iitg.ernet.in", "iitg.ac.in", "op.iitg.ac.in", "rnd.iitg.ac.in"],
     "country": "India"
   },
   {
@@ -65420,6 +65428,14 @@
     "country": "Turkiye"
   },
   {
+    "web_pages": ["https://w3.beun.edu.tr/", "https://en.beun.edu.tr/"],
+    "name": "Zonguldak Bulent Ecevit University",
+    "alpha_two_code": "TR",
+    "state-province": "Zonguldak",
+    "domains": ["beun.edu.tr"],
+    "country": "Turkiye"
+  },
+  {
     "web_pages": ["http://www.khas.edu.tr/"],
     "name": "Kadir Has University",
     "alpha_two_code": "TR",
@@ -65722,6 +65738,62 @@
     "state-province": null,
     "domains": ["yyu.edu.tr"],
     "country": "Turkiye"
+  },
+  {
+    "domains": ["aku.edu.tr"],
+    "name": "Afyon Kocatepe University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.aku.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Afyonkarahisar"
+  },
+  {
+    "domains": ["hbv.edu.tr"],
+    "name": "Ankara Haci Bayram Veli University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.hbv.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Ankara"
+  },
+  {
+    "domains": ["giresun.edu.tr"],
+    "name": "Giresun University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.giresun.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Giresun"
+  },
+  {
+    "domains": ["nigde.edu.tr"],
+    "name": "Nigde Omer Halisdemir University",
+    "alpha_two_code": "TR",
+    "web_pages": ["http://www.nigde.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Nigde"
+  },
+  {
+    "domains": ["istinye.edu.tr"],
+    "name": "Istinye University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.istinye.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Istanbul"
+  },
+  {
+    "domains": ["antalya.edu.tr"],
+    "name": "Antalya Bilim University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.antalya.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Antalya"
+  },
+  {
+    "domains": ["topkapi.edu.tr"],
+    "name": "Istanbul Topkapi University",
+    "alpha_two_code": "TR",
+    "web_pages": ["https://www.topkapi.edu.tr/"],
+    "country": "Turkiye",
+    "state-province": "Istanbul"
   },
   {
     "web_pages": ["http://www.ittu.edu.tm/"],
@@ -80824,9 +80896,9 @@
   },
   {
     "web_pages": ["https://www.eskisehir.edu.tr/"],
-    "name": "Eskişehir Teknik Üniversitesi",
+    "name": "Eskisehir Technical University",
     "alpha_two_code": "TR",
-    "state-province": null,
+    "state-province": "Eskisehir",
     "domains": ["eskisehir.edu.tr"],
     "country": "Turkiye"
   },
