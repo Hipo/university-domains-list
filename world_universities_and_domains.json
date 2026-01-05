@@ -68699,372 +68699,2524 @@
     "domains": ["yacambu.edu.ve"],
     "country": "Venezuela, Bolivarian Republic of"
   },
+ {
+    "web_pages": [],
+    "name": "Vietnam People's Security Academy (T01/C500)",
+    "local_name": "Học viện An ninh nhân dân",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
   {
-    "web_pages": ["http://www.bdu.edu.vn/"],
+    "web_pages": [],
+    "name": "Border Guard Academy",
+    "local_name": "Học viện Biên phòng",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Academy of Journalism and Communication [m]",
+    "local_name": "Học viện Báo chí và Tuyên truyền",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Academy of Policy and Development",
+    "local_name": "Học viện Chính sách và Phát triển",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam People's Public Security - Political Academy (T03/T29)",
+    "local_name": "Học viện Chính trị - Công an nhân dân Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam People's Army - Political Academy",
+    "local_name": "Học viện Chính trị - Quân đội Nhân dân Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh National Academy of Politics",
+    "local_name": "Học viện Chính trị Quốc gia Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City Cadre Academy",
+    "local_name": "Học viện Cán bộ Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Posts and Telecommunications Institute of Technology",
+    "local_name": "Học viện Công nghệ Bưu chính Viễn thông",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam People's Police Academy (T02/T18/T32)",
+    "local_name": "Học viện Cảnh sát nhân dân",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Academy for Ethnic Minorities",
+    "local_name": "Học viện Dân tộc",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Aviation Academy",
+    "local_name": "Học viện Hàng không Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "National Academy of Public Administration[n]",
+    "local_name": "Học viện Hành chính Quốc gia",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Naval Academy",
+    "local_name": "Học viện Hải quân",
+    "alpha_two_code": "VN",
+    "state-province": "Khánh Hòa",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Logistics Academy",
+    "local_name": "Học viện Hậu cần",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Science Academy",
+    "local_name": "Học viện Khoa học Quân sự",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Graduate Academy of Social Sciences",
+    "local_name": "Học viện Khoa học Xã hội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Graduate University of Sciences and Technology",
+    "local_name": "Học viện Khoa học và Công nghệ",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Institute of Science Technology and Innovation",
+    "local_name": "Học viện Khoa học, Công nghệ và Đổi mới sáng tạo",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Cryptography Technical Academy",
+    "local_name": "Học viện Kỹ thuật Mật mã Quân sự",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Technical Academy",
+    "local_name": "Học viện Kỹ thuật Quân sự",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Army Academy",
+    "local_name": "Học viện Lục quân",
+    "alpha_two_code": "VN",
+    "state-province": "Lâm Đồng",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Academy of Dance",
+    "local_name": "Học viện Múa Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Diplomatic Academy of Vietnam",
+    "local_name": "Học viện Ngoại giao",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Banking Academy of Vietnam",
+    "local_name": "Học viện Ngân hàng",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam National University of Agriculture",
+    "local_name": "Học viện Nông nghiệp Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Air Force – Air Defense Academy",
+    "local_name": "Học viện Phòng không – Không quân",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Khmer Theravada Buddhist Academy",
+    "local_name": "Học viện Phật giáo Nam tông Khmer",
+    "alpha_two_code": "VN",
+    "state-province": "Cần Thơ",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Buddhism Academy in Hue",
+    "local_name": "Học viện Phật giáo Việt Nam tại Huế",
+    "alpha_two_code": "VN",
+    "state-province": "Huế",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Buddhism Academy in Hanoi",
+    "local_name": "Học viện Phật giáo Việt Nam tại Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Buddhist Academy, Ho Chi Minh City",
+    "local_name": "Học viện Phật giáo Việt Nam tại Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Women Academy",
+    "local_name": "Học viện Phụ nữ Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Medical Academy",
+    "local_name": "Học viện Quân y",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "National Academy of Education Management",
+    "local_name": "Học viện Quản lý Giáo dục",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "National Defense Academy",
+    "local_name": "Học viện Quốc phòng",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "International Academy (B06)",
+    "local_name": "Học viện Quốc tế",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Youth Academy",
+    "local_name": "Học viện Thanh thiếu niên Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam Court Academy",
+    "local_name": "Học viện Toà án",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Academy of Finance",
+    "local_name": "Học viện Tài chính",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam University of Traditional Medicine",
+    "local_name": "Học viện Y – Dược học cổ truyền Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hue Academy of Music",
+    "local_name": "Học viện Âm nhạc Huế",
+    "alpha_two_code": "VN",
+    "state-province": "Huế",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam National Academy of Music",
+    "local_name": "Học viện Âm nhạc Quốc gia Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Industrial College",
+    "local_name": "Trường Cao đẳng Công nghiệp Quốc phòng",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Automotive Technology and Engineering",
+    "local_name": "Trường Cao đẳng Công nghệ và Kỹ thuật Ô tô",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Naval Technical College",
+    "local_name": "Trường Cao đẳng Kỹ thuật Hải quân",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Medical College 1",
+    "local_name": "Trường Cao đẳng Quân y 1",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Medical College 2",
+    "local_name": "Trường Cao đẳng Quân y 2",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Technology",
+    "local_name": "Trường Công nghệ",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Information and Communication Technology",
+    "local_name": "Trường Công nghệ Thông tin và Truyền thông",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phenikaa School of Information Technology",
+    "local_name": "Trường Công nghệ thông tin Phenikaa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Engineering and Technology",
+    "local_name": "Trường Công nghệ và Kỹ thuật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Technology and Design",
+    "local_name": "Trường Công nghệ và Thiết kế",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Mechanical Engineering",
+    "local_name": "Trường Cơ khí",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Tourism",
+    "local_name": "Trường Du lịch",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Chemistry and Life Science",
+    "local_name": "Trường Hóa và Khoa học sự sống",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Interdisciplinary Sciences",
+    "local_name": "Trường Khoa học liên ngành và Nghệ thuật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Computer and Science",
+    "local_name": "Trường Khoa học máy tính",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Business",
+    "local_name": "Trường Kinh doanh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Economics and Management",
+    "local_name": "Trường Kinh tế",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Business & Economics",
+    "local_name": "Trường Kinh tế & Kinh doanh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phenikaa School of Economics",
+    "local_name": "Trường Kinh tế Phenikaa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Economics and Public Administration",
+    "local_name": "Trường Kinh tế và Quản lý công",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Economics, Law and Government",
+    "local_name": "Trường Kinh tế, Luật và Quản lý nhà nước",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phenikaa School of Engineering",
+    "local_name": "Trường Kỹ thuật Phenikaa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Foreign Languages",
+    "local_name": "Trường Ngoại ngữ",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phenikaa School of Foreign Languages and Social Sciences",
+    "local_name": "Trường Ngoại ngữ - Khoa học xã hội Phenikaa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Languages – Social Humanities",
+    "local_name": "Trường Ngôn ngữ & Xã hội Nhân văn",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Business and Management",
+    "local_name": "Trường Quản trị và Kinh doanh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "International School",
+    "local_name": "Trường Quốc tế",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Engineer Officer University school – Ngo Quyen University",
+    "local_name": "Trường Trường Đại học Sĩ quan Công binh – Đại học Ngô Quyền",
+    "alpha_two_code": "VN",
+    "state-province": "Bình Dương",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Material Science",
+    "local_name": "Trường Vật liệu",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "College of Medicine & Pharmacy",
+    "local_name": "Trường Y Dược",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phenikaa School of Medicine and Pharmacy",
+    "local_name": "Trường Y – Dược Phenikaa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "School of Electrical and Electronic Engineering",
+    "local_name": "Trường Điện – Điện tử",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "An Giang University",
+    "local_name": "Trường Đại học An Giang",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam People's Security University (T04/T47)",
+    "local_name": "Trường Đại học An ninh nhân dân",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ba Ria – Vung Tau University",
+    "local_name": "Trường Đại học Bà Rịa – Vũng Tàu",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Technology",
+    "local_name": "Trường Đại học Bách khoa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
     "name": "Binh Duong University",
+    "local_name": "Trường Đại học Bình Dương",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["bdu.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.buh.edu.vn/"],
-    "name": "Banking University of Ho Chi Minh City",
+    "web_pages": [],
+    "name": "Bac Lieu University",
+    "local_name": "Trường Đại học Bạc Liêu",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["buh.edu.vn"],
+    "state-province": "Bạc Liêu",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ctu.edu.vn/"],
-    "name": "Can-Tho University",
+    "web_pages": [],
+    "name": "CMC University",
+    "local_name": "Trường Đại học CMC",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["ctu.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.dct.udn.vn/"],
-    "name": "Danang College Of Technology",
+    "web_pages": [],
+    "name": "Chu Van An University",
+    "local_name": "Trường Đại học Chu Văn An",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["dct.udn.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.dhxd.edu.vn/"],
-    "name": "Hanoi University of Civil Engineering",
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Industry and Trade",
+    "local_name": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["dhxd.edu.vn"],
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.dlu.edu.vn/"],
-    "name": "University of Da Lat",
+    "web_pages": [],
+    "name": "Hanoi Industrial Textile Garment University",
+    "local_name": "Trường Đại học Công nghiệp Dệt may Hà Nội",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["dlu.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.fpt.edu.vn/"],
-    "name": "FPT University",
+    "web_pages": [],
+    "name": "Hanoi University of Industry",
+    "local_name": "Trường Đại học Công nghiệp Hà Nội",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["fpt.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ftu.edu.vn/"],
-    "name": "Foreign Trade University",
+    "web_pages": [],
+    "name": "Quang Ninh University of Industry",
+    "local_name": "Trường Đại học Công nghiệp Quảng Ninh",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["ftu.edu.vn"],
+    "state-province": "Quảng Ninh",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hau.edu.vn/"],
-    "name": "Hanoi University of Architecture",
+    "web_pages": [],
+    "name": "Industrial University of Ho Chi Minh City",
+    "local_name": "Trường Đại học Công nghiệp Thành phố Hồ Chí Minh",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hau.edu.vn"],
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmuaf.edu.vn/"],
-    "name": "Ho Chi Minh City University of Agriculture and Forestry",
+    "web_pages": [],
+    "name": "Industrial University of Vinh",
+    "local_name": "Trường Đại học Công nghiệp Vinh",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hcmuaf.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmuarc.edu.vn/"],
-    "name": "Ho Chi Minh City University of Architecture",
+    "web_pages": [],
+    "name": "Viet Tri University of Industry",
+    "local_name": "Trường Đại học Công nghiệp Việt Trì",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hcmuarc.edu.vn"],
+    "state-province": "Phú Thọ",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmulaw.edu.vn/"],
-    "name": "Ho Chi Minh City University of Law",
+    "web_pages": [],
+    "name": "Viet – Hung Industrial University",
+    "local_name": "Trường Đại học Công nghiệp Việt – Hung",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hcmulaw.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmus.edu.vn/"],
-    "name": "Ho Chi Minh City University of Science",
+    "web_pages": [],
+    "name": "University of Engineering and Technology",
+    "local_name": "Trường Đại học Công nghệ",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hcmus.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmupeda.edu.vn/"],
-    "name": "Ho Chi Minh City University of Pedagogics",
+    "web_pages": [],
+    "name": "University of Transport Technology",
+    "local_name": "Trường Đại học Công nghệ Giao thông Vận tải",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hcmupeda.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmussh.edu.vn/"],
-    "name": "Ho Chi Minh City University of Social Sciences and Humanities",
+    "web_pages": [],
+    "name": "Mien Dong Institute of Technology",
+    "local_name": "Trường Đại học Công nghệ Miền Đông",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hcmussh.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmut.edu.vn/"],
+    "web_pages": [],
+    "name": "Saigon Technology University",
+    "local_name": "Trường Đại học Công nghệ Sài Gòn",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
     "name": "Ho Chi Minh City University of Technology",
+    "local_name": "Trường Đại học Công nghệ Thành phố Hồ Chí Minh",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hcmut.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmute.edu.vn/"],
-    "name": "University of Technical Education Ho Chi Minh City",
+    "web_pages": [],
+    "name": "University of Information Technology",
+    "local_name": "Trường Đại học Công nghệ Thông tin",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hcmute.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hcmutrans.edu.vn/"],
-    "name": "Ho Chi Minh City University of Transport",
+    "web_pages": [],
+    "name": "Vietnam–Korea University of Information and Communication Technology[d]",
+    "local_name": "Trường Đại học Công nghệ Thông tin và Truyền thông Việt – Hàn",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hcmutrans.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hmu.edu.vn/"],
-    "name": "Hanoi Medical University",
+    "web_pages": [],
+    "name": "Van Xuan University of Technology",
+    "local_name": "Trường Đại học Công nghệ Vạn Xuân",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hmu.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hou.edu.vn/"],
-    "name": "Hanoi Open University",
+    "web_pages": [],
+    "name": "University of Information and Communication Technology",
+    "local_name": "Trường Đại học Công nghệ thông tin và Truyền thông",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hou.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hua.edu.vn/"],
-    "name": "Hanoi University of Agriculture",
+    "web_pages": [],
+    "name": "University of Technology and Management",
+    "local_name": "Trường Đại học Công nghệ và Quản lý Hữu nghị",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hua.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.huaf.edu.vn/"],
-    "name": "Hue University of Agriculture and Forestry",
+    "web_pages": [],
+    "name": "Dong A Technology University",
+    "local_name": "Trường Đại học Công nghệ Đông Á",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["huaf.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hueuni.edu.vn/"],
-    "name": "Hue University",
+    "web_pages": [],
+    "name": "Dong Nai Technology University",
+    "local_name": "Trường Đại học Công nghệ Đồng Nai",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hueuni.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.huflit.vnn.vn/"],
-    "name": "Ho Chi Minh City University of Foreign Languages and Information Technology",
+    "web_pages": [],
+    "name": "Vietnam Trade Union University",
+    "local_name": "Trường Đại học Công đoàn",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["huflit.vnn.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.humg.edu.vn/"],
-    "name": "Hanoi University of Mining and Geology",
+    "web_pages": [],
+    "name": "Vietnam Police Fire Prevention and Fighting University (T06/K56)",
+    "local_name": "Trường Đại học Cảnh sát Phòng cháy chữa cháy",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["humg.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hus.edu.vn/"],
-    "name": "Hanoi University of Science",
+    "web_pages": [],
+    "name": "Vietnam People's Police University (T05/T48)",
+    "local_name": "Trường Đại học Cảnh sát nhân dân",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hus.edu.vn"],
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hut.edu.vn/"],
-    "name": "Hanoi University of Technology",
+    "web_pages": [],
+    "name": "Can Tho University",
+    "local_name": "Trường Đại học Cần Thơ",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hut.edu.vn"],
+    "state-province": "Cần Thơ",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hvtc.edu.vn/"],
-    "name": "Institute of Finance",
+    "web_pages": [],
+    "name": "Cuu Long University",
+    "local_name": "Trường Đại học Cửu Long",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["hvtc.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.hwru.edu.vn/"],
-    "name": "Water Resources University",
+    "web_pages": [],
+    "name": "Hanoi University of Pharmacy",
+    "local_name": "Trường Đại học Dược Hà Nội",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["hwru.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ktkt-haiduong.edu.vn/"],
-    "name": "Hai Duong University of Economics and Technology",
+    "web_pages": [],
+    "name": "Petro Vietnam University",
+    "local_name": "Trường Đại học Dầu khí Việt Nam",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["ktkt-haiduong.edu.vn"],
+    "state-province": "Bà Rịa–Vũng Tàu",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.neu.edu.vn/"],
-    "name": "Hanoi National Economics University",
+    "web_pages": [],
+    "name": "FPT University",
+    "local_name": "Trường Đại học FPT",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["neu.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ou.edu.vn/"],
-    "name": "Ho Chi Minh City Open University",
+    "web_pages": [],
+    "name": "Gia Dinh University",
+    "local_name": "Trường Đại học Gia Định",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["ou.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ptit.edu.vn/"],
-    "name": "Posts & Telecommunications Institute of Technology",
+    "web_pages": [],
+    "name": "University of Transportation and Communication",
+    "local_name": "Trường Đại học Giao thông Vận tải",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["ptit.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.rmit.edu.vn/"],
-    "name": "RMIT International University Vietnam",
+    "web_pages": [],
+    "name": "University of Transportation Ho Chi Minh City",
+    "local_name": "Trường Đại học Giao thông Vận tải Thành phố Hồ Chí Minh",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["rmit.edu.vn"],
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.sgu.edu.vn/"],
-    "name": "Saigon University",
+    "web_pages": [],
+    "name": "University of Education",
+    "local_name": "Trường Đại học Giáo dục",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["sgu.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.taynguyenuni.edu.vn/"],
-    "name": "Tay Nguyen University",
+    "web_pages": [],
+    "name": "Hoa Lu University",
+    "local_name": "Trường Đại học Hoa Lư",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["taynguyenuni.edu.vn"],
+    "state-province": "Ninh Bình",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.tuaf.edu.vn/"],
-    "name": "Thai Nguyen University of Agriculture and Forestry",
+    "web_pages": [],
+    "name": "Hoa Sen University",
+    "local_name": "Trường Đại học Hoa Sen",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["tuaf.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.uct.edu.vn/"],
-    "name": "Hanoi Univerisity of Transportation",
+    "web_pages": [],
+    "name": "Hoa Binh University",
+    "local_name": "Trường Đại học Hoà Bình",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["uct.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ud.edu.vn/"],
-    "name": "University of Da Nang",
+    "web_pages": [],
+    "name": "Hanoi University",
+    "local_name": "Trường Đại học Hà Nội",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["ud.edu.vn"],
+    "state-province": "Hanoi",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.ueh.edu.vn/"],
-    "name": "Ho Chi Minh City University of Economics",
+    "web_pages": [],
+    "name": "Ha Tinh University",
+    "local_name": "Trường Đại học Hà Tĩnh",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["ueh.edu.vn"],
+    "state-province": "Hà Tĩnh",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.vimaru.edu.vn/"],
+    "web_pages": [],
     "name": "Vietnam Maritime University",
+    "local_name": "Trường Đại học Hàng hải Việt Nam",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["vimaru.edu.vn"],
+    "state-province": "Hải Phòng",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.vnu.edu.vn/"],
-    "name": "Vietnam National University Hanoi",
+    "web_pages": [],
+    "name": "Hung Vuong University",
+    "local_name": "Trường Đại học Hùng Vương",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["vnu.edu.vn"],
+    "state-province": "Phú Thọ",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.vnuhcm.edu.vn/"],
-    "name": "Vietnam National University Ho Chi Minh City",
+    "web_pages": [],
+    "name": "Hung Vuong University Ho Chi Minh City",
+    "local_name": "Trường Đại học Hùng Vương Thành phố Hồ Chí Minh",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["vnuhcm.edu.vn"],
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.yds.edu.vn/"],
-    "name": "Ho Chi Minh City University of Medicine and Pharmacy",
+    "web_pages": [],
+    "name": "Ha Long University",
+    "local_name": "Trường Đại học Hạ Long",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["yds.edu.vn"],
+    "state-province": "Quảng Ninh",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.pnt.edu.vn"],
+    "web_pages": [],
+    "name": "Hai Duong University",
+    "local_name": "Trường Đại học Hải Dương",
+    "alpha_two_code": "VN",
+    "state-province": "Hải Dương",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Haiphong University",
+    "local_name": "Trường Đại học Hải Phòng",
+    "alpha_two_code": "VN",
+    "state-province": "Haiphong",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hong Duc University",
+    "local_name": "Trường Đại học Hồng Đức",
+    "alpha_two_code": "VN",
+    "state-province": "Thanh Hóa",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University Science College",
+    "local_name": "Trường Đại học Khoa học",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Sciences",
+    "local_name": "Trường Đại học Khoa học Tự nhiên",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Social Sciences and Humanities",
+    "local_name": "Trường Đại học Khoa học Xã hội và Nhân văn",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Science and Technology of Hanoi[l]",
+    "local_name": "Trường Đại học Khoa học và Công nghệ Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Khanh Hoa University",
+    "local_name": "Trường Đại học Khánh Hoà",
+    "alpha_two_code": "VN",
+    "state-province": "Khánh Hòa",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Kinh Bac",
+    "local_name": "Trường Đại học Kinh Bắc",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Business and Technology",
+    "local_name": "Trường Đại học Kinh doanh và Công nghệ Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Economics and Business",
+    "local_name": "Trường Đại học Kinh tế",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Long An University of Economics and Industry",
+    "local_name": "Trường Đại học Kinh tế Công nghiệp Long An",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nghe An University of Economics",
+    "local_name": "Trường Đại học Kinh tế Nghệ An",
+    "alpha_two_code": "VN",
+    "state-province": "Nghệ An",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Economics and Business Administration",
+    "local_name": "Trường Đại học Kinh tế và Quản trị kinh doanh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "TUETECH University",
+    "local_name": "Trường Đại học Kinh tế – Công nghệ Thái Nguyên",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Binh Duong Economics and Technology University",
+    "local_name": "Trường Đại học Kinh tế – Kỹ thuật Bình Dương",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Economics – Technology for Industries",
+    "local_name": "Trường Đại học Kinh tế – Kỹ thuật Công nghiệp",
+    "alpha_two_code": "VN",
+    "state-province": "Nam Định",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Economics and Law",
+    "local_name": "Trường Đại học Kinh tế – Luật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Economics and Finance",
+    "local_name": "Trường Đại học Kinh tế – Tài chính Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Kien Giang University",
+    "local_name": "Trường Đại học Kiên Giang",
+    "alpha_two_code": "VN",
+    "state-province": "Kiên Giang",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Architectural University",
+    "local_name": "Trường Đại học Kiến trúc Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Architecture Ho Chi Minh City",
+    "local_name": "Trường Đại học Kiến trúc Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Da Nang Architecture University",
+    "local_name": "Trường Đại học Kiến trúc Đà Nẵng",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Procuratorate University",
+    "local_name": "Trường Đại học Kiểm sát Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Technology",
+    "local_name": "Trường Đại học Kỹ thuật Công nghiệp",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Da Nang University of Medical Technology and Pharmacy",
+    "local_name": "Trường Đại học Kỹ thuật Y Dược Đà Nẵng",
+    "alpha_two_code": "VN",
+    "state-province": "Da Nang",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hai Duong Medical Technology University",
+    "local_name": "Trường Đại học Kỹ thuật Y tế Hải Dương",
+    "alpha_two_code": "VN",
+    "state-province": "Hải Dương",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Can Tho University of Technology",
+    "local_name": "Trường Đại học Kỹ thuật – Công nghệ Cần Thơ",
+    "alpha_two_code": "VN",
+    "state-province": "Cần Thơ",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam People's Public Security – Technical - Logistics University (T07/T36)",
+    "local_name": "Trường Đại học Kỹ thuật – Hậu cần - Công an Nhân dân Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Bắc Ninh",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Labour and Social Affairs",
+    "local_name": "Trường Đại học Lao động – Xã hội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Law",
+    "local_name": "Trường Đại học Luật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Law University",
+    "local_name": "Trường Đại học Luật Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Law",
+    "local_name": "Trường Đại học Luật Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam National University of Forestry",
+    "local_name": "Trường Đại học Lâm nghiệp",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Luong The Vinh University",
+    "local_name": "Trường Đại học Lương Thế Vinh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Lac Hong University",
+    "local_name": "Trường Đại học Lạc Hồng",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Mining and Geology",
+    "local_name": "Trường Đại học Mỏ – Địa chất Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Open University",
+    "local_name": "Trường Đại học Mở Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City Open University",
+    "local_name": "Trường Đại học Mở Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Industrial Fine Arts",
+    "local_name": "Trường Đại học Mỹ thuật Công nghiệp",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Fine Arts",
+    "local_name": "Trường Đại học Mỹ thuật Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam University of Fine Arts",
+    "local_name": "Trường Đại học Mỹ thuật Việt Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nam Can Tho University",
+    "local_name": "Trường Đại học Nam Cần Thơ",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Arts",
+    "local_name": "Trường Đại học Nghệ thuật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Languages and International Studies",
+    "local_name": "Trường Đại học Ngoại ngữ",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Foreign Language and Information Technology",
+    "local_name": "Trường Đại học Ngoại ngữ – Tin học Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Foreign Trade University",
+    "local_name": "Trường Đại học Ngoại thương",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nguyen Trai University",
+    "local_name": "Trường Đại học Nguyễn Trãi",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nguyen Tat Thanh University",
+    "local_name": "Trường Đại học Nguyễn Tất Thành",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Banking",
+    "local_name": "Trường Đại học Ngân hàng Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nha Trang University",
+    "local_name": "Trường Đại học Nha Trang",
+    "alpha_two_code": "VN",
+    "state-province": "Khánh Hòa",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Agriculture and Forestry",
+    "local_name": "Trường Đại học Nông Lâm",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Bac Giang University of Agriculture and Forestry",
+    "local_name": "Trường Đại học Nông Lâm Bắc Giang",
+    "alpha_two_code": "VN",
+    "state-province": "Bắc Giang",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Agriculture and Forestry",
+    "local_name": "Trường Đại học Nông Lâm Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phan Chau Trinh University",
+    "local_name": "Trường Đại học Phan Châu Trinh",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phan Thiet University",
+    "local_name": "Trường Đại học Phan Thiết",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phenikaa University",
+    "local_name": "Trường Đại học Phenikaa",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phu Xuan University",
+    "local_name": "Trường Đại học Phú Xuân",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Phu Yen University",
+    "local_name": "Trường Đại học Phú Yên",
+    "alpha_two_code": "VN",
+    "state-province": "Phú Yên",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Pham Van Dong University",
+    "local_name": "Trường Đại học Phạm Văn Đồng",
+    "alpha_two_code": "VN",
+    "state-province": "Quảng Ngãi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Quang Trung University",
+    "local_name": "Trường Đại học Quang Trung",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Quy Nhon University",
+    "local_name": "Trường Đại học Quy Nhơn",
+    "alpha_two_code": "VN",
+    "state-province": "Bình Định",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Quang Binh University",
+    "local_name": "Trường Đại học Quảng Bình",
+    "alpha_two_code": "VN",
+    "state-province": "Quảng Bình",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Quang Nam University",
+    "local_name": "Trường Đại học Quảng Nam",
+    "alpha_two_code": "VN",
+    "state-province": "Quảng Nam",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "International University",
+    "local_name": "Trường Đại học Quốc tế",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Bac Ha International University",
+    "local_name": "Trường Đại học Quốc tế Bắc Hà",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hong Bang International University",
+    "local_name": "Trường Đại học Quốc tế Hồng Bàng",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Eastern International University",
+    "local_name": "Trường Đại học Quốc tế Miền Đông",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Saigon International University",
+    "local_name": "Trường Đại học Quốc tế Sài Gòn",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Sao Do University",
+    "local_name": "Trường Đại học Sao Đỏ",
+    "alpha_two_code": "VN",
+    "state-province": "Hải Dương",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Saigon University",
+    "local_name": "Trường Đại học Sài Gòn",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Academy of Theatre and Cinema",
+    "local_name": "Trường Đại học Sân khấu Điện ảnh Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Theater and Cinema",
+    "local_name": "Trường Đại học Sân khấu Điện ảnh Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Political Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Chính trị",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Air Force Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Không quân",
+    "alpha_two_code": "VN",
+    "state-province": "Khánh Hòa",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vinhempich Military Technical Officer University school – Tran Dai Nghia University",
+    "local_name": "Trường Đại học Sĩ quan Kỹ thuật Quân sự – Đại học Trần Đại Nghĩa",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "First Army Officer's University school – Tran Quoc Tuan University",
+    "local_name": "Trường Đại học Sĩ quan Lục quân 1 – Đại học Võ bị Trần Quốc Tuấn",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Second Army Officer's University school – Nguyen Hue University",
+    "local_name": "Trường Đại học Sĩ quan Lục quân 2 –Đại học Võ bị Nguyễn Huệ",
+    "alpha_two_code": "VN",
+    "state-province": "Đồng Nai",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Artillery Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Pháo binh",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Chemical Defense Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Phòng hoá",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Communications Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Thông tin Liên lạc",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tank - Armor Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Tăng – Thiết giáp",
+    "alpha_two_code": "VN",
+    "state-province": "Vĩnh Phúc",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Special Agent Force Officer's University school",
+    "local_name": "Trường Đại học Sĩ quan Đặc công",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Education",
+    "local_name": "Trường Đại học Sư phạm",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi National University of Education",
+    "local_name": "Trường Đại học Sư phạm Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Pedagogical University 2",
+    "local_name": "Trường Đại học Sư phạm Hà Nội 2",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Technology and Education",
+    "local_name": "Trường Đại học Sư phạm Kỹ thuật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hung Yen University of Technology and Education",
+    "local_name": "Trường Đại học Sư phạm Kỹ thuật Hưng Yên",
+    "alpha_two_code": "VN",
+    "state-province": "Hưng Yên",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nam Dinh University of Technology and Education",
+    "local_name": "Trường Đại học Sư phạm Kỹ thuật Nam Định",
+    "alpha_two_code": "VN",
+    "state-province": "Nam Định",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Technology and Education",
+    "local_name": "Trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vinh University of Technology and Education",
+    "local_name": "Trường Đại học Sư phạm Kỹ thuật Vinh",
+    "alpha_two_code": "VN",
+    "state-province": "Nghệ An",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vinh Long University of Technology and Education",
+    "local_name": "Trường Đại học Sư phạm Kỹ thuật Vĩnh Long",
+    "alpha_two_code": "VN",
+    "state-province": "Vĩnh Long",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "National University of Arts Education",
+    "local_name": "Trường Đại học Sư phạm Nghệ thuật Trung ương",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Education",
+    "local_name": "Trường Đại học Sư phạm Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Physical Education and Sports",
+    "local_name": "Trường Đại học Sư phạm Thể dục Thể thao Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Physical Education and Sports",
+    "local_name": "Trường Đại học Sư phạm Thể dục thể thao Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thuyloi University[k]",
+    "local_name": "Trường Đại học Thuỷ lợi",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thanh Do University",
+    "local_name": "Trường Đại học Thành Đô",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thanh Dong University",
+    "local_name": "Trường Đại học Thành Đông",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thai Binh University",
+    "local_name": "Trường Đại học Thái Bình",
+    "alpha_two_code": "VN",
+    "state-province": "Thái Bình",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thai Binh Duong University",
+    "local_name": "Trường Đại học Thái Bình Dương",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thang Long University",
+    "local_name": "Trường Đại học Thăng Long",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": ["https://tmu.edu.vn"],
+    "name": "Thuongmai University[e]",
+    "local_name": "Trường Đại học Thương mại",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": ["tmu.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Bac Ninh University of Physical Education and Sports",
+    "local_name": "Trường Đại học Thể dục Thể thao Bắc Ninh",
+    "alpha_two_code": "VN",
+    "state-province": "Bắc Ninh",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Sports Ho Chi Minh City",
+    "local_name": "Trường Đại học Thể dục Thể thao Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Da Nang Sports University",
+    "local_name": "Trường Đại học Thể dục Thể thao Đà Nẵng",
+    "alpha_two_code": "VN",
+    "state-province": "Da Nang",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thu Dau Mot University",
+    "local_name": "Trường Đại học Thủ Dầu Một",
+    "alpha_two_code": "VN",
+    "state-province": "Bình Dương",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Metropolitan University",
+    "local_name": "Trường Đại học Thủ đô Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tien Giang University",
+    "local_name": "Trường Đại học Tiền Giang",
+    "alpha_two_code": "VN",
+    "state-province": "Tiền Giang",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tra Vinh University",
+    "local_name": "Trường Đại học Trà Vinh",
+    "alpha_two_code": "VN",
+    "state-province": "Trà Vinh",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Trung Vuong University",
+    "local_name": "Trường Đại học Trưng Vương",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Finance and Banking University",
+    "local_name": "Trường Đại học Tài chính Ngân hàng",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Finance and Accountancy",
+    "local_name": "Trường Đại học Tài chính – Kế toán",
+    "alpha_two_code": "VN",
+    "state-province": "Quảng Ngãi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Finance and Marketing",
+    "local_name": "Trường Đại học Tài chính – Marketing",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Finance and Business Administration",
+    "local_name": "Trường Đại học Tài chính – Quản trị kinh doanh",
+    "alpha_two_code": "VN",
+    "state-province": "Hưng Yên",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Natural Resources and Environment",
+    "local_name": "Trường Đại học Tài nguyên và Môi trường Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Natural Resources and Environment",
+    "local_name": "Trường Đại học Tài nguyên và Môi trường Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tan Trao University",
+    "local_name": "Trường Đại học Tân Trào",
+    "alpha_two_code": "VN",
+    "state-province": "Tuyên Quang",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tan Tao University",
+    "local_name": "Trường Đại học Tân Tạo",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tay Bac University[f]",
+    "local_name": "Trường Đại học Tây Bắc",
+    "alpha_two_code": "VN",
+    "state-province": "Sơn La",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tay Nguyen University[g]",
+    "local_name": "Trường Đại học Tây Nguyên",
+    "alpha_two_code": "VN",
+    "state-province": "Đắk Lắk",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Tay Do University",
+    "local_name": "Trường Đại học Tây Đô",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": ["https://www.tdtu.edu.vn/"],
+    "name": "Ton Duc Thang University",
+    "local_name": "Trường Đại học Tôn Đức Thắng",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["tdtu.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "VinUniversity",
+    "local_name": "Trường Đại học VinUni",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vinh University",
+    "local_name": "Trường Đại học Vinh",
+    "alpha_two_code": "VN",
+    "state-province": "Nghệ An",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnam–Japan University",
+    "local_name": "Trường Đại học Việt Nhật",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vietnamese–German University[h]",
+    "local_name": "Trường Đại học Việt Đức",
+    "alpha_two_code": "VN",
+    "state-province": "Bình Dương",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Vo Truong Toan University",
+    "local_name": "Trường Đại học Võ Trường Toản",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Van Hien University",
+    "local_name": "Trường Đại học Văn Hiến",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Van Lang University",
+    "local_name": "Trường Đại học Văn Lang",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Culture",
+    "local_name": "Trường Đại học Văn hoá Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Military Culture - Arts University school",
+    "local_name": "Trường Đại học Văn hoá Nghệ thuật Quân đội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Culture",
+    "local_name": "Trường Đại học Văn hoá Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Culture, Sports and Tourism in Thanh Hoa",
+    "local_name": "Trường Đại học Văn hoá, Thể thao và Du lịch Thanh Hoá",
+    "alpha_two_code": "VN",
+    "state-province": "Thanh Hóa",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Civil Engineering",
+    "local_name": "Trường Đại học Xây dựng Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Mien Trung University of Civil Engineering[i]",
+    "local_name": "Trường Đại học Xây dựng Miền Trung",
+    "alpha_two_code": "VN",
+    "state-province": "Phú Yên",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Mien Tay Construction University[j]",
+    "local_name": "Trường Đại học Xây dựng Miền Tây",
+    "alpha_two_code": "VN",
+    "state-province": "Vĩnh Long",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "University of Medicine and Pharmacy",
+    "local_name": "Trường Đại học Y Dược",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Can Tho University of Medicine and Pharmacy",
+    "local_name": "Trường Đại học Y Dược Cần Thơ",
+    "alpha_two_code": "VN",
+    "state-province": "Cần Thơ",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Haiphong University of Medicine and Pharmacy",
+    "local_name": "Trường Đại học Y Dược Hải Phòng",
+    "alpha_two_code": "VN",
+    "state-province": "Haiphong",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Thai Binh University of Medicine and Pharmacy",
+    "local_name": "Trường Đại học Y Dược Thái Bình",
+    "alpha_two_code": "VN",
+    "state-province": "Thái Bình",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi Medical University",
+    "local_name": "Trường Đại học Y Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Buon Ma Thuot Medical University",
+    "local_name": "Trường Đại học Y khoa Buôn Ma Thuột",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
     "name": "Pham Ngoc Thach University of Medicine",
+    "local_name": "Trường Đại học Y khoa Phạm Ngọc Thạch",
     "alpha_two_code": "VN",
-    "state-province": null,
-    "domains": ["pnt.edu.vn"],
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
-    "web_pages": ["http://www.vgu.edu.vn/"],
-    "name": "Vietnamese - German University",
+    "web_pages": [],
+    "name": "Vinh Medical University",
+    "local_name": "Trường Đại học Y khoa Vinh",
+    "alpha_two_code": "VN",
+    "state-province": "Nghệ An",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University of Public Health",
+    "local_name": "Trường Đại học Y tế Công cộng",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Yersin University",
+    "local_name": "Trường Đại học Yersin Đà Lạt",
     "alpha_two_code": "VN",
     "state-province": null,
-    "domains": ["vgu.edu.vn"],
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Nam Dinh University of Nursing",
+    "local_name": "Trường Đại học Điều dưỡng Nam Định",
+    "alpha_two_code": "VN",
+    "state-province": "Nam Định",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Electric Power University",
+    "local_name": "Trường Đại học Điện lực",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Dalat University",
+    "local_name": "Trường Đại học Đà Lạt",
+    "alpha_two_code": "VN",
+    "state-province": "Lâm Đồng",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Dong A University",
+    "local_name": "Trường Đại học Đông Á",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Dong Do University",
+    "local_name": "Trường Đại học Đông Đô",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Dai Nam University",
+    "local_name": "Trường Đại học Đại Nam",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Dong Nai University",
+    "local_name": "Trường Đại học Đồng Nai",
+    "alpha_two_code": "VN",
+    "state-province": "Đồng Nai",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Dong Thap University",
+    "local_name": "Trường Đại học Đồng Tháp",
+    "alpha_two_code": "VN",
+    "state-province": "Đồng Tháp",
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Hanoi University Of Industry",
+    "local_name": "Đại học Công Nghiệp Hà Nội",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": [],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": [],
+    "name": "Ho Chi Minh City University of Medicine and Pharmacy",
+    "local_name": "Đại học Y Dược Thành phố Hồ Chí Minh",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": [],
     "country": "Viet Nam"
   },
   {
