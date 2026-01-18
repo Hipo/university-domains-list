@@ -81645,5 +81645,90 @@
     "country": "Germany",
     "alpha_two_code": "DE",
     "state-province": "Baden-Württemberg"
-  }
+  },
+    {
+        "name": "Hanoi University",
+        "alpha_two_code": "VN",
+        "state-province": "Hanoi",
+        "domains": [
+            "hanu.edu.vn",
+            "hanu.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://hanu.edu.vn/"
+        ]
+    },
+    {
+        "name": "Ton Duc Thang University",
+        "alpha_two_code": "VN",
+        "state-province": "Ho Chi Minh City",
+        "domains": [
+            "tdtu.edu.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://tdtu.edu.vn/"
+        ]
+    },
+    {
+        "name": "University of Da Nang",
+        "alpha_two_code": "VN",
+        "state-province": "Da Nang",
+        "domains": [
+            "udn.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://www.udn.vn/"
+        ]
+    },
+    {
+        "name": "Hanoi National University of Education",
+        "alpha_two_code": "VN",
+        "state-province": "Hanoi",
+        "domains": [
+            "hnue.edu.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://hnue.edu.vn/"
+        ]
+    },
+    {
+        "name": "Hoa Sen University",
+        "alpha_two_code": "VN",
+        "state-province": "Ho Chi Minh City",
+        "domains": [
+            "hoasen.edu.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://www.hoasen.edu.vn/"
+        ]
+    },
+    {
+        "name": "Van Lang University",
+        "alpha_two_code": "VN",
+        "state-province": "Ho Chi Minh City",
+        "domains": [
+            "vlu.edu.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://www.vlu.edu.vn/"
+        ]
+    },
+    {
+        "name": "Nha Trang University",
+        "alpha_two_code": "VN",
+        "state-province": "Khanh Hoa",
+        "domains": [
+            "ntu.edu.vn"
+        ],
+        "country": "Vietnam",
+        "web_pages": [
+            "https://ntu.edu.vn/"
+        ]
+    }
 ]
