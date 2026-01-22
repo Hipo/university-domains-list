@@ -34,3 +34,7 @@ jobs:
         run: |
           pip install -r tests/requirements.txt
           python -m unittest discover tests
+
+      - name: Call update endpoint
+        continue-on-error: true
+        run: curl --max-time 5 --silent http://universities.hipolabs.com/update
