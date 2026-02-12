@@ -47047,7 +47047,7 @@
     "web_pages": ["http://www.apu.edu.my/"],
     "name": "Asia Pacific University of Technology & Innovation (APU)",
     "alpha_two_code": "MY",
-    "state-province": Kuala Lumpur,
+    "state-province": "Kuala Lumpur",
     "domains": ["apu.edu.my"],
     "country": "Malaysia"
   },
@@ -47055,7 +47055,7 @@
     "web_pages": ["http://www.apiit.edu.my/"],
     "name": "Asia Pacific Institute of Information Technology (APIIT)",
     "alpha_two_code": "MY",
-    "state-province": Kuala Lumpur,
+    "state-province": "Kuala Lumpur",
     "domains": ["apiit.edu.my"],
     "country": "Malaysia"
   },
