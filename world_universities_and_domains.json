@@ -26660,7 +26660,7 @@
   },
   {
     "web_pages": ["http://www.univ-lille1.fr/"],
-    "name": "Université des Sciences et Technologies de Lille (Lille I)",
+    "name": "Université des Sciences et Technologies de Lille (Lille I) | Old",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["univ-lille1.fr"],
@@ -26668,7 +26668,7 @@
   },
   {
     "web_pages": ["http://www.univ-lille2.fr/"],
-    "name": "Université du Droit et de la Sante (Lille II)",
+    "name": "Université du Droit et de la Sante (Lille II) | Old",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["univ-lille2.fr"],
@@ -26676,10 +26676,18 @@
   },
   {
     "web_pages": ["http://www.univ-lille3.fr/"],
-    "name": "Université Charles-de-Gaulle (Lille III)",
+    "name": "Université Charles-de-Gaulle (Lille III) | Old",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["univ-lille3.fr"],
+    "country": "France"
+  },
+  {
+    "web_pages": ["http://www.univ-lille.fr/"],
+    "name": "Université de Lille",
+    "alpha_two_code": "FR",
+    "state-province": null,
+    "domains": ["univ-lille.fr"],
     "country": "France"
   },
   {
