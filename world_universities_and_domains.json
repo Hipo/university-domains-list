@@ -1,5 +1,13 @@
 [
   {
+    "name": "Antonio Nariño University",
+    "domains": ["uan.edu.co"],
+    "web_pages": ["https://uan.edu.co"],
+    "country": "Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null
+  },
+  {
     "name": "Engineering Institute of Technology",
     "domains": ["student.eit.edu.au"],
     "web_pages": ["https://www.eit.edu.au/"],
