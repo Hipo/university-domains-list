@@ -1,5 +1,13 @@
 [
   {
+    "name": "Hellenic College of Noah",
+    "domains": ["noah.edu.gr"],
+    "web_pages": ["https://noah.edu.gr"],
+    "country": "Greece",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia"
+  },
+  {
     "name": "Engineering Institute of Technology",
     "domains": ["student.eit.edu.au"],
     "web_pages": ["https://www.eit.edu.au/"],
