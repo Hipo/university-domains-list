@@ -48220,6 +48220,14 @@
     "country": "Malta"
   },
   {
+    "web_pages": ["http://www.mcast.edu.mt/"],
+    "name": "MCAST",
+    "alpha_two_code": "MT",
+    "state-province": null,
+    "domains": ["mcast.edu.mt"],
+    "country": "Malta"
+  },
+  {
     "web_pages": ["http://www.um.edu.mt/"],
     "name": "University of Malta",
     "alpha_two_code": "MT",
