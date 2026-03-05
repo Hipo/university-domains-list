@@ -24876,11 +24876,12 @@
     "domains": ["ut.ee"],
     "country": "Estonia"
   },
+
   {
     "web_pages": ["http://www.aastu.org/"],
     "name": "Addis Ababa Science & Technology University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Addis Ababa",
     "domains": ["aastu.org"],
     "country": "Ethiopia"
   },
@@ -24888,7 +24889,7 @@
     "web_pages": ["http://www.aau.edu.et/"],
     "name": "Addis Ababa University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Addis Ababa",
     "domains": ["aau.edu.et"],
     "country": "Ethiopia"
   },
@@ -24896,7 +24897,7 @@
     "web_pages": ["http://www.adu.edu.et/"],
     "name": "Adigrat University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Tigray",
     "domains": ["adu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24904,7 +24905,7 @@
     "web_pages": ["http://www.aku.edu.et/"],
     "name": "Aksum University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Tigray",
     "domains": ["aku.edu.et"],
     "country": "Ethiopia"
   },
@@ -24912,7 +24913,7 @@
     "web_pages": ["http://www.ambou.edu.et/"],
     "name": "Ambo University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Oromia",
     "domains": ["ambou.edu.et"],
     "country": "Ethiopia"
   },
@@ -24920,7 +24921,7 @@
     "web_pages": ["http://www.amu.edu.et/"],
     "name": "Arba Minch University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "South Ethiopia",
     "domains": ["amu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24928,7 +24929,7 @@
     "web_pages": ["http://www.astu.edu.et/"],
     "name": "Adama Science and Technology University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Oromia",
     "domains": ["astu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24936,7 +24937,7 @@
     "web_pages": ["http://www.asu.edu.et/"],
     "name": "Assosa University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Benishangul-Gumuz",
     "domains": ["asu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24944,7 +24945,7 @@
     "web_pages": ["http://www.bdu.edu.et/"],
     "name": "Bahir Dar University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Amhara",
     "domains": ["bdu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24952,7 +24953,7 @@
     "web_pages": ["http://www.bulehorauniversity.com/"],
     "name": "Bule Hora University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Oromia",
     "domains": ["bhu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24960,7 +24961,7 @@
     "web_pages": ["http://www.dbu.edu.et/"],
     "name": "Debre Birhan University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Amhara",
     "domains": ["dbu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24968,7 +24969,7 @@
     "web_pages": ["http://www.ddu.edu.et/"],
     "name": "Dire Dawa University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Dire Dawa",
     "domains": ["ddu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24976,7 +24977,7 @@
     "web_pages": ["http://www.dillauniversity.edu.et/"],
     "name": "Dilla University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "South Ethiopia",
     "domains": ["dillauniversity.edu.et"],
     "country": "Ethiopia"
   },
@@ -24984,7 +24985,7 @@
     "web_pages": ["http://www.dmu.edu.et/"],
     "name": "Debre Markos University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Amhara",
     "domains": ["dmu.edu.et"],
     "country": "Ethiopia"
   },
@@ -24992,7 +24993,7 @@
     "web_pages": ["http://www.ecsc.edu.et/"],
     "name": "Ethiopian Civil Service University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Addis Ababa",
     "domains": ["ecsc.edu.et"],
     "country": "Ethiopia"
   },
@@ -25000,7 +25001,7 @@
     "web_pages": ["http://www.haramaya.edu.et/"],
     "name": "Haramaya University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Oromia",
     "domains": ["haramaya.edu.et"],
     "country": "Ethiopia"
   },
@@ -25008,7 +25009,7 @@
     "web_pages": ["http://www.hu.edu.et/"],
     "name": "Hawassa University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "South Ethiopia",
     "domains": ["hu.edu.et"],
     "country": "Ethiopia"
   },
@@ -25016,7 +25017,7 @@
     "web_pages": ["http://www.jju.edu.et/"],
     "name": "Jigjiga University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Somali",
     "domains": ["jju.edu.et"],
     "country": "Ethiopia"
   },
@@ -25024,15 +25025,15 @@
     "web_pages": ["http://www.ju.edu.et/"],
     "name": "Jimma University",
     "alpha_two_code": "ET",
-    "state-province": null,
-    "domains": ["ju.edu.et"],
+    "state-province": "Oromia",
+    "domains": ["ju.edu.et", "ju2.edu.et"],
     "country": "Ethiopia"
   },
   {
     "web_pages": ["http://www.mitethiopia.edu.et/"],
     "name": "Mekelle Institute of Technology",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Tigray",
     "domains": ["mitethiopia.edu.et"],
     "country": "Ethiopia"
   },
@@ -25040,7 +25041,7 @@
     "web_pages": ["http://www.mtu.edu.et/"],
     "name": "Mizan Tepi University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "South West Ethiopia",
     "domains": ["mtu.edu.et"],
     "country": "Ethiopia"
   },
@@ -25048,7 +25049,7 @@
     "web_pages": ["http://www.mu.edu.et/"],
     "name": "Mekelle University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Tigray",
     "domains": ["mu.edu.et"],
     "country": "Ethiopia"
   },
@@ -25056,7 +25057,7 @@
     "web_pages": ["http://www.mwu.edu.et/"],
     "name": "Madawalabu University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Oromia",
     "domains": ["mwu.edu.et"],
     "country": "Ethiopia"
   },
@@ -25064,7 +25065,7 @@
     "web_pages": ["http://www.su.edu.et/"],
     "name": "Semera University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Afar",
     "domains": ["su.edu.et"],
     "country": "Ethiopia"
   },
@@ -25072,7 +25073,7 @@
     "web_pages": ["http://www.uog.edu.et/"],
     "name": "University of Gondar",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Amhara",
     "domains": ["uog.edu.et"],
     "country": "Ethiopia"
   },
@@ -25080,7 +25081,7 @@
     "web_pages": ["http://www.uuc.edu.et/"],
     "name": "Unity University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Addis Ababa",
     "domains": ["uuc.edu.et"],
     "country": "Ethiopia"
   },
@@ -25088,7 +25089,7 @@
     "web_pages": ["http://www.wku.edu.et/"],
     "name": "Wolkite University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Central Ethiopia",
     "domains": ["wku.edu.et"],
     "country": "Ethiopia"
   },
@@ -25096,7 +25097,7 @@
     "web_pages": ["http://www.wsu.edu.et/"],
     "name": "Wolaita Sodo University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Central Ethiopia",
     "domains": ["wsu.edu.et"],
     "country": "Ethiopia"
   },
@@ -25104,7 +25105,7 @@
     "web_pages": ["http://www.wu.edu.et/"],
     "name": "Wollo University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Amhara",
     "domains": ["wu.edu.et"],
     "country": "Ethiopia"
   },
@@ -25112,204 +25113,210 @@
     "web_pages": ["http://www.wuni.edu.et/"],
     "name": "Wollega University",
     "alpha_two_code": "ET",
-    "state-province": null,
+    "state-province": "Oromia",
     "domains": ["wuni.edu.et"],
     "country": "Ethiopia"
   },
   {
-  "name": "Arsi University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.arsiu.edu.et/"],
-  "domains": ["arsiu.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Debre Tabor University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.dtu.edu.et/"],
-  "domains": ["dtu.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Dembi Dolo University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.ddu.edu.et/"],
-  "domains": ["ddu.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Injibara University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.injibarauniversity.edu.et/"],
-  "domains": ["injibarauniversity.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Jinka University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.jku.edu.et/"],
-  "domains": ["jku.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Kebri Dehar University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.kdu.edu.et/"],
-  "domains": ["kdu.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Salale University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.su.edu.et/"],
-  "domains": ["su.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Wachemo University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.wcu.edu.et/"],
-  "domains": ["wcu.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Werabe University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.wru.edu.et/"],
-  "domains": ["wru.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Jimma University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.ju.edu.et/"],
-  "domains": ["ju.edu.et", "ju2.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Unity University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["https://www.unity.edu.et/"],
-  "domains": ["unity.edu.et", "uuc.edu.et"],
-  "state-province": null
-},
-{
-  "name": "St. Mary's University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["https://smuc.edu.et/"],
-  "domains": ["smuc.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Admas University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.admasuniversity.edu.et/"],
-  "domains": ["admasuniversity.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Rift Valley University",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.riftvalleyuniversity.edu.et/"],
-  "domains": ["riftvalleyuniversity.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Ethiopian Catholic University of Saint Thomas Aquinas",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["https://ecust.edu.et/"],
-  "domains": ["ecust.edu.et"],
-  "state-province": null
-},
-{
-  "name": "ALKAN Health Science Business and Technology College",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["https://alkan.edu.et/"],
-  "domains": ["alkan.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Premier College",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["https://premiercollege.edu.et/"],
-  "domains": ["premiercollege.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Select College",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["https://select.edu.et/"],
-  "domains": ["select.edu.et"],
-  "state-province": null
-},
-{
-  "name": "New Generation University College",
-  "alpha_two_code": "ET",
-  "country": "Ethiopia",
-  "web_pages": ["http://www.nguc.edu.et/"],
-  "domains": ["nguc.edu.et"],
-  "state-province": null
-},
-{
-  "name": "Addis Ababa Science and Business University",
-  "web_pages": ["https://aasbu.edu.et/"],
-  "domains": ["aasbu.edu.et"],
-  "country": "Ethiopia",
-  "alpha_two_code": "ET"
-},
-{
-  "name": "Debark University",
-  "web_pages": ["https://dbu.edu.et/"],
-  "domains": ["dbu.edu.et"],
-  "country": "Ethiopia",
-  "alpha_two_code": "ET"
-},
-{
-  "name": "Raya University",
-  "web_pages": ["https://rayau.edu.et/"],
-  "domains": ["rayau.edu.et"],
-  "country": "Ethiopia",
-  "alpha_two_code": "ET"
-},
-{
-  "name": "Bonga University",
-  "web_pages": ["https://bu.edu.et/"],
-  "domains": ["bu.edu.et"],
-  "country": "Ethiopia",
-  "alpha_two_code": "ET"
-},
-{
-  "name": "Oda Bultum University",
-  "web_pages": ["https://obu.edu.et/"],
-  "domains": ["obu.edu.et"],
-  "country": "Ethiopia",
-  "alpha_two_code": "ET"
-},
-{
-  "name": "Wolaita University",
-  "web_pages": ["https://wu.edu.et/"],
-  "domains": ["wu.edu.et"],
-  "country": "Ethiopia",
-  "alpha_two_code": "ET"
-},
+    "name": "Arsi University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.arsiu.edu.et/"],
+    "domains": ["arsiu.edu.et"],
+    "state-province": "Oromia"
+  },
+  {
+    "name": "Debre Tabor University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.dtu.edu.et/"],
+    "domains": ["dtu.edu.et"],
+    "state-province": "Amhara"
+  },
+  {
+    "name": "Dembi Dolo University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.ddu.edu.et/"],
+    "domains": ["ddu.edu.et"],
+    "state-province": "Oromia"
+  },
+  {
+    "name": "Injibara University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.injibarauniversity.edu.et/"],
+    "domains": ["injibarauniversity.edu.et"],
+    "state-province": "Amhara"
+  },
+  {
+    "name": "Jinka University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.jku.edu.et/"],
+    "domains": ["jku.edu.et"],
+    "state-province": "South Ethiopia"
+  },
+  {
+    "name": "Kebri Dehar University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.kdu.edu.et/"],
+    "domains": ["kdu.edu.et"],
+    "state-province": "Somali"
+  },
+  {
+    "name": "Salale University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.su.edu.et/"],
+    "domains": ["su.edu.et"],
+    "state-province": "Oromia"
+  },
+  {
+    "name": "Wachemo University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.wcu.edu.et/"],
+    "domains": ["wcu.edu.et"],
+    "state-province": "Central Ethiopia"
+  },
+  {
+    "name": "Werabe University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.wru.edu.et/"],
+    "domains": ["wru.edu.et"],
+    "state-province": "Central Ethiopia"
+  },
+  {
+    "name": "Jimma University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.ju.edu.et/"],
+    "domains": ["ju.edu.et", "ju2.edu.et"],
+    "state-province": "Oromia"
+  },
+  {
+    "name": "Unity University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["https://www.unity.edu.et/"],
+    "domains": ["unity.edu.et", "uuc.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "St. Mary's University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["https://smuc.edu.et/"],
+    "domains": ["smuc.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Admas University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.admasuniversity.edu.et/"],
+    "domains": ["admasuniversity.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Rift Valley University",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.riftvalleyuniversity.edu.et/"],
+    "domains": ["riftvalleyuniversity.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Ethiopian Catholic University of Saint Thomas Aquinas",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["https://ecust.edu.et/"],
+    "domains": ["ecust.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "ALKAN Health Science Business and Technology College",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["https://alkan.edu.et/"],
+    "domains": ["alkan.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Premier College",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["https://premiercollege.edu.et/"],
+    "domains": ["premiercollege.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Select College",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["https://select.edu.et/"],
+    "domains": ["select.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "New Generation University College",
+    "alpha_two_code": "ET",
+    "country": "Ethiopia",
+    "web_pages": ["http://www.nguc.edu.et/"],
+    "domains": ["nguc.edu.et"],
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Addis Ababa Science and Business University",
+    "web_pages": ["https://aasbu.edu.et/"],
+    "domains": ["aasbu.edu.et"],
+    "country": "Ethiopia",
+    "alpha_two_code": "ET",
+    "state-province": "Addis Ababa"
+  },
+  {
+    "name": "Debark University",
+    "web_pages": ["https://dbu.edu.et/"],
+    "domains": ["dbu.edu.et"],
+    "country": "Ethiopia",
+    "alpha_two_code": "ET",
+    "state-province": "Amhara"
+  },
+  {
+    "name": "Raya University",
+    "web_pages": ["https://rayau.edu.et/"],
+    "domains": ["rayau.edu.et"],
+    "country": "Ethiopia",
+    "alpha_two_code": "ET",
+    "state-province": "Tigray"
+  },
+  {
+    "name": "Bonga University",
+    "web_pages": ["https://bu.edu.et/"],
+    "domains": ["bu.edu.et"],
+    "country": "Ethiopia",
+    "alpha_two_code": "ET",
+    "state-province": "South West Ethiopia"
+  },
+  {
+    "name": "Oda Bultum University",
+    "web_pages": ["https://obu.edu.et/"],
+    "domains": ["obu.edu.et"],
+    "country": "Ethiopia",
+    "alpha_two_code": "ET",
+    "state-province": "Oromia"
+  },
+  {
+    "name": "Wolaita University",
+    "web_pages": ["https://wu.edu.et/"],
+    "domains": ["wu.edu.et"],
+    "country": "Ethiopia",
+    "alpha_two_code": "ET",
+    "state-province": "Central Ethiopia"
+  },
 
   {
     "web_pages": ["http://www.setur.fo/"],
