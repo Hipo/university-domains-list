@@ -14952,7 +14952,7 @@
     "web_pages": ["http://www.ucsal.br/"],
     "name": "Universidade Católica do Salvador",
     "alpha_two_code": "BR",
-    "state-province": null,
+    "state-province": "Salvador",
     "domains": ["ucsal.br", "ucsal.edu.br"],
     "country": "Brazil"
   },
