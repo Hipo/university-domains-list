@@ -75012,11 +75012,11 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://WWW.SUNYBROOME.EDU"],
+    "web_pages": ["https://sunybroome.edu/"],
     "name": "SUNY Broome Community College",
     "alpha_two_code": "US",
-    "state-province": null,
-    "domains": ["www.sunybroome.edu"],
+    "state-province": "New York",
+    "domains": ["sunybroome.edu"],
     "country": "United States"
   },
   {
