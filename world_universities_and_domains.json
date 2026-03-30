@@ -54468,6 +54468,14 @@
     "country": "Philippines"
   },
   {
+    "web_pages": ["http://www.earist.edu.ph/"],
+    "name": "Eulogio 'Amang' Rodriguez Institute of Science and Technology",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["earist.edu.ph"],
+    "country": "Philippines"
+  },
+  {
     "web_pages": ["http://www.feu.edu.ph/"],
     "name": "Far Eastern University",
     "alpha_two_code": "PH",
@@ -54724,6 +54732,14 @@
     "country": "Philippines"
   },
   {
+    "web_pages": ["http://www.Pateros Technological College.edu.ph/"],
+    "name": "Pateros Technological College",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["paterostechnologicalcollege.edu.ph"],
+    "country": "Philippines"
+  },
+  {
     "web_pages": ["http://www.pcu.edu.ph/"],
     "name": "Philippine Christian University",
     "alpha_two_code": "PH",
@@ -54873,6 +54889,14 @@
     "alpha_two_code": "PH",
     "state-province": "National Capital Region",
     "domains": ["sti.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["http://www.tcu.edu.ph/"],
+    "name": "Taguig City University",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["tcu.edu.ph"],
     "country": "Philippines"
   },
   {
