@@ -81949,5 +81949,89 @@
     "country": "Germany",
     "alpha_two_code": "DE",
     "state-province": "Baden-Württemberg"
+  },
+  {
+    "web_pages": [
+      "http://www.b-tu.de/"
+    ],
+    "name": "Brandenburg University of Technology Cottbus - Senftenberg",
+    "alpha_two_code": "DE",
+    "state-province": "Brandenburg",
+    "domains": [
+      "b-tu.de"
+    ],
+    "country": "Germany"
+  },
+  {
+    "web_pages": [
+      "http://www.kpu.ca/"
+    ],
+    "name": "Kwantlen Polytechnic University",
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia",
+    "domains": [
+      "kpu.ca"
+    ],
+    "country": "Canada"
+  },
+  {
+    "web_pages": [
+      "http://www.sopocka.edu.pl/"
+    ],
+    "name": "Sopocka Academia",
+    "alpha_two_code": "PL",
+    "state-province": "Pomeranian",
+    "domains": [
+      "sopocka.edu.pl"
+    ],
+    "country": "Poland"
+  },
+  {
+    "web_pages": [
+      "http://www.spokane.edu/"
+    ],
+    "name": "Spokane Colleges",
+    "alpha_two_code": "US",
+    "state-province": "Washington",
+    "domains": [
+      "spokane.edu"
+    ],
+    "country": "US"
+  },
+  {
+    "web_pages": [
+      "http://www.studytafensw.edu.au/"
+    ],
+    "name": "TAFE NSW",
+    "alpha_two_code": "AU",
+    "state-province": null,
+    "domains": [
+      "studytafensw.edu.au"
+    ],
+    "country": "Australia"
+  },
+  {
+    "web_pages": [
+      "http://www.uauim.ro/"
+    ],
+    "name": "Universitatea de Arhitectură și Urbanism \"Ion Mincu\"",
+    "alpha_two_code": "RO",
+    "state-province": "București - Ilfov",
+    "domains": [
+      "uauim.ro"
+    ],
+    "country": "Romania"
+  },
+  {
+    "web_pages": [
+      "http://www.uia.no/"
+    ],
+    "name": "University of Agder",
+    "alpha_two_code": "NO",
+    "state-province": "Agder",
+    "domains": [
+      "uia.no"
+    ],
+    "country": "Norway"
   }
 ]
