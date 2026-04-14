@@ -1,4 +1,12 @@
 [
+   {
+    "name": "Fundação Hermínio Ometto",
+    "domains": ["fho.edu.br"],
+    "web_pages": ["https://www.fho.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo"
+  },
   {
     "name": "Hellenic College of Noah",
     "domains": ["noah.edu.gr"],
