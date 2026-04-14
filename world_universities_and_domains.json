@@ -13213,12 +13213,12 @@
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["http://www.bracuniversity.net/"],
-    "name": "Brac University",
-    "alpha_two_code": "BD",
-    "state-province": null,
-    "domains": ["bracuniversity.net"],
-    "country": "Bangladesh"
+  "name": "Brac University",
+  "domains": ["bracu.ac.bd"],
+  "web_pages": ["https://www.bracu.ac.bd/"],
+  "country": "Bangladesh",
+  "alpha_two_code": "BD",
+  "state-province": null
   },
   {
     "web_pages": ["http://www.brur.ac.bd/"],
@@ -13549,12 +13549,12 @@
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["http://www.nstu.edu.bd/"],
-    "name": "Noakhali University of Science and Technology",
-    "alpha_two_code": "BD",
-    "state-province": null,
-    "domains": ["nstu.edu.bd"],
-    "country": "Bangladesh"
+  "name": "Noakhali Science and Technology University",
+  "domains": ["nstu.edu.bd"],
+  "web_pages": ["https://nstu.edu.bd/"],
+  "country": "Bangladesh",
+  "alpha_two_code": "BD",
+  "state-province": null
   },
   {
     "web_pages": ["http://www.nub.ac.bd/"],
@@ -81949,5 +81949,70 @@
     "country": "Germany",
     "alpha_two_code": "DE",
     "state-province": "Baden-Württemberg"
+  }
+  ,
+  {
+    "name": "Gazipur Agricultural University",
+    "domains": ["gau.edu.bd"],
+    "web_pages": ["https://gau.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Bangladesh Maritime University",
+    "domains": ["bmu.edu.bd"],
+    "web_pages": ["https://bmu.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Rangamati Science and Technology University",
+    "domains": ["rmstu.edu.bd"],
+    "web_pages": ["https://rmstu.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Kishoreganj University",
+    "domains": ["bsmru.ac.bd"],
+    "web_pages": ["https://bsmru.ac.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Khulna Agricultural University",
+    "domains": ["kau.edu.bd"],
+    "web_pages": ["https://kau.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Islamic Arabic University",
+    "domains": ["iau.edu.bd"],
+    "web_pages": ["https://iau.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Chittagong Medical University",
+    "domains": ["cmu.edu.bd"],
+    "web_pages": ["https://cmu.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
+  },
+  {
+    "name": "Netrokona University",
+    "domains": ["neu.edu.bd"],
+    "web_pages": ["https://neu.edu.bd/"],
+    "country": "Bangladesh",
+    "alpha_two_code": "BD",
+    "state-province": null
   }
 ]
