@@ -32336,6 +32336,14 @@
     "country": "India"
   },
   {
+    "web_pages": ["http://www.iitbhu.ac.in/"],
+    "name": "Indian Institute of Technology, Banaras Hindu University",
+    "alpha_two_code": "IN",
+    "state-province": "Uttar Pradesh",
+    "domains": ["iitbhu.ac.in"],
+    "country": "India"
+  },
+  {
     "web_pages": ["http://www.iitkgp.ernet.in/", "http://www.iitkgp.ac.in/"],
     "name": "Indian Institute of Technology, Kharagpur",
     "alpha_two_code": "IN",
