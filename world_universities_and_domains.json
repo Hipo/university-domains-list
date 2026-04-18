@@ -81949,5 +81949,13 @@
     "country": "Germany",
     "alpha_two_code": "DE",
     "state-province": "Baden-Württemberg"
+  },
+  {
+    "name": "Chitkara Univerity",
+    "domains": ["chitkara.edu.in", "chitkarauniversity.edu.in"],
+    "web_pages": ["https://www.chitkara.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Himachal Pradesh"
   }
 ]
