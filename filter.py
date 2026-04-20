@@ -10,32 +10,45 @@ def _country_filter(src, scope, out):
 
     :arg src: source dictionary
     :arg scope: source selector
+    :arg out: unused parameter (kept for compatibility)
     """
 
-    def filter(entry, item):
+    def filter_entry(entry, item):
         matching = entry["country"]
+        return item.lower() == matching.lower()
 
-        return item == matching or item == matching.lower() or item == matching.upper()
-
-    return [entry for entry in src if filter(entry, scope)]
+    return [entry for entry in src if filter_entry(entry, scope)]
 
 
 def country_filter(src, scopes):
     """
-    Either make multiple data searches or
-    execute one. {NEEDS IMPROVEMENT, O(kN) => O(n)}
+    Filter data by country(ies) with improved efficiency and no duplicates
 
     :arg src: source dictionary
-    :arg scopes: source selectors
+    :arg scopes: source selectors (string or list)
     """
-    out = []
+    if not scopes:  # Handle empty scopes
+        return src
 
-    if type(scopes) is list:
-        [out.extend(_country_filter(src, scope, out)) for scope in scopes]
-    else:
-        out = _country_filter(src, scopes, out)
+    if isinstance(scopes, str):
+        return _country_filter(src, scopes, None)
 
-    return out
+    if isinstance(scopes, list):
+        if not scopes:  # Empty list
+            return src
+
+        # Convert all scopes to lowercase for case-insensitive comparison
+        normalized_scopes = [scope.lower() for scope in scopes]
+
+        # Filter entries where country matches any scope (case-insensitive)
+        filtered_entries = [
+            entry for entry in src if entry["country"].lower() in normalized_scopes
+        ]
+
+        # Sort by country name for consistent ordering
+        return sorted(filtered_entries, key=lambda x: x["country"])
+
+    return []
 
 
 def main():
@@ -43,7 +56,7 @@ def main():
     temp_arg = ""
     first_word = True
 
-    # Retrieve our selecting countries (seperated by commas)
+    # Retrieve our selecting countries (separated by commas)
     for arg in sys.argv[1:]:
         temp_arg += arg if first_word else " " + arg
         first_word = False
