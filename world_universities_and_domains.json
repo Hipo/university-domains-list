@@ -82160,19 +82160,11 @@
   },
   {
     "name": "Arunachal University",
-    "domains": ["arunachaluniversity.ac.in"],
-    "web_pages": ["https://www.arunachaluniversity.ac.in/"],
+    "domains": ["rgu.ac.in"],
+    "web_pages": ["https://newsite.rgu.ac.in"],
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Arunachal Pradesh"
-  },
-  {
-    "name": "Assam Administrative Staff College",
-    "domains": ["aasc.assam.gov.in"],
-    "web_pages": ["https://aasc.assam.gov.in/"],
-    "country": "India",
-    "alpha_two_code": "IN",
-    "state-province": "Assam"
   },
   {
     "name": "Assam University",
@@ -82191,9 +82183,9 @@
     "state-province": "Rajasthan"
   },
   {
-    "name": "Bengal Engineering College",
-    "domains": ["bcetdgp.ac.in"],
-    "web_pages": ["https://bcetdgp.ac.in/"],
+    "name": "Indian Institute of Engineering Science and Technology Shibpur",
+    "domains": ["iiests.ac.in"],
+    "web_pages": ["https://www.iiests.ac.in"],
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "West Bengal"
@@ -82224,7 +82216,7 @@
   },
   {
     "name": "Bharathiar University",
-    "domains": ["buc.edu.in"],
+    "domains": ["bu.ac.in"],
     "web_pages": ["https://www.b-u.ac.in/"],
     "country": "India",
     "alpha_two_code": "IN",
@@ -82239,15 +82231,7 @@
     "state-province": "Maharashtra"
   },
   {
-    "name": "Birbal Sahni Institute of Palaeobotany",
-    "domains": ["bsip.res.in"],
-    "web_pages": ["https://www.bsip.res.in/"],
-    "country": "India",
-    "alpha_two_code": "IN",
-    "state-province": "Uttar Pradesh"
-  },
-  {
-    "name": "Birla Institute of Technology",
+    "name": "Birla Institute of Technology and Science, Pilani",
     "domains": ["bits-pilani.ac.in"],
     "web_pages": ["https://www.bits-pilani.ac.in/"],
     "country": "India",
@@ -82261,22 +82245,6 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Jharkhand"
-  },
-  {
-    "name": "Board of Intermediate Education, Andhra Pradesh",
-    "domains": ["bie.ap.gov.in"],
-    "web_pages": ["https://bie.ap.gov.in/"],
-    "country": "India",
-    "alpha_two_code": "IN",
-    "state-province": "Andhra Pradesh"
-  },
-  {
-    "name": "Bose Institute",
-    "domains": ["boseinst.ernet.in"],
-    "web_pages": ["https://www.jcbose.ac.in/"],
-    "country": "India",
-    "alpha_two_code": "IN",
-    "state-province": "West Bengal"
   },
   {
     "name": "Bundelkhand University",
