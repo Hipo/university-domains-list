@@ -81829,5 +81829,13 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Himachal Pradesh"
+  },
+  {
+    "web_pages": ["https://www.uochb.cz/"],
+    "name": "Institute of Organic Chemistry and Biochemistry",
+    "alpha_two_code": "CZ",
+    "state-province": null,
+    "domains": ["uochb.cz"],
+    "country": "Czech Republic"
   }
 ]
