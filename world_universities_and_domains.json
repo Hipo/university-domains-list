@@ -81961,7 +81961,7 @@
   {
     "name": "Far Western University",
     "domains": ["fwu.edu.np"],
-    "web_pages": ["https://www.fwu.edu.np/"],
+    "web_pages": ["https://www.fwu.edu.np", "https://www.fwuexam.edu.np/"],
     "country": "Nepal",
     "alpha_two_code": "NP",
     "state-province": "Sudurpaschim"
@@ -81969,7 +81969,7 @@
   {
     "name": "Mid Western University",
     "domains": ["mwu.edu.np"],
-    "web_pages": ["https://www.mwu.edu.np/"],
+    "web_pages": ["https://www.mwu.edu.np"],
     "country": "Nepal",
     "alpha_two_code": "NP",
     "state-province": "Karnali"
@@ -81977,7 +81977,7 @@
   {
     "name": "Madan Bhandari University of Science and Technology",
     "domains": ["mbust.edu.np/"],
-    "web_pages": ["https://www.mbust.edu.np/"],
+    "web_pages": ["https://www.mbust.edu.np"],
     "country": "Nepal",
     "alpha_two_code": "NP",
     "state-province": "Bagmati"
