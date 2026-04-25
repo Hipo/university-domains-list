@@ -10,6 +10,8 @@ on:
   pull_request:
     branches: [master]
 
+permissions: read-all
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -20,21 +22,32 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Super-Linter
-        uses: github/super-linter@v3.15.3
+        uses: github/super-linter@v7
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_PYTHON_PYLINT: false
           VALIDATE_PYTHON_FLAKE8: false
+          VALIDATE_PYTHON_PYINK: false
+          VALIDATE_JSON_PRETTIER: false
           VALIDATE_MARKDOWN: false
           JAVASCRIPT_DEFAULT_STYLE: prettier
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Lint with Ruff
+        run: |
+          pip install ruff
+          ruff check .
 
       - name: Run tests
         run: |
           pip install -r tests/requirements.txt
           python -m unittest discover tests
-
-      - name: Call update endpoint
-        continue-on-error: true
-        run: curl --max-time 5 --silent http://universities.hipolabs.com/update
