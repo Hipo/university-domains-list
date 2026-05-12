@@ -81829,5 +81829,13 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Himachal Pradesh"
+  },
+  {
+    "name": "St. Joseph's College of Commerce",
+    "domains": ["sjcc.edu.in"],
+    "web_pages": ["https://sjcc.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Karnataka"
   }
 ]
