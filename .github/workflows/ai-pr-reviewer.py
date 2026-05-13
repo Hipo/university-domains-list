@@ -1,5 +1,6 @@
 import os
 import sys
+import time
 
 import requests
 from google import genai
@@ -15,7 +16,6 @@ if not API_KEY:
     print("❌ CRITICAL: AI_API_KEY is missing! GitHub Secrets are not accessible.")
     sys.exit(1)
 
-# Initialize the new Google GenAI client
 client = genai.Client(api_key=API_KEY)
 
 
@@ -69,17 +69,21 @@ def analyze_diff(diff_text):
     Format your output as a clear checklist. Conclude with either "✅ PASSED" or "❌ FLAGGED: [Reason]".
     """
 
-    try:
-        print("🧠 Sending prompt to Gemini AI...")
-        # Using the standard model via the new SDK
-        response = client.models.generate_content(
-            model="gemini-2.5-flash", contents=prompt
-        )
-        print("✅ Gemini successfully generated a response.")
-        return f"🤖 **AIOps Comprehensive PR Review**\n\n{response.text}\n\n---\n*Note: Automated review based on repository contribution guidelines.*"
-    except Exception as e:
-        print(f"❌ Gemini API Error: {str(e)}")
-        sys.exit(1)
+    for attempt in range(3):
+        try:
+            print(f"🧠 Sending prompt to Gemini AI (attempt {attempt + 1}/3)...")
+            response = client.models.generate_content(
+                model="gemini-2.5-flash", contents=prompt
+            )
+            print("✅ Gemini successfully generated a response.")
+            return f"🤖 **AIOps Comprehensive PR Review**\n\n{response.text}\n\n---\n*Note: Automated review based on repository contribution guidelines.*"
+        except Exception as e:
+            print(f"⚠️ Gemini API Error (attempt {attempt + 1}/3): {str(e)}")
+            if attempt < 2:
+                time.sleep(10)
+
+    print("⚠️ Gemini unavailable after 3 attempts. Skipping review.")
+    return None
 
 
 if __name__ == "__main__":

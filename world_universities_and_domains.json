@@ -16,6 +16,14 @@
     "state-province": "Macedonia"
   },
   {
+    "name": "Antonio Nariño University",
+    "domains": ["uan.edu.co"],
+    "web_pages": ["https://uan.edu.co"],
+    "country": "Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null
+  },
+  {
     "name": "Engineering Institute of Technology",
     "domains": ["student.eit.edu.au"],
     "web_pages": ["https://www.eit.edu.au/"],
@@ -80051,7 +80059,7 @@
     "name": "Munster Technological University",
     "alpha_two_code": "IE",
     "state-province": null,
-    "domains": ["mtu.ie"],
+    "domains": ["mtu.ie", "mymtu.ie"],
     "country": "Ireland"
   },
   {
@@ -81823,6 +81831,62 @@
     "state-province": "Baden-Württemberg"
   },
   {
+    "name": "Hanoi University",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": ["hanu.edu.vn", "hanu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://hanu.edu.vn/"]
+  },
+  {
+    "name": "Ton Duc Thang University",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["tdtu.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://tdtu.edu.vn/"]
+  },
+  {
+    "name": "University of Da Nang",
+    "alpha_two_code": "VN",
+    "state-province": "Da Nang",
+    "domains": ["udn.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://www.udn.vn/"]
+  },
+  {
+    "name": "Hanoi National University of Education",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": ["hnue.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://hnue.edu.vn/"]
+  },
+  {
+    "name": "Hoa Sen University",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["hoasen.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://www.hoasen.edu.vn/"]
+  },
+  {
+    "name": "Van Lang University",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["vlu.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://www.vlu.edu.vn/"]
+  },
+  {
+    "name": "Nha Trang University",
+    "alpha_two_code": "VN",
+    "state-province": "Khanh Hoa",
+    "domains": ["ntu.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://ntu.edu.vn/"]
+  },
+  {
     "name": "Chitkara Univerity",
     "domains": ["chitkara.edu.in", "chitkarauniversity.edu.in"],
     "web_pages": ["https://www.chitkara.edu.in/"],
@@ -81914,5 +81978,13 @@
       "uia.no"
     ],
     "country": "Norway"
+  },
+  {
+    "name": "St. Joseph's College of Commerce",
+    "domains": ["sjcc.edu.in"],
+    "web_pages": ["https://sjcc.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Karnataka"
   }
 ]
