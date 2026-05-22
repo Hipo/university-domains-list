@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "Fundação Hermínio Ometto",
     "domains": ["fho.edu.br"],
     "web_pages": ["https://www.fho.edu.br/"],
@@ -26141,8 +26141,8 @@
     "country": "France"
   },
   {
-   "web_pages": ["http://www.clermont-sb.fr/"],
-   "name": "Clermont School of Business",
+    "web_pages": ["http://www.clermont-sb.fr/"],
+    "name": "Clermont School of Business",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["clermont-sb.fr"],
@@ -81895,88 +81895,59 @@
     "state-province": "Himachal Pradesh"
   },
   {
-    "web_pages": [
-      "https://www.b-tu.de/"
-    ],
+    "web_pages": ["https://www.b-tu.de/"],
     "name": "Brandenburg University of Technology Cottbus - Senftenberg",
     "alpha_two_code": "DE",
     "state-province": "Brandenburg",
-    "domains": [
-      "b-tu.de"
-    ],
+    "domains": ["b-tu.de"],
     "country": "Germany"
   },
   {
-    "web_pages": [
-      "https://www.kpu.ca/"
-    ],
+    "web_pages": ["https://www.kpu.ca/"],
     "name": "Kwantlen Polytechnic University",
     "alpha_two_code": "CA",
     "state-province": "British Columbia",
-    "domains": [
-      "kpu.ca"
-    ],
+    "domains": ["kpu.ca"],
     "country": "Canada"
   },
   {
-    "web_pages": [
-      "https://sopocka.edu.pl/"
-    ],
+    "web_pages": ["https://sopocka.edu.pl/"],
     "name": "Sopocka Academia",
     "alpha_two_code": "PL",
     "state-province": "Pomeranian",
-    "domains": [
-      "sopocka.edu.pl"
-    ],
+    "domains": ["sopocka.edu.pl"],
     "country": "Poland"
   },
   {
-    "web_pages": [
-      "https://spokane.edu/"
-    ],
+    "web_pages": ["https://spokane.edu/"],
     "name": "Spokane Colleges",
     "alpha_two_code": "US",
     "state-province": "Washington",
-    "domains": [
-      "spokane.edu"
-    ],
-    "country": "US"
+    "domains": ["spokane.edu"],
+    "country": "United States"
   },
   {
-    "web_pages": [
-      "https://www.tafensw.edu.au/"
-    ],
+    "web_pages": ["https://www.tafensw.edu.au/"],
     "name": "TAFE NSW",
     "alpha_two_code": "AU",
     "state-province": null,
-    "domains": [
-      "tafensw.edu.au",
-      "studytafensw.edu.au"
-    ],
+    "domains": ["tafensw.edu.au", "studytafensw.edu.au"],
     "country": "Australia"
   },
   {
-    "web_pages": [
-      "http://www.uauim.ro/"
-    ],
+    "web_pages": ["http://www.uauim.ro/"],
     "name": "Universitatea de Arhitectură și Urbanism Ion Mincu",
     "alpha_two_code": "RO",
     "state-province": "București - Ilfov",
-    "domains": [
-      "uauim.ro"
-    ],
+    "domains": ["uauim.ro"],
     "country": "Romania"
   },
   {
-    "web_pages": [
-      "https://www.uia.no/"
-    ],
+    "web_pages": ["https://www.uia.no/"],
     "name": "University of Agder",
     "alpha_two_code": "NO",
     "state-province": "Agder",
-    "domains": [
-      "uia.no"
-    ],
+    "domains": ["uia.no"],
     "country": "Norway"
   },
   {
