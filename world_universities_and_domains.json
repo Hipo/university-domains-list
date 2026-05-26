@@ -65908,11 +65908,11 @@
     "name": "Sabanci University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["sabanciuniv.edu.tr", "sabanciuniv.edu"],
+    "domains": ["sabanciuniv.edu"],
     "country": "Turkiye"
   },
   {
-    "web_pages": ["https://sakarya.edu.tr//"],
+    "web_pages": ["https://sakarya.edu.tr/"],
     "name": "Sakarya University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -69892,7 +69892,7 @@
     "name": "Istanbul Medeniyet University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["medeniyet.edu.tr", "ismu.edu.tr"],
+    "domains": ["medeniyet.edu.tr"],
     "country": "Turkiye"
   },
   {
