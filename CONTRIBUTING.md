@@ -12,7 +12,7 @@ All university data is stored in `world_universities_and_domains.json`. When add
   - `name`: Official name of the university (see naming rules below).
   - `country`: Full country name in English, following [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) English short names (e.g., `"Germany"`, not `"Deutschland"`).
   - `alpha_two_code`: Standard ISO 3166-1 alpha-2 code (e.g., `"US"`, `"TR"`).
-  - `domains`: An array of root domain strings only — no subdomains (see critical note below).
+  - `domains`: An array of the university's primary registered domains — no department or service prefixes (see critical note below).
   - `web_pages`: An array of URL strings (even if there is only one). May point to any valid URL including subdomains (e.g., `https://newsite.university.edu/`). Must begin with `https://` (preferred). Only use `http://` if the university's site does not support HTTPS. Must end with a trailing slash.
   - `state-province`: State or province name in English. Use `null` if not applicable.
 - **Accuracy:** Ensure the domains and web pages are currently active.
@@ -55,21 +55,21 @@ Use the official English name. If no official English name exists, use a standar
 }
 ```
 
-> **⚠️ CRITICAL: `domains` FIELD — ROOT DOMAINS ONLY**
-> The `domains` field is used for email address matching (e.g., `user@cs.usc.edu` → root domain `usc.edu`). It MUST contain only the root domain, never a subdomain.
+> **⚠️ CRITICAL: `domains` FIELD — NO DEPARTMENT OR SERVICE PREFIXES**
+> The `domains` field is used for email address matching. It must contain the university's primary registered domain — not a department, portal, or service subdomain added on top of it.
 >
 > - **Correct:** `usc.edu`, `itu.edu.tr`, `ox.ac.uk`
 > - **Incorrect:** `cs.usc.edu`, `ogr.itu.edu.tr`, `mail.ox.ac.uk`
 >
 > This restriction applies **only to `domains`**. The `web_pages` field may contain any valid URL, including subdomains.
 >
-> Pull Requests containing subdomains in `domains` will automatically fail the CI/CD checks.
+> Pull Requests containing department or service subdomains in `domains` will automatically fail the CI/CD checks.
 
 ### 3. Pull Request Process
 
-1.  Fork the repository and create your branch from `master`.
-2.  Update the JSON file.
-3.  Ensure your JSON is valid.
-4.  Submit the PR using the provided template.
+1. Fork the repository and create your branch from `master`.
+2. Update the JSON file.
+3. Ensure your JSON is valid.
+4. Submit the PR using the provided template.
 
 Thank you for keeping the data clean!
