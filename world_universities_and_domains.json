@@ -8,6 +8,14 @@
     "state-province": "São Paulo"
   },
   {
+    "name": "Botnar Institute of Immune Engineering",
+    "domains": ["immune.engineering"],
+    "web_pages": ["https://immune.engineering"],
+    "country": "Switzerland",
+    "alpha_two_code": "CH",
+    "state-province": "Basel-Landschaft"
+  },
+  {
     "name": "Hellenic College of Noah",
     "domains": ["noah.edu.gr"],
     "web_pages": ["https://noah.edu.gr"],
