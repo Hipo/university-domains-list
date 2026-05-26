@@ -33,9 +33,7 @@ jobs:
           VALIDATE_PYTHON_PYLINT: false
           VALIDATE_PYTHON_FLAKE8: false
           VALIDATE_PYTHON_PYINK: false
-          VALIDATE_JSON_PRETTIER: true
           VALIDATE_MARKDOWN: false
-          JAVASCRIPT_DEFAULT_STYLE: prettier
 
       - name: Set up Python
         uses: actions/setup-python@v5
