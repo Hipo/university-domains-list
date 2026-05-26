@@ -63,13 +63,8 @@ Troubleshooting: Test failures almost always mean you introduced a duplicate dom
 
 ### 3. Data Entry Validation Guidelines
 
-To further ensure your modifications are accepted seamlessly, always validate your intent against these domain rules:
+Before proposing any addition or modification, verify the university online if you have internet access — confirm the name, domain, and web page are correct and active.
 
-- **Internet Validation (If Applicable):** If you are equipped with internet access or web search capabilities, always search for the university online to validate the correctness of its name, domain, and primary web page before proposing an addition or modification. Ensure the domain actively resolves to the stated institution.
-- **Root Domains Only (`domains` field):** Universities often use subdomains for departments or student email scopes (e.g., `student@cs.usc.edu`). The `domains` array must only contain the root domain (e.g., `usc.edu`, not `cs.usc.edu`). This restriction applies **only to `domains`**, not to `web_pages`.
-- **No Protocols in Domains:** The `domains` array must contain bare domain names without any protocol prefix (e.g., `sabanciuniv.edu`, not `http://www.sabanciuniv.edu`).
-- **Web Pages Array:** The `web_pages` array must include the protocol and may point to any valid URL, including subdomains (e.g., `https://newsite.university.edu/`). Prefer `https://` over `http://`; only use `http://` if the site does not support HTTPS. URLs must end with a trailing slash.
-- **University Name:** For universities using a Latin-alphabet language (French, German, Spanish, Turkish, etc.), use the official name in the original language including native characters (e.g., `Boğaziçi University`, `Université Paris-Saclay`). For non-Latin scripts (Arabic, Chinese, Cyrillic, etc.), use the official English name or a standard romanized transliteration.
-- **Country Field:** Use the full English country name following ISO 3166-1 English short names (e.g., `"Turkey"`, not `"Türkiye"` or `"Deutschland"`).
+For all data entry rules (field formats, naming conventions, domain restrictions, `web_pages` requirements, etc.), refer to **[CONTRIBUTING.md](../CONTRIBUTING.md)** as the single source of truth.
 
 **When to Search:** Rely strictly on the paths and commands provided here. Only use grep, find, or repository searches if the validation test suite fails due to missing files, or if the Python environment indicates missing upstream dependencies.

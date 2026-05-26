@@ -27,7 +27,7 @@ repos:
     rev: v4.0.0-alpha.8
     hooks:
       - id: prettier
-        types_or: [yaml, markdown]
+        types_or: [yaml, markdown, json]
 
   - repo: https://github.com/bridgecrewio/checkov
     rev: 3.2.524

@@ -47,10 +47,38 @@ def post_comment(comment):
     print("✅ Comment successfully posted!")
 
 
+def get_contributing_guide():
+    try:
+        with open("CONTRIBUTING.md", "r", encoding="utf-8") as f:
+            return f.read()
+    except FileNotFoundError:
+        print("⚠️ CONTRIBUTING.md not found, falling back to built-in rules.")
+        return None
+
+
 def analyze_diff(diff_text):
     if "world_universities_and_domains.json" not in diff_text:
         print("⏭️ No changes detected in the university database. Skipping review.")
         return None
+
+    contributing_guide = get_contributing_guide()
+
+    if contributing_guide:
+        rules_section = f"""
+    The official contribution guidelines for this repository are:
+
+    ---
+    {contributing_guide}
+    ---
+    """
+    else:
+        rules_section = """
+    Evaluate against these rules:
+    1. **Existence**: Is it a real, recognized university?
+    2. **Schema**: Does it have `name`, `country`, `alpha_two_code`, `domains`, `web_pages`, `state-province`?
+    3. **ROOT DOMAINS ONLY (applies to `domains` field only)**: The `domains` array must contain only root domains — subdomains are forbidden (e.g., `usc.edu` is correct, `cs.usc.edu` is not). This rule does NOT apply to `web_pages`; `web_pages` may contain any valid URL including subdomains.
+    4. **Formatting**: Valid JSON format?
+    """
 
     prompt = f"""
     You are an expert maintainer for an open-source global university database.
@@ -59,13 +87,8 @@ def analyze_diff(diff_text):
     ```diff
     {diff_text}
     ```
-
-    Evaluate ONLY the newly added lines (starting with '+') against our STRICT rules:
-    1. **Existence**: Is it a real, recognized university?
-    2. **Schema**: Does it have `name`, `country`, `alpha_two_code`, `domains`, `web_pages`, `state-province`?
-    3. **ROOT DOMAINS ONLY**: Subdomains (like cs.usc.edu) are strictly forbidden.
-    4. **Formatting**: Valid JSON format?
-
+    {rules_section}
+    Evaluate ONLY the newly added lines (starting with '+').
     Format your output as a clear checklist. Conclude with either "✅ PASSED" or "❌ FLAGGED: [Reason]".
     """
 
