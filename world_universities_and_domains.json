@@ -65673,7 +65673,7 @@
   },
   {
     "web_pages": ["http://www.inonu.edu.tr/"],
-    "name": "İnönü University",
+    "name": "Inönü University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["inonu.edu.tr"],
@@ -65769,7 +65769,7 @@
   },
   {
     "web_pages": ["http://www.ksu.edu.tr/"],
-    "name": "Kahramanmaraş Sütçü İmam University",
+    "name": "Kahramanmaras Sutcu İmam University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ksu.edu.tr"],
@@ -65872,7 +65872,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.samsun.edu.tr/"],
+    "web_pages": ["https://www.samsun.edu.tr/"],
     "name": "Samsun University",
     "alpha_two_code": "TR",
     "state-province": "Samsun",
@@ -65880,7 +65880,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.odu.edu.tr/"],
+    "web_pages": ["https://www.odu.edu.tr/"],
     "name": "Ordu University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -65888,7 +65888,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.ozyegin.edu.tr/", "http://www.ozu.edu.tr/"],
+    "web_pages": ["https://www.ozyegin.edu.tr/", "https://www.ozu.edu.tr/"],
     "name": "Ozyegin University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -65896,15 +65896,15 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.pamukkale.edu.tr/"],
+    "web_pages": ["https://www.pau.edu.tr//"],
     "name": "Pamukkale University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["pamukkale.edu.tr"],
+    "domains": ["pau.edu.tr"],
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.sabanciuniv.edu.tr/", "http://www.sabanciuniv.edu/"],
+    "web_pages": ["https://www.sabanciuniv.edu/"],
     "name": "Sabanci University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -65912,7 +65912,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.sau.edu.tr/"],
+    "web_pages": ["https://sakarya.edu.tr//"],
     "name": "Sakarya University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -65928,7 +65928,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.sdu.edu.tr/"],
+    "web_pages": ["https://www.sdu.edu.tr/"],
     "name": "Suleyman Demirel University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -65936,15 +65936,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.sehir.edu.tr/"],
-    "name": "Istanbul Şehir University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["sehir.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
-    "web_pages": ["http://www.selcuk.edu.tr/"],
+    "web_pages": ["https://www.selcuk.edu.tr/"],
     "name": "Selcuk University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -66032,7 +66024,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.yyu.edu.tr/"],
+    "web_pages": ["https://www.yyu.edu.tr/"],
     "name": "Yüzüncü Yil (Centennial) University",
     "alpha_two_code": "TR",
     "state-province": "Van",
@@ -69800,7 +69792,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.karatekin.edu.tr/"],
+    "web_pages": ["https://www.karatekin.edu.tr/"],
     "name": "Cankiri Karatekin University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -69896,7 +69888,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.medeniyet.edu.tr/"],
+    "web_pages": ["https://www.medeniyet.edu.tr/"],
     "name": "Istanbul Medeniyet University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -69992,7 +69984,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.nevsehir.edu.tr/"],
+    "web_pages": ["https://www.nevsehir.edu.tr/"],
     "name": "Nevsehir Haci Bektas Veli University",
     "alpha_two_code": "TR",
     "state-province": null,
@@ -70120,7 +70112,7 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.gedik.edu.tr/"],
+    "web_pages": ["https://www.gedik.edu.tr/"],
     "name": "Istanbul Gedik University",
     "alpha_two_code": "TR",
     "state-province": null,
