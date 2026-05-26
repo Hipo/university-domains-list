@@ -1,5 +1,29 @@
 [
   {
+    "name": "Fundação Hermínio Ometto",
+    "domains": ["fho.edu.br"],
+    "web_pages": ["https://www.fho.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo"
+  },
+  {
+    "name": "Hellenic College of Noah",
+    "domains": ["noah.edu.gr"],
+    "web_pages": ["https://noah.edu.gr"],
+    "country": "Greece",
+    "alpha_two_code": "GR",
+    "state-province": "Macedonia"
+  },
+  {
+    "name": "Antonio Nariño University",
+    "domains": ["uan.edu.co"],
+    "web_pages": ["https://uan.edu.co"],
+    "country": "Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null
+  },
+  {
     "name": "Engineering Institute of Technology",
     "domains": ["student.eit.edu.au"],
     "web_pages": ["https://www.eit.edu.au/"],
@@ -10966,7 +10990,7 @@
   },
   {
     "web_pages": ["http://www.atlantida.edu.ar/"],
-    "name": "Universidad Atlantida Argentina",
+    "name": "Universidad Atlántida Argentina",
     "alpha_two_code": "AR",
     "state-province": "Buenos Aires",
     "domains": ["atlantida.edu.ar"],
@@ -10990,7 +11014,7 @@
   },
   {
     "web_pages": ["https://ucema.edu.ar/"],
-    "name": "Instituto Universitario CEMA",
+    "name": "Universidad del CEMA",
     "alpha_two_code": "AR",
     "state-province": "Ciudad Autónoma de Buenos Aires",
     "domains": ["ucema.edu.ar"],
@@ -11037,11 +11061,11 @@
     "country": "Argentina"
   },
   {
-    "web_pages": ["http://www.iuna.edu.ar/"],
-    "name": "Instituto Universitario Nacional del Arte",
+    "web_pages": ["http://www.una.edu.ar/"],
+    "name": "Universidad Nacional de las Artes",
     "alpha_two_code": "AR",
     "state-province": "Ciudad Autónoma de Buenos Aires",
-    "domains": ["iuna.edu.ar"],
+    "domains": ["una.edu.ar"],
     "country": "Argentina"
   },
   {
@@ -11176,7 +11200,7 @@
     "web_pages": ["http://www.ucel.edu.ar/"],
     "name": "Universidad del Centro Educativo Latinoamericano Rosario",
     "alpha_two_code": "AR",
-    "state-province": "Santa Fé",
+    "state-province": "Santa Fe",
     "domains": ["ucel.edu.ar"],
     "country": "Argentina"
   },
@@ -11230,9 +11254,9 @@
   },
   {
     "web_pages": ["http://www.ucsf.edu.ar/"],
-    "name": "Universidad Católica de Santa Fé",
+    "name": "Universidad Católica de Santa Fe",
     "alpha_two_code": "AR",
-    "state-province": "Santa Fé",
+    "state-province": "Santa Fe",
     "domains": ["ucsf.edu.ar"],
     "country": "Argentina"
   },
@@ -11262,7 +11286,7 @@
   },
   {
     "web_pages": ["http://www.udesa.edu.ar/"],
-    "name": "Universidad de San Andres",
+    "name": "Universidad de San Andrés",
     "alpha_two_code": "AR",
     "state-province": "Buenos Aires",
     "domains": ["udesa.edu.ar"],
@@ -11270,7 +11294,7 @@
   },
   {
     "web_pages": ["http://www.uesiglo21.edu.ar/"],
-    "name": "Universidad Empresarial Siglio 21",
+    "name": "Universidad Empresarial Siglo 21",
     "alpha_two_code": "AR",
     "state-province": "Córdoba",
     "domains": ["uesiglo21.edu.ar"],
@@ -11278,7 +11302,7 @@
   },
   {
     "web_pages": ["http://www.ufasta.edu.ar/"],
-    "name": "Universidad de la Fraternidad de Agrupaciones Santo Tomas de Aquino (FASTA)",
+    "name": "Universidad de la Fraternidad de Agrupaciones Santo Tomás de Aquino (FASTA)",
     "alpha_two_code": "AR",
     "state-province": null,
     "domains": ["ufasta.edu.ar"],
@@ -11414,7 +11438,7 @@
   },
   {
     "web_pages": ["http://www.universidad-policial.edu.ar/"],
-    "name": "Instituto Universitario de la Policia Federal",
+    "name": "Instituto Universitario de la Policía Federal",
     "alpha_two_code": "AR",
     "state-province": null,
     "domains": ["universidad-policial.edu.ar"],
@@ -11430,7 +11454,7 @@
   },
   {
     "web_pages": ["http://www.unla.edu.ar/"],
-    "name": "Universidad Nacional de Lanus",
+    "name": "Universidad Nacional de Lanús",
     "alpha_two_code": "AR",
     "state-province": "Buenos Aires",
     "domains": ["unla.edu.ar"],
@@ -11637,19 +11661,299 @@
     "country": "Argentina"
   },
   {
-    "web_pages": ["http://www.vaneduc.edu.ar/uai/"],
+    "web_pages": ["https://uai.edu.ar/"],
     "name": "Universidad Abierta Interamericana",
     "alpha_two_code": "AR",
     "state-province": "Ciudad Autónoma de Buenos Aires",
-    "domains": ["vaneduc.edu.ar"],
+    "domains": ["uai.edu.ar"],
     "country": "Argentina"
   },
   {
-    "web_pages": ["http://webs.satlink.com/usuarios/i/iiunvm/"],
+    "web_pages": ["https://www.unvm.edu.ar/"],
     "name": "Universidad Nacional de Villa María",
     "alpha_two_code": "AR",
     "state-province": null,
-    "domains": ["webs.satlink.com"],
+    "domains": ["unvm.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://www.undec.edu.ar/"],
+    "name": "Universidad Nacional de Chilecito",
+    "alpha_two_code": "AR",
+    "state-province": "La Rioja",
+    "domains": ["undec.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://iugna.edu.ar/"],
+    "name": "Instituto Universitario Gendarmería Nacional Argentina",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["iugna.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://iusm.edu.ar/"],
+    "name": "Instituto Universitario de Seguridad Marítima",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["iusm.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://www.unrn.edu.ar/"],
+    "name": "Universidad Nacional de Río Negro",
+    "alpha_two_code": "AR",
+    "state-province": "Río Negro",
+    "domains": ["unrn.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://uncaus.edu.ar/"],
+    "name": "Universidad Nacional del Chaco Austral",
+    "alpha_two_code": "AR",
+    "state-province": "Chaco",
+    "domains": ["uncaus.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://www.unm.edu.ar/"],
+    "name": "Universidad Nacional de Moreno",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unm.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://www.unvime.edu.ar/"],
+    "name": "Universidad Nacional de Villa Mercedes",
+    "alpha_two_code": "AR",
+    "state-province": "San Luis",
+    "domains": ["unvime.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://undav.edu.ar/"],
+    "name": "Universidad Nacional de Avellaneda",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["undav.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://uno.edu.ar/"],
+    "name": "Universidad Nacional del Oeste",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["uno.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://untdf.edu.ar/"],
+    "name": "Universidad Nacional del Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "alpha_two_code": "AR",
+    "state-province": "Tierra del Fuego",
+    "domains": ["untdf.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unaj.edu.ar/"],
+    "name": "Universidad Nacional Arturo Jauretche",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unaj.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unpaz.edu.ar/"],
+    "name": "Universidad Nacional de José Clemente Paz",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unpaz.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unlc.edu.ar/"],
+    "name": "Universidad Nacional de los Comechingones",
+    "alpha_two_code": "AR",
+    "state-province": "San Luis",
+    "domains": ["unlc.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://undef.edu.ar/"],
+    "name": "Universidad de la Defensa Nacional",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["undef.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unahur.edu.ar/"],
+    "name": "Universidad Nacional de Hurlingham",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unahur.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unraf.edu.ar/"],
+    "name": "Universidad Nacional de Rafaela",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": ["unraf.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unau.edu.ar/"],
+    "name": "Universidad Nacional del Alto Uruguay",
+    "alpha_two_code": "AR",
+    "state-province": "Misiones",
+    "domains": ["unau.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unab.edu.ar/"],
+    "name": "Universidad Nacional Guillermo Brown",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unab.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unipe.edu.ar/"],
+    "name": "Universidad Pedagógica Nacional",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["unipe.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unsada.edu.ar/"],
+    "name": "Universidad Nacional San Antonio de Areco",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unsada.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://undelta.edu.ar/"],
+    "name": "Universidad Nacional del Delta",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["undelta.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unpilar.edu.ar/"],
+    "name": "Universidad Nacional de Pilar",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["unpilar.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://web.upe.edu.ar/"],
+    "name": "Universidad Provincial de Ezeiza",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["upe.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://unrt.edu.ar/"],
+    "name": "Universidad Nacional de Río Tercero",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": ["unrt.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://cemic.edu.ar/"],
+    "name": "Instituto Universitario CEMIC",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": ["cemic.edu.ar", "iuc.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://ugd.edu.ar/"],
+    "name": "Universidad Gastón Dachary",
+    "alpha_two_code": "AR",
+    "state-province": "Misiones",
+    "domains": ["ugd.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://iunir.edu.ar/"],
+    "name": "Instituto Universitario Italiano de Rosario",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": ["iunir.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://favaloro.edu.ar/"],
+    "name": "Universidad Favaloro",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["favaloro.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://uean.edu.ar/"],
+    "name": "Universidad Escuela Argentina de Negocios",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["uean.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://ugr.edu.ar/"],
+    "name": "Universidad del Gran Rosario",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": ["ugr.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://isalud.edu.ar/"],
+    "name": "Universidad ISALUD",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["isalud.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://instituto.hospitalitaliano.edu.ar/"],
+    "name": "Universidad Hospital Italiano",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": ["hospitalitaliano.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://uspt.edu.ar/"],
+    "name": "Universidad de San Pablo - Tucumán",
+    "alpha_two_code": "AR",
+    "state-province": "Tucumán",
+    "domains": ["uspt.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://iucbc.edu.ar/"],
+    "name": "Instituto Universitario de Ciencias Biomédicas de Córdoba",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": ["iucbc.edu.ar"],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": ["https://eut.edu.ar/"],
+    "name": "Escuela Universitaria de Teología \"Fundación Cardenal Pironio\"",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": ["eut.edu.ar"],
     "country": "Argentina"
   },
   {
@@ -13869,14 +14173,6 @@
     "country": "Belgium"
   },
   {
-    "web_pages": ["http://www.howest.be/"],
-    "name": "Hogeschool West-Vlaanderen (TU)",
-    "alpha_two_code": "BE",
-    "state-province": null,
-    "domains": ["howest.be"],
-    "country": "Belgium"
-  },
-  {
     "web_pages": ["http://www.hzs.be/"],
     "name": "Hogere Zeevaartschool - Maritime Academy",
     "alpha_two_code": "BE",
@@ -14950,9 +15246,9 @@
   },
   {
     "web_pages": ["http://www.ucsal.br/"],
-    "name": "Universidade Católica de Salvador",
+    "name": "Universidade Católica do Salvador",
     "alpha_two_code": "BR",
-    "state-province": null,
+    "state-province": "Salvador",
     "domains": ["ucsal.br", "ucsal.edu.br"],
     "country": "Brazil"
   },
@@ -15794,14 +16090,6 @@
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": ["univali.rct-sc.br"],
-    "country": "Brazil"
-  },
-  {
-    "web_pages": ["http://www.univap.br/"],
-    "name": "Universidade Vale do Paraiba",
-    "alpha_two_code": "BR",
-    "state-province": null,
-    "domains": ["univap.br"],
     "country": "Brazil"
   },
   {
@@ -25853,11 +26141,11 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.esc-clermont.fr/"],
-    "name": "Ecole Supérieure de Commerce de Clermont-Ferrand",
+    "web_pages": ["http://www.clermont-sb.fr/"],
+    "name": "Clermont School of Business",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["esc-clermont.fr"],
+    "domains": ["clermont-sb.fr"],
     "country": "France"
   },
   {
@@ -32362,14 +32650,6 @@
   {
     "web_pages": ["http://www.kanpuruniversity.org/"],
     "name": "Chhatrapati Shahu Ji Maharaj University",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["kanpuruniversity.org"],
-    "country": "India"
-  },
-  {
-    "web_pages": ["http://www.kanpuruniversity.org/"],
-    "name": "Kanpur University",
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": ["kanpuruniversity.org"],
@@ -47044,10 +47324,18 @@
     "country": "Malaysia"
   },
   {
+    "web_pages": ["http://www.apu.edu.my/"],
+    "name": "Asia Pacific University of Technology & Innovation (APU)",
+    "alpha_two_code": "MY",
+    "state-province": "Kuala Lumpur",
+    "domains": ["apu.edu.my"],
+    "country": "Malaysia"
+  },
+  {
     "web_pages": ["http://www.apiit.edu.my/"],
     "name": "Asia Pacific Institute of Information Technology (APIIT)",
     "alpha_two_code": "MY",
-    "state-province": null,
+    "state-province": "Kuala Lumpur",
     "domains": ["apiit.edu.my"],
     "country": "Malaysia"
   },
@@ -48209,6 +48497,14 @@
     "alpha_two_code": "MT",
     "state-province": null,
     "domains": ["itismalta.com"],
+    "country": "Malta"
+  },
+  {
+    "web_pages": ["http://www.mcast.edu.mt/"],
+    "name": "Malta College of Arts, Science and Technology",
+    "alpha_two_code": "MT",
+    "state-province": null,
+    "domains": ["mcast.edu.mt"],
     "country": "Malta"
   },
   {
@@ -65164,11 +65460,11 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.boun.edu.tr/"],
+    "web_pages": ["https://www.bogazici.edu.tr/"],
     "name": "Boğaziçi University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["boun.edu.tr"],
+    "domains": ["bogazici.edu.tr"],
     "country": "Turkiye"
   },
   {
@@ -65213,7 +65509,7 @@
   },
   {
     "web_pages": ["http://www.deu.edu.tr/"],
-    "name": "Dokuz Eylul University",
+    "name": "Dokuz Eylül University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["deu.edu.tr"],
@@ -65373,7 +65669,7 @@
   },
   {
     "web_pages": ["http://www.inonu.edu.tr/"],
-    "name": "Inonu University",
+    "name": "İnönü University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["inonu.edu.tr"],
@@ -65428,14 +65724,6 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["https://w3.beun.edu.tr/", "https://en.beun.edu.tr/"],
-    "name": "Zonguldak Bulent Ecevit University",
-    "alpha_two_code": "TR",
-    "state-province": "Zonguldak",
-    "domains": ["beun.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
     "web_pages": ["http://www.khas.edu.tr/"],
     "name": "Kadir Has University",
     "alpha_two_code": "TR",
@@ -65477,7 +65765,7 @@
   },
   {
     "web_pages": ["http://www.ksu.edu.tr/"],
-    "name": "Kahramanmaras Sutcu Imam University",
+    "name": "Kahramanmaraş Sütçü İmam University",
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["ksu.edu.tr"],
@@ -65580,14 +65868,6 @@
     "country": "Turkiye"
   },
   {
-    "web_pages": ["http://www.omu.edu.tr/"],
-    "name": "Ondokuz Mayis University Samsun",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["omu.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
     "web_pages": ["http://www.samsun.edu.tr/"],
     "name": "Samsun University",
     "alpha_two_code": "TR",
@@ -65637,13 +65917,12 @@
   },
   {
     "web_pages": ["https://www.subu.edu.tr/"],
-    "name": "Sakarya Uygulamali Bilimler University",
+    "name": "Sakarya Uygulamalı Bilimler Üniversitesi",
     "alpha_two_code": "TR",
     "state-province": "Sakarya",
     "domains": ["subu.edu.tr"],
     "country": "Turkiye"
   },
- 
   {
     "web_pages": ["http://www.sdu.edu.tr/"],
     "name": "Suleyman Demirel University",
@@ -69665,7 +69944,7 @@
     "name": "Kirklareli University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["kirklareli.edu.tr", "ogr.klu.edu.tr"],
+    "domains": ["kirklareli.edu.tr"],
     "country": "Turkiye"
   },
   {
@@ -69833,7 +70112,7 @@
     "name": "Fatih Sultan Mehmet University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["fatihsultan.edu.tr", "stu.fsm.edu.tr"],
+    "domains": ["fatihsultan.edu.tr"],
     "country": "Turkiye"
   },
   {
@@ -69914,14 +70193,6 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["iszu.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
-    "web_pages": ["http://www.ieu.edu.tr/", "http://www.izmirekonomi.edu.tr/"],
-    "name": "Izmir University of Economics",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["ieu.edu.tr", "izmirekonomi.edu.tr"],
     "country": "Turkiye"
   },
   {
@@ -70010,22 +70281,6 @@
     "alpha_two_code": "TR",
     "state-province": null,
     "domains": ["toros.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
-    "web_pages": ["http://www.thk.edu.tr/"],
-    "name": "Turkish Aeronautical Association University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["thk.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
-    "web_pages": ["http://www.antalya.edu.tr/"],
-    "name": "Antalya International University",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["antalya.edu.tr"],
     "country": "Turkiye"
   },
   {
@@ -70329,7 +70584,7 @@
     "name": "Mesa Community College",
     "alpha_two_code": "US",
     "state-province": null,
-    "domains": ["mesacc.edu", "maricopa.edu"],
+    "domains": ["mesacc.edu"],
     "country": "United States"
   },
   {
@@ -71321,7 +71576,7 @@
     "name": "San Diego City College",
     "alpha_two_code": "US",
     "state-province": "California",
-    "domains": ["sdcity.edu", "student.sdccd.edu"],
+    "domains": ["sdcity.edu"],
     "country": "United States"
   },
   {
@@ -71329,7 +71584,7 @@
     "name": "San Diego Mesa College",
     "alpha_two_code": "US",
     "state-province": "California",
-    "domains": ["sdmesa.edu", "student.sdccd.edu"],
+    "domains": ["sdmesa.edu"],
     "country": "United States"
   },
   {
@@ -71337,7 +71592,7 @@
     "name": "San Diego Miramar College",
     "alpha_two_code": "US",
     "state-province": "California",
-    "domains": ["sdmiramar.edu", "student.sdccd.edu"],
+    "domains": ["sdmiramar.edu"],
     "country": "United States"
   },
   {
@@ -74733,11 +74988,11 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://WWW.SUNYBROOME.EDU"],
+    "web_pages": ["https://sunybroome.edu/"],
     "name": "SUNY Broome Community College",
     "alpha_two_code": "US",
-    "state-province": null,
-    "domains": ["www.sunybroome.edu"],
+    "state-province": "New York",
+    "domains": ["sunybroome.edu"],
     "country": "United States"
   },
   {
@@ -79409,7 +79664,7 @@
   },
   {
     "web_pages": ["https://ciqa.edu.mx"],
-    "name": "Centro de Investigaci\u00f3n en Qu\u00edmica Aplicada",
+    "name": "Centro de Investigación en Química Aplicada",
     "alpha_two_code": "MX",
     "state-province": null,
     "domains": ["ciqa.edu.mx"],
@@ -79417,7 +79672,7 @@
   },
   {
     "web_pages": ["https://www.college-de-france.fr"],
-    "name": "Coll\u00e8ge de France",
+    "name": "Collège de France",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["college-de-france.fr"],
@@ -79768,22 +80023,6 @@
     "country": "France"
   },
   {
-    "web_pages": ["https://www.insead.edu/"],
-    "name": "Institut privé d'enseignement supérieur",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["insead.edu"],
-    "country": "France"
-  },
-  {
-    "web_pages": ["https://thk.edu.tr/"],
-    "name": "Türk Hava Kurumu Üniversitesi",
-    "alpha_two_code": "TR",
-    "state-province": null,
-    "domains": ["thk.edu.tr"],
-    "country": "Turkiye"
-  },
-  {
     "web_pages": ["https://if-pan.krakow.pl/"],
     "name": "Maj Institute of Pharmacology Polish Academy of Sciences",
     "alpha_two_code": "PL",
@@ -79844,7 +80083,7 @@
     "name": "Munster Technological University",
     "alpha_two_code": "IE",
     "state-province": null,
-    "domains": ["mtu.ie"],
+    "domains": ["mtu.ie", "mymtu.ie"],
     "country": "Ireland"
   },
   {
@@ -79968,14 +80207,6 @@
     "country": "Colombia"
   },
   {
-    "web_pages": ["https://www.univ-jfc.fr/"],
-    "name": "INU Champollion",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["univ-jfc.fr"],
-    "country": "France"
-  },
-  {
     "web_pages": ["https://www.ifmparis.fr/"],
     "name": "Institute Français de la Mode",
     "alpha_two_code": "FR",
@@ -80062,14 +80293,6 @@
     "state-province": null,
     "domains": ["oglethorpe.edu"],
     "country": "United States"
-  },
-  {
-    "web_pages": ["https://cambriancollege.ca/"],
-    "name": "Cambrian College",
-    "alpha_two_code": "CA",
-    "state-province": null,
-    "domains": ["cambriancollege.ca"],
-    "country": "Canada"
   },
   {
     "web_pages": ["https://dsdt.edu/"],
@@ -80257,7 +80480,7 @@
   },
   {
     "web_pages": ["https://uagm.edu"],
-    "name": "Universidad Ana G. M\u00e9ndez",
+    "name": "Universidad Ana G. Méndez",
     "alpha_two_code": "PR",
     "state-province": null,
     "domains": ["email.uagm.edu"],
@@ -80678,14 +80901,6 @@
     "state-province": null,
     "domains": ["jefferson.edu"],
     "country": "United States"
-  },
-  {
-    "web_pages": ["https://www.inteli.edu.br/"],
-    "name": "Inteli",
-    "alpha_two_code": "BR",
-    "state-province": null,
-    "domains": ["inteli.edu.br"],
-    "country": "Brazil"
   },
   {
     "web_pages": ["https://www.bou.ac.bw/"],
@@ -81144,30 +81359,6 @@
     "country": "Uzbekistan"
   },
   {
-    "web_pages": ["https://escp.eu/"],
-    "name": "ESCP Business School",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["escp.eu"],
-    "country": "France"
-  },
-  {
-    "web_pages": ["https://escp.eu/madrid"],
-    "name": "ESCP Business School",
-    "alpha_two_code": "ES",
-    "state-province": null,
-    "domains": ["escp.eu"],
-    "country": "Spain"
-  },
-  {
-    "web_pages": ["https://escp.eu/london"],
-    "name": "ESCP Business School",
-    "alpha_two_code": "GB",
-    "state-province": null,
-    "domains": ["escp.eu"],
-    "country": "United Kingdom"
-  },
-  {
     "web_pages": ["https://www.stmarytx.edu/"],
     "name": "St. Mary's University",
     "alpha_two_code": "US",
@@ -81536,14 +81727,6 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["https://www.trinitycollegebristol.ac.uk/"],
-    "name": "Trinity College Bristol",
-    "alpha_two_code": "GB",
-    "state-province": "Bristol",
-    "domains": ["trinitycollegebristol.ac.uk"],
-    "country": "United Kingdom"
-  },
-  {
     "web_pages": ["https://cca.edu/"],
     "name": "California College of the Arts",
     "alpha_two_code": "US",
@@ -81670,5 +81853,77 @@
     "country": "Germany",
     "alpha_two_code": "DE",
     "state-province": "Baden-Württemberg"
+  },
+  {
+    "name": "Hanoi University",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": ["hanu.edu.vn", "hanu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://hanu.edu.vn/"]
+  },
+  {
+    "name": "Ton Duc Thang University",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["tdtu.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://tdtu.edu.vn/"]
+  },
+  {
+    "name": "University of Da Nang",
+    "alpha_two_code": "VN",
+    "state-province": "Da Nang",
+    "domains": ["udn.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://www.udn.vn/"]
+  },
+  {
+    "name": "Hanoi National University of Education",
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi",
+    "domains": ["hnue.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://hnue.edu.vn/"]
+  },
+  {
+    "name": "Hoa Sen University",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["hoasen.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://www.hoasen.edu.vn/"]
+  },
+  {
+    "name": "Van Lang University",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["vlu.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://www.vlu.edu.vn/"]
+  },
+  {
+    "name": "Nha Trang University",
+    "alpha_two_code": "VN",
+    "state-province": "Khanh Hoa",
+    "domains": ["ntu.edu.vn"],
+    "country": "Vietnam",
+    "web_pages": ["https://ntu.edu.vn/"]
+  },
+  {
+    "name": "Chitkara Univerity",
+    "domains": ["chitkara.edu.in", "chitkarauniversity.edu.in"],
+    "web_pages": ["https://www.chitkara.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Himachal Pradesh"
+  },
+  {
+    "name": "St. Joseph's College of Commerce",
+    "domains": ["sjcc.edu.in"],
+    "web_pages": ["https://sjcc.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Karnataka"
   }
 ]

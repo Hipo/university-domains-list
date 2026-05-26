@@ -1,14 +1,10 @@
-import json
 import unittest
 
 import validators
+from base_test import BaseUniversityTest
 
 
-class DomainsTests(unittest.TestCase):
-    def setUp(self):
-        """Load the JSON file into a variable"""
-        with open("world_universities_and_domains.json", encoding="utf-8") as json_file:
-            self.valid_json = json.load(json_file)
+class DomainsTests(BaseUniversityTest):
 
     def test_university_json_structure(self):
         """Test the structure of each university entry in the JSON file"""
@@ -93,5 +89,5 @@ class DomainsTests(unittest.TestCase):
 
 
 # Run tests locally
-# if __name__ == "__main__":
-#     unittest.main()
+if __name__ == "__main__":
+    unittest.main()
