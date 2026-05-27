@@ -47296,7 +47296,7 @@
     "country": "Malawi"
   },
   {
-    "web_pages": ["http://www.aeu.edu.my/"],
+    "web_pages": ["https://aeu.edu.my/"],
     "name": "Asia E University",
     "alpha_two_code": "MY",
     "state-province": null,
@@ -47324,15 +47324,7 @@
     "name": "Asia Pacific University of Technology & Innovation (APU)",
     "alpha_two_code": "MY",
     "state-province": "Kuala Lumpur",
-    "domains": ["apu.edu.my"],
-    "country": "Malaysia"
-  },
-  {
-    "web_pages": ["http://www.apiit.edu.my/"],
-    "name": "Asia Pacific University (APU)",
-    "alpha_two_code": "MY",
-    "state-province": "Kuala Lumpur",
-    "domains": ["apiit.edu.my"],
+    "domains": ["apu.edu.my", "apiit.edu.my"],
     "country": "Malaysia"
   },
   {
@@ -47368,7 +47360,7 @@
     "country": "Malaysia"
   },
   {
-    "web_pages": ["http://www.city.edu.my/"],
+    "web_pages": ["https://www.city.edu.my/"],
     "name": "City University Malaysia",
     "alpha_two_code": "MY",
     "state-province": null,
@@ -47400,7 +47392,7 @@
     "country": "Malaysia"
   },
   {
-    "web_pages": ["http://www.help.edu.my/"],
+    "web_pages": ["https://www.help.edu.my/"],
     "name": "HELP University",
     "alpha_two_code": "MY",
     "state-province": null,
@@ -47808,7 +47800,7 @@
     "country": "Malaysia"
   },
   {
-    "web_pages": ["http://www.unishams.edu.my/"],
+    "web_pages": ["https://www.unishams.edu.my/"],
     "name": "Universiti Islam Antarabangsa Sultan Abdul Halim Mu'adzam Shah",
     "alpha_two_code": "MY",
     "state-province": null,
@@ -48184,7 +48176,7 @@
     "country": "Malaysia"
   },
   {
-    "web_pages": ["http://www.tarc.edu.my/"],
+    "web_pages": ["https://www.tarc.edu.my/"],
     "name": "Tunku Abdul Rahman University of Management and Technology",
     "alpha_two_code": "MY",
     "state-province": null,
@@ -81840,14 +81832,6 @@
     "alpha_two_code": "MY",
     "state-province": null,
     "domains": ["xmu.edu.my"],
-    "country": "Malaysia"
-  },
-  {
-    "web_pages": ["https://www.hw.ac.uk/malaysia/"],
-    "name": "Heriot-Watt University Malaysia",
-    "alpha_two_code": "MY",
-    "state-province": null,
-    "domains": ["hw.ac.uk"],
     "country": "Malaysia"
   },
   {
