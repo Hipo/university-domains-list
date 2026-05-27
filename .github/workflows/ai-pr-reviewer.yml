@@ -1,0 +1,37 @@
+name: AIOps PR Reviewer
+
+on:
+  pull_request_target:
+    types: [opened, synchronize]
+    paths:
+      - 'world_universities_and_domains.json'
+
+permissions: {}
+
+jobs:
+  ai-review:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests google-genai
+
+      - name: Run AI Reviewer
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          python ./.github/workflows/ai-pr-reviewer.py
