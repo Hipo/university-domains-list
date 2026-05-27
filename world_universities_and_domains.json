@@ -81971,6 +81971,62 @@
     "state-province": "Himachal Pradesh"
   },
   {
+    "web_pages": ["https://www.b-tu.de/"],
+    "name": "Brandenburg University of Technology Cottbus - Senftenberg",
+    "alpha_two_code": "DE",
+    "state-province": "Brandenburg",
+    "domains": ["b-tu.de"],
+    "country": "Germany"
+  },
+  {
+    "web_pages": ["https://www.kpu.ca/"],
+    "name": "Kwantlen Polytechnic University",
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia",
+    "domains": ["kpu.ca"],
+    "country": "Canada"
+  },
+  {
+    "web_pages": ["https://sopocka.edu.pl/"],
+    "name": "Sopocka Academia",
+    "alpha_two_code": "PL",
+    "state-province": "Pomeranian",
+    "domains": ["sopocka.edu.pl"],
+    "country": "Poland"
+  },
+  {
+    "web_pages": ["https://spokane.edu/"],
+    "name": "Spokane Colleges",
+    "alpha_two_code": "US",
+    "state-province": "Washington",
+    "domains": ["spokane.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.tafensw.edu.au/"],
+    "name": "TAFE NSW",
+    "alpha_two_code": "AU",
+    "state-province": "New South Wales",
+    "domains": ["tafensw.edu.au", "studytafensw.edu.au"],
+    "country": "Australia"
+  },
+  {
+    "web_pages": ["https://www.uauim.ro/"],
+    "name": "Ion Mincu University of Architecture and Urban Planning",
+    "alpha_two_code": "RO",
+    "state-province": "Bucharest-Ilfov",
+    "domains": ["uauim.ro"],
+    "country": "Romania"
+  },
+  {
+    "web_pages": ["https://www.uia.no/"],
+    "name": "University of Agder",
+    "alpha_two_code": "NO",
+    "state-province": "Agder",
+    "domains": ["uia.no"],
+    "country": "Norway"
+  },
+  {
     "name": "St. Joseph's College of Commerce",
     "domains": ["sjcc.edu.in"],
     "web_pages": ["https://sjcc.edu.in/"],
