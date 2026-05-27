@@ -1,5 +1,5 @@
 [
-  {
+   {
     "name": "Fundação Hermínio Ometto",
     "domains": ["fho.edu.br"],
     "web_pages": ["https://www.fho.edu.br/"],
@@ -26141,8 +26141,8 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.clermont-sb.fr/"],
-    "name": "Clermont School of Business",
+   "web_pages": ["http://www.clermont-sb.fr/"],
+   "name": "Clermont School of Business",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["clermont-sb.fr"],
