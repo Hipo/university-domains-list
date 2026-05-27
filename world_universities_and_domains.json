@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "Fundação Hermínio Ometto",
     "domains": ["fho.edu.br"],
     "web_pages": ["https://www.fho.edu.br/"],
@@ -26141,8 +26141,8 @@
     "country": "France"
   },
   {
-   "web_pages": ["http://www.clermont-sb.fr/"],
-   "name": "Clermont School of Business",
+    "web_pages": ["http://www.clermont-sb.fr/"],
+    "name": "Clermont School of Business",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["clermont-sb.fr"],
@@ -81930,7 +81930,7 @@
     "web_pages": ["https://www.tafensw.edu.au/"],
     "name": "TAFE NSW",
     "alpha_two_code": "AU",
-    "state-province": null,
+    "state-province": "New South Wales",
     "domains": ["tafensw.edu.au", "studytafensw.edu.au"],
     "country": "Australia"
   },
@@ -81938,7 +81938,7 @@
     "web_pages": ["https://www.uauim.ro/"],
     "name": "Ion Mincu University of Architecture and Urban Planning",
     "alpha_two_code": "RO",
-    "state-province": "București - Ilfov",
+    "state-province": "Bucharest-Ilfov",
     "domains": ["uauim.ro"],
     "country": "Romania"
   },
