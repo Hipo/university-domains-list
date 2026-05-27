@@ -13233,12 +13233,12 @@
     "country": "Bangladesh"
   },
   {
-  "name": "Brac University",
-  "domains": ["bracu.ac.bd"],
-  "web_pages": ["https://www.bracu.ac.bd/"],
-  "country": "Bangladesh",
-  "alpha_two_code": "BD",
-  "state-province": null
+    "web_pages": ["https://www.bracu.ac.bd/"],
+    "name": "Brac University",
+    "alpha_two_code": "BD",
+    "state-province": "Dhaka",
+    "domains": ["bracu.ac.bd"],
+    "country": "Bangladesh"
   },
   {
     "web_pages": ["http://www.brur.ac.bd/"],
@@ -13569,12 +13569,12 @@
     "country": "Bangladesh"
   },
   {
-  "name": "Noakhali Science and Technology University",
-  "domains": ["nstu.edu.bd"],
-  "web_pages": ["https://nstu.edu.bd/"],
-  "country": "Bangladesh",
-  "alpha_two_code": "BD",
-  "state-province": null
+    "web_pages": ["https://nstu.edu.bd/"],
+    "name": "Noakhali Science and Technology University",
+    "alpha_two_code": "BD",
+    "state-province": "Chittagong",
+    "domains": ["nstu.edu.bd"],
+    "country": "Bangladesh"
   },
   {
     "web_pages": ["http://www.nub.ac.bd/"],
@@ -81921,70 +81921,69 @@
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Karnataka"
-  }
-  ,
+  },
   {
-    "name": "Gazipur Agricultural University",
-    "domains": ["gau.edu.bd"],
     "web_pages": ["https://gau.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Gazipur Agricultural University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Dhaka",
+    "domains": ["gau.edu.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Bangladesh Maritime University",
-    "domains": ["bmu.edu.bd"],
     "web_pages": ["https://bmu.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Bangladesh Maritime University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Chittagong",
+    "domains": ["bmu.edu.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Rangamati Science and Technology University",
-    "domains": ["rmstu.edu.bd"],
     "web_pages": ["https://rmstu.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Rangamati Science and Technology University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Chittagong",
+    "domains": ["rmstu.edu.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Kishoreganj University",
-    "domains": ["bsmru.ac.bd"],
     "web_pages": ["https://bsmru.ac.bd/"],
-    "country": "Bangladesh",
+    "name": "Bangabandhu Sheikh Mujibur Rahman University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Dhaka",
+    "domains": ["bsmru.ac.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Khulna Agricultural University",
-    "domains": ["kau.edu.bd"],
     "web_pages": ["https://kau.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Khulna Agricultural University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Khulna",
+    "domains": ["kau.edu.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Islamic Arabic University",
-    "domains": ["iau.edu.bd"],
     "web_pages": ["https://iau.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Islamic Arabic University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Dhaka",
+    "domains": ["iau.edu.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Chittagong Medical University",
-    "domains": ["cmu.edu.bd"],
     "web_pages": ["https://cmu.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Chittagong Medical University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Chittagong",
+    "domains": ["cmu.edu.bd"],
+    "country": "Bangladesh"
   },
   {
-    "name": "Netrokona University",
-    "domains": ["neu.edu.bd"],
     "web_pages": ["https://neu.edu.bd/"],
-    "country": "Bangladesh",
+    "name": "Netrokona University",
     "alpha_two_code": "BD",
-    "state-province": null
+    "state-province": "Mymensingh",
+    "domains": ["neu.edu.bd"],
+    "country": "Bangladesh"
   }
 ]
