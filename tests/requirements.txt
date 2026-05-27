@@ -1,1 +1,2 @@
 validators==0.20.0
+tldextract==5.3.1
