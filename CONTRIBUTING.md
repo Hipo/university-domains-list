@@ -13,7 +13,7 @@ All university data is stored in `world_universities_and_domains.json`. When add
   - `country`: Full country name in English, following [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) English short names (e.g., `"Germany"`, not `"Deutschland"`).
   - `alpha_two_code`: Standard ISO 3166-1 alpha-2 code (e.g., `"US"`, `"TR"`).
   - `domains`: An array of the university's primary registered domains — no department or service prefixes (see critical note below).
-  - `web_pages`: An array of URL strings (even if there is only one). May point to any valid URL including subdomains (e.g., `https://newsite.university.edu/`). Must begin with `https://` (preferred). Only use `http://` if the university's site does not support HTTPS. Must end with a trailing slash.
+  - `web_pages`: An array of URL strings (even if there is only one). Must be the **root URL** of the university's website — no path beyond `/` (e.g., `https://www.university.edu/`, not `https://www.university.edu/admissions/`). Subdomains are allowed (e.g., `https://newsite.university.edu/`). Must begin with `https://` (preferred). Only use `http://` if the university's site does not support HTTPS. Must end with a trailing slash.
   - `state-province`: State or province name in English. Use `null` if not applicable.
 - **Accuracy:** Ensure the domains and web pages are currently active.
 - **No Duplicates:** Check if the university already exists under a different name or variation.
@@ -61,7 +61,7 @@ Use the official English name. If no official English name exists, use a standar
 > - **Correct:** `usc.edu`, `itu.edu.tr`, `ox.ac.uk`
 > - **Incorrect:** `cs.usc.edu`, `ogr.itu.edu.tr`, `mail.ox.ac.uk`
 >
-> This restriction applies **only to `domains`**. The `web_pages` field may contain any valid URL, including subdomains.
+> This restriction applies **only to `domains`**. The `web_pages` field may include subdomains, but must still be a root URL (no path beyond `/`).
 >
 > Pull Requests containing department or service subdomains in `domains` will automatically fail the CI/CD checks.
 
