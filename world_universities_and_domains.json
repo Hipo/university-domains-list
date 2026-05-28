@@ -2028,7 +2028,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.brynmawr.edu/college/"],
+    "web_pages": ["http://www.brynmawr.edu/"],
     "name": "Bryn Mawr College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -9473,11 +9473,11 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.vcsu.nodak.edu/home.html/"],
+    "web_pages": ["https://www.vcsu.edu/"],
     "name": "Valley City State University",
     "alpha_two_code": "US",
     "state-province": null,
-    "domains": ["vcsu.nodak.edu"],
+    "domains": ["vcsu.edu"],
     "country": "United States"
   },
   {
@@ -12305,7 +12305,7 @@
     "country": "Australia"
   },
   {
-    "web_pages": ["http://www.nt.gov.au/batc/"],
+    "web_pages": ["http://www.nt.gov.au/"],
     "name": "Batchelor Institute of Indigenous Tertiary Education",
     "alpha_two_code": "AU",
     "state-province": "Northern Territory",
@@ -13217,7 +13217,7 @@
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["http://www.bgctrustbd.org/btub/"],
+    "web_pages": ["http://www.bgctrustbd.org/"],
     "name": "BGC Trust University, Bangladesh",
     "alpha_two_code": "BD",
     "state-province": null,
@@ -13961,7 +13961,7 @@
     "country": "Belarus"
   },
   {
-    "web_pages": ["https://mspu.by/index.php/"],
+    "web_pages": ["https://mspu.by/"],
     "name": "Mozyr State Pedagogical Institute",
     "alpha_two_code": "BY",
     "state-province": null,
@@ -14241,7 +14241,7 @@
     "country": "Belgium"
   },
   {
-    "web_pages": ["https://www.kuleuven.be/kuleuven/", "https://www.kuleuven.be/english/kuleuven/"],
+    "web_pages": ["https://www.kuleuven.be/"],
     "name": "Katholieke Universiteit Leuven",
     "alpha_two_code": "BE",
     "state-province": null,
@@ -15198,14 +15198,6 @@
     "alpha_two_code": "BR",
     "state-province": null,
     "domains": ["stcecilia.br"],
-    "country": "Brazil"
-  },
-  {
-    "web_pages": ["http://www.technet.com.br/vestibular/"],
-    "name": "Universidade Federal de Roraima",
-    "alpha_two_code": "BR",
-    "state-province": null,
-    "domains": ["technet.com.br"],
     "country": "Brazil"
   },
   {
@@ -16233,14 +16225,6 @@
     "country": "Brazil"
   },
   {
-    "web_pages": ["http://web.prover.com.br/fui/"],
-    "name": "Universidade de Itaúna",
-    "alpha_two_code": "BR",
-    "state-province": null,
-    "domains": ["web.prover.com.br"],
-    "country": "Brazil"
-  },
-  {
     "web_pages": ["http://www.itb.edu.bn/"],
     "name": "Institut Teknologi Brunei",
     "alpha_two_code": "BN",
@@ -16505,7 +16489,7 @@
     "country": "Bulgaria"
   },
   {
-    "web_pages": ["https://www.uni-ruse.bg/en/"],
+    "web_pages": ["https://www.uni-ruse.bg/"],
     "name": "\"Angel Kanchev\" University of Ruse",
     "alpha_two_code": "BG",
     "state-province": null,
@@ -16577,7 +16561,7 @@
     "country": "Myanmar"
   },
   {
-    "web_pages": ["http://www.most.gov.mm/mtu/"],
+    "web_pages": ["http://www.most.gov.mm/"],
     "name": "Mandalay Technological University",
     "alpha_two_code": "MM",
     "state-province": null,
@@ -17401,7 +17385,7 @@
     "country": "Canada"
   },
   {
-    "web_pages": ["http://www.op.org/canada/college.htm/"],
+    "web_pages": ["http://www.op.org/"],
     "name": "Dominican College of Philosophy and Theology",
     "alpha_two_code": "CA",
     "state-province": "Ontario",
@@ -17486,14 +17470,6 @@
     "alpha_two_code": "CA",
     "state-province": "Alberta",
     "domains": ["sait.ca"],
-    "country": "Canada"
-  },
-  {
-    "web_pages": ["http://www.saskweb.com/luthercollege/"],
-    "name": "Luther College",
-    "alpha_two_code": "CA",
-    "state-province": "Saskatchewan",
-    "domains": ["saskweb.com"],
     "country": "Canada"
   },
   {
@@ -21665,11 +21641,11 @@
     "country": "Colombia"
   },
   {
-    "web_pages": ["http://www.bundenet.com/umusical/"],
+    "web_pages": ["https://conservatoriodeltolima.edu.co/"],
     "name": "Conservatorio del Tolima",
     "alpha_two_code": "CO",
     "state-province": null,
-    "domains": ["bundenet.com"],
+    "domains": ["conservatoriodeltolima.edu.co"],
     "country": "Colombia"
   },
   {
@@ -22713,7 +22689,7 @@
     "country": "Costa Rica"
   },
   {
-    "web_pages": ["http://www.unem.edu/internacional/"],
+    "web_pages": ["http://www.unem.edu/"],
     "name": "Universidad Empresarial",
     "alpha_two_code": "CR",
     "state-province": null,
@@ -23681,7 +23657,7 @@
     "country": "Dominica"
   },
   {
-    "web_pages": ["http://www.rossu.edu/medical-school/"],
+    "web_pages": ["http://www.rossu.edu/"],
     "name": "Ross University Caribbean School of Medicine",
     "alpha_two_code": "DM",
     "state-province": null,
@@ -23689,7 +23665,7 @@
     "country": "Dominica"
   },
   {
-    "web_pages": ["http://www.icda.edu.do/espanol/unicda/"],
+    "web_pages": ["http://www.icda.edu.do/"],
     "name": "Universidad Dominico-Americana",
     "alpha_two_code": "DO",
     "state-province": null,
@@ -23985,8 +23961,8 @@
     "country": "Ecuador"
   },
   {
-    "web_pages": ["http://www.sek.edu/html/ecuador.html/"],
-    "name": "Universidad Internacional SEK, Quito",
+    "web_pages": ["http://www.sek.edu/"],
+    "name": "Universidad Internacional SEK",
     "alpha_two_code": "EC",
     "state-province": null,
     "domains": ["sek.edu"],
@@ -24593,11 +24569,11 @@
     "country": "El Salvador"
   },
   {
-    "web_pages": ["http://www.netcomsa.com/uls/"],
+    "web_pages": ["https://uls.edu.sv/"],
     "name": "Universidad Luterana Salvadorena",
     "alpha_two_code": "SV",
     "state-province": null,
-    "domains": ["netcomsa.com"],
+    "domains": ["uls.edu.sv"],
     "country": "El Salvador"
   },
   {
@@ -26441,7 +26417,7 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.ifp.fr/EC/EC000GP1.html/"],
+    "web_pages": ["http://www.ifp.fr/"],
     "name": "Ecole Nationale Supérieure du Pétrole et des Monteurs",
     "alpha_two_code": "FR",
     "state-province": null,
@@ -26513,11 +26489,11 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.iota.u-psud.fr/~ecole/"],
+    "web_pages": ["https://www.iso.fr/"],
     "name": "Ecole Supérieure d'Optique",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["iota.u-psud.fr"],
+    "domains": ["iso.fr"],
     "country": "France"
   },
   {
@@ -26924,14 +26900,6 @@
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["univ-evry.fr"],
-    "country": "France"
-  },
-  {
-    "web_pages": ["http://www.univ-inpt.fr/~ensct/"],
-    "name": "Ecole Nationale Supérieure de Chimie de Toulouse",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["univ-inpt.fr"],
     "country": "France"
   },
   {
@@ -27687,7 +27655,7 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.bethel.de/kiho/"],
+    "web_pages": ["http://www.bethel.de/"],
     "name": "Kirchliche Hochschule Bethel",
     "alpha_two_code": "DE",
     "state-province": null,
@@ -29100,7 +29068,7 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.paderborn.de/theofak/"],
+    "web_pages": ["http://www.paderborn.de/"],
     "name": "Theologische Fakultät Paderborn",
     "alpha_two_code": "DE",
     "state-province": null,
@@ -29220,7 +29188,7 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.rauheshaus.de/fachhochschule/"],
+    "web_pages": ["http://www.rauheshaus.de/"],
     "name": "Evangelische Fachhochschule für Sozialpädagogik der \"Diakonenanstalt des Rauhen Hauses\" Hamburg",
     "alpha_two_code": "DE",
     "state-province": null,
@@ -29252,7 +29220,7 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.selk.de/LThH/"],
+    "web_pages": ["http://www.selk.de/"],
     "name": "Lutherische Theologische Hochschule Oberursel",
     "alpha_two_code": "DE",
     "state-province": null,
@@ -29292,7 +29260,7 @@
     "country": "Germany"
   },
   {
-    "web_pages": ["http://www.stw.de/shb/"],
+    "web_pages": ["http://www.stw.de/"],
     "name": "Steinbeis-Hochschule-Berlin",
     "alpha_two_code": "DE",
     "state-province": null,
@@ -31532,11 +31500,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://bhub.ori.nic.in/ouat/"],
+    "web_pages": ["https://ouat.ac.in/"],
     "name": "Orissa University of Agriculture and Technology",
     "alpha_two_code": "IN",
     "state-province": "Odisha",
-    "domains": ["bhub.ori.nic.in"],
+    "domains": ["ouat.ac.in"],
     "country": "India"
   },
   {
@@ -31796,11 +31764,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://dbs.tn.nic.in/tnau/"],
+    "web_pages": ["https://tnau.ac.in/"],
     "name": "Tamil Nadu Agricultural University",
     "alpha_two_code": "IN",
     "state-province": "Tamil Nadu",
-    "domains": ["dbs.tn.nic.in"],
+    "domains": ["tnau.ac.in"],
     "country": "India"
   },
   {
@@ -32364,7 +32332,7 @@
     "country": "Pakistan"
   },
   {
-    "web_pages": ["https://www.mitindia.edu/en/"],
+    "web_pages": ["https://www.mitindia.edu/"],
     "name": "Madras Institute of Technology",
     "alpha_two_code": "IN",
     "state-province": "Tamil Nadu",
@@ -32868,11 +32836,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.manipur.nic.in/maniuniversity.htm/"],
+    "web_pages": ["https://www.manipuruniv.ac.in/"],
     "name": "Manipur University",
     "alpha_two_code": "IN",
     "state-province": "Manipur",
-    "domains": ["manipur.nic.in"],
+    "domains": ["manipuruniv.ac.in"],
     "country": "India"
   },
   {
@@ -33033,14 +33001,6 @@
     "alpha_two_code": "IN",
     "state-province": null,
     "domains": ["nalandaopenuniversity.info"],
-    "country": "India"
-  },
-  {
-    "web_pages": ["http://www.nationalmuseumindia.org/nmi/index.htm/"],
-    "name": "National Museum Institute of History of Art, Conservation and Museology",
-    "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["nationalmuseumindia.org"],
     "country": "India"
   },
   {
@@ -33796,7 +33756,7 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.srisathyasai.org.in/pages/instts/HighLearn.htm/"],
+    "web_pages": ["http://www.srisathyasai.org.in/"],
     "name": "Sri Sathya Sai Institute of Higher Learning",
     "alpha_two_code": "IN",
     "state-province": null,
@@ -33988,11 +33948,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.tnuniv.ac.in/adu/"],
+    "web_pages": ["https://avinuty.ac.in/"],
     "name": "Avinashilingam Institute for Home Science and Higher Education for Women",
     "alpha_two_code": "IN",
     "state-province": null,
-    "domains": ["tnuniv.ac.in"],
+    "domains": ["avinuty.ac.in"],
     "country": "India"
   },
   {
@@ -38552,7 +38512,7 @@
     "country": "Italy"
   },
   {
-    "web_pages": ["https://www.unimi.it/en/", "https://www.unimi.it/it/"],
+    "web_pages": ["https://www.unimi.it/"],
     "name": "University of Milan",
     "alpha_two_code": "IT",
     "state-province": "Lombardia",
@@ -40144,11 +40104,11 @@
     "country": "Japan"
   },
   {
-    "web_pages": ["http://www.juntan.k-junshin.ac.jp/jundai/"],
+    "web_pages": ["https://www.k-junshin.ac.jp/"],
     "name": "Kagoshima Immaculate Heart University",
     "alpha_two_code": "JP",
     "state-province": null,
-    "domains": ["juntan.k-junshin.ac.jp"],
+    "domains": ["k-junshin.ac.jp"],
     "country": "Japan"
   },
   {
@@ -42304,7 +42264,7 @@
     "country": "Japan"
   },
   {
-    "web_pages": ["http://www.shokei-gakuen.ac.jp/shokeicol/"],
+    "web_pages": ["http://www.shokei-gakuen.ac.jp/"],
     "name": "Shokei College",
     "alpha_two_code": "JP",
     "state-province": null,
@@ -42464,7 +42424,7 @@
     "country": "Japan"
   },
   {
-    "web_pages": ["http://www.sugino.ac.jp/daiindex.html/"],
+    "web_pages": ["http://www.sugino.ac.jp/"],
     "name": "Sugino Women's College",
     "alpha_two_code": "JP",
     "state-province": null,
@@ -42640,7 +42600,7 @@
     "country": "Japan"
   },
   {
-    "web_pages": ["http://www.termnet.co.jp/fujidai/"],
+    "web_pages": ["http://www.termnet.co.jp/"],
     "name": "Fuji University",
     "alpha_two_code": "JP",
     "state-province": null,
@@ -43232,7 +43192,7 @@
     "country": "Japan"
   },
   {
-    "web_pages": ["https://www.pref.shiga.lg.jp/nougicenter/"],
+    "web_pages": ["https://www.pref.shiga.lg.jp/"],
     "name": "Shiga Prefecture Agricultural Technology Promotion Center",
     "alpha_two_code": "JP",
     "state-province": "Shiga",
@@ -46512,11 +46472,11 @@
     "country": "Latvia"
   },
   {
-    "web_pages": ["http://www.lmuza.lv/academy/"],
+    "web_pages": ["https://www.jvlma.lv/"],
     "name": "Latvian Academy of Music",
     "alpha_two_code": "LV",
     "state-province": null,
-    "domains": ["lmuza.lv"],
+    "domains": ["jvlma.lv"],
     "country": "Latvia"
   },
   {
@@ -47016,11 +46976,11 @@
     "country": "Lithuania"
   },
   {
-    "web_pages": ["http://www.mch.mii.lt/more/vda/"],
+    "web_pages": ["https://www.vda.lt/"],
     "name": "Vilnius Academy of Arts",
     "alpha_two_code": "LT",
     "state-province": null,
-    "domains": ["mch.mii.lt"],
+    "domains": ["vda.lt"],
     "country": "Lithuania"
   },
   {
@@ -48448,11 +48408,11 @@
     "country": "Maldives"
   },
   {
-    "web_pages": ["http://www.mandhu.com/edu/"],
+    "web_pages": ["https://www.mandhucollege.edu.mv/"],
     "name": "Mandhu College",
     "alpha_two_code": "MV",
     "state-province": null,
-    "domains": ["mandhu.com"],
+    "domains": ["mandhu.edu.mv"],
     "country": "Maldives"
   },
   {
@@ -48464,11 +48424,11 @@
     "country": "Maldives"
   },
   {
-    "web_pages": ["http://www.ml.refer.org/u-bamako/"],
+    "web_pages": ["http://www.usttb.edu.ml/"],
     "name": "Université de Bamako",
     "alpha_two_code": "ML",
     "state-province": null,
-    "domains": ["ml.refer.org"],
+    "domains": ["usttb.edu.ml"],
     "country": "Mali"
   },
   {
@@ -48816,11 +48776,11 @@
     "country": "Mexico"
   },
   {
-    "web_pages": ["http://members.rotfl.com/uvp/"],
+    "web_pages": ["https://www.uvp.mx/"],
     "name": "Universidad del Valle de Puebla",
     "alpha_two_code": "MX",
     "state-province": null,
-    "domains": ["members.rotfl.com"],
+    "domains": ["uvp.mx"],
     "country": "Mexico"
   },
   {
@@ -49926,14 +49886,6 @@
     "state-province": null,
     "domains": ["utm.md"],
     "country": "Moldova, Republic of"
-  },
-  {
-    "web_pages": ["http://www.riviera.fr/usehome.htm/"],
-    "name": "University of Southern Europe (Monaco Business School)",
-    "alpha_two_code": "MC",
-    "state-province": null,
-    "domains": ["riviera.fr"],
-    "country": "Monaco"
   },
   {
     "web_pages": ["http://www.hsum-ac.mn/"],
@@ -52032,7 +51984,7 @@
     "country": "Norway"
   },
   {
-    "web_pages": ["http://www.khio.no/shks/"],
+    "web_pages": ["http://www.khio.no/"],
     "name": "National College of Art and Design",
     "alpha_two_code": "NO",
     "state-province": null,
@@ -52096,11 +52048,11 @@
     "country": "Norway"
   },
   {
-    "web_pages": ["http://ska.khio.no/main/"],
-    "name": "National Academy of Fine Arts",
+    "web_pages": ["https://khio.no/"],
+    "name": "Oslo National Academy of Fine Arts",
     "alpha_two_code": "NO",
     "state-province": null,
-    "domains": ["ska.khio.no"],
+    "domains": ["khio.no"],
     "country": "Norway"
   },
   {
@@ -55128,11 +55080,11 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www2.mozcom.com/~clsu/"],
+    "web_pages": ["https://clsu.edu.ph/"],
     "name": "Central Luzon State University",
     "alpha_two_code": "PH",
     "state-province": "Central Luzon",
-    "domains": ["www2.mozcom.com"],
+    "domains": ["clsu.edu.ph"],
     "country": "Philippines"
   },
   {
@@ -55752,11 +55704,11 @@
     "country": "Poland"
   },
   {
-    "web_pages": ["http://www.qdnet.pl/ChAT/"],
+    "web_pages": ["https://chat.edu.pl/"],
     "name": "Christian Theological Academy in Warszaw",
     "alpha_two_code": "PL",
     "state-province": null,
-    "domains": ["qdnet.pl"],
+    "domains": ["chat.edu.pl"],
     "country": "Poland"
   },
   {
@@ -56464,15 +56416,7 @@
     "country": "Portugal"
   },
   {
-    "web_pages": ["http://www.oml.pt/anso/"],
-    "name": "Academia Nacional Superior de Orquesta",
-    "alpha_two_code": "PT",
-    "state-province": null,
-    "domains": ["oml.pt"],
-    "country": "Portugal"
-  },
-  {
-    "web_pages": ["http://www.pedago.pt/isce.htm/"],
+    "web_pages": ["http://www.pedago.pt/"],
     "name": "Instituto Superior de Ciências Educativas",
     "alpha_two_code": "PT",
     "state-province": null,
@@ -56672,7 +56616,7 @@
     "country": "Portugal"
   },
   {
-    "web_pages": ["https://www.novasbe.unl.pt/en/"],
+    "web_pages": ["https://www.novasbe.unl.pt/"],
     "name": "Nova School of Business and Economics",
     "alpha_two_code": "PT",
     "state-province": null,
@@ -57512,11 +57456,11 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://www.avtlg.ru/~vlgmed/"],
-    "name": "Volgograd Medical Academy",
+    "web_pages": ["https://volgogradstatemedicaluniversity.in/"],
+    "name": "Volgograd State Medical University",
     "alpha_two_code": "RU",
     "state-province": null,
-    "domains": ["avtlg.ru"],
+    "domains": ["volgogradstatemedicaluniversity.in"],
     "country": "Russian Federation"
   },
   {
@@ -57528,8 +57472,8 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://www.bigpi.biysk.ru/wwwsite/"],
-    "name": "Biysk State Padagogical University after V.M. Shukshin",
+    "web_pages": ["http://www.bigpi.biysk.ru/"],
+    "name": "Shukshin Altai State University for Humanities and Pedagogy",
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": ["bigpi.biysk.ru"],
@@ -57592,7 +57536,7 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["https://mosgu.ru/en/"],
+    "web_pages": ["https://mosgu.ru/"],
     "name": "Moscow External University of the Humanities",
     "alpha_two_code": "RU",
     "state-province": null,
@@ -57688,7 +57632,7 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://education.ivanovo.ru:8101/IGTA/"],
+    "web_pages": ["http://education.ivanovo.ru/"],
     "name": "Ivanovo State Textile Academy",
     "alpha_two_code": "RU",
     "state-province": null,
@@ -57749,14 +57693,6 @@
     "alpha_two_code": "RU",
     "state-province": null,
     "domains": ["festu.ru"],
-    "country": "Russian Federation"
-  },
-  {
-    "web_pages": ["http://filine.centro.ru/Gorky/"],
-    "name": "Maxim Gorky Institute of Literature",
-    "alpha_two_code": "RU",
-    "state-province": null,
-    "domains": ["filine.centro.ru"],
     "country": "Russian Federation"
   },
   {
@@ -58080,11 +58016,11 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://www.karelia.ru/psu/"],
+    "web_pages": ["https://petrsu.ru/"],
     "name": "Petrozavodsk State University",
     "alpha_two_code": "RU",
     "state-province": null,
-    "domains": ["karelia.ru"],
+    "domains": ["petrsu.ru"],
     "country": "Russian Federation"
   },
   {
@@ -58152,11 +58088,11 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://www.kirovballet.com/vaganova.html/"],
+    "web_pages": ["https://vaganovaacademy.ru/"],
     "name": "Vaganova Academy of Russian Ballet",
     "alpha_two_code": "RU",
     "state-province": null,
-    "domains": ["kirovballet.com"],
+    "domains": ["vaganovaacademy.ru"],
     "country": "Russian Federation"
   },
   {
@@ -59592,7 +59528,7 @@
     "country": "Russian Federation"
   },
   {
-    "web_pages": ["http://www.urc.ac.ru/Universities/AGRO/"],
+    "web_pages": ["http://www.urc.ac.ru/"],
     "name": "Cheljabinsk University of Agricultural Engineering",
     "alpha_two_code": "RU",
     "state-province": null,
@@ -60448,11 +60384,11 @@
     "country": "Saudi Arabia"
   },
   {
-    "web_pages": ["http://www.tnmeyah.net/jct/"],
+    "web_pages": ["https://www.jazanu.edu.sa/"],
     "name": "College of Technology at Jazan",
     "alpha_two_code": "SA",
     "state-province": "Jazan",
-    "domains": ["tnmeyah.net"],
+    "domains": ["jazanu.edu.sa"],
     "country": "Saudi Arabia"
   },
   {
@@ -64464,14 +64400,6 @@
     "country": "Tanzania, United Republic of"
   },
   {
-    "web_pages": ["http://www.imtu.edu/index.htm/"],
-    "name": "International Medical & Technological University",
-    "alpha_two_code": "TZ",
-    "state-province": null,
-    "domains": ["imtu.edu"],
-    "country": "Tanzania, United Republic of"
-  },
-  {
     "web_pages": ["http://www.kcmc.ac.tz/"],
     "name": "Kilimanjaro Christian Medical College",
     "alpha_two_code": "TZ",
@@ -64544,11 +64472,11 @@
     "country": "Tanzania, United Republic of"
   },
   {
-    "web_pages": ["http://www.stjosephtanzania.com/sjcet/index.html/"],
+    "web_pages": ["https://stjosephsgroup.org/"],
     "name": "St. Joseph Group of Institutes",
     "alpha_two_code": "TZ",
     "state-province": null,
-    "domains": ["stjosephtanzania.com"],
+    "domains": ["stjosephsgroup.org"],
     "country": "Tanzania, United Republic of"
   },
   {
@@ -66480,7 +66408,7 @@
     "country": "Ukraine"
   },
   {
-    "web_pages": ["https://www.lsmu.edu.ua/en/"],
+    "web_pages": ["https://www.lsmu.edu.ua/"],
     "name": "Luhansk State Medical University",
     "alpha_two_code": "UA",
     "state-province": null,
@@ -67248,11 +67176,11 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["http://www.brijnet.org/lsjs/"],
+    "web_pages": ["https://www.lsjs.ac.uk/"],
     "name": "London School of Jewish Studies",
     "alpha_two_code": "GB",
     "state-province": null,
-    "domains": ["brijnet.org"],
+    "domains": ["lsjs.ac.uk"],
     "country": "United Kingdom"
   },
   {
@@ -68408,7 +68336,7 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["https://www.stmarys.ac.uk/home.aspx/"],
+    "web_pages": ["https://www.stmarys.ac.uk/"],
     "name": "St Mary's University",
     "alpha_two_code": "GB",
     "state-province": null,
@@ -68680,11 +68608,11 @@
     "country": "Uzbekistan"
   },
   {
-    "web_pages": ["http://www.luz.ve/index2.html/"],
+    "web_pages": ["https://wde.secretarialuz.org/"],
     "name": "Universidad del Zulia",
     "alpha_two_code": "VE",
     "state-province": null,
-    "domains": ["luz.ve"],
+    "domains": ["secretarialuz.org"],
     "country": "Venezuela, Bolivarian Republic of"
   },
   {
@@ -70864,7 +70792,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.berkeleycitycollege.edu/wp/"],
+    "web_pages": ["http://www.berkeleycitycollege.edu/"],
     "name": "Berkeley City College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -71112,7 +71040,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.elac.edu/index.htm/"],
+    "web_pages": ["http://www.elac.edu/"],
     "name": "East Los Angeles College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -71240,7 +71168,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.laney.edu/wp/"],
+    "web_pages": ["http://www.laney.edu/"],
     "name": "Laney College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -71280,11 +71208,11 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://ladhs.org/wps/portal/CollegeofNursing/"],
+    "web_pages": ["https://dhs.lacounty.gov/"],
     "name": "Los Angeles County College of Nursing and Allied Health",
     "alpha_two_code": "US",
     "state-province": null,
-    "domains": ["ladhs.org"],
+    "domains": ["lacounty.org"],
     "country": "United States"
   },
   {
@@ -71400,7 +71328,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.moorparkcollege.edu/index.shtml/"],
+    "web_pages": ["http://www.moorparkcollege.edu/"],
     "name": "Moorpark College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -71520,7 +71448,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.rcc.edu/riverside/"],
+    "web_pages": ["http://www.rcc.edu/"],
     "name": "Riverside City College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -71632,7 +71560,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.sccollege.edu/Pages/default.aspx/"],
+    "web_pages": ["http://www.sccollege.edu/"],
     "name": "Santiago Canyon College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -72248,7 +72176,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://kapiolani.hawaii.edu/page/home/"],
+    "web_pages": ["http://kapiolani.hawaii.edu/"],
     "name": "Kapiolani Community College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -72469,14 +72397,6 @@
     "alpha_two_code": "US",
     "state-province": null,
     "domains": ["lakeland.cc.il.us"],
-    "country": "United States"
-  },
-  {
-    "web_pages": ["http://www.chefs.edu/chicago/"],
-    "name": "Le Cordon Bleu College of Culinary Arts-Chicago",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": ["chefs.edu"],
     "country": "United States"
   },
   {
@@ -72720,7 +72640,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.iavalley.edu/mcc/index.html/"],
+    "web_pages": ["http://www.iavalley.edu/"],
     "name": "Marshalltown Community College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -73000,7 +72920,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.galencollege.edu/louisville/"],
+    "web_pages": ["http://www.galencollege.edu/"],
     "name": "Galen College of Nursing-Louisville",
     "alpha_two_code": "US",
     "state-province": null,
@@ -73488,11 +73408,11 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.glenoaks.cc.mi.us/Pages/default.aspx/"],
+    "web_pages": ["https://www.glenoaks.edu/"],
     "name": "Glen Oaks Community College",
     "alpha_two_code": "US",
     "state-province": null,
-    "domains": ["glenoaks.cc.mi.us"],
+    "domains": ["glenoaks.edu"],
     "country": "United States"
   },
   {
@@ -73872,7 +73792,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.ridgewater.edu/Pages/default.aspx/"],
+    "web_pages": ["http://www.ridgewater.edu/"],
     "name": "Ridgewater College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -73992,7 +73912,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.iccms.edu/Default.aspx?tabid=55/"],
+    "web_pages": ["https://www.iccms.edu/"],
     "name": "Itawamba Community College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -76664,14 +76584,6 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.northlakecollege.edu/Pages/default.aspx/"],
-    "name": "North Lake College",
-    "alpha_two_code": "US",
-    "state-province": null,
-    "domains": ["northlakecollege.edu"],
-    "country": "United States"
-  },
-  {
     "web_pages": ["http://www.odessa.edu/"],
     "name": "Odessa College",
     "alpha_two_code": "US",
@@ -76680,7 +76592,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.alamo.edu/pac/"],
+    "web_pages": ["http://www.alamo.edu/"],
     "name": "Alamo Colleges District",
     "alpha_two_code": "US",
     "state-province": null,
@@ -78056,18 +77968,11 @@
     "country": "United States"
   },
   {
-    "web_pages": [
-      "https://www.infnet.edu.br/infnet/",
-      "https://ecdd.infnet.edu.br/",
-      "https://www.infnet.edu.br/esti/",
-      "https://negocios.infnet.edu.br/",
-      "https://bootcamp.infnet.edu.br/",
-      "https://training.infnet.edu.br/"
-    ],
+    "web_pages": ["https://www.infnet.edu.br/", "https://ecdd.infnet.edu.br/"],
     "name": "Instituto Infnet",
     "alpha_two_code": "BR",
     "state-province": "Rio de Janeiro",
-    "domains": ["infnet.edu.br", "al.infnet.edu.br", "prof.infnet.edu.br"],
+    "domains": ["infnet.edu.br"],
     "country": "Brazil"
   },
   {
@@ -78219,7 +78124,7 @@
     "country": "India"
   },
   {
-    "web_pages": ["https://www.sciencespo-rennes.fr/en/"],
+    "web_pages": ["https://www.sciencespo-rennes.fr/"],
     "name": "Institut d'études politiques de Rennes",
     "alpha_two_code": "FR",
     "state-province": null,
@@ -78715,7 +78620,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["https://www.esade.edu/en/about-us/law-school/"],
+    "web_pages": ["https://www.esade.edu/"],
     "name": "ESADE Business & Law School",
     "alpha_two_code": "ES",
     "state-province": null,
@@ -78731,7 +78636,7 @@
     "country": "Spain"
   },
   {
-    "web_pages": ["https://uclouvain.be/en/faculties/lsm/"],
+    "web_pages": ["https://uclouvain.be/"],
     "name": "Louvain School of Management",
     "alpha_two_code": "BE",
     "state-province": null,
@@ -78739,7 +78644,7 @@
     "country": "Belgium"
   },
   {
-    "web_pages": ["https://exed.solvay.edu/fr/"],
+    "web_pages": ["https://exed.solvay.edu/"],
     "name": "Solvay Brussels School Economics & Management",
     "alpha_two_code": "BE",
     "state-province": null,
@@ -78747,7 +78652,7 @@
     "country": "Belgium"
   },
   {
-    "web_pages": ["https://www.hult.edu/campuses/london/postgraduate/"],
+    "web_pages": ["https://www.hult.edu/"],
     "name": "HULT Business School",
     "alpha_two_code": "GB",
     "state-province": null,
@@ -78755,7 +78660,7 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["https://www.vlerick.com/en/about-vlerick/our-campuses/brussels-campus/"],
+    "web_pages": ["https://www.vlerick.com/"],
     "name": "Vlerick Brussels Campus",
     "alpha_two_code": "BE",
     "state-province": null,
@@ -78907,7 +78812,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["https://www.gadsdenstate.edu/index.cms/"],
+    "web_pages": ["https://www.gadsdenstate.edu/"],
     "name": "Gasden State Community College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -79067,7 +78972,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["https://www.paine.edu/web/mycampus/home/"],
+    "web_pages": ["https://www.paine.edu/"],
     "name": "Paine College",
     "alpha_two_code": "US",
     "state-province": null,
@@ -79771,7 +79676,7 @@
     "country": "India"
   },
   {
-    "web_pages": ["https://jeppiaarcollege.org/jeppiaar/"],
+    "web_pages": ["https://jeppiaarcollege.org/"],
     "name": "Jeppiar Engineering College",
     "alpha_two_code": "IN",
     "state-province": "Tamil Nadu",
@@ -79899,7 +79804,7 @@
     "country": "India"
   },
   {
-    "web_pages": ["https://alphagroup.edu/engineering/"],
+    "web_pages": ["https://alphagroup.edu/"],
     "name": "Alpha College of Engineering",
     "alpha_two_code": "IN",
     "state-province": "Tamil Nadu",
@@ -80595,7 +80500,7 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.univ-paris-diderot.fr/english/"],
+    "web_pages": ["http://www.univ-paris-diderot.fr/"],
     "name": "Université Diderot Paris 7",
     "alpha_two_code": "FR",
     "state-province": null,
@@ -81571,7 +81476,7 @@
     "country": "United Kingdom"
   },
   {
-    "web_pages": ["https://www.univap.br/univap/"],
+    "web_pages": ["https://www.univap.br/"],
     "name": "Universidade do Vale do Paraíba – Univap",
     "alpha_two_code": "BR",
     "state-province": "São José dos Campos",
@@ -81715,7 +81620,7 @@
     "country": "United States"
   },
   {
-    "web_pages": ["https://www.kuleuven.be/kuleuven/"],
+    "web_pages": ["https://www.kuleuven.be/"],
     "name": "KU Leuven",
     "alpha_two_code": "BE",
     "state-province": "Leuven",
