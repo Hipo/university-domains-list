@@ -33,16 +33,19 @@ npm install -g jsonlint
 ### 1. Python Code Formatting (Black)
 
 Check if Python files need formatting:
+
 ```bash
 black --check .
 ```
 
-Auto-format Python files:
+Autoformat Python files:
+
 ```bash
 black .
 ```
 
 Check specific files:
+
 ```bash
 black --check tests/test_trimming.py filter.py
 ```
@@ -50,11 +53,13 @@ black --check tests/test_trimming.py filter.py
 ### 2. Python Import Sorting (isort)
 
 Check import sorting:
+
 ```bash
 isort --check-only .
 ```
 
-Auto-fix import sorting:
+Autofix import sorting:
+
 ```bash
 isort .
 ```
@@ -62,6 +67,7 @@ isort .
 ### 3. JSON Validation
 
 Validate JSON files:
+
 ```bash
 jsonlint world_universities_and_domains.json
 ```
@@ -69,6 +75,7 @@ jsonlint world_universities_and_domains.json
 ## GitHub Actions Compatibility
 
 The local commands above mirror exactly what GitHub Actions runs:
+
 - `black --check .` (same as GitHub Actions)
-- `isort --check-only .` (same as GitHub Actions)  
+- `isort --check-only .` (same as GitHub Actions)
 - `jsonlint world_universities_and_domains.json` (same as GitHub Actions)
