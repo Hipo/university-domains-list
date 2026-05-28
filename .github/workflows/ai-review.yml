@@ -30,7 +30,7 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
 
       - name: Read PR number
-        run: echo "PR_NUMBER=$(cat pr_number.txt)" >> $GITHUB_ENV
+        run: echo "PR_NUMBER=$(cat pr_number.txt)" >> "$GITHUB_ENV"
 
       - name: Check if target file changed
         id: file-check
@@ -39,7 +39,7 @@ jobs:
         run: |
           CHANGED=$(gh api repos/${{ github.repository }}/pulls/$PR_NUMBER/files \
             --jq '[.[] | select(.filename == "world_universities_and_domains.json")] | length')
-          echo "changed=$([ "$CHANGED" -gt 0 ] && echo 'true' || echo 'false')" >> $GITHUB_OUTPUT
+          echo "changed=$([ "$CHANGED" -gt 0 ] && echo 'true' || echo 'false')" >> "$GITHUB_OUTPUT"
 
       - name: Set up Python
         if: steps.file-check.outputs.changed == 'true'
