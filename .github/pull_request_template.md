@@ -9,6 +9,7 @@ This PR proposes changes/additions to the university database.
 - [ ] **Data Accuracy:** Have you verified the official site and domain?
 - [ ] **No Duplicates:** Have you searched the file to ensure this entry doesn't already exist?
 - [ ] **Root Domain Only:** Does the `domains` array contain ONLY root domains? (e.g., `usc.edu` is correct, `cs.usc.edu` or `mail.usc.edu` is WRONG).
+- [ ] **Root URL Only:** Does every `web_pages` entry point to a root URL? (e.g., `https://www.university.edu/` is correct, `https://www.university.edu/admissions/` is WRONG).
 
 ## Technical Checks
 

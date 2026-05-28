@@ -1,4 +1,5 @@
 import unittest
+from urllib.parse import urlparse
 
 from base_test import BaseUniversityTest
 
@@ -49,6 +50,26 @@ class FormatTests(BaseUniversityTest):
             error_message = (
                 f"Found {len(errors)} URLs missing trailing slash:\n"
                 + "\n".join(errors[:10])
+            )
+            if len(errors) > 10:
+                error_message += f"\n... and {len(errors) - 10} more errors"
+            self.fail(error_message)
+
+    def test_web_pages_root_url(self):
+        """Test that all web_pages URLs are root URLs (no path beyond /)"""
+        errors = []
+        for i, university in enumerate(self.valid_json):
+            for j, web_page in enumerate(university.get("web_pages") or []):
+                if not isinstance(web_page, str):
+                    continue
+                path = urlparse(web_page).path
+                if path not in ("", "/"):
+                    errors.append(
+                        f"Entry {i} ({university['name']}): web_pages[{j}] must be a root URL: '{web_page}'"
+                    )
+        if errors:
+            error_message = f"Found {len(errors)} non-root URLs:\n" + "\n".join(
+                errors[:10]
             )
             if len(errors) > 10:
                 error_message += f"\n... and {len(errors) - 10} more errors"
