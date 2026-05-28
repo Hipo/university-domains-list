@@ -81939,11 +81939,11 @@
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["https://rmstu.edu.bd/"],
+    "web_pages": ["https://rmstu.portal.gov.bd/"],
     "name": "Rangamati Science and Technology University",
     "alpha_two_code": "BD",
     "state-province": "Chittagong",
-    "domains": ["rmstu.edu.bd"],
+    "domains": ["rmstu.portal.gov.bd"],
     "country": "Bangladesh"
   },
   {
@@ -81955,15 +81955,15 @@
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["https://kau.edu.bd/"],
+    "web_pages": ["https://kau.ac.bd/"],
     "name": "Khulna Agricultural University",
     "alpha_two_code": "BD",
     "state-province": "Khulna",
-    "domains": ["kau.edu.bd"],
+    "domains": ["kau.ac.bd"],
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["https://iau.edu.bd/"],
+    "web_pages": ["http://iau.edu.bd/"],
     "name": "Islamic Arabic University",
     "alpha_two_code": "BD",
     "state-province": "Dhaka",
@@ -81979,11 +81979,11 @@
     "country": "Bangladesh"
   },
   {
-    "web_pages": ["https://neu.edu.bd/"],
+    "web_pages": ["https://neu.ac.bd//"],
     "name": "Netrokona University",
     "alpha_two_code": "BD",
     "state-province": "Mymensingh",
-    "domains": ["neu.edu.bd"],
+    "domains": ["neu.ac.bd"],
     "country": "Bangladesh"
   }
 ]
