@@ -1,0 +1,59 @@
+name: AIOps PR Reviewer
+
+on:
+  workflow_run:
+    workflows: ['Lint & Test']
+    types: [completed]
+
+permissions: {}
+
+jobs:
+  ai-review:
+    if: >
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+      actions: read
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Download PR number artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-number
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Read PR number
+        run: echo "PR_NUMBER=$(cat pr_number.txt)" >> $GITHUB_ENV
+
+      - name: Check if target file changed
+        id: file-check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CHANGED=$(gh api repos/${{ github.repository }}/pulls/$PR_NUMBER/files \
+            --jq '[.[] | select(.filename == "world_universities_and_domains.json")] | length')
+          echo "changed=$([ "$CHANGED" -gt 0 ] && echo 'true' || echo 'false')" >> $GITHUB_OUTPUT
+
+      - name: Set up Python
+        if: steps.file-check.outputs.changed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        if: steps.file-check.outputs.changed == 'true'
+        run: pip install requests google-genai
+
+      - name: Run AI Reviewer
+        if: steps.file-check.outputs.changed == 'true'
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python ./.github/workflows/ai-pr-review.py
