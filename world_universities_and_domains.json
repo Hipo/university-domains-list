@@ -50387,7 +50387,7 @@
     "web_pages": ["http://www.afu.edu.np/"],
     "name": "Agriculture and Forestry University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Bagmati",
     "domains": ["afu.edu.np"],
     "country": "Nepal"
   },
@@ -50395,7 +50395,7 @@
     "web_pages": ["http://www.bpkihs.edu/"],
     "name": "B.P.Koirala Institute of Health Sciences",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Koshi",
     "domains": ["bpkihs.edu"],
     "country": "Nepal"
   },
@@ -50403,7 +50403,7 @@
     "web_pages": ["http://www.ku.edu.np/"],
     "name": "Kathmandu University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Bagmati",
     "domains": ["ku.edu.np"],
     "country": "Nepal"
   },
@@ -50411,7 +50411,7 @@
     "web_pages": ["http://www.lbu.edu.np/"],
     "name": "Lumbini Buddhist University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Lumbini",
     "domains": ["lbu.edu.np"],
     "country": "Nepal"
   },
@@ -50419,7 +50419,7 @@
     "web_pages": ["http://www.nsu.edu.np/"],
     "name": "Nepal Sanskrit University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Lumbini",
     "domains": ["nsu.edu.np"],
     "country": "Nepal"
   },
@@ -50427,7 +50427,7 @@
     "web_pages": ["http://www.pu.edu.np/"],
     "name": "Pokhara University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Gandaki",
     "domains": ["pu.edu.np"],
     "country": "Nepal"
   },
@@ -50435,7 +50435,7 @@
     "web_pages": ["http://www.purbuniv.edu.np/"],
     "name": "Purbanchal University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Koshi",
     "domains": ["purbuniv.edu.np"],
     "country": "Nepal"
   },
@@ -50443,7 +50443,7 @@
     "web_pages": ["http://www.tribhuvan-university.edu.np/"],
     "name": "Tribhuvan University Kathmandu",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Bagmati",
     "domains": ["tribhuvan-university.edu.np"],
     "country": "Nepal"
   },
@@ -78528,7 +78528,7 @@
     "web_pages": ["https://kec.edu.np/"],
     "country": "Nepal",
     "alpha_two_code": "NP",
-    "state-province": null
+    "state-province": "Bagmati"
   },
   {
     "name": "UNINOVE",
@@ -79622,7 +79622,7 @@
     "web_pages": ["https://tu.edu.np/"],
     "name": "Tribhuvan University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Bagmati",
     "domains": ["cdc.tu.edu.np"],
     "country": "Nepal"
   },
@@ -80566,7 +80566,7 @@
     "web_pages": ["https://tcioe.edu.np/"],
     "name": "Tribhuvan University - Thapathali Campus",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Bagmati",
     "domains": ["tcioe.edu.np"],
     "country": "Nepal"
   },
@@ -80702,7 +80702,7 @@
     "web_pages": ["https://www.gandakiuniversity.edu.np/"],
     "name": "Gandaki University",
     "alpha_two_code": "NP",
-    "state-province": null,
+    "state-province": "Gandaki",
     "domains": ["gandakiuniversity.edu.np", "gpu.edu.np"],
     "country": "Nepal"
   },
@@ -81963,12 +81963,36 @@
     "web_pages": ["https://ntu.edu.vn/"]
   },
   {
-    "name": "Chitkara Univerity",
+    "name": "Chitkara University",
     "domains": ["chitkara.edu.in", "chitkarauniversity.edu.in"],
     "web_pages": ["https://www.chitkara.edu.in/"],
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Himachal Pradesh"
+  },
+  {
+    "name": "Far Western University",
+    "domains": ["fwu.edu.np"],
+    "web_pages": ["https://www.fwu.edu.np/", "https://www.fwuexam.edu.np/"],
+    "country": "Nepal",
+    "alpha_two_code": "NP",
+    "state-province": "Sudurpaschim"
+  },
+  {
+    "name": "Mid Western University",
+    "domains": ["mwu.edu.np"],
+    "web_pages": ["https://www.mwu.edu.np/"],
+    "country": "Nepal",
+    "alpha_two_code": "NP",
+    "state-province": "Karnali"
+  },
+  {
+    "name": "Madan Bhandari University of Science and Technology",
+    "domains": ["mbust.edu.np"],
+    "web_pages": ["https://www.mbust.edu.np/"],
+    "country": "Nepal",
+    "alpha_two_code": "NP",
+    "state-province": "Bagmati"
   },
   {
     "web_pages": ["https://www.b-tu.de/"],
