@@ -82026,5 +82026,37 @@
     "state-province": "Mymensingh",
     "domains": ["neu.ac.bd"],
     "country": "Bangladesh"
+  },
+  {
+    "web_pages": ["https://lifewest.edu/"],
+    "name": "Life Chiropractic College West",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["lifewest.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.palmer.edu/"],
+    "name": "Palmer College of Chiropractic",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["palmer.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.parker.edu/"],
+    "name": "Parker University",
+    "alpha_two_code": "US",
+    "state-province": "Texas",
+    "domains": ["parker.edu"],
+    "country": "United States"
+  },
+  {
+    "web_pages": ["https://www.sherman.edu/"],
+    "name": "Sherman College of Chiropractic",
+    "alpha_two_code": "US",
+    "state-province": "South Carolina",
+    "domains": ["sherman.edu"],
+    "country": "United States"
   }
 ]
