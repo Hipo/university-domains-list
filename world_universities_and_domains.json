@@ -82027,4 +82027,13 @@
     "domains": ["neu.ac.bd"],
     "country": "Bangladesh"
   }
+],
+  {
+    "web_pages": ["https://www.istp.fr/"],
+    "name": "Institut Supérieur des Techniques Productiques (ISTP)",
+    "alpha_two_code": "FR",
+    "state-province": "Auvergne-Rhône-Alpes",
+    "domains": ["istp.fr", "istp.com"],
+    "country": "France"
+  }
 ]
