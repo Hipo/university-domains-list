@@ -82047,7 +82047,7 @@
     "web_pages": ["https://www.parker.edu/"],
     "name": "Parker University",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Texas",
     "domains": ["parker.edu"],
     "country": "United States"
   },
@@ -82055,7 +82055,7 @@
     "web_pages": ["https://www.sherman.edu/"],
     "name": "Sherman College of Chiropractic",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "South Carolina",
     "domains": ["sherman.edu"],
     "country": "United States"
   }
