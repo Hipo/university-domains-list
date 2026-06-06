@@ -81964,6 +81964,14 @@
     "state-province": "Karnataka"
   },
   {
+    "name": "REVA University",
+    "domains": ["reva.edu.in"],
+    "web_pages": ["https://reva.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Karnataka"
+  },
+  {
     "web_pages": ["https://gau.edu.bd/"],
     "name": "Gazipur Agricultural University",
     "alpha_two_code": "BD",
