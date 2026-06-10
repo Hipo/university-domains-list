@@ -82026,5 +82026,261 @@
     "state-province": "Mymensingh",
     "domains": ["neu.ac.bd"],
     "country": "Bangladesh"
+  },
+  {
+    "name": "Fundação Getulio Vargas - FGV",
+    "domains": ["fgv.br"],
+    "web_pages": ["https://portal.fgv.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Rio de Janeiro"
+  },
+  {
+    "name": "Escola Superior de Propaganda e Marketing - ESPM",
+    "domains": ["espm.br"],
+    "web_pages": ["https://www.espm.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo"
+  },
+  {
+    "name": "Centro Universitário FEI",
+    "domains": ["fei.edu.br"],
+    "web_pages": ["https://portal.fei.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo"
+  },
+  {
+    "name": "Ibmec",
+    "domains": ["ibmec.br"],
+    "web_pages": ["https://www.ibmec.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Rio de Janeiro"
+  },
+  {
+    "name": "Faculdade Cásper Líbero",
+    "domains": ["casperlibero.edu.br"],
+    "web_pages": ["https://casperlibero.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo"
+  },
+  {
+    "name": "Universidade Federal do Tocantins",
+    "domains": ["uft.edu.br"],
+    "web_pages": ["https://www.uft.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Tocantins"
+  },
+  {
+    "name": "Universidade Federal de Roraima",
+    "domains": ["ufrr.br"],
+    "web_pages": ["https://ufrr.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Roraima"
+  },
+  {
+    "name": "Universidade Federal da Fronteira Sul",
+    "domains": ["uffs.edu.br"],
+    "web_pages": ["https://www.uffs.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Santa Catarina"
+  },
+  {
+    "name": "Universidade Federal do Pampa",
+    "domains": ["unipampa.edu.br"],
+    "web_pages": ["https://unipampa.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Rio Grande do Sul"
+  },
+  {
+    "name": "Universidade Federal da Integração Latino-Americana",
+    "domains": ["unila.edu.br"],
+    "web_pages": ["https://portal.unila.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Paraná"
+  },
+  {
+    "name": "Universidade da Integração Internacional da Lusofonia Afro-Brasileira",
+    "domains": ["unilab.edu.br"],
+    "web_pages": ["https://unilab.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Ceará"
+  },
+  {
+    "name": "Universidade Federal Rural do Semi-Árido",
+    "domains": ["ufersa.edu.br"],
+    "web_pages": ["https://ufersa.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Rio Grande do Norte"
+  },
+  {
+    "name": "Universidade Federal do Recôncavo da Bahia",
+    "domains": ["ufrb.edu.br"],
+    "web_pages": ["https://ufrb.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Bahia"
+  },
+  {
+    "name": "Universidade Federal do Oeste do Pará",
+    "domains": ["ufopa.edu.br"],
+    "web_pages": ["https://www.ufopa.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Pará"
+  },
+  {
+    "name": "Universidade Federal do Sul e Sudeste do Pará",
+    "domains": ["unifesspa.edu.br"],
+    "web_pages": ["https://www.unifesspa.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Pará"
+  },
+  {
+    "name": "Universidade Federal Rural da Amazônia",
+    "domains": ["ufra.edu.br"],
+    "web_pages": ["https://www.ufra.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Pará"
+  },
+  {
+    "name": "Universidade Federal de Ciências da Saúde de Porto Alegre",
+    "domains": ["ufcspa.edu.br"],
+    "web_pages": ["https://ufcspa.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Rio Grande do Sul"
+  },
+  {
+    "name": "Universidade Federal de Alfenas",
+    "domains": ["unifal-mg.edu.br"],
+    "web_pages": ["https://www.unifal-mg.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Minas Gerais"
+  },
+  {
+    "name": "Universidade Federal do Cariri",
+    "domains": ["ufca.edu.br"],
+    "web_pages": ["https://www.ufca.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Ceará"
+  },
+  {
+    "name": "Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG",
+    "domains": ["cefetmg.br"],
+    "web_pages": ["https://www.cefetmg.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Minas Gerais"
+  },
+  {
+    "name": "Centro Federal de Educação Tecnológica Celso Suckow da Fonseca - CEFET/RJ",
+    "domains": ["cefet-rj.br"],
+    "web_pages": ["https://www.cefet-rj.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Rio de Janeiro"
+  },
+  {
+    "name": "Universidade do Estado do Amazonas",
+    "domains": ["uea.edu.br"],
+    "web_pages": ["https://www.uea.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Amazonas"
+  },
+  {
+    "name": "Universidade do Estado do Pará",
+    "domains": ["uepa.br"],
+    "web_pages": ["https://www.uepa.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Pará"
+  },
+  {
+    "name": "Universidade do Estado de Minas Gerais",
+    "domains": ["uemg.br"],
+    "web_pages": ["https://www.uemg.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Minas Gerais"
+  },
+  {
+    "name": "Universidade Estadual de Goiás",
+    "domains": ["ueg.br"],
+    "web_pages": ["https://www.ueg.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Goiás"
+  },
+  {
+    "name": "Universidade Estadual de Mato Grosso do Sul",
+    "domains": ["uems.br"],
+    "web_pages": ["https://www.uems.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Mato Grosso do Sul"
+  },
+  {
+    "name": "Universidade do Estado de Mato Grosso",
+    "domains": ["unemat.br"],
+    "web_pages": ["https://unemat.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Mato Grosso"
+  },
+  {
+    "name": "Universidade Estadual do Centro-Oeste - UNICENTRO",
+    "domains": ["unicentro.br"],
+    "web_pages": ["https://www.unicentro.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Paraná"
+  },
+  {
+    "name": "Universidade Cesumar - UniCesumar",
+    "domains": ["unicesumar.edu.br"],
+    "web_pages": ["https://www.unicesumar.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Paraná"
+  },
+  {
+    "name": "Centro Universitário Internacional UNINTER",
+    "domains": ["uninter.com"],
+    "web_pages": ["https://www.uninter.com/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Paraná"
+  },
+  {
+    "name": "Universidade Vila Velha",
+    "domains": ["uvv.br"],
+    "web_pages": ["https://uvv.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "Espírito Santo"
+  },
+  {
+    "name": "Universidade Municipal de São Caetano do Sul - USCS",
+    "domains": ["uscs.edu.br"],
+    "web_pages": ["https://uscs.edu.br/"],
+    "country": "Brazil",
+    "alpha_two_code": "BR",
+    "state-province": "São Paulo"
   }
 ]
