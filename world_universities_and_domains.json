@@ -82031,7 +82031,7 @@
     "web_pages": ["https://lifewest.edu/"],
     "name": "Life Chiropractic College West",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "California",
     "domains": ["lifewest.edu"],
     "country": "United States"
   },
@@ -82039,7 +82039,7 @@
     "web_pages": ["https://www.palmer.edu/"],
     "name": "Palmer College of Chiropractic",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "Florida",
     "domains": ["palmer.edu"],
     "country": "United States"
   },
