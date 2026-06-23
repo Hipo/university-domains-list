@@ -1,5 +1,13 @@
 [
   {
+    "name": "Thakur College of Engineering and Technology",
+    "country": "India",
+    "domains": ["tcetmumbai.in"],
+    "web_pages": ["https://www.tcetmumbai.in/"],
+    "alpha_two_code": "IN",
+    "state-province": "Mahārāshtra"
+  },
+  {
     "name": "Fundação Hermínio Ometto",
     "domains": ["fho.edu.br"],
     "web_pages": ["https://www.fho.edu.br/"],
