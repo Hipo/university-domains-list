@@ -1,9 +1,9 @@
 [
   {
     "name": "Thakur College of Engineering and Technology",
+    "country": "India",
     "domains": ["tcetmumbai.in"],
     "web_pages": ["https://www.tcetmumbai.in/"],
-    "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Mahārāshtra"
   },
