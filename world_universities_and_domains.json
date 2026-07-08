@@ -27682,7 +27682,7 @@
     "web_pages": ["https://www.charite.de/"],
     "name": "Charité – Universitätsmedizin Berlin",
     "alpha_two_code": "DE",
-    "state-province": null,
+    "state-province": "Berlin",
     "domains": ["charite.de"],
     "country": "Germany"
   },
