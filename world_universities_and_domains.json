@@ -27679,6 +27679,14 @@
     "country": "Germany"
   },
   {
+    "web_pages": ["https://www.charite.de/"],
+    "name": "Charité – Universitätsmedizin Berlin",
+    "alpha_two_code": "DE",
+    "state-province": "Berlin",
+    "domains": ["charite.de"],
+    "country": "Germany"
+  },
+  {
     "web_pages": ["http://code.berlin/"],
     "name": "CODE University of Applied Sciences Berlin",
     "alpha_two_code": "DE",
