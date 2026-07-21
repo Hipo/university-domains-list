@@ -69296,6 +69296,14 @@
     "country": "Viet Nam"
   },
   {
+    "name": "Ho Chi Minh City University of Industry and Trade",
+    "domains": ["huit.edu.vn"],
+    "web_pages": ["https://huit.edu.vn"],
+    "country": "Viet Nam",
+    "alpha_two_code": "VN",
+    "state-province": null
+  },
+  {
     "web_pages": ["http://www.uvi.edu/"],
     "name": "University of the Virgin Islands",
     "alpha_two_code": "VG",
