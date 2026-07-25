@@ -20,7 +20,16 @@ All university data is stored in `world_universities_and_domains.json`. When add
 
 ### University Name Rules (`name` field)
 
-**Latin-alphabet languages** (French, German, Spanish, Turkish, Portuguese, etc.):
+**Priority rule — official English name:**
+If the university has an official English name (used on its own website or in official communications), always prefer it regardless of the language of instruction or country.
+
+```text
+"Ho Chi Minh City University of Technology"  ✓  (official English name exists)
+"King Abdulaziz University"                  ✓  (official English name exists)
+"Peking University"                          ✓  (official English name exists)
+```
+
+**Latin-alphabet languages — no official English name** (French, German, Spanish, Turkish, Portuguese, etc.):
 Use the official name in the original language, including native characters.
 
 ```text
@@ -29,12 +38,10 @@ Use the official name in the original language, including native characters.
 "Technische Universität Wien" ✓  (not "Vienna University of Technology")
 ```
 
-**Non-Latin-script languages** (Arabic, Chinese, Japanese, Korean, Cyrillic, etc.):
-Use the official English name. If no official English name exists, use a standard romanized transliteration.
+**Non-Latin-script languages — no official English name** (Arabic, Chinese, Japanese, Korean, Cyrillic, etc.):
+Use a standard romanized transliteration.
 
 ```text
-"Peking University"           ✓  (not "北京大学")
-"King Abdulaziz University"   ✓  (not "جامعة الملك عبدالعزيز")
 "Moscow State University"     ✓  (not "Московский государственный университет")
 ```
 
