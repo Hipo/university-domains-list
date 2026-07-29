@@ -100,9 +100,8 @@ def analyze_diff(diff_text):
             )
             print("✅ Gemini successfully generated a response.")
             return f"🤖 **AIOps Comprehensive PR Review**\n\n{response.text}\n\n---\n*Note: Automated review based on repository contribution guidelines.*"
-        except (
-            Exception
-        ) as e:  # noqa: BLE001 - retry loop must survive any SDK/network failure
+        # Retry loop must survive any SDK/network failure from the Gemini call.
+        except Exception as e:  # noqa: BLE001
             print(f"⚠️ Gemini API Error (attempt {attempt + 1}/3): {e!s}")
             if attempt < 2:
                 time.sleep(10)
