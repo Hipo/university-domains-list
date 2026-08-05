@@ -69176,6 +69176,14 @@
     "country": "Viet Nam"
   },
   {
+    "web_pages": ["https://huit.edu.vn/"],
+    "name": "Ho Chi Minh City University of Industry and Trade",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["huit.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
     "web_pages": ["http://www.ou.edu.vn/"],
     "name": "Ho Chi Minh City Open University",
     "alpha_two_code": "VN",
