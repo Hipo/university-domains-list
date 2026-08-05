@@ -82074,5 +82074,21 @@
     "state-province": "Auvergne-Rhône-Alpes",
     "domains": ["istp.fr"],
     "country": "France"
+  },
+  {
+    "web_pages": ["https://stmikadhiguna.ac.id/"],
+    "name": "STMIK Adhi Guna",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["stmikadhiguna.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://uindatokarama.ac.id/"],
+    "name": "UIN Datokarama Palu",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["uindatokarama.ac.id"],
+    "country": "Indonesia"
   }
 ]
