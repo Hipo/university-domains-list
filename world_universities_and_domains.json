@@ -35527,7 +35527,7 @@
     "web_pages": ["http://www.untad.ac.id/"],
     "name": "Universitas Tadulako",
     "alpha_two_code": "ID",
-    "state-province": null,
+    "state-province": "Central Sulawesi",
     "domains": ["untad.ac.id"],
     "country": "Indonesia"
   },
@@ -82089,6 +82089,30 @@
     "alpha_two_code": "ID",
     "state-province": "Central Sulawesi",
     "domains": ["uindatokarama.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://unisapalu.ac.id/"],
+    "name": "Universitas Alkhairaat",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["unisapalu.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://unismuhpalu.ac.id/"],
+    "name": "Universitas Muhammadiyah Palu",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["unismuhpalu.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://unsimar.ac.id/"],
+    "name": "Universitas Sintuwu Maroso",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["unsimar.ac.id"],
     "country": "Indonesia"
   }
 ]
