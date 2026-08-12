@@ -82090,5 +82090,13 @@
     "state-province": "Central Sulawesi",
     "domains": ["uindatokarama.ac.id"],
     "country": "Indonesia"
+  },
+    {
+    "web_pages": ["https:dii.tj/"],
+    "name": "Dushanbe Innovation Institute (DII)",
+    "alpha_two_code": "TJ",
+    "state-province": null,
+    "domains": ["dii.tj"],
+    "country": "Tajikistan"
   }
 ]
