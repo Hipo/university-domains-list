@@ -27191,35 +27191,27 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.univ-tlse1.fr/"],
-    "name": "Université des Sciences Sociales (Toulouse I)",
+    "web_pages": ["https://www.ut-capitole.fr/"],
+    "name": "Université Toulouse Capitole",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["univ-tlse1.fr"],
     "country": "France"
   },
   {
-    "web_pages": ["http://www.univ-tlse2.fr/"],
-    "name": "Université de Toulouse-le-Mirail (Toulouse II)",
+    "web_pages": ["https://www.univ-tlse2.fr/"],
+    "name": "Unniversité Toulouse Jean Jaurès",
     "alpha_two_code": "FR",
     "state-province": null,
     "domains": ["univ-tlse2.fr"],
     "country": "France"
   },
   {
-    "web_pages": ["http://www.univ-tlse3.fr/"],
-    "name": "Université de Toulouse-le-Mirail (Toulouse III)",
-    "alpha_two_code": "FR",
-    "state-province": null,
-    "domains": ["univ-tlse3.fr"],
-    "country": "France"
-  },
-  {
-    "web_pages": ["http://www.univ-toulouse.fr/"],
+    "web_pages": ["https://www.univ-tlse3.fr/"],
     "name": "Université de Toulouse",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["univ-toulouse.fr"],
+    "domains": ["univ-tlse3.fr"],
     "country": "France"
   },
   {
