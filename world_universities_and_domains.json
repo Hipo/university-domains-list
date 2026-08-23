@@ -16,14 +16,6 @@
     "state-province": "British Columbia"
   },
   {
-    "name": "Langara College",
-    "country": "Canada",
-    "domains": ["langara.ca"],
-    "web_pages": ["https://langara.ca/"],
-    "alpha_two_code": "CA",
-    "state-province": "British Columbia"
-  },
-  {
     "name": "Campus VFX",
     "country": "Canada",
     "domains": ["campusvfx.com"],
