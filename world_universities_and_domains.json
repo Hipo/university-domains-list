@@ -82098,5 +82098,13 @@
     "state-province": "Central Sulawesi",
     "domains": ["uindatokarama.ac.id"],
     "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://ntc.edu.vn/"],
+    "name": "Nha Trang Tourism College",
+    "alpha_two_code": "VN",
+    "state-province": "Khanh Hoa",
+    "domains": ["ntc.edu.vn"],
+    "country": "Vietnam"
   }
 ]
