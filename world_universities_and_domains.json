@@ -13073,6 +13073,14 @@
     "country": "Azerbaijan"
   },
   {
+    "name": "Karabakh University",
+    "domains": ["qu.edu.az"],
+    "web_pages": ["https://qu.edu.az/"],
+    "country": "Azerbaijan",
+    "alpha_two_code": "AZ",
+    "state-province": null
+  },
+  {
     "web_pages": ["http://www.cob.edu.bs/"],
     "name": "The College of The Bahamas",
     "alpha_two_code": "BS",
