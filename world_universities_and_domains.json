@@ -82106,5 +82106,13 @@
     "state-province": "Khanh Hoa",
     "domains": ["ntc.edu.vn"],
     "country": "Vietnam"
+  },
+  {
+    "name": "Luleå University of Technology",
+    "domains": ["ltu.se"],
+    "web_pages": ["https://www.ltu.se/"],
+    "country": "Sweden",
+    "alpha_two_code": "SE",
+    "state-province": "Norrbotten"
   }
 ]
