@@ -79292,6 +79292,14 @@
     "country": "Vietnam"
   },
   {
+    "web_pages": ["https://huit.edu.vn/"],
+    "name": "TRƯỜNG ĐẠI HỌC CÔNG THƯƠNG TP. HỒ CHÍ MINH",
+    "alpha_two_code": "VN",
+    "state-province": null,
+    "domains": ["huit.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
     "web_pages": ["https://www.ac-mayotte.fr/"],
     "name": "Académie de Mayotte",
     "alpha_two_code": "FR",
