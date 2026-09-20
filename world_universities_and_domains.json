@@ -54436,11 +54436,11 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.deanza.edu.ph/"],
+    "web_pages": ["https://www.dlsud.edu.ph/"],
     "name": "De La Salle University – Dasmariñas",
     "alpha_two_code": "PH",
     "state-province": "Calabarzon",
-    "domains": ["dlsu-d.edu.ph"],
+    "domains": ["dlsud.edu.ph"],
     "country": "Philippines"
   },
   {
@@ -54604,14 +54604,6 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.mapua.edu.ph/"],
-    "name": "Mapúa University",
-    "alpha_two_code": "PH",
-    "state-province": "National Capital Region",
-    "domains": ["mapua.edu.ph"],
-    "country": "Philippines"
-  },
-  {
     "web_pages": ["http://www.mmsu.edu.ph/"],
     "name": "Mariano Marcos State University",
     "alpha_two_code": "PH",
@@ -54620,11 +54612,11 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.mmc.edu.ph/"],
+    "web_pages": ["https://www.maap.edu.ph/"],
     "name": "Maritime Academy of Asia and the Pacific",
     "alpha_two_code": "PH",
     "state-province": "Calabarzon",
-    "domains": ["mmc.edu.ph"],
+    "domains": ["maap.edu.ph"],
     "country": "Philippines"
   },
   {
@@ -54732,7 +54724,7 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.Pateros Technological College.edu.ph/"],
+    "web_pages": ["https://paterostechnologicalcollege.edu.ph/"],
     "name": "Pateros Technological College",
     "alpha_two_code": "PH",
     "state-province": "National Capital Region",
@@ -54868,7 +54860,7 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.silliman.edu.ph/"],
+    "web_pages": ["https://su.edu.ph/"],
     "name": "Silliman University",
     "alpha_two_code": "PH",
     "state-province": "Central Visayas",
@@ -78649,7 +78641,7 @@
   {
     "name": "Mapúa University",
     "domains": ["mymail.mapua.edu.ph", "mapua.edu.ph"],
-    "web_pages": ["https://mapua.edu.ph"],
+    "web_pages": ["https://mapua.edu.ph/"],
     "country": "Philippines",
     "alpha_two_code": "PH",
     "state-province": null
@@ -79655,7 +79647,7 @@
     "country": "India"
   },
   {
-    "web_pages": ["https://ateneo.edu"],
+    "web_pages": ["https://www.admu.edu.ph/"],
     "name": "Ateneo de Manila University",
     "alpha_two_code": "PH",
     "state-province": null,
