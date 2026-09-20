@@ -1,5 +1,37 @@
 [
   {
+    "name": "Vancouver Institute of Media Arts",
+    "country": "Canada",
+    "domains": ["vanarts.com"],
+    "web_pages": ["https://www.vanarts.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Vancouver Film School",
+    "country": "Canada",
+    "domains": ["vfs.edu"],
+    "web_pages": ["https://vfs.edu/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Campus VFX",
+    "country": "Canada",
+    "domains": ["campusvfx.com"],
+    "web_pages": ["https://campusvfx.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Thakur College of Engineering and Technology",
+    "country": "India",
+    "domains": ["tcetmumbai.in"],
+    "web_pages": ["https://www.tcetmumbai.in/"],
+    "alpha_two_code": "IN",
+    "state-province": "Mahārāshtra"
+  },
+  {
     "name": "Fundação Hermínio Ometto",
     "domains": ["fho.edu.br"],
     "web_pages": ["https://www.fho.edu.br/"],
@@ -13063,6 +13095,14 @@
     "state-province": null,
     "domains": ["wu.edu.az"],
     "country": "Azerbaijan"
+  },
+  {
+    "name": "Karabakh University",
+    "domains": ["qu.edu.az"],
+    "web_pages": ["https://qu.edu.az/"],
+    "country": "Azerbaijan",
+    "alpha_two_code": "AZ",
+    "state-province": null
   },
   {
     "web_pages": ["http://www.cob.edu.bs/"],
@@ -27679,6 +27719,14 @@
     "country": "Germany"
   },
   {
+    "web_pages": ["https://www.charite.de/"],
+    "name": "Charité – Universitätsmedizin Berlin",
+    "alpha_two_code": "DE",
+    "state-province": "Berlin",
+    "domains": ["charite.de"],
+    "country": "Germany"
+  },
+  {
     "web_pages": ["http://code.berlin/"],
     "name": "CODE University of Applied Sciences Berlin",
     "alpha_two_code": "DE",
@@ -32305,6 +32353,14 @@
     "alpha_two_code": "IN",
     "state-province": "Uttar Pradesh",
     "domains": ["iitk.ac.in"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["https://www.iitbhu.ac.in/"],
+    "name": "Indian Institute of Technology (BHU) Varanasi",
+    "alpha_two_code": "IN",
+    "state-province": "Uttar Pradesh",
+    "domains": ["iitbhu.ac.in"],
     "country": "India"
   },
   {
@@ -69152,6 +69208,14 @@
     "country": "Viet Nam"
   },
   {
+    "web_pages": ["https://huit.edu.vn/"],
+    "name": "Ho Chi Minh City University of Industry and Trade",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["huit.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
     "web_pages": ["http://www.ou.edu.vn/"],
     "name": "Ho Chi Minh City Open University",
     "alpha_two_code": "VN",
@@ -81964,6 +82028,14 @@
     "state-province": "Karnataka"
   },
   {
+    "name": "REVA University",
+    "domains": ["reva.edu.in"],
+    "web_pages": ["https://reva.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Karnataka"
+  },
+  {
     "web_pages": ["https://gau.edu.bd/"],
     "name": "Gazipur Agricultural University",
     "alpha_two_code": "BD",
@@ -82026,6 +82098,46 @@
     "state-province": "Mymensingh",
     "domains": ["neu.ac.bd"],
     "country": "Bangladesh"
+  },
+  {
+    "web_pages": ["https://www.istp.fr/"],
+    "name": "Institut Supérieur des Techniques Productiques (ISTP)",
+    "alpha_two_code": "FR",
+    "state-province": "Auvergne-Rhône-Alpes",
+    "domains": ["istp.fr"],
+    "country": "France"
+  },
+  {
+    "web_pages": ["https://stmikadhiguna.ac.id/"],
+    "name": "STMIK Adhi Guna",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["stmikadhiguna.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://uindatokarama.ac.id/"],
+    "name": "UIN Datokarama Palu",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["uindatokarama.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://ntc.edu.vn/"],
+    "name": "Nha Trang Tourism College",
+    "alpha_two_code": "VN",
+    "state-province": "Khanh Hoa",
+    "domains": ["ntc.edu.vn"],
+    "country": "Vietnam"
+  },
+  {
+    "name": "Luleå University of Technology",
+    "domains": ["ltu.se"],
+    "web_pages": ["https://www.ltu.se/"],
+    "country": "Sweden",
+    "alpha_two_code": "SE",
+    "state-province": "Norrbotten"
   },
   {
     "name": "Fundação Getulio Vargas - FGV",

@@ -5,7 +5,7 @@ This PR proposes changes/additions to the university database.
 ## Data Completeness Checklist
 
 - [ ] **Full Schema:** Does every entry include `name`, `country`, `domains`, `web_pages`, and `alpha_two_code`?
-- [ ] **State/Province:** If applicable, is the `state-province` field filled? (If not available, ensure the field exists as `null`).
+- [ ] **State/Province:** Is `state-province` filled for single-campus universities in countries with state/province divisions? `null` is only for multi-campus universities or countries without such divisions.
 - [ ] **Data Accuracy:** Have you verified the official site and domain?
 - [ ] **No Duplicates:** Have you searched the file to ensure this entry doesn't already exist?
 - [ ] **Root Domain Only:** Does the `domains` array contain ONLY root domains? (e.g., `usc.edu` is correct, `cs.usc.edu` or `mail.usc.edu` is WRONG).
