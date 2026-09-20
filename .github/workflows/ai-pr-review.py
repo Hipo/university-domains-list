@@ -7,17 +7,6 @@ import time
 import requests
 from google import genai
 
-# This script runs via `python ./.github/workflows/ai-pr-review.py`, so only
-# its own directory is on sys.path by default — add the repo root so the
-# shared ISO 3166-1 table (single source of truth with tests/test_country_code.py)
-# can be imported without duplicating it here.
-_REPO_ROOT = os.path.dirname(
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-)
-if _REPO_ROOT not in sys.path:
-    sys.path.insert(0, _REPO_ROOT)
-from iso_3166_countries import ISO_3166_ALPHA2_COUNTRIES  # noqa: E402
-
 API_KEY = os.environ.get("AI_API_KEY")
 PR_NUMBER = os.environ.get("PR_NUMBER")
 REPO = os.environ.get("GITHUB_REPOSITORY")
@@ -232,11 +221,14 @@ def find_size_violations(diff_text):
 
 
 def find_country_code_mismatches(diff_text):
-    # Primary check is self-consistency against the current database — it
-    # already tolerates this dataset's real naming variants (e.g. both
-    # "Vietnam" and "Viet Nam" are paired with "VN"), so it flags an actual
-    # code/name mismatch without fighting existing usage. ISO_3166_ALPHA2_COUNTRIES
-    # (imported above) is only a fallback for a code the dataset has never used before.
+    # Self-consistency against the current database only — it already
+    # tolerates this dataset's real naming variants (e.g. both "Vietnam"
+    # and "Viet Nam" are paired with "VN"), so it flags an actual code/name
+    # mismatch without fighting existing usage. Deliberately doesn't fall
+    # back to a hardcoded ISO 3166-1 table for a code the dataset has never
+    # used before — that gap is covered by tests/test_country_code.py
+    # instead (a blocking CI check, not an advisory comment), so this
+    # diff-scoped, per-PR-run script doesn't need to carry that table too.
     try:
         with open("world_universities_and_domains.json", "r", encoding="utf-8") as f:
             base_entries = json.load(f)
@@ -262,34 +254,23 @@ def find_country_code_mismatches(diff_text):
             )
             continue
         known_countries = alpha_to_countries.get(code)
-        if known_countries is not None:
-            if country in known_countries:
-                continue
-            known_codes = country_to_alphas.get(country)
-            if known_codes:
-                warnings.append(
-                    f'`alpha_two_code: "{code}"` does not match `country: "{country}"` — '
-                    f'"{code}" is normally paired with {"/".join(sorted(known_countries))}, '
-                    f'while "{country}" is normally paired with {"/".join(sorted(known_codes))}.'
-                )
-            else:
-                warnings.append(
-                    f'`country: "{country}"` has never been used with `alpha_two_code: "{code}"` before '
-                    f'(existing entries use {"/".join(sorted(known_countries))} for "{code}") — please double-check.'
-                )
+        if known_countries is None:
+            # Code never used in this dataset before — nothing to check
+            # self-consistency against here; leave it to the blocking test.
             continue
-
-        # Code never used in this dataset before — fall back to the
-        # canonical ISO 3166-1 table instead of skipping the check entirely.
-        canonical_names = ISO_3166_ALPHA2_COUNTRIES.get(code)
-        if canonical_names is None:
+        if country in known_countries:
+            continue
+        known_codes = country_to_alphas.get(country)
+        if known_codes:
             warnings.append(
-                f'`alpha_two_code: "{code}"` is not a recognized ISO 3166-1 alpha-2 code.'
+                f'`alpha_two_code: "{code}"` does not match `country: "{country}"` — '
+                f'"{code}" is normally paired with {"/".join(sorted(known_countries))}, '
+                f'while "{country}" is normally paired with {"/".join(sorted(known_codes))}.'
             )
-        elif country not in canonical_names:
+        else:
             warnings.append(
-                f'`alpha_two_code: "{code}"` is new to this database and does not match `country: "{country}"` '
-                f'— the ISO 3166-1 name for "{code}" is {"/".join(sorted(canonical_names))}.'
+                f'`country: "{country}"` has never been used with `alpha_two_code: "{code}"` before '
+                f'(existing entries use {"/".join(sorted(known_countries))} for "{code}") — please double-check.'
             )
     return warnings
 
