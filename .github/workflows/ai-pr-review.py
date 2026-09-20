@@ -173,6 +173,53 @@ def extract_field(entry_text, field):
     return m.group(1) if m else None
 
 
+MAX_ENTRIES_PER_PR = 10
+
+
+def count_touched_entries(diff_text, filename="world_universities_and_domains.json"):
+    # Unlike extract_touched_entries (which only needs entries with an
+    # addition, for the duplicate/country checks), this must also count
+    # entries that are purely removed or whose brace lines themselves were
+    # added/removed, so it tracks "touched" from the { and } lines too.
+    count = 0
+    touched, in_object = False, False
+    for line in get_file_diff_section(diff_text, filename).splitlines():
+        if line.startswith("@@"):
+            touched, in_object = False, False
+            continue
+        if line.startswith(("diff --git", "index ", "--- ", "+++ ")):
+            continue
+        if not line or line[0] not in " +-":
+            continue
+        prefix, content = line[0], line[1:]
+        stripped = content.strip()
+        if stripped == "{":
+            touched, in_object = prefix != " ", True
+            continue
+        if stripped in ("},", "}"):
+            if in_object:
+                touched = touched or prefix != " "
+                if touched:
+                    count += 1
+            touched, in_object = False, False
+            continue
+        if in_object and prefix != " ":
+            touched = True
+    return count
+
+
+def find_size_violations(diff_text):
+    count = count_touched_entries(diff_text)
+    if count > MAX_ENTRIES_PER_PR:
+        return [
+            f"This PR touches {count} entries (added, removed, or modified) in "
+            f"world_universities_and_domains.json, above the {MAX_ENTRIES_PER_PR}-entry "
+            "limit. Large batches are hard to review carefully and risk letting bad "
+            "data through — please split this into smaller, focused PRs."
+        ]
+    return []
+
+
 # Fallback only: used when a PR's alpha_two_code has never appeared in the
 # database before, so there's no existing usage to check self-consistency
 # against (see find_country_code_mismatches). Sets list the ISO 3166-1
@@ -535,6 +582,7 @@ def analyze_diff(diff_text):
     checks = {
         "Duplicate check": find_duplicates(diff_text),
         "Country / alpha_two_code check": find_country_code_mismatches(diff_text),
+        "PR size check": find_size_violations(diff_text),
     }
 
     contributing_guide = get_contributing_guide()
