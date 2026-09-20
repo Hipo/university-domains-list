@@ -82145,7 +82145,7 @@
     "web_pages": ["https://portal.fgv.br/"],
     "country": "Brazil",
     "alpha_two_code": "BR",
-    "state-province": "Rio de Janeiro"
+    "state-province": null
   },
   {
     "name": "Escola Superior de Propaganda e Marketing - ESPM",
@@ -82153,7 +82153,7 @@
     "web_pages": ["https://www.espm.br/"],
     "country": "Brazil",
     "alpha_two_code": "BR",
-    "state-province": "São Paulo"
+    "state-province": null
   },
   {
     "name": "Centro Universitário FEI",
@@ -82169,7 +82169,7 @@
     "web_pages": ["https://www.ibmec.br/"],
     "country": "Brazil",
     "alpha_two_code": "BR",
-    "state-province": "Rio de Janeiro"
+    "state-province": null
   },
   {
     "name": "Faculdade Cásper Líbero",
@@ -82201,7 +82201,7 @@
     "web_pages": ["https://www.uffs.edu.br/"],
     "country": "Brazil",
     "alpha_two_code": "BR",
-    "state-province": "Santa Catarina"
+    "state-province": null
   },
   {
     "name": "Universidade Federal do Pampa",
@@ -82225,7 +82225,7 @@
     "web_pages": ["https://unilab.edu.br/"],
     "country": "Brazil",
     "alpha_two_code": "BR",
-    "state-province": "Ceará"
+    "state-province": null
   },
   {
     "name": "Universidade Federal Rural do Semi-Árido",
@@ -82369,7 +82369,7 @@
     "web_pages": ["https://www.unicesumar.edu.br/"],
     "country": "Brazil",
     "alpha_two_code": "BR",
-    "state-province": "Paraná"
+    "state-province": null
   },
   {
     "name": "Centro Universitário Internacional UNINTER",
