@@ -211,12 +211,13 @@ def count_touched_entries(diff_text, filename="world_universities_and_domains.js
 def find_size_violations(diff_text):
     count = count_touched_entries(diff_text)
     if count > MAX_ENTRIES_PER_PR:
-        return [
+        message = (
             f"This PR touches {count} entries (added, removed, or modified) in "
             f"world_universities_and_domains.json, above the {MAX_ENTRIES_PER_PR}-entry "
             "limit. Large batches are hard to review carefully and risk letting bad "
             "data through — please split this into smaller, focused PRs."
-        ]
+        )
+        return [message]
     return []
 
 
