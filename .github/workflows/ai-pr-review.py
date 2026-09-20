@@ -294,10 +294,12 @@ def build_rules_addendum(checks):
         if not warnings:
             continue
         wlist = "\n".join(f"    - {w}" for w in warnings)
-        parts.append(f"""
-    {title.upper()} RESULTS (computed against the current database — treat these as verified facts, not suggestions to re-check):
-{wlist}
-""")
+        section = (
+            f"\n    {title.upper()} RESULTS (computed against the current "
+            f"database — treat these as verified facts, not suggestions to "
+            f"re-check):\n{wlist}\n"
+        )
+        parts.append(section)
     if parts:
         parts.append(
             '\n    Any entry flagged above MUST cause the review to conclude "❌ FLAGGED".\n'

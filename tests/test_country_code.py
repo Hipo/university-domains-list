@@ -3,7 +3,6 @@ import re
 import unittest
 
 from base_test import BaseUniversityTest
-
 from iso_3166_countries import ISO_3166_ALPHA2_COUNTRIES
 
 
