@@ -1,5 +1,29 @@
 [
   {
+    "name": "Vancouver Institute of Media Arts",
+    "country": "Canada",
+    "domains": ["vanarts.com"],
+    "web_pages": ["https://www.vanarts.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Vancouver Film School",
+    "country": "Canada",
+    "domains": ["vfs.edu"],
+    "web_pages": ["https://vfs.edu/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Campus VFX",
+    "country": "Canada",
+    "domains": ["campusvfx.com"],
+    "web_pages": ["https://campusvfx.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
     "name": "Thakur College of Engineering and Technology",
     "country": "India",
     "domains": ["tcetmumbai.in"],
@@ -13071,6 +13095,14 @@
     "state-province": null,
     "domains": ["wu.edu.az"],
     "country": "Azerbaijan"
+  },
+  {
+    "name": "Karabakh University",
+    "domains": ["qu.edu.az"],
+    "web_pages": ["https://qu.edu.az/"],
+    "country": "Azerbaijan",
+    "alpha_two_code": "AZ",
+    "state-province": null
   },
   {
     "web_pages": ["http://www.cob.edu.bs/"],
@@ -69176,6 +69208,14 @@
     "country": "Viet Nam"
   },
   {
+    "web_pages": ["https://huit.edu.vn/"],
+    "name": "Ho Chi Minh City University of Industry and Trade",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["huit.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
     "web_pages": ["http://www.ou.edu.vn/"],
     "name": "Ho Chi Minh City Open University",
     "alpha_two_code": "VN",
@@ -82106,5 +82146,21 @@
     "state-province": "Central Sulawesi",
     "domains": ["unsimar.ac.id"],
     "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://ntc.edu.vn/"],
+    "name": "Nha Trang Tourism College",
+    "alpha_two_code": "VN",
+    "state-province": "Khanh Hoa",
+    "domains": ["ntc.edu.vn"],
+    "country": "Vietnam"
+  },
+  {
+    "name": "Luleå University of Technology",
+    "domains": ["ltu.se"],
+    "web_pages": ["https://www.ltu.se/"],
+    "country": "Sweden",
+    "alpha_two_code": "SE",
+    "state-province": "Norrbotten"
   }
 ]
