@@ -1,5 +1,29 @@
 [
   {
+    "name": "Vancouver Institute of Media Arts",
+    "country": "Canada",
+    "domains": ["vanarts.com"],
+    "web_pages": ["https://www.vanarts.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Vancouver Film School",
+    "country": "Canada",
+    "domains": ["vfs.edu"],
+    "web_pages": ["https://vfs.edu/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Campus VFX",
+    "country": "Canada",
+    "domains": ["campusvfx.com"],
+    "web_pages": ["https://campusvfx.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
     "name": "Thakur College of Engineering and Technology",
     "country": "India",
     "domains": ["tcetmumbai.in"],
