@@ -26863,11 +26863,11 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.unice.fr/"],
-    "name": "Université de Nice-Sophia Antipolis",
+    "web_pages": ["https://univ-cotedazur.fr/"],
+    "name": "Université Côte d'Azur",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["unice.fr"],
+    "domains": ["univ-cotedazur.fr"],
     "country": "France"
   },
   {
