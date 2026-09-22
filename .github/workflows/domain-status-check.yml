@@ -1,0 +1,61 @@
+name: Domain Status Check
+
+on:
+  workflow_run:
+    workflows: ['Lint & Test']
+    types: [completed]
+
+permissions: {}
+
+jobs:
+  domain-status:
+    if: >
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: read
+      actions: read
+    # Advisory only: this job must never block or fail the PR, so a step
+    # failure here is swallowed rather than turning the job red.
+    continue-on-error: true
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Download PR number artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-number
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Read PR number
+        run: echo "PR_NUMBER=$(cat pr_number.txt)" >> "$GITHUB_ENV"
+
+      - name: Check if target file changed
+        id: file-check
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CHANGED=$(gh api "repos/${{ github.repository }}/pulls/$PR_NUMBER/files" \
+            --jq '[.[] | select(.filename == "world_universities_and_domains.json")] | length')
+          echo "changed=$([ "$CHANGED" -gt 0 ] && echo 'true' || echo 'false')" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Python
+        if: steps.file-check.outputs.changed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        if: steps.file-check.outputs.changed == 'true'
+        run: pip install requests dnspython
+
+      - name: Run Domain Status Check
+        if: steps.file-check.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python ./.github/workflows/domain-status-check.py
