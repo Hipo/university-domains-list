@@ -1303,7 +1303,7 @@
     "web_pages": ["https://www.atsu.edu/"],
     "name": "A.T. Still University",
     "alpha_two_code": "US",
-    "state-province": "Missouri",
+    "state-province": null,
     "domains": ["atsu.edu"],
     "country": "United States"
   },
