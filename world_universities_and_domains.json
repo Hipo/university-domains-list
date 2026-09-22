@@ -1300,6 +1300,14 @@
     "country": "United States"
   },
   {
+    "web_pages": ["https://www.atsu.edu/"],
+    "name": "A.T. Still University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["atsu.edu"],
+    "country": "United States"
+  },
+  {
     "web_pages": ["http://www.adelphi.edu/"],
     "name": "Adelphi University",
     "alpha_two_code": "US",
