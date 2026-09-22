@@ -31268,11 +31268,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.aiims.ac.in/"],
+    "web_pages": ["https://www.aiims.edu/"],
     "name": "All India Institute of Medical Sciences",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["aiims.ac.in"],
+    "state-province": "Delhi",
+    "domains": ["aiims.edu"],
     "country": "India"
   },
   {
@@ -31292,11 +31292,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.alldunivpio.org/"],
+    "web_pages": ["https://allduniv.ac.in/"],
     "name": "Allahabad University",
     "alpha_two_code": "IN",
     "state-province": "Uttar Pradesh",
-    "domains": ["alldunivpio.org"],
+    "domains": ["allduniv.ac.in"],
     "country": "India"
   },
   {
@@ -31332,11 +31332,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.amtuni.com/"],
-    "name": "Amravati University",
+    "web_pages": ["https://www.sgbau.ac.in/"],
+    "name": "Sant Gadge Baba Amravati University",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["amtuni.com"],
+    "state-province": "Maharashtra",
+    "domains": ["sgbau.ac.in"],
     "country": "India"
   },
   {
@@ -31452,11 +31452,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.bau.nic.in/"],
+    "web_pages": ["https://www.bauranchi.org/"],
     "name": "Birsa Agricultural University",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["bau.nic.in"],
+    "state-province": "Jharkhand",
+    "domains": ["bauranchi.org"],
     "country": "India"
   },
   {
@@ -31476,11 +31476,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.bdu.ernet.in/"],
+    "web_pages": ["https://www.bdu.ac.in/"],
     "name": "Bharathidasan University",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["bdu.ernet.in"],
+    "state-province": "Tamil Nadu",
+    "domains": ["bdu.ac.in"],
     "country": "India"
   },
   {
@@ -31508,11 +31508,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.bharathi.ernet.in/"],
+    "web_pages": ["https://www.b-u.ac.in/"],
     "name": "Bharathiar University",
     "alpha_two_code": "IN",
     "state-province": "Tamil Nadu",
-    "domains": ["bharathi.ernet.in"],
+    "domains": ["b-u.ac.in"],
     "country": "India"
   },
   {
@@ -31644,11 +31644,11 @@
     "country": "India"
   },
   {
-    "web_pages": ["http://www.bundelkhanduniversity.org/"],
+    "web_pages": ["https://www.bujhansi.ac.in/"],
     "name": "Bundelkhand University",
     "alpha_two_code": "IN",
-    "state-province": null,
-    "domains": ["bundelkhanduniversity.org"],
+    "state-province": "Uttar Pradesh",
+    "domains": ["bujhansi.ac.in"],
     "country": "India"
   },
   {
@@ -32217,6 +32217,14 @@
     "alpha_two_code": "IN",
     "state-province": "Uttar Pradesh",
     "domains": ["iiita.com"],
+    "country": "India"
+  },
+  {
+    "web_pages": ["https://www.iiit.ac.in/"],
+    "name": "International Institute of Information Technology, Hyderabad",
+    "alpha_two_code": "IN",
+    "state-province": "Telangana",
+    "domains": ["iiit.ac.in"],
     "country": "India"
   },
   {
