@@ -2236,10 +2236,10 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.csusm.edu/"],
+    "web_pages": ["https://www.csusm.edu/"],
     "name": "California State University, San Marcos",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "California",
     "domains": ["csusm.edu"],
     "country": "United States"
   },
