@@ -66560,11 +66560,11 @@
     "country": "Ukraine"
   },
   {
-    "web_pages": ["http://www.opu.odessa.ua/"],
-    "name": "Odessa National Polytechnic University",
+    "web_pages": ["https://op.edu.ua/"],
+    "name": "Odesa Polytechnic National University",
     "alpha_two_code": "UA",
     "state-province": null,
-    "domains": ["opu.odessa.ua"],
+    "domains": ["op.edu.ua"],
     "country": "Ukraine"
   },
   {
