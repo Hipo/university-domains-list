@@ -109,4 +109,6 @@ Use a standard romanized transliteration.
 3. Ensure your JSON is valid.
 4. Submit the PR using the provided template.
 
+**Keep PRs small:** a single PR should add, remove, or modify at most 10 entries. Large batches are hard to review carefully and put data integrity at risk — split bigger changes into multiple focused PRs.
+
 Thank you for keeping the data clean!
