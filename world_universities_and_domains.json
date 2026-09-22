@@ -82162,5 +82162,13 @@
     "country": "Sweden",
     "alpha_two_code": "SE",
     "state-province": "Norrbotten"
+  },
+  {
+    "name": "Tianjin University of Science and Technology",
+    "domains": ["tust.edu.cn"],
+    "web_pages": ["https://www.tust.edu.cn/"],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": "Tianjin"
   }
 ]
