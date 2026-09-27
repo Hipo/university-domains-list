@@ -82178,5 +82178,13 @@
     "country": "China",
     "alpha_two_code": "CN",
     "state-province": "Tianjin"
+  },
+  {
+    "name": "Oriental Group of Institutes",
+    "domains": ["oriental.ac.in"],
+    "web_pages": ["https://oriental.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Madhya Pradesh"
   }
 ]
