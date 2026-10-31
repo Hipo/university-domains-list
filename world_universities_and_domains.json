@@ -82178,5 +82178,17 @@
     "country": "China",
     "alpha_two_code": "CN",
     "state-province": "Tianjin"
-  }
+  },
+  {
+        "alpha_two_code": "SO",
+        "country": "Somalia",
+        "state-province": "Banadir",
+        "domains": [
+            "hu.edu.so"
+        ],
+        "name": "Hormuud University",
+        "web_pages": [
+            "https://hu.edu.so/"
+        ]
+    }
 ]
