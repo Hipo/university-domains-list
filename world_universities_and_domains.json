@@ -61256,6 +61256,18 @@
     "country": "Somalia"
   },
   {
+    "web_pages": [
+      "https://www.hormuud.edu.so"
+    ],
+    "name": "Hormuud University",
+    "alpha_two_code": "SO",
+    "state-province": null,
+    "domains": [
+      "hormuud.edu.so"
+    ],
+    "country": "Somalia"
+  },
+  {
     "web_pages": ["http://maakhiruniversity.net/"],
     "name": "Maakhir University",
     "alpha_two_code": "SO",
@@ -82178,17 +82190,5 @@
     "country": "China",
     "alpha_two_code": "CN",
     "state-province": "Tianjin"
-  },
-  {
-        "alpha_two_code": "SO",
-        "country": "Somalia",
-        "state-province": "Banadir",
-        "domains": [
-            "hu.edu.so"
-        ],
-        "name": "Hormuud University",
-        "web_pages": [
-            "https://hu.edu.so/"
-        ]
-    }
+  }
 ]
