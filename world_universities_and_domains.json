@@ -54264,7 +54264,7 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.admu.edu.ph/"],
+    "web_pages": ["https://www.admu.edu.ph/"],
     "name": "Ateneo de Manila University",
     "alpha_two_code": "PH",
     "state-province": null,
@@ -54776,7 +54776,7 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.su.edu.ph/"],
+    "web_pages": ["https://su.edu.ph/"],
     "name": "Silliman University",
     "alpha_two_code": "PH",
     "state-province": "Central Visayas",
@@ -82178,5 +82178,109 @@
     "country": "China",
     "alpha_two_code": "CN",
     "state-province": "Tianjin"
+  },
+  {
+    "web_pages": ["https://www.aims.edu.ph/"],
+    "name": "Asian Institute of Maritime Studies",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["aims.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://cvsu.edu.ph/"],
+    "name": "Cavite State University",
+    "alpha_two_code": "PH",
+    "state-province": "Calabarzon",
+    "domains": ["cvsu.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://www.dlsud.edu.ph/"],
+    "name": "De La Salle University – Dasmariñas",
+    "alpha_two_code": "PH",
+    "state-province": "Calabarzon",
+    "domains": ["dlsud.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://earist.edu.ph/"],
+    "name": "Eulogio 'Amang' Rodriguez Institute of Science and Technology",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": ["earist.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://lspu.edu.ph/"],
+    "name": "Laguna State Polytechnic University",
+    "alpha_two_code": "PH",
+    "state-province": "Calabarzon",
+    "domains": ["lspu.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://lyceum.edu.ph/"],
+    "name": "Lyceum-Northwestern University",
+    "alpha_two_code": "PH",
+    "state-province": "Ilocos Region",
+    "domains": ["lyceum.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://www.maap.edu.ph/"],
+    "name": "Maritime Academy of Asia and the Pacific",
+    "alpha_two_code": "PH",
+    "state-province": "Central Luzon",
+    "domains": ["maap.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["http://www.miriam.edu.ph/"],
+    "name": "Miriam College",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["miriam.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://paterostechnologicalcollege.edu.ph/"],
+    "name": "Pateros Technological College",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["paterostechnologicalcollege.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://pmma.edu.ph/"],
+    "name": "Philippine Merchant Marine Academy",
+    "alpha_two_code": "PH",
+    "state-province": "Central Luzon",
+    "domains": ["pmma.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://www.sanpablocolleges.edu.ph/"],
+    "name": "San Pablo Colleges",
+    "alpha_two_code": "PH",
+    "state-province": "Calabarzon",
+    "domains": ["sanpablocolleges.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://www.sti.edu/"],
+    "name": "STI College",
+    "alpha_two_code": "PH",
+    "state-province": null,
+    "domains": ["sti.edu"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://www.tcu.edu.ph/"],
+    "name": "Taguig City University",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["tcu.edu.ph"],
+    "country": "Philippines"
   }
 ]
