@@ -1,21 +1,17 @@
 name: Deploy
 
 on:
-  pull_request_review:
-    types: [submitted]
+  push:
+    branches: [master]
 
 permissions: read-all
 
 jobs:
   deploy:
-    if: >
-      github.event.review.state == 'approved' &&
-      github.event.pull_request.base.ref == 'master'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-
-      - name: Deploy
-        run: echo "Deploy steps here"
+      - name: Refresh hosted API
+        # The hosted API (universities.hipolabs.com) loads the JSON from
+        # master into memory and only reloads it via /update, which is
+        # rate-limited to once every 24 hours.
+        run: curl -fsS --max-time 60 http://universities.hipolabs.com/update
