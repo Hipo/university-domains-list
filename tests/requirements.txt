@@ -1,2 +1,2 @@
-validators==0.20.0
-tldextract==5.3.1
+validators==0.36.0
+tldextract==5.4.0
