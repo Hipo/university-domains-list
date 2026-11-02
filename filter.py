@@ -1,6 +1,4 @@
 import json
-import os
-import string
 import sys
 
 
@@ -30,8 +28,9 @@ def country_filter(src, scopes):
     """
     out = []
 
-    if type(scopes) is list:
-        [out.extend(_country_filter(src, scope, out)) for scope in scopes]
+    if isinstance(scopes, list):
+        for scope in scopes:
+            out.extend(_country_filter(src, scope, out))
     else:
         out = _country_filter(src, scopes, out)
 

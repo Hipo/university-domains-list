@@ -1,0 +1,21 @@
+name: Deploy
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+permissions: read-all
+
+jobs:
+  deploy:
+    if: >
+      github.event.review.state == 'approved' &&
+      github.event.pull_request.base.ref == 'master'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Deploy
+        run: echo "Deploy steps here"

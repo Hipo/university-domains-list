@@ -5,6 +5,7 @@ Do you need a list of universities and their domain names? You found it!
 This package includes a JSON file that contains domains, names and countries of most of the universities of the world.
 
 Example usecases:
+
 - You can create a validation script that checks the email domain.
 - You can automatically generate a user's country and university by looking at their emails.
 
@@ -13,7 +14,6 @@ You can use this data source in three ways:
 - Use the JSON file as your data source and do whatever you like with your favourite programming language.
 - Use free hosted-API.
 - Use the tiny Python app to serve a fast API that you can query data.
-
 
 ### 1 - Using the Data Source
 

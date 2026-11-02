@@ -1,0 +1,114 @@
+# Contributing to University Domains List
+
+First off, thank you for taking the time to contribute! This project relies on the community to keep the global university data accurate and up-to-date.
+
+## How to Contribute
+
+### 1. Adding or Updating Data
+
+All university data is stored in `world_universities_and_domains.json`. When adding new entries:
+
+- **Complete Schema:** Every entry MUST have the following fields:
+  - `name`: Official name of the university (see naming rules below).
+  - `country`: Full country name in English, following [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) English short names (e.g., `"Germany"`, not `"Deutschland"`).
+  - `alpha_two_code`: Standard ISO 3166-1 alpha-2 code (e.g., `"US"`, `"TR"`).
+  - `domains`: An array of the university's primary registered domains — no department or service prefixes (see critical note below).
+  - `web_pages`: An array of URL strings (even if there is only one). Must be the **root URL** of the university's website — no path beyond `/` (e.g., `https://www.university.edu/`, not `https://www.university.edu/admissions/`). Subdomains are allowed (e.g., `https://newsite.university.edu/`). Must begin with `https://` (preferred). Only use `http://` if the university's site does not support HTTPS. Must end with a trailing slash.
+  - `state-province`: State or province name in English (see rules below).
+- **Accuracy:** Ensure the domains and web pages are currently active.
+- **No Duplicates:** Check if the university already exists under a different name or variation.
+
+### University Name Rules (`name` field)
+
+**Priority rule — official English name:**
+If the university has an official English name (used on its own website or in official communications), always prefer it regardless of the language of instruction or country.
+
+```text
+"Ho Chi Minh City University of Technology"  ✓  (official English name exists)
+"King Abdulaziz University"                  ✓  (official English name exists)
+"Peking University"                          ✓  (official English name exists)
+```
+
+**Latin-alphabet languages — no official English name** (French, German, Spanish, Turkish, Portuguese, etc.):
+Use the official name in the original language, including native characters.
+
+```text
+"Boğaziçi University"         ✓  (not "Bogazici University")
+"Université Paris-Saclay"     ✓  (not "University of Paris-Saclay")
+"Technische Universität Wien" ✓  (not "Vienna University of Technology")
+```
+
+**Non-Latin-script languages — no official English name** (Arabic, Chinese, Japanese, Korean, Cyrillic, etc.):
+Use a standard romanized transliteration.
+
+```text
+"Moscow State University"     ✓  (not "Московский государственный университет")
+```
+
+> **Note on consistency:** If you are fixing an existing entry that uses ASCII instead of the correct native characters (e.g., `"Ataturk University"` instead of `"Atatürk University"`), correcting it is welcome — just note the fix in your PR description.
+
+**Note on character encoding:** Native characters (ü, ö, ğ, é, etc.) are valid UTF-8 and work fine in JSON. However, applications consuming this data that do exact string matching may miss results if they search with ASCII equivalents (e.g., searching `"Ataturk"` won't match `"Atatürk"`). API consumers should apply Unicode normalization on their side when doing name lookups.
+
+### State/Province Rules (`state-province` field)
+
+`null` is not a default — it's only correct in two specific cases. In every other case the field must be filled in.
+
+**Must be filled in** when **both** are true:
+
+- The university has a single campus (one physical location).
+- The country has a meaningful state/province-level administrative division, and you know which one the campus is in.
+
+**`null` is acceptable** when **either** is true:
+
+- The university has multiple campuses spread across different states/provinces (no single value could represent it correctly).
+- The country has no state/province-level administrative structure (e.g. small or single-jurisdiction countries).
+
+**Note on terminology:** `state-province` covers whatever a country calls its top-level administrative division — prefecture (Japan), region (Italy, France), canton (Switzerland), oblast (Russia), governorate (Egypt), emirate (UAE), etc. Don't leave the field `null` just because your country doesn't literally call it a "state" or "province."
+
+**Note on format:** Use the full official English name of the subdivision, not an abbreviation or code (e.g. `"California"`, not `"CA"`).
+
+**Never use an empty string.** The field must be either a real value or the JSON literal `null` — `""` is not a valid state.
+
+```text
+"state-province": "California"   ✓  (single-campus US university)
+"state-province": "Osaka"        ✓  (Japan — prefecture counts as state-province)
+"state-province": null           ✓  (campuses in multiple states/provinces)
+"state-province": null           ✓  (country has no state/province divisions)
+"state-province": ""             ✗  (empty string is never valid — use null instead)
+"state-province": "CA"           ✗  (abbreviation — use the full name "California")
+"state-province": null           ✗  (single campus, country has provinces, info available — must be filled)
+```
+
+### 2. Example Entry
+
+```json
+{
+  "name": "Boğaziçi University",
+  "domains": ["boun.edu.tr"],
+  "web_pages": ["https://www.boun.edu.tr/"],
+  "country": "Turkey",
+  "alpha_two_code": "TR",
+  "state-province": null
+}
+```
+
+> **⚠️ CRITICAL: `domains` FIELD — NO DEPARTMENT OR SERVICE PREFIXES**
+> The `domains` field is used for email address matching. It must contain the university's primary registered domain — not a department, portal, or service subdomain added on top of it.
+>
+> - **Correct:** `usc.edu`, `itu.edu.tr`, `ox.ac.uk`
+> - **Incorrect:** `cs.usc.edu`, `ogr.itu.edu.tr`, `mail.ox.ac.uk`
+>
+> This restriction applies **only to `domains`**. The `web_pages` field may include subdomains, but must still be a root URL (no path beyond `/`).
+>
+> Pull Requests containing department or service subdomains in `domains` will automatically fail the CI/CD checks.
+
+### 3. Pull Request Process
+
+1. Fork the repository and create your branch from `master`.
+2. Update the JSON file.
+3. Ensure your JSON is valid.
+4. Submit the PR using the provided template.
+
+**Keep PRs small:** a single PR should add, remove, or modify at most 10 entries. Large batches are hard to review carefully and put data integrity at risk — split bigger changes into multiple focused PRs.
+
+Thank you for keeping the data clean!

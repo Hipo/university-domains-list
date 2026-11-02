@@ -53,7 +53,7 @@ class CustomTests(unittest.TestCase):
         json_path = os.path.join(os.path.dirname(script_dir), "world_universities_and_domains.json")
         with open(json_path, encoding="utf-8") as json_file:
             self.data = json.load(json_file)
-    
+
     def test_custom_validation(self):
         # Your test logic here
         pass
