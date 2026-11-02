@@ -1,5 +1,37 @@
 [
   {
+    "name": "Vancouver Institute of Media Arts",
+    "country": "Canada",
+    "domains": ["vanarts.com"],
+    "web_pages": ["https://www.vanarts.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Vancouver Film School",
+    "country": "Canada",
+    "domains": ["vfs.edu"],
+    "web_pages": ["https://vfs.edu/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Campus VFX",
+    "country": "Canada",
+    "domains": ["campusvfx.com"],
+    "web_pages": ["https://campusvfx.com/"],
+    "alpha_two_code": "CA",
+    "state-province": "British Columbia"
+  },
+  {
+    "name": "Thakur College of Engineering and Technology",
+    "country": "India",
+    "domains": ["tcetmumbai.in"],
+    "web_pages": ["https://www.tcetmumbai.in/"],
+    "alpha_two_code": "IN",
+    "state-province": "Mahārāshtra"
+  },
+  {
     "name": "Fundação Hermínio Ometto",
     "domains": ["fho.edu.br"],
     "web_pages": ["https://www.fho.edu.br/"],
@@ -1268,6 +1300,14 @@
     "country": "United States"
   },
   {
+    "web_pages": ["https://www.atsu.edu/"],
+    "name": "A.T. Still University",
+    "alpha_two_code": "US",
+    "state-province": null,
+    "domains": ["atsu.edu"],
+    "country": "United States"
+  },
+  {
     "web_pages": ["http://www.adelphi.edu/"],
     "name": "Adelphi University",
     "alpha_two_code": "US",
@@ -2204,10 +2244,10 @@
     "country": "United States"
   },
   {
-    "web_pages": ["http://www.csusm.edu/"],
+    "web_pages": ["https://www.csusm.edu/"],
     "name": "California State University, San Marcos",
     "alpha_two_code": "US",
-    "state-province": null,
+    "state-province": "California",
     "domains": ["csusm.edu"],
     "country": "United States"
   },
@@ -13063,6 +13103,14 @@
     "state-province": null,
     "domains": ["wu.edu.az"],
     "country": "Azerbaijan"
+  },
+  {
+    "name": "Karabakh University",
+    "domains": ["qu.edu.az"],
+    "web_pages": ["https://qu.edu.az/"],
+    "country": "Azerbaijan",
+    "alpha_two_code": "AZ",
+    "state-province": null
   },
   {
     "web_pages": ["http://www.cob.edu.bs/"],
@@ -26823,11 +26871,11 @@
     "country": "France"
   },
   {
-    "web_pages": ["http://www.unice.fr/"],
-    "name": "Université de Nice-Sophia Antipolis",
+    "web_pages": ["https://univ-cotedazur.fr/"],
+    "name": "Université Côte d'Azur",
     "alpha_two_code": "FR",
     "state-province": null,
-    "domains": ["unice.fr"],
+    "domains": ["univ-cotedazur.fr"],
     "country": "France"
   },
   {
@@ -27676,6 +27724,14 @@
     "alpha_two_code": "DE",
     "state-province": null,
     "domains": ["cbs.de"],
+    "country": "Germany"
+  },
+  {
+    "web_pages": ["https://www.charite.de/"],
+    "name": "Charité – Universitätsmedizin Berlin",
+    "alpha_two_code": "DE",
+    "state-province": "Berlin",
+    "domains": ["charite.de"],
     "country": "Germany"
   },
   {
@@ -32308,6 +32364,14 @@
     "country": "India"
   },
   {
+    "web_pages": ["https://www.iitbhu.ac.in/"],
+    "name": "Indian Institute of Technology (BHU) Varanasi",
+    "alpha_two_code": "IN",
+    "state-province": "Uttar Pradesh",
+    "domains": ["iitbhu.ac.in"],
+    "country": "India"
+  },
+  {
     "web_pages": ["http://www.iitkgp.ernet.in/", "http://www.iitkgp.ac.in/"],
     "name": "Indian Institute of Technology, Kharagpur",
     "alpha_two_code": "IN",
@@ -35503,7 +35567,7 @@
     "web_pages": ["http://www.untad.ac.id/"],
     "name": "Universitas Tadulako",
     "alpha_two_code": "ID",
-    "state-province": null,
+    "state-province": "Central Sulawesi",
     "domains": ["untad.ac.id"],
     "country": "Indonesia"
   },
@@ -66504,11 +66568,11 @@
     "country": "Ukraine"
   },
   {
-    "web_pages": ["http://www.opu.odessa.ua/"],
-    "name": "Odessa National Polytechnic University",
+    "web_pages": ["https://op.edu.ua/"],
+    "name": "Odesa Polytechnic National University",
     "alpha_two_code": "UA",
     "state-province": null,
-    "domains": ["opu.odessa.ua"],
+    "domains": ["op.edu.ua"],
     "country": "Ukraine"
   },
   {
@@ -69149,6 +69213,14 @@
     "alpha_two_code": "VN",
     "state-province": null,
     "domains": ["neu.edu.vn"],
+    "country": "Viet Nam"
+  },
+  {
+    "web_pages": ["https://huit.edu.vn/"],
+    "name": "Ho Chi Minh City University of Industry and Trade",
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City",
+    "domains": ["huit.edu.vn"],
     "country": "Viet Nam"
   },
   {
@@ -81964,6 +82036,14 @@
     "state-province": "Karnataka"
   },
   {
+    "name": "REVA University",
+    "domains": ["reva.edu.in"],
+    "web_pages": ["https://reva.edu.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Karnataka"
+  },
+  {
     "web_pages": ["https://gau.edu.bd/"],
     "name": "Gazipur Agricultural University",
     "alpha_two_code": "BD",
@@ -82028,6 +82108,78 @@
     "country": "Bangladesh"
   },
   {
+    "web_pages": ["https://www.istp.fr/"],
+    "name": "Institut Supérieur des Techniques Productiques (ISTP)",
+    "alpha_two_code": "FR",
+    "state-province": "Auvergne-Rhône-Alpes",
+    "domains": ["istp.fr"],
+    "country": "France"
+  },
+  {
+    "web_pages": ["https://stmikadhiguna.ac.id/"],
+    "name": "STMIK Adhi Guna",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["stmikadhiguna.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://uindatokarama.ac.id/"],
+    "name": "UIN Datokarama Palu",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["uindatokarama.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://unisapalu.ac.id/"],
+    "name": "Universitas Alkhairaat",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["unisapalu.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://unismuhpalu.ac.id/"],
+    "name": "Universitas Muhammadiyah Palu",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["unismuhpalu.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://unsimar.ac.id/"],
+    "name": "Universitas Sintuwu Maroso",
+    "alpha_two_code": "ID",
+    "state-province": "Central Sulawesi",
+    "domains": ["unsimar.ac.id"],
+    "country": "Indonesia"
+  },
+  {
+    "web_pages": ["https://ntc.edu.vn/"],
+    "name": "Nha Trang Tourism College",
+    "alpha_two_code": "VN",
+    "state-province": "Khanh Hoa",
+    "domains": ["ntc.edu.vn"],
+    "country": "Vietnam"
+  },
+  {
+    "name": "Luleå University of Technology",
+    "domains": ["ltu.se"],
+    "web_pages": ["https://www.ltu.se/"],
+    "country": "Sweden",
+    "alpha_two_code": "SE",
+    "state-province": "Norrbotten"
+  },
+  {
+    "name": "Tianjin University of Science and Technology",
+    "domains": ["tust.edu.cn"],
+    "web_pages": ["https://www.tust.edu.cn/"],
+    "country": "China",
+    "alpha_two_code": "CN",
+    "state-province": "Tianjin"
+  },
+  {
     "web_pages": ["https://lifewest.edu/"],
     "name": "Life Chiropractic College West",
     "alpha_two_code": "US",
@@ -82039,7 +82191,7 @@
     "web_pages": ["https://www.palmer.edu/"],
     "name": "Palmer College of Chiropractic",
     "alpha_two_code": "US",
-    "state-province": "Florida",
+    "state-province": null,
     "domains": ["palmer.edu"],
     "country": "United States"
   },
