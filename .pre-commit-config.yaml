@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v6.0.0
     hooks:
       - id: check-json
       - id: check-yaml
@@ -9,19 +9,19 @@ repos:
       - id: trailing-whitespace
 
   - repo: https://github.com/psf/black
-    rev: 26.3.1
+    rev: 26.10.1
     hooks:
       - id: black
 
   - repo: https://github.com/pycqa/isort
-    rev: 8.0.1
+    rev: 9.0.2
     hooks:
       - id: isort
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.15.11
+    rev: v0.17.3
     hooks:
-      - id: ruff
+      - id: ruff-check
 
   - repo: https://github.com/pre-commit/mirrors-prettier
     rev: v4.0.0-alpha.8
@@ -30,7 +30,7 @@ repos:
         types_or: [yaml, markdown, json]
 
   - repo: https://github.com/bridgecrewio/checkov
-    rev: 3.2.524
+    rev: 3.4.2
     hooks:
       - id: checkov
         args: [--quiet]
