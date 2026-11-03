@@ -61256,6 +61256,14 @@
     "country": "Somalia"
   },
   {
+    "web_pages": ["https://hu.edu.so/"],
+    "name": "Hormuud University",
+    "alpha_two_code": "SO",
+    "state-province": null,
+    "domains": ["hu.edu.so"],
+    "country": "Somalia"
+  },
+  {
     "web_pages": ["http://maakhiruniversity.net/"],
     "name": "Maakhir University",
     "alpha_two_code": "SO",
