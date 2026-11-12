@@ -82210,5 +82210,61 @@
     "state-province": "South Carolina",
     "domains": ["sherman.edu"],
     "country": "United States"
+  },
+  {
+    "name": "Mohammed VI University of Health Sciences",
+    "country": "Morocco",
+    "domains": ["um6ss.ma"],
+    "web_pages": ["https://um6ss.ma/"],
+    "alpha_two_code": "MA",
+    "state-province": "Casablanca-Settat"
+  },
+  {
+    "name": "Nangui Abrogoua University",
+    "country": "Côte d'Ivoire",
+    "domains": ["univ-na.ci"],
+    "web_pages": ["https://univ-na.ci/"],
+    "alpha_two_code": "CI",
+    "state-province": "Abidjan"
+  },
+  {
+    "name": "National Higher School of Computer Science",
+    "country": "Algeria",
+    "domains": ["esi.dz"],
+    "web_pages": ["https://esi.dz/"],
+    "alpha_two_code": "DZ",
+    "state-province": "Algiers"
+  },
+  {
+    "name": "Università Politecnica delle Marche",
+    "country": "Italy",
+    "domains": ["univpm.it"],
+    "web_pages": ["https://www.univpm.it/"],
+    "alpha_two_code": "IT",
+    "state-province": "Marche"
+  },
+  {
+    "name": "Universidad de Sonora",
+    "country": "Mexico",
+    "domains": ["unison.mx"],
+    "web_pages": ["https://unison.mx/"],
+    "alpha_two_code": "MX",
+    "state-province": "Sonora"
+  },
+  {
+    "name": "Università degli Studi della Campania Luigi Vanvitelli",
+    "country": "Italy",
+    "domains": ["unicampania.it"],
+    "web_pages": ["https://unicampania.it/"],
+    "alpha_two_code": "IT",
+    "state-province": "Campania"
+  },
+  {
+    "name": "Università del Salento",
+    "country": "Italy",
+    "domains": ["unisalento.it"],
+    "web_pages": ["https://unisalento.it/"],
+    "alpha_two_code": "IT",
+    "state-province": "Apulia"
   }
 ]
