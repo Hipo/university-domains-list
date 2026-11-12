@@ -82210,5 +82210,85 @@
     "state-province": "South Carolina",
     "domains": ["sherman.edu"],
     "country": "United States"
+  },
+  {
+    "name": "Academy of Journalism and Communication",
+    "country": "Viet Nam",
+    "domains": ["ajc.edu.vn"],
+    "web_pages": ["https://ajc.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi"
+  },
+  {
+    "name": "Academy of Policy and Development",
+    "country": "Viet Nam",
+    "domains": ["apd.edu.vn"],
+    "web_pages": ["https://apd.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi"
+  },
+  {
+    "name": "Air Force – Air Defense Academy",
+    "country": "Viet Nam",
+    "domains": ["hocvienpkkq.com"],
+    "web_pages": ["http://hocvienpkkq.com/"],
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi"
+  },
+  {
+    "name": "Air Force Officer's University",
+    "country": "Viet Nam",
+    "domains": ["tsqkq.edu.vn"],
+    "web_pages": ["http://tsqkq.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Khánh Hòa"
+  },
+  {
+    "name": "An Giang University",
+    "country": "Viet Nam",
+    "domains": ["agu.edu.vn"],
+    "web_pages": ["https://www.agu.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "An Giang"
+  },
+  {
+    "name": "Artillery Officer's University",
+    "country": "Viet Nam",
+    "domains": ["tsqpb.edu.vn"],
+    "web_pages": ["https://tsqpb.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Hanoi"
+  },
+  {
+    "name": "Ba Ria – Vung Tau University",
+    "country": "Viet Nam",
+    "domains": ["bvu.edu.vn"],
+    "web_pages": ["https://bvu.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Ho Chi Minh City"
+  },
+  {
+    "name": "Bac Giang University of Agriculture and Forestry",
+    "country": "Viet Nam",
+    "domains": ["bafu.edu.vn"],
+    "web_pages": ["https://bafu.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Bắc Ninh"
+  },
+  {
+    "name": "Bac Ha International University",
+    "country": "Viet Nam",
+    "domains": ["biu.edu.vn", "iubh.edu.vn"],
+    "web_pages": ["https://biu.edu.vn/", "https://iubh.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Bắc Ninh"
+  },
+  {
+    "name": "Bac Lieu University",
+    "country": "Viet Nam",
+    "domains": ["blu.edu.vn"],
+    "web_pages": ["https://blu.edu.vn/"],
+    "alpha_two_code": "VN",
+    "state-province": "Cà Mau"
   }
 ]
