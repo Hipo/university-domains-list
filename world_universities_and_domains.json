@@ -82210,5 +82210,77 @@
     "state-province": "South Carolina",
     "domains": ["sherman.edu"],
     "country": "United States"
+  },
+  {
+    "name": "Brazilian Center for Research in Physics",
+    "country": "Brazil",
+    "domains": ["cbpf.br"],
+    "web_pages": ["https://cbpf.br/"],
+    "alpha_two_code": "BR",
+    "state-province": "Rio de Janeiro"
+  },
+  {
+    "name": "CEFET-RJ",
+    "country": "Brazil",
+    "domains": ["cefet-rj.br"],
+    "web_pages": ["https://www.cefet-rj.br/"],
+    "alpha_two_code": "BR",
+    "state-province": "Rio de Janeiro"
+  },
+  {
+    "name": "CINVESTAV",
+    "country": "Mexico",
+    "domains": ["cinvestav.mx"],
+    "web_pages": ["https://cinvestav.mx/"],
+    "alpha_two_code": "MX",
+    "state-province": null
+  },
+  {
+    "name": "Cadi Ayyad University",
+    "country": "Morocco",
+    "domains": ["uca.ma"],
+    "web_pages": ["https://uca.ma/"],
+    "alpha_two_code": "MA",
+    "state-province": "Marrakech-Safi"
+  },
+  {
+    "name": "Carinthia University of Applied Sciences",
+    "country": "Austria",
+    "domains": ["fh-kaernten.at"],
+    "web_pages": ["https://fh-kaernten.at/"],
+    "alpha_two_code": "AT",
+    "state-province": "Carinthia"
+  },
+  {
+    "name": "European University of Rome",
+    "country": "Italy",
+    "domains": ["uer.it", "universitaeuropeadiroma.it"],
+    "web_pages": ["https://www.uer.it/"],
+    "alpha_two_code": "IT",
+    "state-province": "Lazio"
+  },
+  {
+    "name": "Instituto Superior de Engenharia de Lisboa",
+    "country": "Portugal",
+    "domains": ["isel.pt"],
+    "web_pages": ["https://isel.pt/"],
+    "alpha_two_code": "PT",
+    "state-province": "Lisbon"
+  },
+  {
+    "name": "Lviv Polytechnic National University",
+    "country": "Ukraine",
+    "domains": ["lpnu.ua"],
+    "web_pages": ["https://lpnu.ua/"],
+    "alpha_two_code": "UA",
+    "state-province": "Lviv"
+  },
+  {
+    "name": "Mohammed VI Polytechnic University",
+    "country": "Morocco",
+    "domains": ["um6p.ma"],
+    "web_pages": ["https://um6p.ma/"],
+    "alpha_two_code": "MA",
+    "state-province": "Ben Guerir"
   }
 ]
