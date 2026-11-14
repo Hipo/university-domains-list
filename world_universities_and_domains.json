@@ -24,6 +24,14 @@
     "state-province": "British Columbia"
   },
   {
+    "name": "Xavier Institute of Engineering",
+    "domains": ["xavier.ac.in"],
+    "web_pages": ["https://www.xavier.ac.in/"],
+    "country": "India",
+    "alpha_two_code": "IN",
+    "state-province": "Maharashtra"
+  },
+  {
     "name": "Thakur College of Engineering and Technology",
     "country": "India",
     "domains": ["tcetmumbai.in"],
