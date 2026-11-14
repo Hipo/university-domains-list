@@ -25,12 +25,8 @@
   },
   {
     "name": "Xavier Institute of Engineering",
-    "domains": [
-      "xavier.ac.in"
-    ],
-    "web_pages": [
-      "https://www.xavier.ac.in/"
-    ],
+    "domains": ["xavier.ac.in"],
+    "web_pages": ["https://www.xavier.ac.in/"],
     "country": "India",
     "alpha_two_code": "IN",
     "state-province": "Maharashtra"
