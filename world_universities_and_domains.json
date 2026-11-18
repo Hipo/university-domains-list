@@ -82218,5 +82218,13 @@
     "state-province": "South Carolina",
     "domains": ["sherman.edu"],
     "country": "United States"
+  },
+  {
+    "web_pages": ["https://web.unicz.it/"],
+    "name": "Università \"Magna Græcia\" di Catanzaro",
+    "alpha_two_code": "IT",
+    "state-province": null,
+    "domains": ["unicz.it"],
+    "country": "Italy"
   }
 ]
