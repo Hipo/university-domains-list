@@ -14,4 +14,10 @@ jobs:
         # The hosted API (universities.hipolabs.com) loads the JSON from
         # master into memory and only reloads it via /update, which is
         # rate-limited to once every 24 hours.
-        run: curl -fsS --max-time 60 http://universities.hipolabs.com/update
+        #
+        # Fire-and-forget: /update reloads the data before it replies, which
+        # can take longer than we want to wait, so we only send the request.
+        # A timeout (curl exit 28) counts as sent. Connection errors still
+        # fail the step. No -f, because a rate-limited reply is expected when
+        # several merges land on the same day.
+        run: curl -sS --max-time 10 -o /dev/null http://universities.hipolabs.com/update || [ $? -eq 28 ]
