@@ -55160,6 +55160,30 @@
     "country": "Philippines"
   },
   {
+    "web_pages": ["https://ais.edu.ph/"],
+    "name": "Aguinaldo International School Manila",
+    "alpha_two_code": "PH",
+    "state-province": "National Capital Region",
+    "domains": ["ais.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://www.bcu.edu.ph/"],
+    "name": "Baguio Central University",
+    "alpha_two_code": "PH",
+    "state-province": "Cordillera Administrative Region",
+    "domains": ["bcu.edu.ph"],
+    "country": "Philippines"
+  },
+  {
+    "web_pages": ["https://brentbaguio.edu.ph/"],
+    "name": "Brent International School Baguio",
+    "alpha_two_code": "PH",
+    "state-province": "Cordillera Administrative Region",
+    "domains": ["brentbaguio.edu.ph"],
+    "country": "Philippines"
+  },
+  {
     "web_pages": ["http://www.asp.krakow.pl/"],
     "name": "Fine Arts Academy \"Jan Matejko\" in Cracow",
     "alpha_two_code": "PL",
