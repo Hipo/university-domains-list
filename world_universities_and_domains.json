@@ -54264,11 +54264,11 @@
     "country": "Philippines"
   },
   {
-    "web_pages": ["http://www.admu.edu.ph/"],
+    "web_pages": ["https://ateneo.edu/"],
     "name": "Ateneo de Manila University",
     "alpha_two_code": "PH",
-    "state-province": null,
-    "domains": ["admu.edu.ph"],
+    "state-province": "National Capital Region",
+    "domains": ["ateneo.edu", "admu.edu.ph"],
     "country": "Philippines"
   },
   {
@@ -54973,14 +54973,6 @@
     "alpha_two_code": "PH",
     "state-province": "National Capital Region",
     "domains": ["upd.edu.ph"],
-    "country": "Philippines"
-  },
-  {
-    "web_pages": ["http://www.uphighschoolcebu.edu.ph/"],
-    "name": "University of the Philippines Visayas - Cebu High School",
-    "alpha_two_code": "PH",
-    "state-province": "Central Visayas",
-    "domains": ["uphighschoolcebu.edu.ph"],
     "country": "Philippines"
   },
   {
@@ -79482,14 +79474,6 @@
     "state-province": null,
     "domains": ["anurag.edu.in"],
     "country": "India"
-  },
-  {
-    "web_pages": ["https://ateneo.edu/"],
-    "name": "Ateneo de Manila University",
-    "alpha_two_code": "PH",
-    "state-province": null,
-    "domains": ["ateneo.edu"],
-    "country": "Philippines"
   },
   {
     "web_pages": ["https://bath.ac.uk/"],
