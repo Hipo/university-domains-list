@@ -1,5 +1,16 @@
 # University Domains and Names Data List & API
 
+> [!IMPORTANT]
+> **The free hosted API at `universities.hipolabs.com` has been shut down.**
+>
+> We ran it at no cost for many years, but most of its traffic had become API abuse and
+> AI crawlers rather than real projects, and keeping it online was no longer reasonable.
+>
+> **This dataset is not going anywhere.** It stays free, open and maintained here. Use the
+> [JSON file](#1---using-the-data-source) directly, or run
+> [university-domains-list-api](https://github.com/Hipo/university-domains-list-api) on
+> your own server if you need a search API.
+
 Do you need a list of universities and their domain names? You found it!
 
 This package includes a JSON file that contains domains, names and countries of most of the universities of the world.
@@ -9,15 +20,20 @@ Example usecases:
 - You can create a validation script that checks the email domain.
 - You can automatically generate a user's country and university by looking at their emails.
 
-You can use this data source in three ways:
+You can use this data source in two ways:
 
 - Use the JSON file as your data source and do whatever you like with your favourite programming language.
-- Use free hosted-API.
 - Use the tiny Python app to serve a fast API that you can query data.
 
 ### 1 - Using the Data Source
 
-The whole data source is located in the `world_universities_and_domains.json` file. It is just a list of dictionaries in the following format:
+The whole data source is located in the `world_universities_and_domains.json` file. You can download the latest version from
+
+    https://raw.githubusercontent.com/Hipo/university-domains-list/master/world_universities_and_domains.json
+
+Please keep a copy in your project rather than fetching it on every request.
+
+It is just a list of dictionaries in the following format:
 
     [
     	...
@@ -54,22 +70,13 @@ NOTE: Some universities use a format like `[user]@[department].[domain]`, but th
 For example, an email address might be `[student]@cs.usc.edu`, and this list will contain 'usc.edu', the domain for the
 University of Southern California. Take this into consideration if using this list for email address validation.
 
-### 2 - Using The Hosted API
+### 2 - Using the API on your own server
 
-This is the easiest method if you're making a small project or just want to discover the data without any hassle.
-It is sponsored by [Hipo](http://www.hipolabs.com) and free. If you have a big project, please host it on your own server.
+[university-domains-list-api](https://github.com/Hipo/university-domains-list-api) is a small Python app that
+loads this file and serves a search endpoint, for example `/search?name=middle&country=turkiye`.
 
-Some example searches:
-
-- http://universities.hipolabs.com
-- http://universities.hipolabs.com/search?name=middle
-- http://universities.hipolabs.com/search?name=middle&country=turkiye
-
-The hosted API uses [university-domains-list-api](https://github.com/Hipo/university-domains-list-api) package.
-
-### 3 - Using the built-in API on your server
-
-You can access the python API via [university-domains-list-api](https://github.com/Hipo/university-domains-list-api)
+The free hosted instance of it at `universities.hipolabs.com` has been shut down because of API abuse and
+AI crawlers, so you need to run it yourself.
 
 # Contribution
 
